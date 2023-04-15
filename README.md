@@ -1,5 +1,9 @@
 # Investigation of joint reasoning with Language models and Knowledge graphs for Commonsense question answering
 
+
+## Demo video
+[Please click to checkout demo video](demo.mp4)
+
 ## Usage
 ### Dependencies
 Run the following commands to create a conda environment (assuming CUDA10.1):
