@@ -60,6 +60,8 @@ We can also download preprocessed data using following link
 https://nlp.stanford.edu/projects/myasu/QAGNN/data_preprocessed_release.zip
 ```
 
+Name this downloaded folder data and put this folder under knowledge_from_graph folder.
+
 ### Get Knowledge statements
 By using this file we can get all the knowledge statements for every question present in the dataset.
 
