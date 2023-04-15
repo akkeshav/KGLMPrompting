@@ -4,8 +4,8 @@
 ### Dependencies
 Run the following commands to create a conda environment (assuming CUDA10.1):
 ```bash
-conda create -n qagnn python=3.7
-source activate qagnn
+conda create -n KG_LM python=3.7
+source activate KG_LM
 pip install torch==1.8.0
 pip install transformers==4.9.1
 pip install nltk spacy==2.1.6
