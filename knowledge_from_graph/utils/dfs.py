@@ -41,7 +41,7 @@ def main():
     visited = [0 for ind in range(20)]
     visited[1] = 1
     path = []
-    dfs(1, visited, adj, path, [1, 3, 4, 7])
+    dfs_reverse(1, visited, adj, path, [1, 3, 7])
     print(visited)
     print(path)
     print(are_dest_concepts_visited([1, 3], visited))

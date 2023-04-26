@@ -5,7 +5,6 @@ from conceptnet import merged_relations_dict
 from tqdm import tqdm
 import argparse
 
-
 concept2id = None
 id2concept = None
 relation2id = None
@@ -45,23 +44,109 @@ def get_importance_based_relevance(ground_statement_object, index2conid, adj_ori
                     relation_text = merged_relations_dict[id2relation[index_rel]]
                     triple = "{} {} {}".format(id2concept[index2conid[index_row]],
                                                relation_text, id2concept[index2conid[index_column]])
+                    triple = triple.replace("_", " ")
                     if index2conid[index_row] in list_important:
                         dict_final[index2conid[index_row]].append(triple)
                     else:
                         dict_final[index2conid[index_column]].append(triple)
 
-    dict_final_con = {key: (".".join(value))[:400] for key, value in dict_final.items()}
-    knowledge_statements = [value for key, value in dict_final_con.items() if value != ''][:4]
-    return knowledge_statements
+    return {key: (".".join(value))[:400] for key, value in dict_final.items()}
 
 
-def get_knowledge_statements(ground_statement_object):
+def get_knowledge_statements_relevance_scoring(ground_statement_object):
     concepts_list = ground_statement_object["concepts"]
     adj, cids, adj_original = concepts2adj(concepts_list, pruned_graph, vocab_graph)
     index2conid = {index: id for index, id in enumerate(concepts_list)}
-    knowledge_statements_relevance = get_importance_based_relevance(ground_statement_object, index2conid, adj_original)
+    knowledge_statements_relevance_con = get_importance_based_relevance(ground_statement_object, index2conid,
+                                                                        adj_original)
 
-    return knowledge_statements_relevance
+    return knowledge_statements_relevance_con
+
+
+def get_knowledge_set_relevance_scoring():
+    knowledge_set = {}
+    for index_statement in tqdm(range(len(df_statement))):
+        question_knowledge_set = {}
+        for index_statement_option in df_statement.iloc[index_statement]["statements"]:
+            statement = index_statement_option["statement"]
+            statements_set = {}
+            for index_ground in range(len(df_grounded)):
+                if df_grounded.iloc[index_ground]["sent"] == statement:
+                    statements_set = get_knowledge_statements_relevance_scoring(test_pruned_graph_df[index_ground])
+                    break
+            question_knowledge_set.update(statements_set)
+
+        question_knowledge_set_array = [value for key, value in question_knowledge_set.items() if value != ''][:20]
+        knowledge_set[df_statement.iloc[index_statement]["question"]["stem"]] = question_knowledge_set_array
+
+    return knowledge_set
+
+
+def are_dest_concepts_visited(concepts, visited):
+    for concept in concepts:
+        if visited[concept] == 0:
+            return False
+    return True
+
+
+def dfs(source, visited, adj, path, concepts, relation, index2conid):
+    for index, edge in enumerate(adj[source]):
+        if edge == 1 and visited[index] == 0 and not are_dest_concepts_visited(concepts, visited):
+            visited[index] = 1
+            path.append(id2concept[index2conid[source]] + " " + relation + " " + id2concept[index2conid[index]])
+            dfs(index, visited, adj, path, concepts, relation, index2conid)
+
+
+def dfs_reverse(source, visited, adj, path, concepts, relation, index2conid):
+    if are_dest_concepts_visited(concepts, visited):
+        return True
+    for index, edge in enumerate(adj[source]):
+        if edge == 1 and visited[index] == 0:
+            visited[index] = 1
+            if dfs_reverse(index, visited, adj, path, concepts, relation):
+                path.append(id2concept[index2conid[source]] + " " + relation + " " + id2concept[index2conid[index]],
+                            index2conid)
+                return True
+
+
+def get_knowledge_statements_DFS(ground_statement_object):
+    concepts_list = ground_statement_object["concepts"]
+    question_list = [index for index, data in enumerate(ground_statement_object["qmask"]) if data == True]
+    answer_list = [index for index, data in enumerate(ground_statement_object["amask"]) if data == True]
+    destination_list = question_list + answer_list
+    adj, cids, adj_original = concepts2adj(concepts_list, pruned_graph, vocab_graph)
+    index2conid = {index: id for index, id in enumerate(concepts_list)}
+
+    statements = []
+    for index_rel, rel in enumerate(adj_original):
+        visited = [0 for ind in range(len(concepts_list))]
+        visited[destination_list[0]] = 1
+        path = []
+        dfs(destination_list[0], visited, rel, path, destination_list, merged_relations_dict[id2relation[index_rel]],
+            index2conid)
+        statements.append(". ".join(path))
+
+    return statements
+
+
+def get_knowledge_set_DFS():
+    knowledge_set = {}
+    for index_statement in tqdm(range(len(df_statement))):
+        question_knowledge_set = []
+        for index_statement_option in df_statement.iloc[index_statement]["statements"]:
+            statement = index_statement_option["statement"]
+            knowledge_list = []
+            for index_ground in range(len(df_grounded)):
+                if df_grounded.iloc[index_ground]["sent"] == statement:
+                    knowledge_list = knowledge_list + get_knowledge_statements_DFS(test_pruned_graph_df[index_ground])
+                    break
+            for stat in knowledge_list:
+                if stat != '':
+                 question_knowledge_set.append(stat)
+
+        knowledge_set[df_statement.iloc[index_statement]["question"]["stem"]] = question_knowledge_set[:20]
+
+    return knowledge_set
 
 
 def main():
@@ -72,21 +157,8 @@ def main():
     args = parser.parse_args()
 
     load_resources(vocab_graph)
-    knowledge_set = {}
-    for index_statement in tqdm(range(len(df_grounded))):
-        question_knowledge_set = []
-        for index_statement_option in df_statement.iloc[index_statement]["statements"]:
-            statement = index_statement_option["statement"]
-            statements_set = []
-            for index_ground in range(len(df_grounded)):
-                if df_grounded.iloc[index_ground]["sent"] == statement:
-                    statements_set = get_knowledge_statements(test_pruned_graph_df[index_ground])
-                    break
-            for stat in statements_set:
-                question_knowledge_set.append(stat)
-
-        knowledge_set[df_statement.iloc[index_statement]["question"]["stem"]] = question_knowledge_set
-
+    # knowledge_set = get_knowledge_set_relevance_scoring()
+    knowledge_set = get_knowledge_set_DFS()
     dataframe_dev = pd.read_json(args.input)
     for question, knowledge in knowledge_set.items():
         for index, data in dataframe_dev.iterrows():
