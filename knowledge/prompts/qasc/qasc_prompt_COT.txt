@@ -1,0 +1,5 @@
+Question: What are the ways you can preserve food?
+Knowledge: First, Bacteria and other microorganisms requires moisture for growth, therefore dehydrating food helps to preserve it. Second, immersing food in solution of vinegar and salt help prevent growth of bacteria and other microorganisms. Third, Freezing can also help in preserving food by slowing down growth of microorganisms.
+
+Question: {question}
+Knowledge:

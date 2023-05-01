@@ -1,0 +1,6295 @@
+[
+  {
+    "query": "Most of the information an old map is capable of providing a person with will probably still be true?",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "map",
+    "knowledges": []
+  },
+  {
+    "query": "Cotton candy is sometimes made out of cotton?",
+    "answer": "no",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "cotton",
+    "knowledges": []
+  },
+  {
+    "query": "One is a number that comes before zero.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "one",
+    "knowledges": []
+  },
+  {
+    "query": "Numbers are the same as letters.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "numbers",
+    "knowledges": []
+  },
+  {
+    "query": "If you are on a 10 mile run you are exactly at the middle at the 5 mile mark?",
+    "answer": "yes",
+    "relational_prompt": "exactly",
+    "topic_prompt": "middle",
+    "knowledges": []
+  },
+  {
+    "query": "Is a numbers game considered a board game?",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "numbers",
+    "knowledges": []
+  },
+  {
+    "query": "You become president after getting impeached.",
+    "answer": "no",
+    "relational_prompt": "after",
+    "topic_prompt": "president",
+    "knowledges": []
+  },
+  {
+    "query": "Gas is always capable of turning into liquid under high pressure.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "gas",
+    "knowledges": []
+  },
+  {
+    "query": "Alan B. Shepard Jr. walked on the moon before James B. Irwin.",
+    "answer": "yes",
+    "relational_prompt": "before",
+    "topic_prompt": "moon",
+    "knowledges": []
+  },
+  {
+    "query": "Is it true that humans cannot move in outer space?",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "space",
+    "knowledges": []
+  },
+  {
+    "query": "The notes on a piano are ordered like this: C, D, E, F, G, A, B.",
+    "answer": "yes",
+    "relational_prompt": "ordered like this",
+    "topic_prompt": "piano",
+    "knowledges": []
+  },
+  {
+    "query": "Summer school is always out of session in the summer.",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "school",
+    "knowledges": []
+  },
+  {
+    "query": "A link on the internet is a link in a chain?",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "link",
+    "knowledges": []
+  },
+  {
+    "query": "If someone is called Jimmy they probably have James as a part of their full name?",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "james",
+    "knowledges": []
+  },
+  {
+    "query": "An airplane must increase its lift before it lands.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "lift",
+    "knowledges": []
+  },
+  {
+    "query": "Bike seat is larger than a laptop.",
+    "answer": "no",
+    "relational_prompt": "larger than",
+    "topic_prompt": "seat",
+    "knowledges": []
+  },
+  {
+    "query": "Cream come from a horse.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "cream",
+    "knowledges": []
+  },
+  {
+    "query": "Toes and fingers are both part of a person's feet.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "feet",
+    "knowledges": []
+  },
+  {
+    "query": "You should talk to dolphins only if you have to as they can be really rude.",
+    "answer": "no",
+    "relational_prompt": "only if",
+    "topic_prompt": "dolphins",
+    "knowledges": []
+  },
+  {
+    "query": "\"Buffy the Vampire Slayer\" is a story about a girl in the title role who, in despite her incredible strength, can survive only if she avoids direct sunlight.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "girl",
+    "knowledges": []
+  },
+  {
+    "query": "Is a sheet a piece of paper and also a term for a blanket?",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "sheet",
+    "knowledges": []
+  },
+  {
+    "query": "The music scale is capable of sound.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "scale",
+    "knowledges": []
+  },
+  {
+    "query": "Is it true that some one tenth of the US population is also greater than the entire population of Norway?",
+    "answer": "yes",
+    "relational_prompt": "some",
+    "topic_prompt": "population",
+    "knowledges": []
+  },
+  {
+    "query": "The word 'gold' always starts with the letter g, has the letters o and l in the middle, and ends with the letter d.",
+    "answer": "yes",
+    "relational_prompt": "always",
+    "topic_prompt": "gold",
+    "knowledges": []
+  },
+  {
+    "query": "The 1994 movie Speed has a sequel that also starred Sandra Bullock and Keanu Reeves.",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "speed",
+    "knowledges": []
+  },
+  {
+    "query": "The radius is never smaller than the diameter of the same circle.",
+    "answer": "no",
+    "relational_prompt": "never",
+    "topic_prompt": "radius",
+    "knowledges": []
+  },
+  {
+    "query": "The density of oil and water is always smaller than the density of oil and brine.",
+    "answer": "yes",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "oil and water",
+    "knowledges": []
+  },
+  {
+    "query": "A dog's nose would be brightly colored if you looked at it through an infrared camera.",
+    "answer": "no",
+    "relational_prompt": "if",
+    "topic_prompt": "dog",
+    "knowledges": []
+  },
+  {
+    "query": "In pirate stories, a capital T was often part of a treasure map, as that was used to mark the spot where loot was buried.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "mark",
+    "knowledges": []
+  },
+  {
+    "query": "A full tank of gas is capable of being the reason a car will not start.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "full",
+    "knowledges": []
+  },
+  {
+    "query": "Someone has to have had their thirty-fifth birthday before they can become president in the United States.",
+    "answer": "yes",
+    "relational_prompt": "before",
+    "topic_prompt": "president",
+    "knowledges": []
+  },
+  {
+    "query": "Our sleep cycle at night is ordered like this: Drowsy, REM, Light Sleep, Deep Sleep and Moderate Sleep.",
+    "answer": "no",
+    "relational_prompt": "ordered like this",
+    "topic_prompt": "night",
+    "knowledges": []
+  },
+  {
+    "query": "Drinking alcohol instead of juice causes the drinker to become more thirsty, due to alcohol being a diuretic?",
+    "answer": "yes",
+    "relational_prompt": "causes",
+    "topic_prompt": "juice",
+    "knowledges": []
+  },
+  {
+    "query": "If you correctly measure how long a yard is, you will almost always realize it is 3 feet long?",
+    "answer": "yes",
+    "relational_prompt": "almost always",
+    "topic_prompt": "yard",
+    "knowledges": []
+  },
+  {
+    "query": "Is a ball part of a hockey games equipment?",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "ball",
+    "knowledges": []
+  },
+  {
+    "query": "It\u2019s smart to use painters tape when painting the boarder of a room because then you won\u2019t have to fix your mistakes later.",
+    "answer": "yes",
+    "relational_prompt": "because",
+    "topic_prompt": "tape",
+    "knowledges": []
+  },
+  {
+    "query": "A quarter is smaller than a dollar coin.",
+    "answer": "yes",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "quarter",
+    "knowledges": []
+  },
+  {
+    "query": "Running cannot make you feel hungry.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "running",
+    "knowledges": []
+  },
+  {
+    "query": "A chicken has at least two of a breast.",
+    "answer": "yes",
+    "relational_prompt": "at least two",
+    "topic_prompt": "breast",
+    "knowledges": []
+  },
+  {
+    "query": "Is Mercury the planet named after the amount of mercury in it's crust...yes or no?",
+    "answer": "no",
+    "relational_prompt": "after",
+    "topic_prompt": "mercury",
+    "knowledges": []
+  },
+  {
+    "query": "Mercury is approximately same size as venus.",
+    "answer": "no",
+    "relational_prompt": "same size as",
+    "topic_prompt": "mercury",
+    "knowledges": []
+  },
+  {
+    "query": "Any watch ever made can tell time and the date.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "watch",
+    "knowledges": []
+  },
+  {
+    "query": "Is it true that the Vietnam war has ended?",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": "war",
+    "knowledges": []
+  },
+  {
+    "query": "Most material from recycled shoes is rubber from other shoes because it is the most elastic material.",
+    "answer": "yes",
+    "relational_prompt": "because",
+    "topic_prompt": "shoes",
+    "knowledges": []
+  },
+  {
+    "query": "Prisoners on death row will get exactly one meal that they can choose before their date.",
+    "answer": "yes",
+    "relational_prompt": "exactly",
+    "topic_prompt": "meal",
+    "knowledges": []
+  },
+  {
+    "query": "Your hair is made out of proteins that is identical to those in your fingernails.",
+    "answer": "yes",
+    "relational_prompt": "is",
+    "topic_prompt": "hair",
+    "knowledges": []
+  },
+  {
+    "query": "A blocked extra point cannot be returned for points.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "point",
+    "knowledges": []
+  },
+  {
+    "query": "The East cannot be considered part of the west, but it can be considered part of the south and north depending on the direction, such as southeast?",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "east",
+    "knowledges": []
+  },
+  {
+    "query": "Electrons are smaller than mesons.",
+    "answer": "no",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "electrons",
+    "knowledges": []
+  },
+  {
+    "query": "If an item is returned to a store, a refund is issued to the clerk.",
+    "answer": "no",
+    "relational_prompt": "if",
+    "topic_prompt": null,
+    "knowledges": []
+  },
+  {
+    "query": "Is a birth possible when you cannot go to a hospital?",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "birth",
+    "knowledges": []
+  },
+  {
+    "query": "Is rubber good for tires only if it is synthetic?",
+    "answer": "no",
+    "relational_prompt": "only if",
+    "topic_prompt": "rubber",
+    "knowledges": []
+  },
+  {
+    "query": "Playing card K is larger in value than A.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "playing card",
+    "knowledges": []
+  },
+  {
+    "query": "Talking occurs only if there are mouths moving.",
+    "answer": "yes",
+    "relational_prompt": "only if",
+    "topic_prompt": "talking",
+    "knowledges": []
+  },
+  {
+    "query": "A rod is good only if can conduct electricity.",
+    "answer": "no",
+    "relational_prompt": "only if",
+    "topic_prompt": "rod",
+    "knowledges": []
+  },
+  {
+    "query": "Will asking for a raise always get someone more money?",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "raise",
+    "knowledges": []
+  },
+  {
+    "query": "Should stacking the plates after washing them be done in this order: large plates on the bottom, then smaller plates on top.",
+    "answer": "yes",
+    "relational_prompt": "done in this order",
+    "topic_prompt": "plates",
+    "knowledges": []
+  },
+  {
+    "query": "Does a president always have absolute power?",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "president",
+    "knowledges": []
+  },
+  {
+    "query": "A half gallon of milk is larger than a half gallon of water.",
+    "answer": "no",
+    "relational_prompt": "larger than",
+    "topic_prompt": "half",
+    "knowledges": []
+  },
+  {
+    "query": "If you are given an office smaller than that of another employee you have lower status?",
+    "answer": "yes",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "office",
+    "knowledges": []
+  },
+  {
+    "query": "Enthusiasm is capable of getting you fired.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "enthusiasm",
+    "knowledges": []
+  },
+  {
+    "query": "The air holds none of the water on the planet.",
+    "answer": "no",
+    "relational_prompt": "none",
+    "topic_prompt": "air",
+    "knowledges": []
+  },
+  {
+    "query": "On human beings, ears always located on the head, a few inches directly below the eyeballs, and between the twin noses?",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "ears",
+    "knowledges": []
+  },
+  {
+    "query": "To start cars these days, you do not need to put the keys into the ignition after you get inside.",
+    "answer": "yes",
+    "relational_prompt": "after",
+    "topic_prompt": "keys",
+    "knowledges": []
+  },
+  {
+    "query": "An ear of corn is larger than a pineapple.",
+    "answer": "no",
+    "relational_prompt": "larger than",
+    "topic_prompt": "ear",
+    "knowledges": []
+  },
+  {
+    "query": "Bones have been used in spiritual practices by all different cultures.",
+    "answer": "yes",
+    "relational_prompt": "all",
+    "topic_prompt": "bones",
+    "knowledges": []
+  },
+  {
+    "query": "A hypothesis is useful only if there is a problem to solve.",
+    "answer": "yes",
+    "relational_prompt": "only if",
+    "topic_prompt": "hypothesis",
+    "knowledges": []
+  },
+  {
+    "query": "Do most shops accept Monopoly money?",
+    "answer": "no",
+    "relational_prompt": "most",
+    "topic_prompt": "shops",
+    "knowledges": []
+  },
+  {
+    "query": "\"War is over,\" is a Christmas song that includes the lyrics, \"if you want it,\" sung by Eminem.",
+    "answer": "no",
+    "relational_prompt": "if",
+    "topic_prompt": "war",
+    "knowledges": []
+  },
+  {
+    "query": "Water is a solid object at below zero temperature.",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "water",
+    "knowledges": []
+  },
+  {
+    "query": "At least two vegetables are needed to make juice.",
+    "answer": "no",
+    "relational_prompt": "at least two",
+    "topic_prompt": "juice",
+    "knowledges": []
+  },
+  {
+    "query": "Door can always be either pushed or pulled.",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "door",
+    "knowledges": []
+  },
+  {
+    "query": "A cable technician is capable of cutting holes in your wall.",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "cable",
+    "knowledges": []
+  },
+  {
+    "query": "Does gear five in a manual vehicle move slowly?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "slowly",
+    "knowledges": []
+  },
+  {
+    "query": "A knife always cuts deeper than a needle.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "cut",
+    "knowledges": []
+  },
+  {
+    "query": "If listed in descending order by the average number that you would expect to find in a classroom, the groups of people would be ordered like this: teachers first, then students.",
+    "answer": "no",
+    "relational_prompt": "ordered like this",
+    "topic_prompt": "teachers",
+    "knowledges": []
+  },
+  {
+    "query": "A stretch can never have the same effect as a yawn.",
+    "answer": "yes",
+    "relational_prompt": "never",
+    "topic_prompt": "stretch",
+    "knowledges": []
+  },
+  {
+    "query": "Shoulder comes before took in the dictionary.",
+    "answer": "yes",
+    "relational_prompt": "before",
+    "topic_prompt": "shoulder",
+    "knowledges": []
+  },
+  {
+    "query": "Frozen bread grows moldy after a while.",
+    "answer": "no",
+    "relational_prompt": "after",
+    "topic_prompt": "bread",
+    "knowledges": []
+  },
+  {
+    "query": "To have a royal flush in poker, at least one card needs to be an ace.",
+    "answer": "yes",
+    "relational_prompt": "at least one",
+    "topic_prompt": "card",
+    "knowledges": []
+  },
+  {
+    "query": "Vice president is usually part of board of directors.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "vice",
+    "knowledges": []
+  },
+  {
+    "query": "A tree causes rain water to better reach the stream in the subterranean region.",
+    "answer": "yes",
+    "relational_prompt": "causes",
+    "topic_prompt": "tree",
+    "knowledges": []
+  },
+  {
+    "query": "A flat side is capable of being round.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "side",
+    "knowledges": []
+  },
+  {
+    "query": "Has the United States ever gone to war with Canada?",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "with",
+    "knowledges": []
+  },
+  {
+    "query": "Spot cleaning a floor is part of the duties of maids of honor.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "spot",
+    "knowledges": []
+  },
+  {
+    "query": "Your mom cannot be married to your dad.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "mom",
+    "knowledges": []
+  },
+  {
+    "query": "The end of the book is after the table of contents.",
+    "answer": "yes",
+    "relational_prompt": "after",
+    "topic_prompt": "end",
+    "knowledges": []
+  },
+  {
+    "query": "A little bit of arsenic before bed will help you sleep.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "bit",
+    "knowledges": []
+  },
+  {
+    "query": "Psychology Today once posted an article claiming all pain is psychological.",
+    "answer": "yes",
+    "relational_prompt": "all",
+    "topic_prompt": "pain",
+    "knowledges": []
+  },
+  {
+    "query": "The end of a baseball bat is larger than the handle.",
+    "answer": "yes",
+    "relational_prompt": "larger than",
+    "topic_prompt": "end",
+    "knowledges": []
+  },
+  {
+    "query": "A jumping bean is called that because jump ropes can be made from the plant.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "jump",
+    "knowledges": []
+  },
+  {
+    "query": "Does snow always fall in winter?",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "snow",
+    "knowledges": []
+  },
+  {
+    "query": "If something is sphere, it is often considered as a circle object.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "sphere",
+    "knowledges": []
+  },
+  {
+    "query": "A disk in your bank can become herniated causing pain?",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "disk",
+    "knowledges": []
+  },
+  {
+    "query": "A breaking wave almost always push surfers down 20 to 50 feet if they wipe out.",
+    "answer": "yes",
+    "relational_prompt": "almost always",
+    "topic_prompt": "wave",
+    "knowledges": []
+  },
+  {
+    "query": "Do private equity funds buy companies because they have confidence in management?",
+    "answer": "no",
+    "relational_prompt": "because",
+    "topic_prompt": "private",
+    "knowledges": []
+  },
+  {
+    "query": "Can your tax return refund be larger than your annual income?",
+    "answer": "no",
+    "relational_prompt": "larger than",
+    "topic_prompt": "return",
+    "knowledges": []
+  },
+  {
+    "query": "In an accident, model T car is capable of deploying air bags.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "accident",
+    "knowledges": []
+  },
+  {
+    "query": "Starving people gain lots of pounds over the holidays.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "pounds",
+    "knowledges": []
+  },
+  {
+    "query": "Dry ice is nitrogen.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "dry",
+    "knowledges": []
+  },
+  {
+    "query": "Are the following books ordered like this from oldest to newest publication date:  A Prayer for Owen Meany; The Scarlet Letter; The Great Gatsby?",
+    "answer": "no",
+    "relational_prompt": "ordered like this",
+    "topic_prompt": "books",
+    "knowledges": []
+  },
+  {
+    "query": "A jury will deliberate after a verdict.",
+    "answer": "no",
+    "relational_prompt": "after",
+    "topic_prompt": "jury",
+    "knowledges": []
+  },
+  {
+    "query": "An American family who has moved to Melbourne is capable of celebrating their traditional November Thanksgiving dinner in a spring month.",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "spring",
+    "knowledges": []
+  },
+  {
+    "query": "A beach ball will change size as it is filled with gas, but a scuba tank will remain the same size as it was when it was empty.",
+    "answer": "yes",
+    "relational_prompt": "same size as",
+    "topic_prompt": "gas",
+    "knowledges": []
+  },
+  {
+    "query": "Part of golf is trying to get a higher point total than others.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "point",
+    "knowledges": []
+  },
+  {
+    "query": "The human body is capable of sneezing and laughing at the same time.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "human body",
+    "knowledges": []
+  },
+  {
+    "query": "If you see one rat, there are always more nearby.",
+    "answer": "yes",
+    "relational_prompt": "always",
+    "topic_prompt": "rat",
+    "knowledges": []
+  },
+  {
+    "query": "Is a bearing part of the six simple machines?",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "bearing",
+    "knowledges": []
+  },
+  {
+    "query": "A chain consists of at least one link.",
+    "answer": "yes",
+    "relational_prompt": "at least one",
+    "topic_prompt": "link",
+    "knowledges": []
+  },
+  {
+    "query": "If summer was December 31st could we call June 1st Winter.",
+    "answer": "yes",
+    "relational_prompt": "if",
+    "topic_prompt": "summer",
+    "knowledges": []
+  },
+  {
+    "query": "You can't bowl 300 exactly.",
+    "answer": "no",
+    "relational_prompt": "exactly",
+    "topic_prompt": "bowl",
+    "knowledges": []
+  },
+  {
+    "query": "Neighbors who know exactly everything you do would probably be minding their own business.",
+    "answer": "no",
+    "relational_prompt": "exactly",
+    "topic_prompt": "neighbors",
+    "knowledges": []
+  },
+  {
+    "query": "Milk cannot spoil, it always is OK to drink.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "milk",
+    "knowledges": []
+  },
+  {
+    "query": "Noon is sometimes before lunch.",
+    "answer": "yes",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "noon",
+    "knowledges": []
+  },
+  {
+    "query": "Bus can carry stuff.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "bus",
+    "knowledges": []
+  },
+  {
+    "query": "\"The Prisoner\" is a track on Iron Maiden's acclaimed album Powerslave.",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "prisoner",
+    "knowledges": []
+  },
+  {
+    "query": "To an artist, a canvas is anything that draws your interest.",
+    "answer": "yes",
+    "relational_prompt": "is",
+    "topic_prompt": "canvas",
+    "knowledges": []
+  },
+  {
+    "query": "Some people do not wear ties because it feels like they are being choked.",
+    "answer": "yes",
+    "relational_prompt": "because",
+    "topic_prompt": "ties",
+    "knowledges": []
+  },
+  {
+    "query": "War cannot have a tie.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "war",
+    "knowledges": []
+  },
+  {
+    "query": "Is your power bill going to go down if you wash your clothes in cold water ?",
+    "answer": "yes",
+    "relational_prompt": "is",
+    "topic_prompt": "clothes",
+    "knowledges": []
+  },
+  {
+    "query": "Someone who has served two terms as U.S. president cannot run for that same office again.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "office",
+    "knowledges": []
+  },
+  {
+    "query": "Smoke is the source of fire.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "smoke",
+    "knowledges": []
+  },
+  {
+    "query": "None had ever reached the top of Mount Everest before 1977?",
+    "answer": "no",
+    "relational_prompt": "none",
+    "topic_prompt": null,
+    "knowledges": []
+  },
+  {
+    "query": "Planes, Trains and Automobiles is a movie starring John Martin.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "planes",
+    "knowledges": []
+  },
+  {
+    "query": "Before buttons, some phones had square, rotary dials.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "button",
+    "knowledges": []
+  },
+  {
+    "query": "If Sunday is the start of the week, then Friday is the end of the week?",
+    "answer": "no",
+    "relational_prompt": "if",
+    "topic_prompt": "sunday",
+    "knowledges": []
+  },
+  {
+    "query": "The smoothness of an orange is capable of confusing people for a peach.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "smoothness",
+    "knowledges": []
+  },
+  {
+    "query": "Books with biographies are smaller than novels.",
+    "answer": "no",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "books",
+    "knowledges": []
+  },
+  {
+    "query": "In the first two seasons of the fictional TV series \"Buffy the Vampire Slayer\", a pulse cannot be detected on Willow's boyfriend because he is indeed a vampire.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "pulse",
+    "knowledges": []
+  },
+  {
+    "query": "A crystal decanter can enhance the flavor of wine before serving, due to oxygen in the air.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "crystal",
+    "knowledges": []
+  },
+  {
+    "query": "Rhinoceros are part of the Eocene era.",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "rhinoceros",
+    "knowledges": []
+  },
+  {
+    "query": "Numbers in front of the decimal point are larger than the numbers after a decimal point.",
+    "answer": "yes",
+    "relational_prompt": "larger than",
+    "topic_prompt": "numbers",
+    "knowledges": []
+  },
+  {
+    "query": "In this order, juice is processed as such: juice is extracted from fruit then the fruit picked from a tree.",
+    "answer": "no",
+    "relational_prompt": "in this order",
+    "topic_prompt": "juice",
+    "knowledges": []
+  },
+  {
+    "query": "Shade cannot contain shadows.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "shade",
+    "knowledges": []
+  },
+  {
+    "query": "Paint is always wet.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "paint",
+    "knowledges": []
+  },
+  {
+    "query": "If you want to personalize your pen, you will have to engrave your initials.",
+    "answer": "yes",
+    "relational_prompt": "if",
+    "topic_prompt": "initial",
+    "knowledges": []
+  },
+  {
+    "query": "A bell can help a cow get lost.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "bell",
+    "knowledges": []
+  },
+  {
+    "query": "An eye of a hurricane can never have winds as strong as the eye wall.",
+    "answer": "yes",
+    "relational_prompt": "never",
+    "topic_prompt": "eye",
+    "knowledges": []
+  },
+  {
+    "query": "If a beautiful girl is taking her final, and she only has 1 second left to answer 50 complex questions, can she answer all 50 questions in time?",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "final",
+    "knowledges": []
+  },
+  {
+    "query": "It is important to drain the fluid from an engine before taking a trip.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "fluid",
+    "knowledges": []
+  },
+  {
+    "query": "If you add 4 and 5 together, the resulting number is the same size as the product of 3 and 3.",
+    "answer": "yes",
+    "relational_prompt": "same size as",
+    "topic_prompt": "add",
+    "knowledges": []
+  },
+  {
+    "query": "Sleeping has no set time limit.",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": "sleeping",
+    "knowledges": []
+  },
+  {
+    "query": "The table of contents is a chapter in most books.",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "chapter",
+    "knowledges": []
+  },
+  {
+    "query": "Executives sometimes make a million times more than workers.",
+    "answer": "yes",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "executive",
+    "knowledges": []
+  },
+  {
+    "query": "Is the second hand smaller than the minute hand on a clock?",
+    "answer": "yes",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "second",
+    "knowledges": []
+  },
+  {
+    "query": "Does winter bring with it some kinds of diseases?",
+    "answer": "yes",
+    "relational_prompt": "some",
+    "topic_prompt": "bring",
+    "knowledges": []
+  },
+  {
+    "query": "Lying is a thing people do all the time.",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "lying",
+    "knowledges": []
+  },
+  {
+    "query": "Most brands of instant coffee can be purchased either as whole beans or as an already ground product.",
+    "answer": "yes",
+    "relational_prompt": "most",
+    "topic_prompt": "coffee",
+    "knowledges": []
+  },
+  {
+    "query": "Some of the famous cities in Australia include Sydney, Melbourne, and London.",
+    "answer": "no",
+    "relational_prompt": "some",
+    "topic_prompt": "australia",
+    "knowledges": []
+  },
+  {
+    "query": "Is a neutron larger than electrons?",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "electrons",
+    "knowledges": []
+  },
+  {
+    "query": "Continue is alt band from sweden.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "continue",
+    "knowledges": []
+  },
+  {
+    "query": "Does a Macaw have wings that are larger than a conure?",
+    "answer": "yes",
+    "relational_prompt": "larger than",
+    "topic_prompt": "wings",
+    "knowledges": []
+  },
+  {
+    "query": "The term a glass ceiling is a reference to a real, physical thing.",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "ceiling",
+    "knowledges": []
+  },
+  {
+    "query": "Vehicle is both a noun and verb.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "vehicle",
+    "knowledges": []
+  },
+  {
+    "query": "Painter cannot become CEO.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "painter",
+    "knowledges": []
+  },
+  {
+    "query": "Is pain always caused by something physical?",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "pain",
+    "knowledges": []
+  },
+  {
+    "query": "A person cannot use their foot to write.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "foot",
+    "knowledges": []
+  },
+  {
+    "query": "In a dictionary, words are ordered like this: night, nurse, nobody, now.",
+    "answer": "no",
+    "relational_prompt": "ordered like this",
+    "topic_prompt": "night",
+    "knowledges": []
+  },
+  {
+    "query": "A gymnast can do back flips easily.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "back",
+    "knowledges": []
+  },
+  {
+    "query": "A volcano can give birth to an island in the sea.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "birth",
+    "knowledges": []
+  },
+  {
+    "query": "A host can be the same size as its parasite.",
+    "answer": "no",
+    "relational_prompt": "same size as",
+    "topic_prompt": "host",
+    "knowledges": []
+  },
+  {
+    "query": "A cut cannot become infected after it heals.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "cut",
+    "knowledges": []
+  },
+  {
+    "query": "Is Mercury the planet with the most warm temperatures?",
+    "answer": "yes",
+    "relational_prompt": "most",
+    "topic_prompt": "planet",
+    "knowledges": []
+  },
+  {
+    "query": "If vaccines lead to the prevention of covid, will they cause more covid?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "prevention",
+    "knowledges": []
+  },
+  {
+    "query": "A paper lunch bag has never been used as a toy.",
+    "answer": "no",
+    "relational_prompt": "never",
+    "topic_prompt": "bag",
+    "knowledges": []
+  },
+  {
+    "query": "All animals dream before they wake up.",
+    "answer": "yes",
+    "relational_prompt": "before",
+    "topic_prompt": "all animals",
+    "knowledges": []
+  },
+  {
+    "query": "A male seahorse cannot give birth.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "birth",
+    "knowledges": []
+  },
+  {
+    "query": "Is a sail part of a motor boat?",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "sail",
+    "knowledges": []
+  },
+  {
+    "query": "A crown is capable of injuring a queen?",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "crown",
+    "knowledges": []
+  },
+  {
+    "query": "At least two people are needed to be parents, one is a father.",
+    "answer": "yes",
+    "relational_prompt": "at least two",
+    "topic_prompt": "father",
+    "knowledges": []
+  },
+  {
+    "query": "If a book gathers too much dust, it can become impossible to lift.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "dust",
+    "knowledges": []
+  },
+  {
+    "query": "Space is mostly explored.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "space",
+    "knowledges": []
+  },
+  {
+    "query": "The blood of a horseshoe crab is almost never red.",
+    "answer": "yes",
+    "relational_prompt": "almost never",
+    "topic_prompt": "blood",
+    "knowledges": []
+  },
+  {
+    "query": "Is cake part of a traditional appetizer course?",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "course",
+    "knowledges": []
+  },
+  {
+    "query": "There are exactly three floors in the Eiffel Tower.",
+    "answer": "no",
+    "relational_prompt": "exactly",
+    "topic_prompt": "tower",
+    "knowledges": []
+  },
+  {
+    "query": "Alcohol almost always makes you throw up when consumed.",
+    "answer": "no",
+    "relational_prompt": "almost always",
+    "topic_prompt": "alcohol",
+    "knowledges": []
+  },
+  {
+    "query": "Life is Beautiful is a movie released in 1997 about an Italian Jewish family during World War II?",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "life",
+    "knowledges": []
+  },
+  {
+    "query": "A human is typically capable of eating using a mouth in his or her head.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "head",
+    "knowledges": []
+  },
+  {
+    "query": "Do most banks  also make auto loans?",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "banks",
+    "knowledges": []
+  },
+  {
+    "query": "In order for a population to grow, you need at least two members of the same species.",
+    "answer": "yes",
+    "relational_prompt": "at least two",
+    "topic_prompt": "population",
+    "knowledges": []
+  },
+  {
+    "query": "Roads are usually smaller than streets.",
+    "answer": "no",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "roads",
+    "knowledges": []
+  },
+  {
+    "query": "The number of days in the week is seven.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "number",
+    "knowledges": []
+  },
+  {
+    "query": "After development began on Dogger Bank Wind Farm, no one cared about the rails anymore.",
+    "answer": "no",
+    "relational_prompt": "after",
+    "topic_prompt": "rail",
+    "knowledges": []
+  },
+  {
+    "query": "You can make changes to a yard like putting up a fence only if you own the property.",
+    "answer": "yes",
+    "relational_prompt": "only if",
+    "topic_prompt": "yard",
+    "knowledges": []
+  },
+  {
+    "query": "Chicago is part of the Chicago Belt?",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "chicago",
+    "knowledges": []
+  },
+  {
+    "query": "Cows that were born 6 weeks ago are now larger than their mothers.",
+    "answer": "no",
+    "relational_prompt": "larger than",
+    "topic_prompt": "now",
+    "knowledges": []
+  },
+  {
+    "query": "If a spider has eight legs is it considered bipedal?",
+    "answer": "no",
+    "relational_prompt": "if",
+    "topic_prompt": "leg",
+    "knowledges": []
+  },
+  {
+    "query": "Viewed from Earth, the moon and the sun look the same size as one another in the sky.",
+    "answer": "yes",
+    "relational_prompt": "same size as",
+    "topic_prompt": "sky",
+    "knowledges": []
+  },
+  {
+    "query": "You make the bed ordered like this: blankets, pillows, sheets.",
+    "answer": "no",
+    "relational_prompt": "ordered like this",
+    "topic_prompt": "sheets",
+    "knowledges": []
+  },
+  {
+    "query": "An ounce of fluid weighs the same size as half an ounce of a solid.",
+    "answer": "no",
+    "relational_prompt": "same size as",
+    "topic_prompt": "fluid",
+    "knowledges": []
+  },
+  {
+    "query": "Neighbors cannot legally share wifi passwords.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "neighbors",
+    "knowledges": []
+  },
+  {
+    "query": "A smaller than normal sail will catch more wind for a boat.",
+    "answer": "no",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "sail",
+    "knowledges": []
+  },
+  {
+    "query": "Chicken is good source of carbohydrates.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "chicken",
+    "knowledges": []
+  },
+  {
+    "query": "Lead is never lighter than air.",
+    "answer": "yes",
+    "relational_prompt": "never",
+    "topic_prompt": "lead",
+    "knowledges": []
+  },
+  {
+    "query": "You must enter the brainstem through the back during surgeries because it is the easiest and safest route to prevent paralysis.",
+    "answer": "yes",
+    "relational_prompt": "because",
+    "topic_prompt": "enter",
+    "knowledges": []
+  },
+  {
+    "query": "When a person is driving over the speed limit, they cannot be surprised when they are pulled over by a US Marshal.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "speed",
+    "knowledges": []
+  },
+  {
+    "query": "Can a soldier get in truble for killing a civilian?",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "soldier",
+    "knowledges": []
+  },
+  {
+    "query": "A number is useful only if you can count.",
+    "answer": "yes",
+    "relational_prompt": "only if",
+    "topic_prompt": "number",
+    "knowledges": []
+  },
+  {
+    "query": "You can use your teeth to bite someone only if that person deserves it.",
+    "answer": "no",
+    "relational_prompt": "only if",
+    "topic_prompt": "teeth",
+    "knowledges": []
+  },
+  {
+    "query": "Stop signs causes increased deceleration.",
+    "answer": "yes",
+    "relational_prompt": "causes",
+    "topic_prompt": "signs",
+    "knowledges": []
+  },
+  {
+    "query": "The office is originally a US tv show,.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "office",
+    "knowledges": []
+  },
+  {
+    "query": "An initial cannot include a number.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "initial",
+    "knowledges": []
+  },
+  {
+    "query": "Some holes of a golf course are par 19.",
+    "answer": "no",
+    "relational_prompt": "some",
+    "topic_prompt": "course",
+    "knowledges": []
+  },
+  {
+    "query": "There is a joke that has numbers in it, which goes \"Why was six afraid of seven? Because seven eight twelve!\".",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "number",
+    "knowledges": []
+  },
+  {
+    "query": "Food is always a part of dinner.",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "dinner",
+    "knowledges": []
+  },
+  {
+    "query": "You cannot catch a flu in 2021.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "catch",
+    "knowledges": []
+  },
+  {
+    "query": "Fingernails always grow  faster than toenails.",
+    "answer": "yes",
+    "relational_prompt": "always",
+    "topic_prompt": "fingernails",
+    "knowledges": []
+  },
+  {
+    "query": "A trapdoor in a floor often leads to the attic.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "floor",
+    "knowledges": []
+  },
+  {
+    "query": "Empty is a six letter word.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "empty",
+    "knowledges": []
+  },
+  {
+    "query": "Of all items, the heaviest one is capable of sinking.",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "items",
+    "knowledges": []
+  },
+  {
+    "query": "If the USD becomes weaker, countries like Japan that heavily exports goods to the US would buy the US government bonds to make the dollars more powerful?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "export",
+    "knowledges": []
+  },
+  {
+    "query": "Do all battleships have plates on deck?",
+    "answer": "yes",
+    "relational_prompt": "have",
+    "topic_prompt": "plates",
+    "knowledges": []
+  },
+  {
+    "query": "People only have a wedding because they want to get married?",
+    "answer": "yes",
+    "relational_prompt": "because",
+    "topic_prompt": "wedding",
+    "knowledges": []
+  },
+  {
+    "query": "If you travel west far enough from the west coast will you reach the east coast?",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "west",
+    "knowledges": []
+  },
+  {
+    "query": "Having dogs can cause people with depression to have lesser symptoms or at best, be cured.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "dogs",
+    "knowledges": []
+  },
+  {
+    "query": "A radius is always twice the height minus three times the width squared.",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "radius",
+    "knowledges": []
+  },
+  {
+    "query": "If you had three bakers' dozen donuts, you would have a few less pastries than the expected thirty six.",
+    "answer": "no",
+    "relational_prompt": "few",
+    "topic_prompt": "baker",
+    "knowledges": []
+  },
+  {
+    "query": "At least two humans have orbited Mars.",
+    "answer": "no",
+    "relational_prompt": "at least two",
+    "topic_prompt": "humans",
+    "knowledges": []
+  },
+  {
+    "query": "A pizza always has flour.",
+    "answer": "yes",
+    "relational_prompt": "always",
+    "topic_prompt": "flour",
+    "knowledges": []
+  },
+  {
+    "query": "Addition is done in this order - one equals one plus two.",
+    "answer": "no",
+    "relational_prompt": "done in this order",
+    "topic_prompt": "plus",
+    "knowledges": []
+  },
+  {
+    "query": "A very large piece of very heavy metal cannot float on water.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "large",
+    "knowledges": []
+  },
+  {
+    "query": "Part of the benefits of a course for school is that you will get money for completing it.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "course",
+    "knowledges": []
+  },
+  {
+    "query": "A prison that is not capable of keeping in prisoners would be the best prison to send your friend that you want to escape.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "prisoners",
+    "knowledges": []
+  },
+  {
+    "query": "Can you stop a train after it starts?",
+    "answer": "yes",
+    "relational_prompt": "after",
+    "topic_prompt": "stop",
+    "knowledges": []
+  },
+  {
+    "query": "An ice cream cone can be made with sugar from beets.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "cream",
+    "knowledges": []
+  },
+  {
+    "query": "The feel of a snake has scales.",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": "feel",
+    "knowledges": []
+  },
+  {
+    "query": "The summer before last came after this last winter.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "summer",
+    "knowledges": []
+  },
+  {
+    "query": "Medicine can cure cancer.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "medicine",
+    "knowledges": []
+  },
+  {
+    "query": "Bring is a noun.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "bring",
+    "knowledges": []
+  },
+  {
+    "query": "Some people don't seem to mind not breathing for an hour.",
+    "answer": "no",
+    "relational_prompt": "some",
+    "topic_prompt": "mind",
+    "knowledges": []
+  },
+  {
+    "query": "In this order: Princeton, Harvard, Ohio State, the third school is considered an Ivy League school.",
+    "answer": "no",
+    "relational_prompt": "in this order",
+    "topic_prompt": "princeton",
+    "knowledges": []
+  },
+  {
+    "query": "Failing a final exam is a sure way to flunk a course.",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "final",
+    "knowledges": []
+  },
+  {
+    "query": "Does religion come before free speech in the text of the bill of rights?",
+    "answer": "yes",
+    "relational_prompt": "before",
+    "topic_prompt": "religion",
+    "knowledges": []
+  },
+  {
+    "query": "You cannot withdraw American dollars from most ATMs in Paris.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "paris",
+    "knowledges": []
+  },
+  {
+    "query": "A dog on ground is smaller than in water.",
+    "answer": "no",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "ground",
+    "knowledges": []
+  },
+  {
+    "query": "Are neutrons smaller than electrons?",
+    "answer": "no",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "electrons",
+    "knowledges": []
+  },
+  {
+    "query": "If you have a minute you have at least 60 seconds?",
+    "answer": "yes",
+    "relational_prompt": "if",
+    "topic_prompt": "minute",
+    "knowledges": []
+  },
+  {
+    "query": "You can see some light from ten feet under the water.",
+    "answer": "yes",
+    "relational_prompt": "some",
+    "topic_prompt": "light",
+    "knowledges": []
+  },
+  {
+    "query": "Is friday evening part of the working week?",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "friday",
+    "knowledges": []
+  },
+  {
+    "query": "A senior is someone that can only be very old. Seniors can never be used as a term for younger people.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "senior",
+    "knowledges": []
+  },
+  {
+    "query": "It is impossible for a nerve ending in the human anatomy to stop working.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "nerve",
+    "knowledges": []
+  },
+  {
+    "query": "You must wash off part of the bleach stain to get it off your clothes.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "wash",
+    "knowledges": []
+  },
+  {
+    "query": "You can reach cuba from miami by boat in 10 hours.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "cuba",
+    "knowledges": []
+  },
+  {
+    "query": "People take their unwanted pets to pounds because that is how people lose pounds right?",
+    "answer": "no",
+    "relational_prompt": "because",
+    "topic_prompt": "pounds",
+    "knowledges": []
+  },
+  {
+    "query": "It is hard to almost never breathe and stay alive.",
+    "answer": "yes",
+    "relational_prompt": "almost never",
+    "topic_prompt": "hard",
+    "knowledges": []
+  },
+  {
+    "query": "Can a human jump over a life-sized paper airplane.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "jump",
+    "knowledges": []
+  },
+  {
+    "query": "A verb can never be a noun.",
+    "answer": "no",
+    "relational_prompt": "never",
+    "topic_prompt": "verb",
+    "knowledges": []
+  },
+  {
+    "query": "Does stomach pain always mean food poisoning?",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "pain",
+    "knowledges": []
+  },
+  {
+    "query": "A chapter in a book is larger than the introduction.",
+    "answer": "yes",
+    "relational_prompt": "larger than",
+    "topic_prompt": "chapter",
+    "knowledges": []
+  },
+  {
+    "query": "Newspapers can be useful in cleaning windows, without leaving streaks behind.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "newspapers",
+    "knowledges": []
+  },
+  {
+    "query": "In the US do you need a permit to hold a yard sale?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "yard",
+    "knowledges": []
+  },
+  {
+    "query": "Is a sliding scale a piece of playground equipment?",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "scale",
+    "knowledges": []
+  },
+  {
+    "query": "Thick gray skin is part of a rhinoceros.",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "rhinoceros",
+    "knowledges": []
+  },
+  {
+    "query": "A foot is larger than 14 inches.",
+    "answer": "no",
+    "relational_prompt": "larger than",
+    "topic_prompt": "foot",
+    "knowledges": []
+  },
+  {
+    "query": "The term eye bags refer to a bag to put eyes.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "bag",
+    "knowledges": []
+  },
+  {
+    "query": "Only paper can be used to make books.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "paper",
+    "knowledges": []
+  },
+  {
+    "query": "Bears cannot make honey.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "bears",
+    "knowledges": []
+  },
+  {
+    "query": "Is a pint of ice cream smaller than a quart of ice cream?",
+    "answer": "yes",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "cream",
+    "knowledges": []
+  },
+  {
+    "query": "A full bed is larger than a queen.",
+    "answer": "no",
+    "relational_prompt": "larger than",
+    "topic_prompt": "full",
+    "knowledges": []
+  },
+  {
+    "query": "The summer solstice is the day that has the most light from the sun.",
+    "answer": "yes",
+    "relational_prompt": "most",
+    "topic_prompt": "light",
+    "knowledges": []
+  },
+  {
+    "query": "The number of days in the eighth month of year is smaller than that of two months back.",
+    "answer": "no",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "eighth month of year",
+    "knowledges": []
+  },
+  {
+    "query": "Are there doctors that cannot perform medicine?",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "doctors",
+    "knowledges": []
+  },
+  {
+    "query": "The seventh inning stretch is for baseball players to get limber.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "stretch",
+    "knowledges": []
+  },
+  {
+    "query": "The edge of the world is a sudden drop off.",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "edge",
+    "knowledges": []
+  },
+  {
+    "query": "A private car is capable of being used as mass transit...yes or no?",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "private",
+    "knowledges": []
+  },
+  {
+    "query": "Do some shore facilities have no docks?",
+    "answer": "no",
+    "relational_prompt": "some",
+    "topic_prompt": "shore",
+    "knowledges": []
+  },
+  {
+    "query": "A crown has jewels.",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": "crown",
+    "knowledges": []
+  },
+  {
+    "query": "If it is winter in New York it is summer in Australia.",
+    "answer": "yes",
+    "relational_prompt": "if",
+    "topic_prompt": "winter",
+    "knowledges": []
+  },
+  {
+    "query": "If you live on the earth you are spinning at a thousand miles an hour.",
+    "answer": "yes",
+    "relational_prompt": "if",
+    "topic_prompt": "earth",
+    "knowledges": []
+  },
+  {
+    "query": "The surface of Mars is hotter than the Earth because it is bigger and attracts more heat from the sun.",
+    "answer": "no",
+    "relational_prompt": "because",
+    "topic_prompt": "surface",
+    "knowledges": []
+  },
+  {
+    "query": "Washer fluid in newer cars can be refilled automatically.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "fluid",
+    "knowledges": []
+  },
+  {
+    "query": "You must complete you education before you can start work.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "education",
+    "knowledges": []
+  },
+  {
+    "query": "A policeman is capable of taking a person's license and can also issue one.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "license",
+    "knowledges": []
+  },
+  {
+    "query": "Three Doors Down is a rock band formed in California?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "door",
+    "knowledges": []
+  },
+  {
+    "query": "The phrase larger than life is talking about really big animals.",
+    "answer": "no",
+    "relational_prompt": "larger than",
+    "topic_prompt": "phrase",
+    "knowledges": []
+  },
+  {
+    "query": "When you have none, finding a good battery is a bad thing.",
+    "answer": "no",
+    "relational_prompt": "none",
+    "topic_prompt": "battery",
+    "knowledges": []
+  },
+  {
+    "query": "Can a passive RF cavity amplifier a signal?",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "cavity",
+    "knowledges": []
+  },
+  {
+    "query": "A youthful girl is typically smaller than a baby boy on average?",
+    "answer": "no",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "girl",
+    "knowledges": []
+  },
+  {
+    "query": "There are a few beaches with blue sand.",
+    "answer": "no",
+    "relational_prompt": "few",
+    "topic_prompt": "sand",
+    "knowledges": []
+  },
+  {
+    "query": "A maids job is cleaning clothes but not cleaning dishes.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "cleaning clothes",
+    "knowledges": []
+  },
+  {
+    "query": "You should brush your teeth before drinking a soft drink.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "brush",
+    "knowledges": []
+  },
+  {
+    "query": "Is outer space smaller than earth?",
+    "answer": "no",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "outer space",
+    "knowledges": []
+  },
+  {
+    "query": "Most high rise buildings have windows that cannot be opened.",
+    "answer": "yes",
+    "relational_prompt": "most",
+    "topic_prompt": "window",
+    "knowledges": []
+  },
+  {
+    "query": "Ice crystals will never melt in sub zero weather.",
+    "answer": "yes",
+    "relational_prompt": "never",
+    "topic_prompt": "crystal",
+    "knowledges": []
+  },
+  {
+    "query": "Only if a person has nerves will they be able to feel hot and cold?",
+    "answer": "yes",
+    "relational_prompt": "only if",
+    "topic_prompt": "feel",
+    "knowledges": []
+  },
+  {
+    "query": "A tube is never brittle if it is made of steel.",
+    "answer": "yes",
+    "relational_prompt": "if",
+    "topic_prompt": "tube",
+    "knowledges": []
+  },
+  {
+    "query": "The liberty bell is cracked.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "bell",
+    "knowledges": []
+  },
+  {
+    "query": "Are teachers allowed to teach in US high schools with an associate degree?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "teacher",
+    "knowledges": []
+  },
+  {
+    "query": "Question marks sometimes go before, sometimes after, closing quotation marks.",
+    "answer": "yes",
+    "relational_prompt": "after",
+    "topic_prompt": "question",
+    "knowledges": []
+  },
+  {
+    "query": "A 5.25\" floppy disk will fit in a 3.5\" drive if you cut it in half.",
+    "answer": "no",
+    "relational_prompt": "if",
+    "topic_prompt": "disk",
+    "knowledges": []
+  },
+  {
+    "query": "The moon with the Rebel base in the first Star Wars movie was part of the Endor system.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "moon",
+    "knowledges": []
+  },
+  {
+    "query": "A smoke detector is a luxury that not many can afford.",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "smoke",
+    "knowledges": []
+  },
+  {
+    "query": "An egg is always rounded.",
+    "answer": "yes",
+    "relational_prompt": "is",
+    "topic_prompt": "egg",
+    "knowledges": []
+  },
+  {
+    "query": "Cutting against the grain of the meat causes the cleanest cut of meat.",
+    "answer": "yes",
+    "relational_prompt": "causes",
+    "topic_prompt": "grain",
+    "knowledges": []
+  },
+  {
+    "query": "The strength of a man's arms usually is capable of crushing an unopened beer can.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "strength",
+    "knowledges": []
+  },
+  {
+    "query": "A brother sometimes has a sister.",
+    "answer": "yes",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "brother",
+    "knowledges": []
+  },
+  {
+    "query": "The top of a can is square.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "top",
+    "knowledges": []
+  },
+  {
+    "query": "You must travel on the road to get between destinations.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "road",
+    "knowledges": []
+  },
+  {
+    "query": "Metal teeth are part of the movie character named Jaws, if you're talking about a Bond villain rather than a shark.",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "teeth",
+    "knowledges": []
+  },
+  {
+    "query": "Some kids have to have tubes put in their ears because their manufacturer forgot them.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "tubes",
+    "knowledges": []
+  },
+  {
+    "query": "Birth of a Nation was part of the first decade of so-called talkies, or films that had sound and spoken dialog.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "birth",
+    "knowledges": []
+  },
+  {
+    "query": "A boat can be driven on land if it is amphibious.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "boat",
+    "knowledges": []
+  },
+  {
+    "query": "Infinity is always the answer if the corners of a circle are counted.",
+    "answer": "yes",
+    "relational_prompt": "if",
+    "topic_prompt": "corner",
+    "knowledges": []
+  },
+  {
+    "query": "Every computer has a mouse.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "mouse",
+    "knowledges": []
+  },
+  {
+    "query": "Does a doctor know all the possible questions that could be asked?",
+    "answer": "no",
+    "relational_prompt": "all",
+    "topic_prompt": "doctor",
+    "knowledges": []
+  },
+  {
+    "query": "Does a chain with a weak link meet safety standards?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "chain",
+    "knowledges": []
+  },
+  {
+    "query": "If a person at an auction places the highest bid on an item at the very last millisecond, then they will always win?",
+    "answer": "yes",
+    "relational_prompt": "always",
+    "topic_prompt": "bid",
+    "knowledges": []
+  },
+  {
+    "query": "Company branches are smaller than main offices.",
+    "answer": "yes",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "branches",
+    "knowledges": []
+  },
+  {
+    "query": "The Berenstain Bears books were released, ordered like this: Halloween is Sweet, The Big Honey Hunt, The Berenstain Bear Scouts and the Magic Crystal Caper?",
+    "answer": "no",
+    "relational_prompt": "ordered like this",
+    "topic_prompt": "bears",
+    "knowledges": []
+  },
+  {
+    "query": "Your back cannot support a ton of weight.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "back",
+    "knowledges": []
+  },
+  {
+    "query": "Talking can get you in trouble at school if you are the teacher.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "talking",
+    "knowledges": []
+  },
+  {
+    "query": "Destroying your Social Security Card causes you to lose your SSI benefits?",
+    "answer": "no",
+    "relational_prompt": "causes",
+    "topic_prompt": "card",
+    "knowledges": []
+  },
+  {
+    "query": "Is it true that steel tubes cannot be bent.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "tubes",
+    "knowledges": []
+  },
+  {
+    "query": "History is that many families moved west to settle in San Francisco during the gold rush in 1875.",
+    "answer": "yes",
+    "relational_prompt": "is",
+    "topic_prompt": "settle",
+    "knowledges": []
+  },
+  {
+    "query": "Women almost never urinate standing up.",
+    "answer": "yes",
+    "relational_prompt": "almost never",
+    "topic_prompt": "urinate",
+    "knowledges": []
+  },
+  {
+    "query": "If the ground is capable of caving in, it will not be able to be repaired.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "ground",
+    "knowledges": []
+  },
+  {
+    "query": "You need religion because it guides you.",
+    "answer": "no",
+    "relational_prompt": "because",
+    "topic_prompt": "religion",
+    "knowledges": []
+  },
+  {
+    "query": "Is ice part of the well-known acronym that also includes rest, compress, and elevate?",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "ice",
+    "knowledges": []
+  },
+  {
+    "query": "It is a theory that insects can not increase their mass because there is too much carbon dioxide in the atmosphere, which interferes with the respiration and causes them to shrink in size.",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "insects",
+    "knowledges": []
+  },
+  {
+    "query": "In some part of the world, the winter can happen in June and the summer happens in December?",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "winter",
+    "knowledges": []
+  },
+  {
+    "query": "When using a pencil one should always cover it in pen after finishing.",
+    "answer": "no",
+    "relational_prompt": "after",
+    "topic_prompt": "pen",
+    "knowledges": []
+  },
+  {
+    "query": "Do most waves breach higher than 10 feet?",
+    "answer": "no",
+    "relational_prompt": "most",
+    "topic_prompt": "wave",
+    "knowledges": []
+  },
+  {
+    "query": "If a person is said to be on edge are they sometimes relaxed?",
+    "answer": "no",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "edge",
+    "knowledges": []
+  },
+  {
+    "query": "You should close the trunk after you lock it.",
+    "answer": "no",
+    "relational_prompt": "after",
+    "topic_prompt": "trunk",
+    "knowledges": []
+  },
+  {
+    "query": "Do feet almost always stink badly?",
+    "answer": "yes",
+    "relational_prompt": "almost always",
+    "topic_prompt": "feet",
+    "knowledges": []
+  },
+  {
+    "query": "The second to last amendment of the U.S. constitution states that citizens have the right to bear arms.",
+    "answer": "no",
+    "relational_prompt": "have",
+    "topic_prompt": "right",
+    "knowledges": []
+  },
+  {
+    "query": "A bird has 3 wings.",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "bird",
+    "knowledges": []
+  },
+  {
+    "query": "There is at least one extra item in a baker's dozen.",
+    "answer": "yes",
+    "relational_prompt": "at least one",
+    "topic_prompt": "baker",
+    "knowledges": []
+  },
+  {
+    "query": "Crystal is a character in the show dynasty.",
+    "answer": "yes",
+    "relational_prompt": "is",
+    "topic_prompt": "crystal",
+    "knowledges": []
+  },
+  {
+    "query": "Strength is sometimes unrelated to physicality?",
+    "answer": "yes",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "strength",
+    "knowledges": []
+  },
+  {
+    "query": "A rail gun was part of the original Quake video game.",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "rail",
+    "knowledges": []
+  },
+  {
+    "query": "If a delivery is larger than a refrigerator can it be sent through the mail?",
+    "answer": "no",
+    "relational_prompt": "larger than",
+    "topic_prompt": "delivery",
+    "knowledges": []
+  },
+  {
+    "query": "A verb smaller than four letters is called a tiny verb.",
+    "answer": "no",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "verb",
+    "knowledges": []
+  },
+  {
+    "query": "The right side of your brain is not roughly the same size as the left.",
+    "answer": "no",
+    "relational_prompt": "same size as",
+    "topic_prompt": "right",
+    "knowledges": []
+  },
+  {
+    "query": "Your mom cannot be a man.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "mom",
+    "knowledges": []
+  },
+  {
+    "query": "A sugar daddy is a man who got rich as part of a sugar plantation.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "sugar",
+    "knowledges": []
+  },
+  {
+    "query": "The function of pain has to be to show a living creature where their body is damaged?",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": "pain",
+    "knowledges": []
+  },
+  {
+    "query": "Will a rat get cold because it has no tail?",
+    "answer": "no",
+    "relational_prompt": "because",
+    "topic_prompt": "rat",
+    "knowledges": []
+  },
+  {
+    "query": "Airplanes are an important part of all travel.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "travel",
+    "knowledges": []
+  },
+  {
+    "query": "Done in this order, by first putting on the snow tires, and then driving the car, helps prepare you for winter travel?",
+    "answer": "yes",
+    "relational_prompt": "done in this order",
+    "topic_prompt": "winter",
+    "knowledges": []
+  },
+  {
+    "query": "In football the top division almost always contains the same clubs.",
+    "answer": "yes",
+    "relational_prompt": "almost always",
+    "topic_prompt": "division",
+    "knowledges": []
+  },
+  {
+    "query": "You reach the bottom of the bag after eating half the chips.",
+    "answer": "no",
+    "relational_prompt": "after",
+    "topic_prompt": "bottom",
+    "knowledges": []
+  },
+  {
+    "query": "To be named April one must have been born in April.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "april",
+    "knowledges": []
+  },
+  {
+    "query": "Every animal has at least one leg.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "leg",
+    "knowledges": []
+  },
+  {
+    "query": "Do doctors only prescribe drugs if there is a disease?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "doctors",
+    "knowledges": []
+  },
+  {
+    "query": "Some chess queens are red.",
+    "answer": "no",
+    "relational_prompt": "some",
+    "topic_prompt": "queen",
+    "knowledges": []
+  },
+  {
+    "query": "\"One\" is a song from the LA metal band that are famous for their untitled black album.",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "one",
+    "knowledges": []
+  },
+  {
+    "query": "Stomach could be referred to as a storage in the body?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "stomach",
+    "knowledges": []
+  },
+  {
+    "query": "A room must have at least two escape methods, a door and a window.",
+    "answer": "yes",
+    "relational_prompt": "at least two",
+    "topic_prompt": "window",
+    "knowledges": []
+  },
+  {
+    "query": "Pounds can give away animals.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "pounds",
+    "knowledges": []
+  },
+  {
+    "query": "Guests have to knock usually because they don't have a key.",
+    "answer": "yes",
+    "relational_prompt": "because",
+    "topic_prompt": "guests",
+    "knowledges": []
+  },
+  {
+    "query": "Roads sometimes get cracked and broken, and have to be filled in with ice?",
+    "answer": "no",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "roads",
+    "knowledges": []
+  },
+  {
+    "query": "Every ear has two eardrums in it, so the average person has a total of four eardrums?",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "ear",
+    "knowledges": []
+  },
+  {
+    "query": "Do executives sometimes take orders from subordinates?",
+    "answer": "no",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "executive",
+    "knowledges": []
+  },
+  {
+    "query": "A truck cannot pull a car behind it on the freeway.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "truck",
+    "knowledges": []
+  },
+  {
+    "query": "Some trees on earth are one million feet tall.",
+    "answer": "no",
+    "relational_prompt": "some",
+    "topic_prompt": "earth",
+    "knowledges": []
+  },
+  {
+    "query": "Frosty the snowman is capable of waiting for the summer before melting.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "waiting for",
+    "knowledges": []
+  },
+  {
+    "query": "If a gift is large, the box it comes in will not be small.",
+    "answer": "yes",
+    "relational_prompt": "if",
+    "topic_prompt": "large",
+    "knowledges": []
+  },
+  {
+    "query": "Using a towel to dry yourself after a shower actually causes that object to become more wet.",
+    "answer": "yes",
+    "relational_prompt": "causes",
+    "topic_prompt": "wet",
+    "knowledges": []
+  },
+  {
+    "query": "It has not been one year if 365 days have not elapsed.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "year",
+    "knowledges": []
+  },
+  {
+    "query": "Grain is used after cereal is made?",
+    "answer": "no",
+    "relational_prompt": "after",
+    "topic_prompt": "grain",
+    "knowledges": []
+  },
+  {
+    "query": "Plus cannot be minus.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "plus",
+    "knowledges": []
+  },
+  {
+    "query": "Police officers always follow traffic laws and drive safely unless they are targeting a violator.",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "drive",
+    "knowledges": []
+  },
+  {
+    "query": "The word revolution comes after evolution in abc order.",
+    "answer": "yes",
+    "relational_prompt": "after",
+    "topic_prompt": "revolution",
+    "knowledges": []
+  },
+  {
+    "query": "Is a rook allowed to move diagonally in chess?",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "move",
+    "knowledges": []
+  },
+  {
+    "query": "Sometimes a son is older than a father.",
+    "answer": "no",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "son",
+    "knowledges": []
+  },
+  {
+    "query": "All meals served on flights must always be pre-loaded in advance.",
+    "answer": "yes",
+    "relational_prompt": "all",
+    "topic_prompt": "meal",
+    "knowledges": []
+  },
+  {
+    "query": "Jenson Button is a two time world champion in F1.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "button",
+    "knowledges": []
+  },
+  {
+    "query": "A person in a country cannot buy a star name?",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "country",
+    "knowledges": []
+  },
+  {
+    "query": "If you drink one can of juice and then buy two more cans of juice and keep them cold in the fridge, have you only drank one can of juice total?",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "one",
+    "knowledges": []
+  },
+  {
+    "query": "Adults in England almost never add salt to their afternoon tea.",
+    "answer": "yes",
+    "relational_prompt": "almost never",
+    "topic_prompt": "add",
+    "knowledges": []
+  },
+  {
+    "query": "If a person needs food to survive it possibly causes them to steal?",
+    "answer": "yes",
+    "relational_prompt": "causes",
+    "topic_prompt": "need",
+    "knowledges": []
+  },
+  {
+    "query": "Living is before most alphabetically.",
+    "answer": "yes",
+    "relational_prompt": "most",
+    "topic_prompt": "living",
+    "knowledges": []
+  },
+  {
+    "query": "If you work third shift, you most likely sleep during the day.",
+    "answer": "yes",
+    "relational_prompt": "if",
+    "topic_prompt": "day",
+    "knowledges": []
+  },
+  {
+    "query": "Pennies on a train track are part of what makes a train move.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "train",
+    "knowledges": []
+  },
+  {
+    "query": "August can never be first month of the year.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "august",
+    "knowledges": []
+  },
+  {
+    "query": "After cars and planes became popular for transportation, the only way to ride the rails in the US is on an Amtrak train.",
+    "answer": "yes",
+    "relational_prompt": "after",
+    "topic_prompt": "rail",
+    "knowledges": []
+  },
+  {
+    "query": "A painter can use clay to make their paintings.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "painter",
+    "knowledges": []
+  },
+  {
+    "query": "Most dogs are smaller than cats.",
+    "answer": "no",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "dog",
+    "knowledges": []
+  },
+  {
+    "query": "Football competition format is capable of being changed during the event.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "format",
+    "knowledges": []
+  },
+  {
+    "query": "Inner tubes are part of the very latest and most expensive mountain bikes.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "tubes",
+    "knowledges": []
+  },
+  {
+    "query": "Is a toyota tacoma truck larger than a toyota prius.",
+    "answer": "yes",
+    "relational_prompt": "larger than",
+    "topic_prompt": "truck",
+    "knowledges": []
+  },
+  {
+    "query": "Religion is a man made concept.",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "religion",
+    "knowledges": []
+  },
+  {
+    "query": "The office is capable of making people laugh.",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "office",
+    "knowledges": []
+  },
+  {
+    "query": "Scottish haggis has traditionally been served in a sheep's lung.",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "lung",
+    "knowledges": []
+  },
+  {
+    "query": "Tarot cards are interesting because they are actually magic.",
+    "answer": "no",
+    "relational_prompt": "because",
+    "topic_prompt": "cards",
+    "knowledges": []
+  },
+  {
+    "query": "Polio can paralyze a person's lungs.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "lung",
+    "knowledges": []
+  },
+  {
+    "query": "At least two marbles can fit inside a human's cheek.",
+    "answer": "yes",
+    "relational_prompt": "at least two",
+    "topic_prompt": "cheek",
+    "knowledges": []
+  },
+  {
+    "query": "Ice can never melt unless temperature rises above 0C.",
+    "answer": "yes",
+    "relational_prompt": "never",
+    "topic_prompt": "ice",
+    "knowledges": []
+  },
+  {
+    "query": "Is it true that if you make more than the federal poverty level you cannot receive food stamp to get free meals?",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "meal",
+    "knowledges": []
+  },
+  {
+    "query": "Matchbox cars are larger than Micro Machines.",
+    "answer": "yes",
+    "relational_prompt": "larger than",
+    "topic_prompt": "machines",
+    "knowledges": []
+  },
+  {
+    "query": "At least one mayor is not a man.",
+    "answer": "yes",
+    "relational_prompt": "at least one",
+    "topic_prompt": "mayor",
+    "knowledges": []
+  },
+  {
+    "query": "When you cut two pieces of pie the same size as each other, they will taste different.",
+    "answer": "no",
+    "relational_prompt": "same size as",
+    "topic_prompt": "cut",
+    "knowledges": []
+  },
+  {
+    "query": "Branches of a family tree are something that is capable of being sawed off.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "branches",
+    "knowledges": []
+  },
+  {
+    "query": "Was lead ever part of car fuel?",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "lead",
+    "knowledges": []
+  },
+  {
+    "query": "If you pass someone who is in second place, you will be in second place because there is still someone ahead of you.",
+    "answer": "yes",
+    "relational_prompt": "because",
+    "topic_prompt": "second",
+    "knowledges": []
+  },
+  {
+    "query": "Every phrase has a complete sentence.",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "complete",
+    "knowledges": []
+  },
+  {
+    "query": "We can see the dark side of the moon only if it is a lunar eclipse.",
+    "answer": "no",
+    "relational_prompt": "only if",
+    "topic_prompt": "moon",
+    "knowledges": []
+  },
+  {
+    "query": "Buffalo wings always get a person messy.",
+    "answer": "yes",
+    "relational_prompt": "always",
+    "topic_prompt": "buffalo",
+    "knowledges": []
+  },
+  {
+    "query": "An Mastercard credit card is sometimes smaller than an AMEX credit card.",
+    "answer": "no",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "credit",
+    "knowledges": []
+  },
+  {
+    "query": "Tools can have many uses and some tools have no use at all.",
+    "answer": "no",
+    "relational_prompt": "have",
+    "topic_prompt": "tools",
+    "knowledges": []
+  },
+  {
+    "query": "As of 2020, is it true that the bank co-founded on December 1st by Morgan has more employees than the bank known as BoA?",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "bank",
+    "knowledges": []
+  },
+  {
+    "query": "April cannot have more days than May.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "april",
+    "knowledges": []
+  },
+  {
+    "query": "Parents will treat their kids to a piece of candy, only if they behave.",
+    "answer": "no",
+    "relational_prompt": "only if",
+    "topic_prompt": "piece",
+    "knowledges": []
+  },
+  {
+    "query": "In the following list, there are at least two items that can be found in a dining hall: tables, aliens, bears, a lunch menu.",
+    "answer": "yes",
+    "relational_prompt": "at least two",
+    "topic_prompt": "hall",
+    "knowledges": []
+  },
+  {
+    "query": "No two oceans are of the same size as each other.",
+    "answer": "yes",
+    "relational_prompt": "same size as",
+    "topic_prompt": "ocean",
+    "knowledges": []
+  },
+  {
+    "query": "At a beachfront store, payment in sand dollars is accepted.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "dollars",
+    "knowledges": []
+  },
+  {
+    "query": "A copy can say different things than the original.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "copy",
+    "knowledges": []
+  },
+  {
+    "query": "All clothes cannot fit all people.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "clothes",
+    "knowledges": []
+  },
+  {
+    "query": "When there is an abundant supply of housing, home buyers would sometimes bid for a home at a higher price.",
+    "answer": "no",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "bid",
+    "knowledges": []
+  },
+  {
+    "query": "Falling off the cliff guarantees you death.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "falling",
+    "knowledges": []
+  },
+  {
+    "query": "Can you biological child be older than you?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "child",
+    "knowledges": []
+  },
+  {
+    "query": "Washington DC is located further south than Washington State.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "south",
+    "knowledges": []
+  },
+  {
+    "query": "A rectangular shape has four times two number of edges.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "edge",
+    "knowledges": []
+  },
+  {
+    "query": "The left arm muscle is capapble of lifting a tree.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "muscle",
+    "knowledges": []
+  },
+  {
+    "query": "Half and Half gets its name because it has roughly half the fat of whole milk.",
+    "answer": "no",
+    "relational_prompt": "because",
+    "topic_prompt": "half",
+    "knowledges": []
+  },
+  {
+    "query": "Captain kirk is part of star wars.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "wars",
+    "knowledges": []
+  },
+  {
+    "query": "The adult human body has over 9 trillion nerves.",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "human body",
+    "knowledges": []
+  },
+  {
+    "query": "All salmon swim up river for reproductive purposes.",
+    "answer": "yes",
+    "relational_prompt": "all",
+    "topic_prompt": "river",
+    "knowledges": []
+  },
+  {
+    "query": "Some believe your enemy should be part of the people you keep close to you.",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "enemy",
+    "knowledges": []
+  },
+  {
+    "query": "North pole is part of south pole.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "north",
+    "knowledges": []
+  },
+  {
+    "query": "Doing a puzzle is done in this order:  complete edges, find same colors, place pieces.",
+    "answer": "yes",
+    "relational_prompt": "done in this order",
+    "topic_prompt": "piece",
+    "knowledges": []
+  },
+  {
+    "query": "Instructions should be followed in all cases.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "instructions",
+    "knowledges": []
+  },
+  {
+    "query": "Bear has two legs.",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "bear",
+    "knowledges": []
+  },
+  {
+    "query": "Can dark be one of the causes of plant death?",
+    "answer": "yes",
+    "relational_prompt": "causes",
+    "topic_prompt": "dark",
+    "knowledges": []
+  },
+  {
+    "query": "A period is the same size as the little dot at the bottom of an exclamation point.",
+    "answer": "yes",
+    "relational_prompt": "same size as",
+    "topic_prompt": "period",
+    "knowledges": []
+  },
+  {
+    "query": "A century has two hundred years.",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "century",
+    "knowledges": []
+  },
+  {
+    "query": "A border is exactly where things are meant to end.",
+    "answer": "yes",
+    "relational_prompt": "exactly",
+    "topic_prompt": "border",
+    "knowledges": []
+  },
+  {
+    "query": "Rain is a form of ice that has not frozen yet?",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "rain",
+    "knowledges": []
+  },
+  {
+    "query": "Do all soldiers have guns?",
+    "answer": "no",
+    "relational_prompt": "have",
+    "topic_prompt": "soldiers",
+    "knowledges": []
+  },
+  {
+    "query": "Singing long extended notes is part of the staccato style of singing.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "notes",
+    "knowledges": []
+  },
+  {
+    "query": "To split something in half each part of it is equal?",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "split",
+    "knowledges": []
+  },
+  {
+    "query": "Going to a shop causes you to spend money.",
+    "answer": "yes",
+    "relational_prompt": "causes",
+    "topic_prompt": "shop",
+    "knowledges": []
+  },
+  {
+    "query": "Do all pens have ink in them?",
+    "answer": "no",
+    "relational_prompt": "all",
+    "topic_prompt": "pen",
+    "knowledges": []
+  },
+  {
+    "query": "Pocket usually has holes.",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "pocket",
+    "knowledges": []
+  },
+  {
+    "query": "Is alcohol not for sale in some counties across America?",
+    "answer": "yes",
+    "relational_prompt": "is",
+    "topic_prompt": "alcohol",
+    "knowledges": []
+  },
+  {
+    "query": "Earth almost always spins in one direction, but when the poles are reversed as has happened a few times in history, then it spins the other way?",
+    "answer": "no",
+    "relational_prompt": "almost always",
+    "topic_prompt": "earth",
+    "knowledges": []
+  },
+  {
+    "query": "You might be in New York City if you can see The Eiffel Tower.",
+    "answer": "no",
+    "relational_prompt": "if",
+    "topic_prompt": "city",
+    "knowledges": []
+  },
+  {
+    "query": "A sphere causes rectangles.",
+    "answer": "no",
+    "relational_prompt": "causes",
+    "topic_prompt": "sphere",
+    "knowledges": []
+  },
+  {
+    "query": "A family cannot have less than two people.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "family",
+    "knowledges": []
+  },
+  {
+    "query": "If the mathematical sign is plus then seven and seven will provide seventy seven.",
+    "answer": "no",
+    "relational_prompt": "if",
+    "topic_prompt": "sign",
+    "knowledges": []
+  },
+  {
+    "query": "Scientists now believe a disease of the joint causes Osteoarthritis rather than the wearing down of the joints over time.",
+    "answer": "yes",
+    "relational_prompt": "causes",
+    "topic_prompt": "now",
+    "knowledges": []
+  },
+  {
+    "query": "Seats are always larger in business class.",
+    "answer": "yes",
+    "relational_prompt": "always",
+    "topic_prompt": "seats",
+    "knowledges": []
+  },
+  {
+    "query": "Large shirts fit loosely on small people.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "large",
+    "knowledges": []
+  },
+  {
+    "query": "You should push the button before the elevator moves.",
+    "answer": "yes",
+    "relational_prompt": "before",
+    "topic_prompt": "button",
+    "knowledges": []
+  },
+  {
+    "query": "When washing clothes things are usually done in this order clothes are prewashed then dried then treated for spots then re washed.",
+    "answer": "no",
+    "relational_prompt": "done in this order",
+    "topic_prompt": "clothes",
+    "knowledges": []
+  },
+  {
+    "query": "The Earth is a planet that is made primarily of air and helium?",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "planet",
+    "knowledges": []
+  },
+  {
+    "query": "Text word is made up of two letters.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "text",
+    "knowledges": []
+  },
+  {
+    "query": "\"The Neighbors\" is a TV show from Australia that debuted in 1985.",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "neighbors",
+    "knowledges": []
+  },
+  {
+    "query": "The presidential mountains are part of the Northern bound route on the Appalachian Trail.",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "mountains",
+    "knowledges": []
+  },
+  {
+    "query": "Is a turtle able to swim at a very fast speed?",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "speed",
+    "knowledges": []
+  },
+  {
+    "query": "Most islands are capable of floating away.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "islands",
+    "knowledges": []
+  },
+  {
+    "query": "Led lights almost always cause people pain in the eyes.",
+    "answer": "no",
+    "relational_prompt": "almost always",
+    "topic_prompt": "led",
+    "knowledges": []
+  },
+  {
+    "query": "Are there at least two legs on a centipede?",
+    "answer": "yes",
+    "relational_prompt": "at least two",
+    "topic_prompt": "legs",
+    "knowledges": []
+  },
+  {
+    "query": "To defeat the alien in the movie \"Signs\", Tom Hanks had to spill alcohol on the aliens, which causes them to have extreme burns and melt.",
+    "answer": "no",
+    "relational_prompt": "causes",
+    "topic_prompt": "signs",
+    "knowledges": []
+  },
+  {
+    "query": "Smoke cannot rise.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "smoke",
+    "knowledges": []
+  },
+  {
+    "query": "Every movie is directed by someone.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "movie",
+    "knowledges": []
+  },
+  {
+    "query": "Is it required for a host to greet their guests in this order: child, teenager, adult?",
+    "answer": "no",
+    "relational_prompt": "in this order",
+    "topic_prompt": "host",
+    "knowledges": []
+  },
+  {
+    "query": "Prisoners are same size as regular people.",
+    "answer": "yes",
+    "relational_prompt": "same size as",
+    "topic_prompt": "prisoners",
+    "knowledges": []
+  },
+  {
+    "query": "Do German people cook pork knees?",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "knees",
+    "knowledges": []
+  },
+  {
+    "query": "Cheek has the same number of letters as check.",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": "cheek",
+    "knowledges": []
+  },
+  {
+    "query": "You can never return just a part of a book to the store.",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "return",
+    "knowledges": []
+  },
+  {
+    "query": "You can day dream if you sleep.",
+    "answer": "no",
+    "relational_prompt": "if",
+    "topic_prompt": "dream",
+    "knowledges": []
+  },
+  {
+    "query": "Execution of criminals has decreased around the world?",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": "execution",
+    "knowledges": []
+  },
+  {
+    "query": "The Curiosity rover on Mars can still operate during the administration of America's forty-sixth President.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "curiosity",
+    "knowledges": []
+  },
+  {
+    "query": "Shadows appear most visible in the absence of light.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "shadows",
+    "knowledges": []
+  },
+  {
+    "query": "Does cream come in a larger than milk carton container?",
+    "answer": "no",
+    "relational_prompt": "larger than",
+    "topic_prompt": "cream",
+    "knowledges": []
+  },
+  {
+    "query": "Is a cold-water tap smaller than a hot one?",
+    "answer": "no",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "cold",
+    "knowledges": []
+  },
+  {
+    "query": "You can wash your clothes only if you are not wearing them at the time.",
+    "answer": "yes",
+    "relational_prompt": "only if",
+    "topic_prompt": "wash",
+    "knowledges": []
+  },
+  {
+    "query": "The table of contents comes after the index.",
+    "answer": "no",
+    "relational_prompt": "after",
+    "topic_prompt": "contents",
+    "knowledges": []
+  },
+  {
+    "query": "An arch can be a circle.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "arch",
+    "knowledges": []
+  },
+  {
+    "query": "The seasons are ordered like this: winter, spring, summer and fall.",
+    "answer": "yes",
+    "relational_prompt": "ordered like this",
+    "topic_prompt": "spring",
+    "knowledges": []
+  },
+  {
+    "query": "Mountains almost always move with the tectonic plates...yes or no?",
+    "answer": "yes",
+    "relational_prompt": "almost always",
+    "topic_prompt": "mountains",
+    "knowledges": []
+  },
+  {
+    "query": "Should you keep all of your money in banks because if not aliens from outer space might steal it?",
+    "answer": "no",
+    "relational_prompt": "because",
+    "topic_prompt": "banks",
+    "knowledges": []
+  },
+  {
+    "query": "Guests are counted after they arrive.",
+    "answer": "yes",
+    "relational_prompt": "after",
+    "topic_prompt": "guests",
+    "knowledges": []
+  },
+  {
+    "query": "The national anthem is sung before the athletes leave the locker room for the field.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "field",
+    "knowledges": []
+  },
+  {
+    "query": "A Mechanic that can fix a Ford will usually have no trouble fixing  a Ferrari.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "fix",
+    "knowledges": []
+  },
+  {
+    "query": "A painter can sometimes paint things without them being considered art.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "painter",
+    "knowledges": []
+  },
+  {
+    "query": "The letter before z is a.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "letter",
+    "knowledges": []
+  },
+  {
+    "query": "A ruler cannot measure mass.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "ruler",
+    "knowledges": []
+  },
+  {
+    "query": "A negative charge in atoms can mean that they have fewer than 8 valence electrons.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "negative",
+    "knowledges": []
+  },
+  {
+    "query": "A sail on a sailboat is there because that is how the boats are identified when on the ocean.",
+    "answer": "no",
+    "relational_prompt": "because",
+    "topic_prompt": "sail",
+    "knowledges": []
+  },
+  {
+    "query": "You can settle down any place you want as long as you take all the legal steps.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "settle",
+    "knowledges": []
+  },
+  {
+    "query": "The stem to the bean plant in Jack and the Beanstalk is normal in size.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "stem",
+    "knowledges": []
+  },
+  {
+    "query": "All eggs in a dozen will equal 12 eggs.",
+    "answer": "yes",
+    "relational_prompt": "all",
+    "topic_prompt": "eggs",
+    "knowledges": []
+  },
+  {
+    "query": "Does milk always come from a cow?",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "milk",
+    "knowledges": []
+  },
+  {
+    "query": "The rapper who sang with the rock group Body Count has the stage name Ice Nine, which was taken from a Vonnegut novel.",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "ice",
+    "knowledges": []
+  },
+  {
+    "query": "Do we eat meals in this order: breakfast in the morning, dinner at noon, and lunch in the evening?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "evening",
+    "knowledges": []
+  },
+  {
+    "query": "You can get a cold before the flu season if you only make your body cold.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "cold",
+    "knowledges": []
+  },
+  {
+    "query": "Do bones almost always decay sometimes immediately?",
+    "answer": "no",
+    "relational_prompt": "almost always",
+    "topic_prompt": "bones",
+    "knowledges": []
+  },
+  {
+    "query": "You can drink water out of a cereal bowl.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "bowl",
+    "knowledges": []
+  },
+  {
+    "query": "There is no phrase that does not contain vowels.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "phrase",
+    "knowledges": []
+  },
+  {
+    "query": "Churchill was an arch rival of Eisenhower.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "arch",
+    "knowledges": []
+  },
+  {
+    "query": "Noon comes before dawn?",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "noon",
+    "knowledges": []
+  },
+  {
+    "query": "Can you refund an Amazon delivery after it has been delivered to you?",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": "delivery",
+    "knowledges": []
+  },
+  {
+    "query": "Are all the pages in a book the same size as each other?",
+    "answer": "yes",
+    "relational_prompt": "same size as",
+    "topic_prompt": "page",
+    "knowledges": []
+  },
+  {
+    "query": "Do all kitchens have a table?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "table",
+    "knowledges": []
+  },
+  {
+    "query": "A soldier in chess is a queen if it gets promoted.",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "queen",
+    "knowledges": []
+  },
+  {
+    "query": "Is it true that an angel is almost never seen on Earth?",
+    "answer": "yes",
+    "relational_prompt": "almost never",
+    "topic_prompt": "angel",
+    "knowledges": []
+  },
+  {
+    "query": "The assassination of a prince led to the first World War?",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "led",
+    "knowledges": []
+  },
+  {
+    "query": "The human body can live for hundreds of years only if a person takes care of it?",
+    "answer": "no",
+    "relational_prompt": "only if",
+    "topic_prompt": "human body",
+    "knowledges": []
+  },
+  {
+    "query": "If the Republican mayor is smaller than the Democratic chief of police and they are both elected officials could the mayor be the biggest Republican elected offical?",
+    "answer": "yes",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "mayor",
+    "knowledges": []
+  },
+  {
+    "query": "A waiter will never sit on the table while taking your food order.",
+    "answer": "yes",
+    "relational_prompt": "never",
+    "topic_prompt": "table",
+    "knowledges": []
+  },
+  {
+    "query": "Circles is a song by romanian artist.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "circles",
+    "knowledges": []
+  },
+  {
+    "query": "Education is important because the teacher has to have a job.",
+    "answer": "no",
+    "relational_prompt": "because",
+    "topic_prompt": "education",
+    "knowledges": []
+  },
+  {
+    "query": "Part of this century was production of cars.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "century",
+    "knowledges": []
+  },
+  {
+    "query": "The contents of a food product are listed on its package but some are like a foreign language to many people.",
+    "answer": "yes",
+    "relational_prompt": "some",
+    "topic_prompt": "contents",
+    "knowledges": []
+  },
+  {
+    "query": "A disk has five letters.",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "disk",
+    "knowledges": []
+  },
+  {
+    "query": "Was money sometimes represented by strings of beads at the site of modern-day Wall Street?",
+    "answer": "yes",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "money",
+    "knowledges": []
+  },
+  {
+    "query": "Pluto is a planet and not considered a dwarf object.",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "planet",
+    "knowledges": []
+  },
+  {
+    "query": "Slip is smaller than slipper in number of letters.",
+    "answer": "yes",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "slip",
+    "knowledges": []
+  },
+  {
+    "query": "Can you alter the visual part of yourself?",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "alter",
+    "knowledges": []
+  },
+  {
+    "query": "If you have a 1 mm thick knife, can you make a 0.5 mm cut on your fillet steak?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "cut",
+    "knowledges": []
+  },
+  {
+    "query": "You can light a few candles when you go to a temple.",
+    "answer": "yes",
+    "relational_prompt": "few",
+    "topic_prompt": "light",
+    "knowledges": []
+  },
+  {
+    "query": "July in Australia is almost always cold.",
+    "answer": "yes",
+    "relational_prompt": "almost always",
+    "topic_prompt": "july",
+    "knowledges": []
+  },
+  {
+    "query": "Minivans almost always have sliding doors on the sides and the rear of the vehicle.",
+    "answer": "no",
+    "relational_prompt": "almost always",
+    "topic_prompt": "side",
+    "knowledges": []
+  },
+  {
+    "query": "Actors guild is a membership only body.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "actors",
+    "knowledges": []
+  },
+  {
+    "query": "Very few types of birds are able to talk?",
+    "answer": "yes",
+    "relational_prompt": "few",
+    "topic_prompt": "bird",
+    "knowledges": []
+  },
+  {
+    "query": "Spain fought America because of bad blood between the two countries.",
+    "answer": "no",
+    "relational_prompt": "because",
+    "topic_prompt": "spain",
+    "knowledges": []
+  },
+  {
+    "query": "Is a quarter worth more than three dimes?",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "quarter",
+    "knowledges": []
+  },
+  {
+    "query": "Branches are smaller than main offices.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "branches",
+    "knowledges": []
+  },
+  {
+    "query": "A chain cannot be made of paper.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "chain",
+    "knowledges": []
+  },
+  {
+    "query": "Do you catch a bus before leaving home?",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "catch",
+    "knowledges": []
+  },
+  {
+    "query": "You need tools if you are making a snowman.",
+    "answer": "no",
+    "relational_prompt": "if",
+    "topic_prompt": "tools",
+    "knowledges": []
+  },
+  {
+    "query": "Material can be used to make clothing and construction materials are no exception.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "material",
+    "knowledges": []
+  },
+  {
+    "query": "Most countries export olives.",
+    "answer": "no",
+    "relational_prompt": "most",
+    "topic_prompt": "export",
+    "knowledges": []
+  },
+  {
+    "query": "Did Julia Roberts star in the Sound of Music.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "sound",
+    "knowledges": []
+  },
+  {
+    "query": "A throat can run.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "throat",
+    "knowledges": []
+  },
+  {
+    "query": "Can you continue to work after you retire and are collecting Social Security?",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "continue",
+    "knowledges": []
+  },
+  {
+    "query": "Some islands occur in ponds.",
+    "answer": "yes",
+    "relational_prompt": "some",
+    "topic_prompt": "islands",
+    "knowledges": []
+  },
+  {
+    "query": "There is an expression, the tables have turned, and it means that its time to go to bed.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "tables",
+    "knowledges": []
+  },
+  {
+    "query": "If you are sailing in a small sailboat should you never go out of sight of shore?",
+    "answer": "yes",
+    "relational_prompt": "never",
+    "topic_prompt": "shore",
+    "knowledges": []
+  },
+  {
+    "query": "The ground floor of the Empire State Building is larger than the top floor.",
+    "answer": "yes",
+    "relational_prompt": "larger than",
+    "topic_prompt": "ground",
+    "knowledges": []
+  },
+  {
+    "query": "Is a block of ice still used to refrigerate foods?",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "ice",
+    "knowledges": []
+  },
+  {
+    "query": "A copy is a duplicate of something that is identical to the original, though when copying something physical sometimes flaws are introduced making it less identical and more unique?",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "copy",
+    "knowledges": []
+  },
+  {
+    "query": "Ice cream can be 1000 degrees hot.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "cream",
+    "knowledges": []
+  },
+  {
+    "query": "Just as in chess, there is always at least one king on the board (or, more correctly, there is one on each side) at the beginning of a game of checkers.",
+    "answer": "no",
+    "relational_prompt": "at least one",
+    "topic_prompt": "king",
+    "knowledges": []
+  },
+  {
+    "query": "The answer to 5 plus 10 times 10 comes before the number 100 on a list of numbers from small to large.",
+    "answer": "yes",
+    "relational_prompt": "before",
+    "topic_prompt": "plus",
+    "knowledges": []
+  },
+  {
+    "query": "You always need at least two matching shoes to wear at a party.",
+    "answer": "yes",
+    "relational_prompt": "at least two",
+    "topic_prompt": "shoes",
+    "knowledges": []
+  },
+  {
+    "query": "Is it true that August has more than 31 days?",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "august",
+    "knowledges": []
+  },
+  {
+    "query": "A three cylinder engine cannot generate more power than a 12 cylinder one.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "cylinder",
+    "knowledges": []
+  },
+  {
+    "query": "Shadows can never be larger than the object.",
+    "answer": "no",
+    "relational_prompt": "larger than",
+    "topic_prompt": "shadows",
+    "knowledges": []
+  },
+  {
+    "query": "A paper disc, mounted in a high-speed rotary tool, is capable of cutting wood.",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "paper",
+    "knowledges": []
+  },
+  {
+    "query": "A person who lives in Wisconsin is capable of farming grapefruit on their farm.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "farm",
+    "knowledges": []
+  },
+  {
+    "query": "The movie Split released in 2016 is related to another superhero movie starring Bruce Willis.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "split",
+    "knowledges": []
+  },
+  {
+    "query": "The US and france both have independence day in the same month because july is when historical events happened that warrant celebrations.",
+    "answer": "yes",
+    "relational_prompt": "because",
+    "topic_prompt": "independence",
+    "knowledges": []
+  },
+  {
+    "query": "Doctors can prescribe TV shows to watch instead of medicine.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "doctors",
+    "knowledges": []
+  },
+  {
+    "query": "A Sherpa is capable of climbing mountains like Everest without the need for supplementary oxygen.",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "mountains",
+    "knowledges": []
+  },
+  {
+    "query": "A witness causes charges to be filed.",
+    "answer": "yes",
+    "relational_prompt": "causes",
+    "topic_prompt": "witness",
+    "knowledges": []
+  },
+  {
+    "query": "Driving at your car's maximum speed causes the police to come after you.",
+    "answer": "yes",
+    "relational_prompt": "causes",
+    "topic_prompt": "maximum",
+    "knowledges": []
+  },
+  {
+    "query": "A podiatrist is a doctor that aids in the delivery of a baby.",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "delivery",
+    "knowledges": []
+  },
+  {
+    "query": "Small insects never eat meat.",
+    "answer": "no",
+    "relational_prompt": "never",
+    "topic_prompt": "insects",
+    "knowledges": []
+  },
+  {
+    "query": "Most movie trailers are for features that last at least one hour.",
+    "answer": "yes",
+    "relational_prompt": "at least one",
+    "topic_prompt": "hour",
+    "knowledges": []
+  },
+  {
+    "query": "Does cream of wheat come in a can?",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "cream",
+    "knowledges": []
+  },
+  {
+    "query": "In the American high school system, you move on to become a senior only after you have completed your freshman and junior year.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "senior",
+    "knowledges": []
+  },
+  {
+    "query": "Can a person be out bid after an auction is over?",
+    "answer": "no",
+    "relational_prompt": "after",
+    "topic_prompt": "bid",
+    "knowledges": []
+  },
+  {
+    "query": "Is an inch a part of the metric system?",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "inch",
+    "knowledges": []
+  },
+  {
+    "query": "Ocean waves will generate natural energy only if a turbine is present in the water.",
+    "answer": "yes",
+    "relational_prompt": "only if",
+    "topic_prompt": "wave",
+    "knowledges": []
+  },
+  {
+    "query": "The moon cannot change shapes.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "moon",
+    "knowledges": []
+  },
+  {
+    "query": "All red paint is red.",
+    "answer": "yes",
+    "relational_prompt": "all",
+    "topic_prompt": "paint",
+    "knowledges": []
+  },
+  {
+    "query": "Plastic bags are larger than paper.",
+    "answer": "no",
+    "relational_prompt": "larger than",
+    "topic_prompt": "paper",
+    "knowledges": []
+  },
+  {
+    "query": "You cannot have your stomach below your lungs.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "stomach",
+    "knowledges": []
+  },
+  {
+    "query": "A period of 20 years is never longer than two decades.",
+    "answer": "yes",
+    "relational_prompt": "never",
+    "topic_prompt": "year",
+    "knowledges": []
+  },
+  {
+    "query": "Every link on the internet can be clicked on.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "link",
+    "knowledges": []
+  },
+  {
+    "query": "Snow is capable of killing a person.",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "snow",
+    "knowledges": []
+  },
+  {
+    "query": "In some locations, it sometimes stays dark for all 24 hours of the day.",
+    "answer": "yes",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "dark",
+    "knowledges": []
+  },
+  {
+    "query": "Tables and chairs are often sold after a restaurant closes down for the night.",
+    "answer": "no",
+    "relational_prompt": "after",
+    "topic_prompt": "tables",
+    "knowledges": []
+  },
+  {
+    "query": "A witness cannot talk over a judge in a court room.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "witness",
+    "knowledges": []
+  },
+  {
+    "query": "College is fun only if you are sociable.",
+    "answer": "yes",
+    "relational_prompt": "only if",
+    "topic_prompt": "college",
+    "knowledges": []
+  },
+  {
+    "query": "If a child is at least two, or over twenty-four months most people start saying their age using a year.",
+    "answer": "yes",
+    "relational_prompt": "at least two",
+    "topic_prompt": "year",
+    "knowledges": []
+  },
+  {
+    "query": "Chief executive salary is often larger than all other employees combined.",
+    "answer": "yes",
+    "relational_prompt": "larger than",
+    "topic_prompt": "executive",
+    "knowledges": []
+  },
+  {
+    "query": "Clothing is the same size as the wearer.",
+    "answer": "yes",
+    "relational_prompt": "same size as",
+    "topic_prompt": "clothing",
+    "knowledges": []
+  },
+  {
+    "query": "You can bake a cake if you add the ingredients in this order: Milk, frosting, eggs, butter, and sugar; and after baking it: flour.",
+    "answer": "no",
+    "relational_prompt": "in this order",
+    "topic_prompt": "add",
+    "knowledges": []
+  },
+  {
+    "query": "You can't milk an ox that is the same size as a giraffe.",
+    "answer": "yes",
+    "relational_prompt": "same size as",
+    "topic_prompt": "milk",
+    "knowledges": []
+  },
+  {
+    "query": "In \"Back to the Future\" Marty is capable of going back in time.",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "future",
+    "knowledges": []
+  },
+  {
+    "query": "A child who loses a game is capable of being extremely happy.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "lose",
+    "knowledges": []
+  },
+  {
+    "query": "A person has legs the same size as each other.",
+    "answer": "yes",
+    "relational_prompt": "same size as",
+    "topic_prompt": "legs",
+    "knowledges": []
+  },
+  {
+    "query": "There is at least one example of human blood type in the following list: AC, AH, C, OH, BB.",
+    "answer": "no",
+    "relational_prompt": "at least one",
+    "topic_prompt": "blood",
+    "knowledges": []
+  },
+  {
+    "query": "The water is part of every planet's eco-system.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "water",
+    "knowledges": []
+  },
+  {
+    "query": "Does gas almost always have an odor?",
+    "answer": "no",
+    "relational_prompt": "almost always",
+    "topic_prompt": "gas",
+    "knowledges": []
+  },
+  {
+    "query": "Ships always go to the graveyard because they are broken down into scrap metal.",
+    "answer": "yes",
+    "relational_prompt": "because",
+    "topic_prompt": "ships",
+    "knowledges": []
+  },
+  {
+    "query": "The Middle is an American television series that has 9 seasons?",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": "middle",
+    "knowledges": []
+  },
+  {
+    "query": "Fingers larger than average are called Mega Fingers?",
+    "answer": "no",
+    "relational_prompt": "larger than",
+    "topic_prompt": "fingers",
+    "knowledges": []
+  },
+  {
+    "query": "A child's seat is always smaller than a regular car seat.",
+    "answer": "yes",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "seat",
+    "knowledges": []
+  },
+  {
+    "query": "A root beer can get you drunk.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "root",
+    "knowledges": []
+  },
+  {
+    "query": "Liquid can turn to a solid in heat.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "liquid",
+    "knowledges": []
+  },
+  {
+    "query": "Is a flamingo capable of being tired?",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "tired",
+    "knowledges": []
+  },
+  {
+    "query": "Is a cylinder almost never round?",
+    "answer": "no",
+    "relational_prompt": "almost never",
+    "topic_prompt": "cylinder",
+    "knowledges": []
+  },
+  {
+    "query": "If a tank is full it has no room for more gas.",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": "full",
+    "knowledges": []
+  },
+  {
+    "query": "Does executive sometimes have less benefits than receptionist.",
+    "answer": "no",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "executive",
+    "knowledges": []
+  },
+  {
+    "query": "Chicago is larger than boston.",
+    "answer": "yes",
+    "relational_prompt": "larger than",
+    "topic_prompt": "chicago",
+    "knowledges": []
+  },
+  {
+    "query": "If a painter opens a can of paint and drinks it, will he get an upset stomach?",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "painter",
+    "knowledges": []
+  },
+  {
+    "query": "Did the lockerbie crash happen because of a fault with the plane?",
+    "answer": "no",
+    "relational_prompt": "because",
+    "topic_prompt": "plane",
+    "knowledges": []
+  },
+  {
+    "query": "You cannot be born on February 29th on a leap year.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "year",
+    "knowledges": []
+  },
+  {
+    "query": "Princeton is the oldest Ivy League school.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "princeton",
+    "knowledges": []
+  },
+  {
+    "query": "The PH of an acid is higher on the scale than the PH of a base?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "acid",
+    "knowledges": []
+  },
+  {
+    "query": "Your feet are usually larger than the shoes you wear.",
+    "answer": "no",
+    "relational_prompt": "larger than",
+    "topic_prompt": "wear",
+    "knowledges": []
+  },
+  {
+    "query": "All bulls are male cows.",
+    "answer": "yes",
+    "relational_prompt": "all",
+    "topic_prompt": "bull",
+    "knowledges": []
+  },
+  {
+    "query": "Do all birds fly?",
+    "answer": "no",
+    "relational_prompt": "all",
+    "topic_prompt": "birds",
+    "knowledges": []
+  },
+  {
+    "query": "A girl is capable of being called peter.",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "peter",
+    "knowledges": []
+  },
+  {
+    "query": "Getting lost is easier to do if you have a map.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "map",
+    "knowledges": []
+  },
+  {
+    "query": "A loud, booming sound is always a part of every thunderstorm.",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "sound",
+    "knowledges": []
+  },
+  {
+    "query": "Reading the names of conveyances in a classic Candy and Martin movie should be done in this order: planes, trains, and then a formal name for cars.",
+    "answer": "yes",
+    "relational_prompt": "done in this order",
+    "topic_prompt": "planes",
+    "knowledges": []
+  },
+  {
+    "query": "Even though the sun is a yellow dwarf, every other star in outer space appears to be much smaller than it when viewed from Earth.",
+    "answer": "yes",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "outer space",
+    "knowledges": []
+  },
+  {
+    "query": "Arranged by descending order of size, does the Atlantic Ocean come after the Arctic in this order?",
+    "answer": "no",
+    "relational_prompt": "in this order",
+    "topic_prompt": "atlantic ocean",
+    "knowledges": []
+  },
+  {
+    "query": "Text is pronounced same as it is spelled.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "text",
+    "knowledges": []
+  },
+  {
+    "query": "Birth cannot come after death.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "birth",
+    "knowledges": []
+  },
+  {
+    "query": "Each person shares a brain.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "each person",
+    "knowledges": []
+  },
+  {
+    "query": "The strength of a building is greater before removing support beams.",
+    "answer": "yes",
+    "relational_prompt": "before",
+    "topic_prompt": "strength",
+    "knowledges": []
+  },
+  {
+    "query": "A Christmas Story has a great scene with a pole.",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": "pole",
+    "knowledges": []
+  },
+  {
+    "query": "Decks of playing cards always have four suits.",
+    "answer": "yes",
+    "relational_prompt": "always",
+    "topic_prompt": "cards",
+    "knowledges": []
+  },
+  {
+    "query": "Does the sport boxing use a ball.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "ball",
+    "knowledges": []
+  },
+  {
+    "query": "In French the word bus is automobile?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "bus",
+    "knowledges": []
+  },
+  {
+    "query": "You don't need gas if you own a Tesla.",
+    "answer": "no",
+    "relational_prompt": "if",
+    "topic_prompt": "gas",
+    "knowledges": []
+  },
+  {
+    "query": "Spain is larger than texas.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "spain",
+    "knowledges": []
+  },
+  {
+    "query": "Do all car accident victims die?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "accident",
+    "knowledges": []
+  },
+  {
+    "query": "Slowly falling pressure almost always reduces rain.",
+    "answer": "no",
+    "relational_prompt": "almost always",
+    "topic_prompt": "reduce",
+    "knowledges": []
+  },
+  {
+    "query": "To an observer, a ball will look like it is capable of rolling up an incline on a so-called \"gravity hill\".",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "ball",
+    "knowledges": []
+  },
+  {
+    "query": "Most countries closed borders after covid.",
+    "answer": "yes",
+    "relational_prompt": "after",
+    "topic_prompt": "border",
+    "knowledges": []
+  },
+  {
+    "query": "July is a winter season in Australia.",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "season",
+    "knowledges": []
+  },
+  {
+    "query": "Most car accidents occur within 15 miles of home.",
+    "answer": "yes",
+    "relational_prompt": "most",
+    "topic_prompt": "accident",
+    "knowledges": []
+  },
+  {
+    "query": "Is it true that falling objects cannot accelerate beyond a certain speed?",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "falling",
+    "knowledges": []
+  },
+  {
+    "query": "There are a few schools that allow adults to attend.",
+    "answer": "no",
+    "relational_prompt": "few",
+    "topic_prompt": "schools",
+    "knowledges": []
+  },
+  {
+    "query": "It is called a long over in cricket only if it has more than six balls.",
+    "answer": "yes",
+    "relational_prompt": "only if",
+    "topic_prompt": "long",
+    "knowledges": []
+  },
+  {
+    "query": "Heating up a liquid causes it to become a solid.",
+    "answer": "no",
+    "relational_prompt": "causes",
+    "topic_prompt": "liquid",
+    "knowledges": []
+  },
+  {
+    "query": "If a watch is broken, it can still tell the correct time twice a day, everyday?",
+    "answer": "yes",
+    "relational_prompt": "if",
+    "topic_prompt": "watch",
+    "knowledges": []
+  },
+  {
+    "query": "Dairy farms have many cows that produce soymilk.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "farms",
+    "knowledges": []
+  },
+  {
+    "query": "A person's initials are always done in this order: First name, middle name, last name.",
+    "answer": "yes",
+    "relational_prompt": "done in this order",
+    "topic_prompt": "initial",
+    "knowledges": []
+  },
+  {
+    "query": "The knees never touch the feet.",
+    "answer": "yes",
+    "relational_prompt": "never",
+    "topic_prompt": "knees",
+    "knowledges": []
+  },
+  {
+    "query": "Tickets are more expensive if you are on higher stands.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "tickets",
+    "knowledges": []
+  },
+  {
+    "query": "You can catch a cold before you come into physical contact with someone who has a cold.",
+    "answer": "yes",
+    "relational_prompt": "before",
+    "topic_prompt": "catch",
+    "knowledges": []
+  },
+  {
+    "query": "Clothing is a song by the UK artist.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "clothing",
+    "knowledges": []
+  },
+  {
+    "query": "Video tape is a format that is not considered obsolete?",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "tape",
+    "knowledges": []
+  },
+  {
+    "query": "The plus sign on a keyboard comes before the minus sign.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "plus",
+    "knowledges": []
+  },
+  {
+    "query": "The camera on cell phones now are almost always on and recording.",
+    "answer": "no",
+    "relational_prompt": "almost always",
+    "topic_prompt": "camera",
+    "knowledges": []
+  },
+  {
+    "query": "Shot glass is smaller than beer glass.",
+    "answer": "yes",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "shot",
+    "knowledges": []
+  },
+  {
+    "query": "Is a business letter ordered like this:  salutation, body of the letter, sign off?",
+    "answer": "yes",
+    "relational_prompt": "ordered like this",
+    "topic_prompt": "letter",
+    "knowledges": []
+  },
+  {
+    "query": "Do you always link hair to the head as the only place it can grow?",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "link",
+    "knowledges": []
+  },
+  {
+    "query": "Can you see your shadow at night?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "shadow",
+    "knowledges": []
+  },
+  {
+    "query": "Answer can be changed after you receive graded exam.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "answer",
+    "knowledges": []
+  },
+  {
+    "query": "Has Billy Crystal ever hosted an Oscar ceremony?",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "crystal",
+    "knowledges": []
+  },
+  {
+    "query": "Birds should have at least one license to fly.",
+    "answer": "no",
+    "relational_prompt": "at least one",
+    "topic_prompt": "license",
+    "knowledges": []
+  },
+  {
+    "query": "Only a few runners in baseball get picked off base?",
+    "answer": "yes",
+    "relational_prompt": "few",
+    "topic_prompt": "base",
+    "knowledges": []
+  },
+  {
+    "query": "Cast of harry potter is larger than cast of paranormal activity.",
+    "answer": "yes",
+    "relational_prompt": "larger than",
+    "topic_prompt": "cast",
+    "knowledges": []
+  },
+  {
+    "query": "In this order, actors are trained in acting, rehearse their lines, perform in the show, and are cast for the show.",
+    "answer": "no",
+    "relational_prompt": "in this order",
+    "topic_prompt": "actors",
+    "knowledges": []
+  },
+  {
+    "query": "Do people put a number before their names.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "number",
+    "knowledges": []
+  },
+  {
+    "query": "Machines like calculators almost never make calculation errors.",
+    "answer": "yes",
+    "relational_prompt": "almost never",
+    "topic_prompt": "machines",
+    "knowledges": []
+  },
+  {
+    "query": "A US dollar coin is smaller than a 50-cent piece.",
+    "answer": "yes",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "dollar",
+    "knowledges": []
+  },
+  {
+    "query": "An executive producer of a film cannot influence the director of a completely different film into doing what they want?",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "executive",
+    "knowledges": []
+  },
+  {
+    "query": "You can't fly on planes if you're scared.",
+    "answer": "no",
+    "relational_prompt": "if",
+    "topic_prompt": "planes",
+    "knowledges": []
+  },
+  {
+    "query": "You cannot read a book if it is upside down.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "read",
+    "knowledges": []
+  },
+  {
+    "query": "Is a road sign in Ireland more like to use kilometers than miles?",
+    "answer": "yes",
+    "relational_prompt": "is",
+    "topic_prompt": "sign",
+    "knowledges": []
+  },
+  {
+    "query": "At least one cow lives at every dairy farm.",
+    "answer": "yes",
+    "relational_prompt": "at least one",
+    "topic_prompt": "farm",
+    "knowledges": []
+  },
+  {
+    "query": "Some countries allows elections to remove their Kings and Queens from the monarchy to replace them with another family.",
+    "answer": "no",
+    "relational_prompt": "some",
+    "topic_prompt": "queen",
+    "knowledges": []
+  },
+  {
+    "query": "The fall season is the same size as the spring season.",
+    "answer": "yes",
+    "relational_prompt": "same size as",
+    "topic_prompt": "season",
+    "knowledges": []
+  },
+  {
+    "query": "Some candy can persuade a child to work harder.",
+    "answer": "yes",
+    "relational_prompt": "some",
+    "topic_prompt": "child",
+    "knowledges": []
+  },
+  {
+    "query": "Cleaning clothes is part of student life.",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "cleaning clothes",
+    "knowledges": []
+  },
+  {
+    "query": "Some magazines contain articles and pictures, while another kind of magazine contains bullets.",
+    "answer": "yes",
+    "relational_prompt": "some",
+    "topic_prompt": "magazine",
+    "knowledges": []
+  },
+  {
+    "query": "A cavity is good for your oral health.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "cavity",
+    "knowledges": []
+  },
+  {
+    "query": "Route or routine should be part of things you do without thinking.",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "route",
+    "knowledges": []
+  },
+  {
+    "query": "Some whole numbers cannot be expressed as a ratio of two numbers.",
+    "answer": "no",
+    "relational_prompt": "some",
+    "topic_prompt": "numbers",
+    "knowledges": []
+  },
+  {
+    "query": "In the southern hemisphere ducks almost always fly south for the winter.",
+    "answer": "no",
+    "relational_prompt": "almost always",
+    "topic_prompt": "south",
+    "knowledges": []
+  },
+  {
+    "query": "Four Canadian quarters always add up to the same amount of money as one loonie.",
+    "answer": "yes",
+    "relational_prompt": "always",
+    "topic_prompt": "quarter",
+    "knowledges": []
+  },
+  {
+    "query": "Does a shop have the right to refuse services to Hindu people in the US?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "shop",
+    "knowledges": []
+  },
+  {
+    "query": "Throat is part of stomach.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "throat",
+    "knowledges": []
+  },
+  {
+    "query": "The ulna bone is located in the legs of humans.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "bone",
+    "knowledges": []
+  },
+  {
+    "query": "Is it true that a sphere is capable of displacing more water than a cube with the same volume?",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "sphere",
+    "knowledges": []
+  },
+  {
+    "query": "If a piece of lead and a feather are falling thought vacuum, none will reach the bottom earlier.",
+    "answer": "yes",
+    "relational_prompt": "none",
+    "topic_prompt": "falling",
+    "knowledges": []
+  },
+  {
+    "query": "Is a short story usually shorter than a poem?",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "short",
+    "knowledges": []
+  },
+  {
+    "query": "Stem can be part of a plant plus a type of prevention.",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "stem",
+    "knowledges": []
+  },
+  {
+    "query": "If you like the painting \"Woman with a Parasol\" you probably like the painter, Claude Monet.",
+    "answer": "yes",
+    "relational_prompt": "if",
+    "topic_prompt": "painter",
+    "knowledges": []
+  },
+  {
+    "query": "Rice is a part of a low-carbohydrate diet.",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "rice",
+    "knowledges": []
+  },
+  {
+    "query": "A bicycle has two wheels but may contain four wheels with side stabilizers.",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": "bicycle",
+    "knowledges": []
+  },
+  {
+    "query": "A body with no soul always doesn't fell pain.",
+    "answer": "yes",
+    "relational_prompt": "always",
+    "topic_prompt": "pain",
+    "knowledges": []
+  },
+  {
+    "query": "The gene that determines the gender of a child is passed on from the father?",
+    "answer": "yes",
+    "relational_prompt": "is",
+    "topic_prompt": "gene",
+    "knowledges": []
+  },
+  {
+    "query": "At least one minute is needed for an hour.",
+    "answer": "yes",
+    "relational_prompt": "at least one",
+    "topic_prompt": "hour",
+    "knowledges": []
+  },
+  {
+    "query": "Air Supply is a soft rock duo consisting of English singer-songwriter and guitarist Graham Russell and Australian lead vocalist Russell Hitchcock. They had eight top-ten hits in the United States in the early 1990s.",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "air",
+    "knowledges": []
+  },
+  {
+    "query": "Did Mark Twain always go by that name?",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "mark",
+    "knowledges": []
+  },
+  {
+    "query": "Having a dry mouth is capable of making you crave salt water for nourishment.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "dry",
+    "knowledges": []
+  },
+  {
+    "query": "Century is the same size as ninety plus ten.",
+    "answer": "yes",
+    "relational_prompt": "same size as",
+    "topic_prompt": "century",
+    "knowledges": []
+  },
+  {
+    "query": "And Then There Were None was a movie before it was a book.",
+    "answer": "no",
+    "relational_prompt": "none",
+    "topic_prompt": "movie",
+    "knowledges": []
+  },
+  {
+    "query": "Is the boat from the show Love Boat a sailboat?",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "boat",
+    "knowledges": []
+  },
+  {
+    "query": "Shop is usually closed during the night because no one buys things at night.",
+    "answer": "yes",
+    "relational_prompt": "because",
+    "topic_prompt": "shop",
+    "knowledges": []
+  },
+  {
+    "query": "The radius of a square involves calculating pi.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "radius",
+    "knowledges": []
+  },
+  {
+    "query": "A curtain rod has more than 2 ends sometimes.",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "rod",
+    "knowledges": []
+  },
+  {
+    "query": "You will almost never see a baseball player without wearing a cap.",
+    "answer": "yes",
+    "relational_prompt": "almost never",
+    "topic_prompt": "cap",
+    "knowledges": []
+  },
+  {
+    "query": "In the game hide and go seek, should I hide while the seeker is counting?",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "hide",
+    "knowledges": []
+  },
+  {
+    "query": "Water will not freeze as long as it is at least one degree above 32 degrees?",
+    "answer": "yes",
+    "relational_prompt": "at least one",
+    "topic_prompt": "degree",
+    "knowledges": []
+  },
+  {
+    "query": "If Disney did not attend a train convention, he would not have gotten an idea to create a track system for Disneyland, as well as the people movers ride.",
+    "answer": "yes",
+    "relational_prompt": "if",
+    "topic_prompt": "train",
+    "knowledges": []
+  },
+  {
+    "query": "Hot water can kill most covid-19 virus to a certain degree.",
+    "answer": "no",
+    "relational_prompt": "most",
+    "topic_prompt": "degree",
+    "knowledges": []
+  },
+  {
+    "query": "A D battery is smaller than a AAA battery.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "battery",
+    "knowledges": []
+  },
+  {
+    "query": "Only if you witness a crime should you call police.",
+    "answer": "no",
+    "relational_prompt": "only if",
+    "topic_prompt": "witness",
+    "knowledges": []
+  },
+  {
+    "query": "The Utah Jazz are better than the Los Angeles Lakers in 2021.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "better",
+    "knowledges": []
+  },
+  {
+    "query": "A person in pain is capable of competing in a football game?",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "pain",
+    "knowledges": []
+  },
+  {
+    "query": "The cost of a pack of cigarettes is almost always more in Australia than in the United States.",
+    "answer": "yes",
+    "relational_prompt": "almost always",
+    "topic_prompt": "pack",
+    "knowledges": []
+  },
+  {
+    "query": "Liquid can turn into solid by melting it.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "liquid",
+    "knowledges": []
+  },
+  {
+    "query": "If you work on cars a lot and wear gloves, your fingernails will be filthy.",
+    "answer": "no",
+    "relational_prompt": "if",
+    "topic_prompt": "fingernails",
+    "knowledges": []
+  },
+  {
+    "query": "Hypothesis usually comes in the main body of your work.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "hypothesis",
+    "knowledges": []
+  },
+  {
+    "query": "Australia is a country, an island, and a continent but not a tectonic plate.",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "australia",
+    "knowledges": []
+  },
+  {
+    "query": "In multiplication, the answer is always larger than the factors if they are whole numbers.",
+    "answer": "yes",
+    "relational_prompt": "larger than",
+    "topic_prompt": "answer",
+    "knowledges": []
+  },
+  {
+    "query": "A sister cannot have a twin sister who is born a year later.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "sister",
+    "knowledges": []
+  },
+  {
+    "query": "Is a pound a measure of weight but not a currency?",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "pound",
+    "knowledges": []
+  },
+  {
+    "query": "All types of maps represent some form of geography.",
+    "answer": "no",
+    "relational_prompt": "some",
+    "topic_prompt": "maps",
+    "knowledges": []
+  },
+  {
+    "query": "Do solar panels generate electricity in the dark?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "dark",
+    "knowledges": []
+  },
+  {
+    "query": "If you are happy, then you are not depressed.",
+    "answer": "yes",
+    "relational_prompt": "if",
+    "topic_prompt": "happy",
+    "knowledges": []
+  },
+  {
+    "query": "A cap is only used for a head covering.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "cap",
+    "knowledges": []
+  },
+  {
+    "query": "Only if you can afford it; houses will be a stable option when it comes to suitable shelter.",
+    "answer": "yes",
+    "relational_prompt": "only if",
+    "topic_prompt": "house",
+    "knowledges": []
+  },
+  {
+    "query": "Go west after you leave Florida to get to Texas.",
+    "answer": "yes",
+    "relational_prompt": "after",
+    "topic_prompt": "west",
+    "knowledges": []
+  },
+  {
+    "query": "Ancient religion is a human practice of devotion to holy robes.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "religion",
+    "knowledges": []
+  },
+  {
+    "query": "Ships like the titanic almost always have enough lifeboats and life jackets for everyone on board.",
+    "answer": "no",
+    "relational_prompt": "almost always",
+    "topic_prompt": "ships",
+    "knowledges": []
+  },
+  {
+    "query": "A treasure map is usually unhelpful in finding an actual treasure.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "map",
+    "knowledges": []
+  },
+  {
+    "query": "Are some seasons of The Crown only available on dvd?",
+    "answer": "no",
+    "relational_prompt": "some",
+    "topic_prompt": "crown",
+    "knowledges": []
+  },
+  {
+    "query": "Instructions should always be followed exactly even if they don't make sense to you at the time.",
+    "answer": "yes",
+    "relational_prompt": "always",
+    "topic_prompt": "instructions",
+    "knowledges": []
+  },
+  {
+    "query": "An underage driver can drive by themselves before getting a license.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "driver",
+    "knowledges": []
+  },
+  {
+    "query": "Has it been proven that Richard III was responsible for the death of the princes in the tower?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "tower",
+    "knowledges": []
+  },
+  {
+    "query": "The mayor of Chicago is Rahm Emanuel.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "mayor",
+    "knowledges": []
+  },
+  {
+    "query": "It cannot be warm in the season of winter.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "season",
+    "knowledges": []
+  },
+  {
+    "query": "A magazine is made out of paper or metal.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "magazine",
+    "knowledges": []
+  },
+  {
+    "query": "The old meme \"All Your Base Are Belong to Us\" comes from an 1989 game,  Zero Wing?",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "base",
+    "knowledges": []
+  },
+  {
+    "query": "A puzzle cannot be solved if a piece is missing.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "puzzle",
+    "knowledges": []
+  },
+  {
+    "query": "Gold is a precious stone.",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "gold",
+    "knowledges": []
+  },
+  {
+    "query": "Birds will approach you if you have bread.",
+    "answer": "yes",
+    "relational_prompt": "if",
+    "topic_prompt": "approach",
+    "knowledges": []
+  },
+  {
+    "query": "A bicycle is always upright.",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "bicycle",
+    "knowledges": []
+  },
+  {
+    "query": "A lion almost always hunts all day.",
+    "answer": "no",
+    "relational_prompt": "almost always",
+    "topic_prompt": "lion",
+    "knowledges": []
+  },
+  {
+    "query": "Boats always have a motor.",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "boats",
+    "knowledges": []
+  },
+  {
+    "query": "Ohio can be the first state in the United States to hold a primary, but currently it is not?",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "ohio",
+    "knowledges": []
+  },
+  {
+    "query": "Sheets is capable of creating static sparks.",
+    "answer": "yes",
+    "relational_prompt": "is",
+    "topic_prompt": "sheets",
+    "knowledges": []
+  },
+  {
+    "query": "A full moon can sometimes happen twice in a month and that is called a red moon.",
+    "answer": "no",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "full",
+    "knowledges": []
+  },
+  {
+    "query": "Insects almost always can think their way out of danger.",
+    "answer": "no",
+    "relational_prompt": "almost always",
+    "topic_prompt": "insects",
+    "knowledges": []
+  },
+  {
+    "query": "Some planes fly using magnets on the wings, which cause them to lift when they hover over magnets on the ground with an opposite charge?",
+    "answer": "no",
+    "relational_prompt": "some",
+    "topic_prompt": "plane",
+    "knowledges": []
+  },
+  {
+    "query": "Is it true that baby kittens cannot see when they are born?",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "baby",
+    "knowledges": []
+  },
+  {
+    "query": "Bread is still good to eat when it is moldy.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "bread",
+    "knowledges": []
+  },
+  {
+    "query": "Midnight is the hour that starts the day?",
+    "answer": "yes",
+    "relational_prompt": "is",
+    "topic_prompt": "midnight",
+    "knowledges": []
+  },
+  {
+    "query": "Ashley madison was part of a court case.",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "madison",
+    "knowledges": []
+  },
+  {
+    "query": "Do nurses need to locate a vein before giving a flu shot?",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "vein",
+    "knowledges": []
+  },
+  {
+    "query": "Negative subtraction is a way to add.",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "add",
+    "knowledges": []
+  },
+  {
+    "query": "The novel Howards End was part of Jane Austen's body of work as an author.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "end",
+    "knowledges": []
+  },
+  {
+    "query": "Man is capable of  painting in MS Paint.",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "paint",
+    "knowledges": []
+  },
+  {
+    "query": "A wedding guest is capable of drinking all night without paying a dime.",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "wedding",
+    "knowledges": []
+  },
+  {
+    "query": "The STEM fields are usually favored by female students in the US.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "stem",
+    "knowledges": []
+  },
+  {
+    "query": "A few good men is about a trial.",
+    "answer": "yes",
+    "relational_prompt": "few",
+    "topic_prompt": "trial",
+    "knowledges": []
+  },
+  {
+    "query": "None of the letters in the word cinema can be used in an anagram of iceman.",
+    "answer": "no",
+    "relational_prompt": "none",
+    "topic_prompt": "letters",
+    "knowledges": []
+  },
+  {
+    "query": "A 2.5\" 1 terabyte hard drive is larger in terms of capacity than a 3.5\" 500 gigabyte hard drive.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "drive",
+    "knowledges": []
+  },
+  {
+    "query": "If you add up all the seconds in a day, the result is more than 80,000.",
+    "answer": "yes",
+    "relational_prompt": "all",
+    "topic_prompt": "second",
+    "knowledges": []
+  },
+  {
+    "query": "Glass surface is smooth because it has been polished.",
+    "answer": "yes",
+    "relational_prompt": "because",
+    "topic_prompt": "smooth",
+    "knowledges": []
+  },
+  {
+    "query": "The radius of a circle is the same size as the circle itself.",
+    "answer": "no",
+    "relational_prompt": "same size as",
+    "topic_prompt": "radius",
+    "knowledges": []
+  },
+  {
+    "query": "Some squares do not contain a right angle.",
+    "answer": "no",
+    "relational_prompt": "some",
+    "topic_prompt": "right",
+    "knowledges": []
+  },
+  {
+    "query": "Sandman often wears a striped shirt.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": null,
+    "knowledges": []
+  },
+  {
+    "query": "There is a total of 54 people countries in Africa as of 2020?",
+    "answer": "yes",
+    "relational_prompt": "is",
+    "topic_prompt": "countries",
+    "knowledges": []
+  },
+  {
+    "query": "Is it true that a spirit level cannot work upside down?",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "level",
+    "knowledges": []
+  },
+  {
+    "query": "A farmer always grows tomatoes.",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "farmer",
+    "knowledges": []
+  },
+  {
+    "query": "The final day of the year comes after the second to last day of the year.",
+    "answer": "yes",
+    "relational_prompt": "after",
+    "topic_prompt": "final",
+    "knowledges": []
+  },
+  {
+    "query": "Fluid is exposed to freezing temperatures and then it becomes a solid, ordered like this.",
+    "answer": "yes",
+    "relational_prompt": "ordered like this",
+    "topic_prompt": "fluid",
+    "knowledges": []
+  },
+  {
+    "query": "Mom cannot legally give her child away.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "mom",
+    "knowledges": []
+  },
+  {
+    "query": "Sparing the rod almost never spoils the child?",
+    "answer": "no",
+    "relational_prompt": "almost never",
+    "topic_prompt": "rod",
+    "knowledges": []
+  },
+  {
+    "query": "Did all the members of the French football team compete in the 2018 FIFA world cup?",
+    "answer": "no",
+    "relational_prompt": "all",
+    "topic_prompt": "team",
+    "knowledges": []
+  },
+  {
+    "query": "The cent figure comes before the dollar figure when denominations are written out.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "cent",
+    "knowledges": []
+  },
+  {
+    "query": "The executive branch can pass laws before the bill reaches the legislative branch.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "executive",
+    "knowledges": []
+  },
+  {
+    "query": "Is it true that oil and water cannot both be found at man gas stations?",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "oil and water",
+    "knowledges": []
+  },
+  {
+    "query": "A bow has an arrow in it at all times.",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "bow",
+    "knowledges": []
+  },
+  {
+    "query": "Beam and brain are in this order alphabetically.",
+    "answer": "yes",
+    "relational_prompt": "in this order",
+    "topic_prompt": "beam",
+    "knowledges": []
+  },
+  {
+    "query": "Pound was used in europe before kilos.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "pound",
+    "knowledges": []
+  },
+  {
+    "query": "Roads allow planes on them?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "road",
+    "knowledges": []
+  },
+  {
+    "query": "At least two dogs have been in outer space.",
+    "answer": "yes",
+    "relational_prompt": "at least two",
+    "topic_prompt": "outer space",
+    "knowledges": []
+  },
+  {
+    "query": "A sandwich shop punch card can be used for identification in some countries.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "card",
+    "knowledges": []
+  },
+  {
+    "query": "A football gets points only if the offense scores.",
+    "answer": "no",
+    "relational_prompt": "only if",
+    "topic_prompt": "point",
+    "knowledges": []
+  },
+  {
+    "query": "A puzzle can never be completed if someone takes a piece.",
+    "answer": "yes",
+    "relational_prompt": "never",
+    "topic_prompt": "puzzle",
+    "knowledges": []
+  },
+  {
+    "query": "A shadow usually causes an object to be harder to see.",
+    "answer": "yes",
+    "relational_prompt": "causes",
+    "topic_prompt": "shadow",
+    "knowledges": []
+  },
+  {
+    "query": "Is it legal to copy a book and publish it as your own in the US?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "copy",
+    "knowledges": []
+  },
+  {
+    "query": "The Washington Post has always been owned by Jeff Bezos since he bought it from Michael Bloomberg, who established another news agency, Bloomberg News?",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "post",
+    "knowledges": []
+  },
+  {
+    "query": "Is a sheet of aluminum metal ferromagnetic?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "sheet",
+    "knowledges": []
+  },
+  {
+    "query": "The top position on a totem pole is a place of honor?",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "top",
+    "knowledges": []
+  },
+  {
+    "query": "The wet part of water is called the wetness?",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "water",
+    "knowledges": []
+  },
+  {
+    "query": "Cotton candy is 50% cotton and 50% candy?",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "cotton",
+    "knowledges": []
+  },
+  {
+    "query": "Are there at least two different kinds of juice in a fruit punch?",
+    "answer": "yes",
+    "relational_prompt": "at least two",
+    "topic_prompt": "juice",
+    "knowledges": []
+  },
+  {
+    "query": "A neighbor has to live within 100 feet of your house.",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "neighbor",
+    "knowledges": []
+  },
+  {
+    "query": "Is it okay to borrow something from peoples before asking permission?",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "peoples",
+    "knowledges": []
+  },
+  {
+    "query": "A minute will pass only if sixty seconds have passed.",
+    "answer": "yes",
+    "relational_prompt": "only if",
+    "topic_prompt": "minute",
+    "knowledges": []
+  },
+  {
+    "query": "Madison is a common male name.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "madison",
+    "knowledges": []
+  },
+  {
+    "query": "Is there actual snow inside a snow globe?",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "snow",
+    "knowledges": []
+  },
+  {
+    "query": "A person must join a team before becoming a teammate.",
+    "answer": "yes",
+    "relational_prompt": "before",
+    "topic_prompt": "team",
+    "knowledges": []
+  },
+  {
+    "query": "Knees smaller than normal means shorter legs.",
+    "answer": "no",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "knees",
+    "knowledges": []
+  },
+  {
+    "query": "A term is sometimes a period of time.",
+    "answer": "yes",
+    "relational_prompt": "is",
+    "topic_prompt": "term",
+    "knowledges": []
+  },
+  {
+    "query": "A quarter pound is only called that when a coin weighs less than a pound.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "quarter",
+    "knowledges": []
+  },
+  {
+    "query": "Tomato Seeds can be planted in the fall.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "seeds",
+    "knowledges": []
+  },
+  {
+    "query": "South Carolina cannot win an NCAA championship if they arent in the tournament.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "carolina",
+    "knowledges": []
+  },
+  {
+    "query": "The letter with which the word bit begins comes in the alphabet before the letter with which the word letter begins.",
+    "answer": "yes",
+    "relational_prompt": "before",
+    "topic_prompt": "bit",
+    "knowledges": []
+  },
+  {
+    "query": "A canvas is capable of displaying thoughts.",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "canvas",
+    "knowledges": []
+  },
+  {
+    "query": "The sun is almost always neither East nor West of you at noon.",
+    "answer": "yes",
+    "relational_prompt": "almost always",
+    "topic_prompt": "noon",
+    "knowledges": []
+  },
+  {
+    "query": "The movement of the Earth causes the sun to look like it sets in the west?",
+    "answer": "yes",
+    "relational_prompt": "causes",
+    "topic_prompt": "west",
+    "knowledges": []
+  },
+  {
+    "query": "A begonia is not capable of growing in the shade.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "shade",
+    "knowledges": []
+  },
+  {
+    "query": "Part of the Notre Dame was destroyed with the earthquake.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "with",
+    "knowledges": []
+  },
+  {
+    "query": "The area on the bottom of a pyramid is smaller than the top.",
+    "answer": "no",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "bottom",
+    "knowledges": []
+  },
+  {
+    "query": "A person can crawl only if they have knees.",
+    "answer": "yes",
+    "relational_prompt": "only if",
+    "topic_prompt": "knees",
+    "knowledges": []
+  },
+  {
+    "query": "If you read math books you can do math.",
+    "answer": "no",
+    "relational_prompt": "if",
+    "topic_prompt": "books",
+    "knowledges": []
+  },
+  {
+    "query": "An inch is part of a foot?",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "inch",
+    "knowledges": []
+  },
+  {
+    "query": "Do you pay for an auction item after you bid on it if you don't win?",
+    "answer": "no",
+    "relational_prompt": "after",
+    "topic_prompt": "bid",
+    "knowledges": []
+  },
+  {
+    "query": "A set of even numbers can include the number, \"2\".",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "set",
+    "knowledges": []
+  },
+  {
+    "query": "Removing letter o from senior will leave five letters.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "senior",
+    "knowledges": []
+  },
+  {
+    "query": "A bear cannot swim.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "bear",
+    "knowledges": []
+  },
+  {
+    "query": "Makeshift rope has been made out of bed sheets before.",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": "rope",
+    "knowledges": []
+  },
+  {
+    "query": "A nerve is smaller than a dendron.",
+    "answer": "no",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "nerve",
+    "knowledges": []
+  },
+  {
+    "query": "Newspapers in cities larger than 500,000 people are called megapapers.",
+    "answer": "no",
+    "relational_prompt": "larger than",
+    "topic_prompt": "newspapers",
+    "knowledges": []
+  },
+  {
+    "query": "Cent is worth more than a penny.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "cent",
+    "knowledges": []
+  },
+  {
+    "query": "After the Judicial, Legislative, and Executive branches, the fourth branch of government is the Administrative agencies?",
+    "answer": "no",
+    "relational_prompt": "after",
+    "topic_prompt": "branches",
+    "knowledges": []
+  },
+  {
+    "query": "Do you turn the page in a novel after closing it for the night?",
+    "answer": "no",
+    "relational_prompt": "after",
+    "topic_prompt": "page",
+    "knowledges": []
+  },
+  {
+    "query": "Planes can fly only if they have gas.",
+    "answer": "yes",
+    "relational_prompt": "only if",
+    "topic_prompt": "planes",
+    "knowledges": []
+  },
+  {
+    "query": "A full tank is capable of powering your engine.",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "full",
+    "knowledges": []
+  },
+  {
+    "query": "Is a napkin ring part of a fast-food table setting?",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "ring",
+    "knowledges": []
+  },
+  {
+    "query": "Can humans eat a raw cashew without getting poisoned?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "humans",
+    "knowledges": []
+  },
+  {
+    "query": "You can walk through walls only if your body is not made up of mass.",
+    "answer": "yes",
+    "relational_prompt": "only if",
+    "topic_prompt": "walls",
+    "knowledges": []
+  },
+  {
+    "query": "Is the chief executive officer always the most highly paid employee of the company?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "executive",
+    "knowledges": []
+  },
+  {
+    "query": "A stomach cannot usually start digestion before the meal is finished.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "stomach",
+    "knowledges": []
+  },
+  {
+    "query": "Knees are almost never shaped identically.",
+    "answer": "yes",
+    "relational_prompt": "almost never",
+    "topic_prompt": "knees",
+    "knowledges": []
+  },
+  {
+    "query": "A train driver almost always stands on a dead mans switch.",
+    "answer": "yes",
+    "relational_prompt": "almost always",
+    "topic_prompt": "driver",
+    "knowledges": []
+  },
+  {
+    "query": "In most books, chapter two is after chapter one.",
+    "answer": "yes",
+    "relational_prompt": "after",
+    "topic_prompt": "chapter",
+    "knowledges": []
+  },
+  {
+    "query": "Tape always sticks.",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "tape",
+    "knowledges": []
+  },
+  {
+    "query": "A plane can be found in a carpenter's toolkit.",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "plane",
+    "knowledges": []
+  },
+  {
+    "query": "Charge is a song by croatian artist.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "charge",
+    "knowledges": []
+  },
+  {
+    "query": "Ordered like this from good to bad mood it goes: happy, moody mad.",
+    "answer": "yes",
+    "relational_prompt": "ordered like this",
+    "topic_prompt": "happy",
+    "knowledges": []
+  },
+  {
+    "query": "Alcohol is part of a Shirley Temple cocktail.",
+    "answer": "no",
+    "relational_prompt": "part of",
+    "topic_prompt": "alcohol",
+    "knowledges": []
+  },
+  {
+    "query": "Making a silent movie requires at least two people talking - the producer and the director.",
+    "answer": "yes",
+    "relational_prompt": "at least two",
+    "topic_prompt": "talking",
+    "knowledges": []
+  },
+  {
+    "query": "The brake cylinder must almost always be greased when it is being installed.",
+    "answer": "yes",
+    "relational_prompt": "almost always",
+    "topic_prompt": "cylinder",
+    "knowledges": []
+  },
+  {
+    "query": "A losing team never has more goals than the winning team.",
+    "answer": "yes",
+    "relational_prompt": "never",
+    "topic_prompt": "team",
+    "knowledges": []
+  },
+  {
+    "query": "Curiosity cannot be a bad thing.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "curiosity",
+    "knowledges": []
+  },
+  {
+    "query": "US dollars such as the $5 bill are in physical dimensions the same size as other US dollars like the $2 bill?",
+    "answer": "yes",
+    "relational_prompt": "same size as",
+    "topic_prompt": "dollars",
+    "knowledges": []
+  },
+  {
+    "query": "Breathing is a song by croatian artist.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "breathing",
+    "knowledges": []
+  },
+  {
+    "query": "Can whipping cream be made at home in a bag?",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "cream",
+    "knowledges": []
+  },
+  {
+    "query": "Do people get most of their news from a magazine?",
+    "answer": "no",
+    "relational_prompt": "most",
+    "topic_prompt": "magazine",
+    "knowledges": []
+  },
+  {
+    "query": "If two twins with the same clothes, who are the same size as each other are standing next to one another, you can tell them apart by looking at the name tags they're both wearing?",
+    "answer": "yes",
+    "relational_prompt": "same size as",
+    "topic_prompt": "with",
+    "knowledges": []
+  },
+  {
+    "query": "A coat is capable of making you too hot.",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "coat",
+    "knowledges": []
+  },
+  {
+    "query": "A wedding is sometimes held at the same time as a funeral to save time and space at the church.",
+    "answer": "no",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "wedding",
+    "knowledges": []
+  },
+  {
+    "query": "Would a beer can in the Atlantic Ocean biodegrade in one's lifetime?",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "atlantic ocean",
+    "knowledges": []
+  },
+  {
+    "query": "In the US has the unemployment risen in 2020?",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": null,
+    "knowledges": []
+  },
+  {
+    "query": "Is a variable always a letter of the alphabet.",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "letter",
+    "knowledges": []
+  },
+  {
+    "query": "A math question almost always has an answer.",
+    "answer": "yes",
+    "relational_prompt": "almost always",
+    "topic_prompt": "question",
+    "knowledges": []
+  },
+  {
+    "query": "Fast walking is a common form of aerobic exercise.",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "walking",
+    "knowledges": []
+  },
+  {
+    "query": "Can today's technology trap a few atoms to a near zero Kelvin temperature?",
+    "answer": "yes",
+    "relational_prompt": "few",
+    "topic_prompt": "atoms",
+    "knowledges": []
+  },
+  {
+    "query": "A love story has to have a lover.",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": "love",
+    "knowledges": []
+  },
+  {
+    "query": "A chicken is capable of flight.",
+    "answer": "yes",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "chicken",
+    "knowledges": []
+  },
+  {
+    "query": "You should use tools to make a cake.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "tools",
+    "knowledges": []
+  },
+  {
+    "query": "You use steel only if you dont have wood.",
+    "answer": "no",
+    "relational_prompt": "only if",
+    "topic_prompt": "steel",
+    "knowledges": []
+  },
+  {
+    "query": "The wall is a pink floyd album.",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "wall",
+    "knowledges": []
+  },
+  {
+    "query": "A house is a spaceship.",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "house",
+    "knowledges": []
+  },
+  {
+    "query": "Mark has five letters in it.",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "mark",
+    "knowledges": []
+  },
+  {
+    "query": "Prior to a policy change in 2018, if you wanted to post to twitter, your message had to be longer than the minimum of exactly 280 characters.",
+    "answer": "no",
+    "relational_prompt": "exactly",
+    "topic_prompt": "post",
+    "knowledges": []
+  },
+  {
+    "query": "Was the election promise of the 45th president of US to build a wall near the southern neighboring country?",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "wall",
+    "knowledges": []
+  },
+  {
+    "query": "At least two trees can make a forest?",
+    "answer": "no",
+    "relational_prompt": "at least two",
+    "topic_prompt": "trees",
+    "knowledges": []
+  },
+  {
+    "query": "Is the capital of New York smaller than New York city?",
+    "answer": "yes",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "capital",
+    "knowledges": []
+  },
+  {
+    "query": "A strong acid has a similar ph to a strong base.",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "acid",
+    "knowledges": []
+  },
+  {
+    "query": "There is at least one county in the US larger than at least one country.",
+    "answer": "yes",
+    "relational_prompt": "larger than",
+    "topic_prompt": "county",
+    "knowledges": []
+  },
+  {
+    "query": "Ordered like this in alphabetical order minute comes before zebra.",
+    "answer": "yes",
+    "relational_prompt": "ordered like this",
+    "topic_prompt": "minute",
+    "knowledges": []
+  },
+  {
+    "query": "The past is something that happened before three years from now.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "past",
+    "knowledges": []
+  },
+  {
+    "query": "A dog almost never buries its bones.",
+    "answer": "no",
+    "relational_prompt": "almost never",
+    "topic_prompt": "bone",
+    "knowledges": []
+  },
+  {
+    "query": "A piano smaller than a regular size piano is called a Spinet.",
+    "answer": "yes",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "piano",
+    "knowledges": []
+  },
+  {
+    "query": "Labor cannot be spelled this way in england.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "labor",
+    "knowledges": []
+  },
+  {
+    "query": "You carry a wallet in your pocket. You can sometimes carry your left-over food in your pocket.",
+    "answer": "no",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "pocket",
+    "knowledges": []
+  },
+  {
+    "query": "Canadian dollars are now never printed in single notes, while Americans rarely use one-dollar coins.",
+    "answer": "yes",
+    "relational_prompt": "never",
+    "topic_prompt": "dollars",
+    "knowledges": []
+  },
+  {
+    "query": "If you get into an accident because you have been drinking alcohol you will be arrested?",
+    "answer": "yes",
+    "relational_prompt": "because",
+    "topic_prompt": "accident",
+    "knowledges": []
+  },
+  {
+    "query": "Smoke is produced only during the process of combustion?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "smoke",
+    "knowledges": []
+  },
+  {
+    "query": "The human body will never decompose if placed in dihydrogen monoxide - formaldehyde solution.",
+    "answer": "yes",
+    "relational_prompt": "never",
+    "topic_prompt": "human body",
+    "knowledges": []
+  },
+  {
+    "query": "The same person cannot have very different size shoes.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "shoes",
+    "knowledges": []
+  },
+  {
+    "query": "Sometimes you need to wear a dinner jacket for informal gatherings.",
+    "answer": "no",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "dinner",
+    "knowledges": []
+  },
+  {
+    "query": "A slip has little use for a woman who never wears dresses or skirts.",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": "slip",
+    "knowledges": []
+  },
+  {
+    "query": "Piecing only one ear lobe, especially the right ear, will cause people in the LGBTQ community to think you are part of them, especially in California and Oregon.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "ear",
+    "knowledges": []
+  },
+  {
+    "query": "It glass is clear you can see through it, but you can also see through concrete.",
+    "answer": "no",
+    "relational_prompt": "can",
+    "topic_prompt": "clear",
+    "knowledges": []
+  },
+  {
+    "query": "Many wars have been fought between the USA and Canada.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "wars",
+    "knowledges": []
+  },
+  {
+    "query": "Toothpaste is the cause of a cavity.",
+    "answer": "no",
+    "relational_prompt": "is",
+    "topic_prompt": "cavity",
+    "knowledges": []
+  },
+  {
+    "query": "If a roof is the same size as a building will it cover it fully?",
+    "answer": "yes",
+    "relational_prompt": "same size as",
+    "topic_prompt": "roof",
+    "knowledges": []
+  },
+  {
+    "query": "The Queen is married to the King.",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "queen",
+    "knowledges": []
+  },
+  {
+    "query": "A bowl of cereal before bed is called breakfast.",
+    "answer": "no",
+    "relational_prompt": "before",
+    "topic_prompt": "bowl",
+    "knowledges": []
+  },
+  {
+    "query": "At least one final exam is held at end of every year.",
+    "answer": "no",
+    "relational_prompt": "at least one",
+    "topic_prompt": "final",
+    "knowledges": []
+  },
+  {
+    "query": "It is important to always remove the gas cap on a car after each trip, to prevent the buildup of dangerous vapor.",
+    "answer": "no",
+    "relational_prompt": "after",
+    "topic_prompt": "cap",
+    "knowledges": []
+  },
+  {
+    "query": "In baseball, the catcher will always catch the ball.",
+    "answer": "no",
+    "relational_prompt": "always",
+    "topic_prompt": "catch",
+    "knowledges": []
+  },
+  {
+    "query": "A person cannot smoke cigarettes their entire life without getting cancer.",
+    "answer": "no",
+    "relational_prompt": "cannot",
+    "topic_prompt": "smoke",
+    "knowledges": []
+  },
+  {
+    "query": "A save in football is a tackle.",
+    "answer": "no",
+    "relational_prompt": "is a",
+    "topic_prompt": "save",
+    "knowledges": []
+  },
+  {
+    "query": "Are drivers required to make a complete stop before a stop sign?",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "stop",
+    "knowledges": []
+  },
+  {
+    "query": "Summer in New Zealand happens in December?",
+    "answer": "yes",
+    "relational_prompt": null,
+    "topic_prompt": "summer",
+    "knowledges": []
+  },
+  {
+    "query": "A lead has to be used to control a dog.",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "lead",
+    "knowledges": []
+  },
+  {
+    "query": "Sounds can be heard only if they reach certain frequency.",
+    "answer": "yes",
+    "relational_prompt": "only if",
+    "topic_prompt": "sounds",
+    "knowledges": []
+  },
+  {
+    "query": "Can you get a higher-learning degree from a college without physically being on the campus?",
+    "answer": "yes",
+    "relational_prompt": "can",
+    "topic_prompt": "learning",
+    "knowledges": []
+  },
+  {
+    "query": "The stars at night are smaller than the star that is seen during the day, from our perspective.",
+    "answer": "yes",
+    "relational_prompt": "smaller than",
+    "topic_prompt": "night",
+    "knowledges": []
+  },
+  {
+    "query": "Marriage is a separation of two individuals.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "marriage",
+    "knowledges": []
+  },
+  {
+    "query": "You can almost always use the North star to get your bearings?",
+    "answer": "yes",
+    "relational_prompt": "almost always",
+    "topic_prompt": "bearing",
+    "knowledges": []
+  },
+  {
+    "query": "Are cats always furry?",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "cat",
+    "knowledges": []
+  },
+  {
+    "query": "Is saving a file done in this order:  press save button, insert disk into computer.",
+    "answer": "no",
+    "relational_prompt": "done in this order",
+    "topic_prompt": "disk",
+    "knowledges": []
+  },
+  {
+    "query": "Would a bag filled with a pound of feathers be larger than a bag filled with a pound of lead?",
+    "answer": "yes",
+    "relational_prompt": "larger than",
+    "topic_prompt": "pound",
+    "knowledges": []
+  },
+  {
+    "query": "A thatched roof is capable of housing solar panels.",
+    "answer": "no",
+    "relational_prompt": "is capable of",
+    "topic_prompt": "roof",
+    "knowledges": []
+  },
+  {
+    "query": "Sometimes children can talk to strangers.",
+    "answer": "yes",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "stranger",
+    "knowledges": []
+  },
+  {
+    "query": "Your brother\u2019s father is also your father.",
+    "answer": "yes",
+    "relational_prompt": "is",
+    "topic_prompt": "father",
+    "knowledges": []
+  },
+  {
+    "query": "Part of the requirements to travel around the world by cruising is to ensure you have the proper vaccination for that country.",
+    "answer": "yes",
+    "relational_prompt": "part of",
+    "topic_prompt": "travel",
+    "knowledges": []
+  },
+  {
+    "query": "A new born baby has the instinct to hold its breath when it down underwater.",
+    "answer": "yes",
+    "relational_prompt": "has",
+    "topic_prompt": "baby",
+    "knowledges": []
+  },
+  {
+    "query": "Hawaii is a state that is a series of islands, in the Pacific Ocean?",
+    "answer": "yes",
+    "relational_prompt": "is a",
+    "topic_prompt": "islands",
+    "knowledges": []
+  },
+  {
+    "query": "Sometimes it is hard to catch a fish in a garbage dump.",
+    "answer": "yes",
+    "relational_prompt": "sometimes",
+    "topic_prompt": "catch",
+    "knowledges": []
+  },
+  {
+    "query": "A cylinder is almost always the shape of a toilet paper roll.",
+    "answer": "yes",
+    "relational_prompt": "almost always",
+    "topic_prompt": "cylinder",
+    "knowledges": []
+  },
+  {
+    "query": "Has the universe always had a sun?",
+    "answer": "no",
+    "relational_prompt": "has",
+    "topic_prompt": "universe",
+    "knowledges": []
+  },
+  {
+    "query": "If his opponent has already pocketed a ball with a number lower than 8, the first man's game of pool would continue to be done in this order: aim to pocket the rest of the unders, then hopefully, pocket the 8.",
+    "answer": "no",
+    "relational_prompt": "done in this order",
+    "topic_prompt": "under",
+    "knowledges": []
+  },
+  {
+    "query": "Slip is a seven letter word.",
+    "answer": "no",
+    "relational_prompt": null,
+    "topic_prompt": "slip",
+    "knowledges": []
+  },
+  {
+    "query": "A child cannot go to an R rated movie.",
+    "answer": "yes",
+    "relational_prompt": "cannot",
+    "topic_prompt": "movie",
+    "knowledges": []
+  }
+]

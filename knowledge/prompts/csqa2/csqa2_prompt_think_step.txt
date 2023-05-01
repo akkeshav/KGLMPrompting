@@ -1,0 +1,2 @@
+Q: {question}
+K: Let’s think about knowledge required to answer the question step by step.

@@ -1,0 +1,19 @@
+Generate some knowledge about the input. Examples:
+
+Input: Greece is larger than mexico.
+Knowledge: No.
+
+Input: Glasses always fog up.
+Knowledge: No.
+
+Input: A fish is capable of thinking.
+Knowledge: Yes.
+
+Input: A common effect of smoking lots of cigarettes in one's lifetime is a higher than normal chance of getting lung cancer.
+Knowledge: Yes.
+
+Input: A rock is the same size as a pebble.
+Knowledge: No.
+
+Input: {question}
+Knowledge:

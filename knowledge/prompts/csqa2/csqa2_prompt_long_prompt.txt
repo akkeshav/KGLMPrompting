@@ -1,0 +1,6 @@
+Input: A magician is someone who pulls a rabbit out of a hat.
+Knowledge: First, magicians are skilled performers who use their creativity and imagination to create amazing and often mystifying experiences for their audiences. Second, pulling a rabbit out of a hat is a mystifying experience which can be created by a magician.
+
+Question: {question}
+Knowledge:
+

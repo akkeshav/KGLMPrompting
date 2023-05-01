@@ -1,0 +1,5 @@
+Question: What does playing soccer for a long time lead to?
+Knowledge: First, if soccer player is not physically fit or aged then the player might incur physical injuries or chronic injuries. Second, if soccer player is fit and playing for long time, then player will have strong muscles, improved cardiovascular health and large social circle.
+
+Question: {question}
+Knowledge:

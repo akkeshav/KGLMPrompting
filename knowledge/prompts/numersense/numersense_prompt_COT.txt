@@ -1,0 +1,5 @@
+Input: Positive numbers are more than <mask> and negative numbers are less than zero.
+Knowledge: First, positive numbers always starts from one. Second, negative numbers are less than positive numbers. Third, zero is less than one and greater than negative numbers.
+
+Question: {question}
+Knowledge:

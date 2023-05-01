@@ -1,0 +1,2559 @@
+[
+    {
+        "query": "you may take the subway back and forth to work <mask> days a week.",
+        "answer": "five",
+        "knowledges": [
+            "First, we can only take the subway on weekdays. Second, we can only take the subway one day a week. Third, we can take the subway on both weekdays and weekends.",
+            "If you take the subway to work <mask> days a week, it will cost you <mask> dollars a month.",
+            "First, the subway takes you back and forth to work. Second, the subway takes you back and forth to work every day. Third, you work five days a week.",
+            "First, a subway is a vehicle that transports people from one place to another. Second, the subway can be a train, a bus, or a ferry. Third, the subway transports people to their destination.",
+            "First, you can only take the subway to work. Second, you may take the subway back and forth to work. Third, you can only take the subway to work one day a week.",
+            "The subway runs from Monday to Friday.",
+            "You have to go to work at least one day a week."
+        ]
+    },
+    {
+        "query": "a <mask> door car has four entrances for passengers to enter.",
+        "answer": "four",
+        "knowledges": [
+            "A door is the entrance for passengers to enter a car.",
+            "A car has four doors.",
+            "First, passengers enter the car from the entrance. Second, passengers enter the car through the door. Third, passengers enter the car from the entrance.",
+            "The car has four entrances.",
+            "The door is an entrance for passengers to enter.",
+            "First, the number of entrances of a car is greater than zero. Second, the number of entrances of a car is less than the number of passengers."
+        ]
+    },
+    {
+        "query": "the word children means <mask> or more kids.",
+        "answer": "two",
+        "knowledges": [
+            "Children is always less than or equal to one.",
+            "First, zero is less than one. Second, one is less than two. Third, two is less than three.",
+            "First, children means a lot of kids. Second, kids means a few kids. Third, more means more than zero.",
+            "First, we know that children means a lot of kids. Second, we know that a lot of kids is more than one kid. Third, we know that zero is not a lot of kids.",
+            "First, the word children means the same as the word kids. Second, the word children means more than one kids.",
+            "The word children means the number of kids.",
+            "The word children means zero or more kids."
+        ]
+    },
+    {
+        "query": "each human hand almost always contains <mask> fingers, or four fingers and a thumb.",
+        "answer": "five",
+        "knowledges": [
+            "First, there are five fingers on each hand. Second, the thumb is not a finger. Third, the thumb is on the opposite side of the hand from the fingers.",
+            "The number of fingers in a human hand is always a positive number.",
+            "There are four fingers on each hand.",
+            "Fingers are not a subset of hands.",
+            "Each human hand contains four fingers and a thumb.",
+            "each human hand contains five fingers.",
+            "First, fingers are less than hands. Second, thumbs are not fingers. Third, fingers are not thumbs."
+        ]
+    },
+    {
+        "query": "how do you win at tic-tac-toe get <mask> of your symbols in a row.",
+        "answer": "three",
+        "knowledges": [
+            "You can't win if you have three symbols in a row.",
+            "First, you can't win with zero symbols. Second, you can't win with one symbol. Third, you can't win with two symbols.",
+            "First, you can't win if you have a symbol in the center. Second, you can't win if you have two symbols in a row. Third, you can't win if you have three symbols in a row.",
+            "First, the first symbol of a row is always the X. Second, X is always in the top-left corner. Third, O is always in the bottom-right corner. Fourth, the last symbol of a row is always the X.",
+            "<mask> is a number.",
+            "First, there are nine symbols. Second, you have three symbols. Third, there are nine rows. Fourth, there are nine columns. Fifth, you need to get three symbols in a row."
+        ]
+    },
+    {
+        "query": "a bradypus torquatus is native to brazil and has <mask> toes on each limb.",
+        "answer": "three",
+        "knowledges": [
+            "First, the word native means that it is a place where a bradypus torquatus is born. Second, the word limb means a part of the body. Third, the word toe means a part of the foot.",
+            "A bradypus torquatus is a mammal and it has four limbs.",
+            "A bradypus torquatus is a mammal.",
+            "The animal is a mammal. The animal is native to Brazil. The animal has four limbs. The animal has five toes on each limb.",
+            "First, animals are always counted from one. Second, animals are always counted from five. Third, animals are always counted from ten."
+        ]
+    },
+    {
+        "query": "a prime number are divisible by only two numbers, <mask> and itself.",
+        "answer": "one",
+        "knowledges": [
+            "First, a prime number is divisible by only two numbers, <mask> and itself. Second, zero is not a prime number. Third, a prime number is divisible by one and itself.",
+            "A prime number is a number that is divisible by only two numbers, itself and one.",
+            "First, prime numbers are divisible by only one number, itself. Second, prime numbers are divisible by only two numbers, <mask> and itself.",
+            "First, prime numbers are positive numbers. Second, prime numbers are less than 10. Third, prime numbers are greater than 1.",
+            "A prime number is divisible by only one number, itself.",
+            "First, a prime number is divisible by only one number. Second, a prime number is divisible by itself.",
+            "First, prime numbers are less than ten. Second, zero is not a prime number. Third, the numbers after ten are not prime numbers."
+        ]
+    },
+    {
+        "query": "reality is three dimensional real life, tv shows portray <mask> dimensional fake life.",
+        "answer": "two",
+        "knowledges": [
+            "<mask> dimensional is not real life.",
+            "First, the dimension of reality is three dimensional. Second, tv shows portray fake life in <mask> dimensional.",
+            "Real life has three dimensions, fake life has <mask> dimensions.",
+            "There are three dimensions.",
+            "First, <mask> is not real life. Second, reality is three dimensional. Third, tv shows are fake life.",
+            "First, tv shows are not real life. Second, three dimensional objects are easier to recognize than two dimensional objects. Third, real life is more than tv shows.",
+            "One, <mask> dimensional space is not enough to represent real life. Two, the more dimensions the better the representation. Three, two dimensions are not enough to represent real life."
+        ]
+    },
+    {
+        "query": "a game of chess may have <mask> outcomes.",
+        "answer": "three",
+        "knowledges": [
+            "Chess is a game played by two players, each having 16 pieces, each player starts with one piece on the board.",
+            "First, there are <mask> white pieces and <mask> black pieces. Second, the number of white pieces must be greater than the number of black pieces. Third, there are <mask> white pawns and <mask> white rooks. Fourth, there are <mask> white bishops",
+            "First, chess is a game of two players. Second, there are <mask> possible outcomes. Third, each outcome is either win or lose.",
+            "There are <mask> pieces in chess.",
+            "First, a game of chess is a game of strategy. Second, a game of chess has <mask> outcomes.",
+            "There are <mask> pieces in a chess game.",
+            "A game of chess is a game between two players. Each player has 16 pieces, namely, one king, one queen, two rooks, two bishops, two knights, and eight pawns. Each piece has a unique movement pattern. The winner is the player who is able to defeat all of"
+        ]
+    },
+    {
+        "query": "<mask> of the seven days of the week is saturday.",
+        "answer": "one",
+        "knowledges": [
+            "First, seven days of the week are monday, tuesday, wednesday, thursday, friday, saturday and sunday. Second, saturday is always the sixth day of the week. Third, friday is always the fifth day of the week.",
+            "First, we can find the mask of the seven days of the week by using the mask of seven days of the week. Second, the mask of the seven days of the week is saturday.",
+            "<mask> is a number between 1 and 7.",
+            "First, the days of the week starts from one. Second, saturday is the sixth day of the week.",
+            "First, there are seven days of the week. Second, saturday is one of the seven days of the week. Third, monday is the first day of the week.",
+            "The seven days of the week are Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday.",
+            "First, days of the week are saturday, sunday, monday, tuesday, wednesday, thursday and friday. Second, each day of the week starts from one. Third, each day of the week is either saturday or sunday."
+        ]
+    },
+    {
+        "query": "a square is a shape with <mask> equally lengthed sides.",
+        "answer": "four",
+        "knowledges": [
+            "First, a square is a shape with equal lengthed sides. Second, a square is a shape with equal lengthed sides. Third, a square is a shape with equal lengthed sides.",
+            "A square has four sides and four corners.",
+            "The length of the sides of a square is <mask>.",
+            "A square has four sides.",
+            "A square is a rectangle with equal sides.",
+            "First, the shape has to be a closed figure. Second, it has to have <mask> equally lengthed sides. Third, it has to be a shape.",
+            "A square is a rectangle."
+        ]
+    },
+    {
+        "query": "with just <mask> days in office, francis michael forde was australia's shortest-serving prime minister.",
+        "answer": "eight",
+        "knowledges": [
+            "the word 'shortest' is used to describe the word 'serving' and 'prime minister' is used to describe the word 'office'.",
+            "First, the prime minister is a political leader of a country. Second, the prime minister leads the government. Third, the prime minister leads the parliament. Fourth, the prime minister leads the cabinet. Fifth, the prime minister leads the government in the parliament. Sixth, the prime minister leads the cabinet",
+            "The number of days in office is less than zero.",
+            "The question is asking about a person.",
+            "This question is asking about the number of days in office of the prime minister. This is an unknown number. The number of days in office of the prime minister is not the same as the number of days in office of the president.",
+            "the word \"shortest\" means the smallest.",
+            "First, prime minister is the highest rank in the government. Second, in the government, the highest rank is always the prime minister. Third, the government always has a prime minister."
+        ]
+    },
+    {
+        "query": "a violin is a stringed instrument with <mask> strings.",
+        "answer": "four",
+        "knowledges": [
+            "The word stringed is a compound word, therefore, the word stringed is composed of two words. Second, the word strings is plural, therefore, the word strings is composed of two words. Third, the word instrument is a noun, therefore, the word instrument is composed of two words.",
+            "Violin is a stringed instrument.",
+            "Stringed instruments are instruments with strings. The violin is a stringed instrument.",
+            "A violin has 4 strings.",
+            "A violin is a stringed instrument.",
+            "A violin has more than 1 string and less than 6 strings.",
+            "First, the number of strings is a positive number. Second, the number of strings is greater than zero. Third, the number of strings is less than the number of fingers."
+        ]
+    },
+    {
+        "query": "a kid can count up to <mask> on one hand typically.",
+        "answer": "five",
+        "knowledges": [
+            "A kid can count up to ten on one hand.",
+            "<mask> is a number, which is greater than zero.",
+            "First, we can use one hand to count up to <mask>. Second, we can use both hands to count up to <mask>.",
+            "First, a kid can count up to ten on one hand. Second, a kid can count up to twenty on two hands. Third, a kid can count up to thirty on three hands.",
+            "Counting on one hand is done with five fingers.",
+            "One hand is typically used to count.",
+            "First, a kid can count up to <mask> on one hand. Second, a kid can count up to <mask> on one hand typically."
+        ]
+    },
+    {
+        "query": "fifty is equal to <mask> times ten.",
+        "answer": "five",
+        "knowledges": [
+            "First, ten is greater than zero. Second, fifty is greater than zero. Third, zero is less than ten.",
+            "First, fifty is more than zero. Second, ten is less than fifty.",
+            "Fifties are the numbers that are more than fifty. The numbers that are less than fifty are called 'tens'.",
+            "First, fifty is more than zero. Second, zero is less than ten. Third, ten is more than five.",
+            "The digit in the units place of the number fifty is five. The digit in the units place of ten is zero.",
+            "One hundred is ten times ten. One hundred is ten times ten. One hundred is ten times ten. One hundred is ten times ten. One hundred is ten times ten. One hundred is ten times ten. One hundred is ten times ten. One hundred is ten times ten. One hundred is ten",
+            "Fraction is a part of a whole."
+        ]
+    },
+    {
+        "query": "a banjo may have <mask> or five strings.",
+        "answer": "four",
+        "knowledges": [
+            "Banjo has five strings if it has more than one string.",
+            "Banjo has 5 strings.",
+            "Banjo has only one string.",
+            "First, banjo is a musical instrument. Second, the number of strings is a number. Third, the number of strings is greater than zero.",
+            "A banjo has a body and neck. A banjo has a body. A banjo has a neck. A banjo has strings. A banjo has five strings.",
+            "First, a banjo is a musical instrument. Second, a banjo has more than one string. Third, a banjo has less than five strings.",
+            "A banjo has only one or five strings."
+        ]
+    },
+    {
+        "query": "snowflake have <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "First, snowflake have six sides. Second, snowflake have four sides. Third, snowflake have two sides.",
+            "A snowflake has 6 sides.",
+            "First, snowflake have 6 sides. Second, the sides of a snowflake are straight line. Third, snowflake is a geometric shape.",
+            "First, a snowflake is a crystal of ice formed from water vapor. Second, the sides of a snowflake are not equal. Third, the sides of a snowflake are not equal.",
+            "A snowflake is a six-sided figure.",
+            "Zero is not a side of a snowflake. One is a side of a snowflake. Two is a side of a snowflake. Three is a side of a snowflake. Four is a side of a snowflake. Five is a side of a snowflake. Six is a side of"
+        ]
+    },
+    {
+        "query": "boeing and lockheed are <mask> aeronautics companies.",
+        "answer": "two",
+        "knowledges": [
+            "Aeronautics is a branch of engineering that deals with the study, design, and manufacture of aircraft.",
+            "boeing and lockheed are <mask> aeronautics companies.",
+            "The answer is <mask> and <mask>.",
+            "Aeronautics is the study of flying.",
+            "First, Boeing and Lockheed are aeronautics companies. Second, aeronautics companies are in the business of making aircraft. Third, Boeing and Lockheed are in the business of making aircraft.",
+            "aeronautics means aircraft and aircraft means airplane."
+        ]
+    },
+    {
+        "query": "a woman owns <mask> cat and two dogs. she needs to feed all three pets everyday.",
+        "answer": "one",
+        "knowledges": [
+            "First, a cat eats more than a dog. Second, a dog eats more than a mouse. Third, a mouse eats more than nothing.",
+            "First, cats and dogs are animals. Second, cats eat meat and dogs eat meat and fish. Third, cats and dogs are different.",
+            "A woman owns one cat and two dogs.",
+            "One cat needs <mask>kg of food per day. One dog needs <mask>kg of food per day.",
+            "First, pets need to be fed everyday. Second, the pets are cat, dog and fish. Third, cats and dogs are carnivores. Fourth, fish is not a carnivore.",
+            "The answer is zero.",
+            "One dog needs one bowl of food. Two dogs need two bowls of food. Three dogs need three bowls of food."
+        ]
+    },
+    {
+        "query": "we have <mask> fingers.",
+        "answer": "ten",
+        "knowledges": [
+            "First, we can use one finger to count positive numbers. Second, we can use one finger to count negative numbers. Third, we can use one finger to count zero.",
+            "The number of fingers are the same as the number of hands.",
+            "<mask> is greater than zero and less than 10.",
+            "First, fingers are less than ten. Second, ten is greater than fingers.",
+            "Fingers are zero or more.",
+            "First, <mask> fingers are less than ten. Second, <mask> fingers are greater than zero.",
+            "We know that we have fingers."
+        ]
+    },
+    {
+        "query": "a triangle can be drawn from <mask> points.",
+        "answer": "three",
+        "knowledges": [
+            "First, the sum of all points must be equal to <mask>. Second, there is no two points with the same x-coordinate. Third, there is no two points with the same y-coordinate.",
+            "The number of points is a positive integer.",
+            "A triangle is a polygon with three vertices.",
+            "The sum of all three angles of a triangle is 180 degrees.",
+            "First, the number of points is odd. Second, the number of points is greater than one. Third, the number of points is less than <mask>.",
+            "The triangle is formed by three points.",
+            "There are many triangles that can be drawn from 3 points."
+        ]
+    },
+    {
+        "query": "a classical guitar has <mask> strings.",
+        "answer": "six",
+        "knowledges": [
+            "First, a classical guitar has 6 strings. Second, a guitar has 6 strings. Third, a guitar has 6 strings.",
+            "The length of a string is a positive number.",
+            "First, the guitar has strings. Second, the guitar has more than zero strings.",
+            "Each string is a string.",
+            "There are more than <mask> strings.",
+            "A classical guitar has 6 strings.",
+            "First, a classical guitar has six strings. Second, a classical guitar has six strings. Third, a classical guitar has six strings."
+        ]
+    },
+    {
+        "query": "aggression can be used if <mask> ore more persons are in conflict.",
+        "answer": "two",
+        "knowledges": [
+            "First, aggression is a kind of behaviour that is intended to hurt another person. Second, aggression is more likely to be used if there are more persons in conflict. Third, aggression is less likely to be used if there are less persons in conflict.",
+            "One is the smallest number. Second, two is the second smallest number. Third, zero is the third smallest number.",
+            "Aggression can be used when there are more than one person in conflict.",
+            "First, aggression is a behavior that a person does to another person. Second, a person can use aggression if <mask> ore more persons are in conflict.",
+            "First, aggression can be used if more than one person are in conflict. Second, aggression can be used if more than one person are in conflict. Third, aggression can be used if more than one person are in conflict.",
+            "First, aggression is used when more than one person are in conflict. Second, it is not used when only one person is in conflict. Third, it is not used when no one is in conflict.",
+            "The word aggression can be used if <mask> ore more persons are in conflict."
+        ]
+    },
+    {
+        "query": "golf courses differ from location to location, but all have <mask> to eighteen holes.",
+        "answer": "nine",
+        "knowledges": [
+            "First, holes of golf courses are counted from zero. Second, there are 18 holes in a golf course.",
+            "First, <mask> is an integer. Second, the number of holes is always a positive integer. Third, the number of holes is always greater than zero.",
+            "The number of holes in a golf course is always a positive number.",
+            "<mask> is a number.",
+            "First, holes are part of a golf course. Second, the number of holes are always divisible by three. Third, the number of holes is always divisible by four.",
+            "The number of holes in a golf course is always divisible by three.",
+            "A golf course has eighteen holes."
+        ]
+    },
+    {
+        "query": "triceratops was a dinosaur that had <mask> horns on its head.",
+        "answer": "three",
+        "knowledges": [
+            "First, the word \"dinosaur\" is the name of a group of extinct animals. Second, \"horn\" is a kind of body part of animals. Third, a horn is made of hard material.",
+            "First, triceratops is a dinosaur. Second, dinosaurs are animals. Third, animals have a head. Fourth, horns are a part of the head.",
+            "<mask> is an integer between 1 and 10.",
+            "First, horns are a kind of bone. Second, dinosaurs are a kind of animal. Third, dinosaurs lived in the past.",
+            "First, triceratops was a dinosaur. Second, dinosaurs are extinct. Third, animals have horns.",
+            "A dinosaur is a type of animal that lived a long time ago. A dinosaur has a horn on its head. A horn is a type of bone. A bone is a part of the body.",
+            "A triceratops has three horns."
+        ]
+    },
+    {
+        "query": "clams have evolved to have <mask> shells.",
+        "answer": "two",
+        "knowledges": [
+            "Clams are animals with shells.",
+            "First, clams have shells. Second, shells are hard. Third, clams have evolved to have shells.",
+            "The larger the number, the larger the shell.",
+            "Clams are mollusks and mollusks are animals.",
+            "The number of clams are less than the number of stars in the sky.",
+            "Clams have a shell, which is a cover of the body.",
+            "First, clams have evolved to have <mask> shells. Second, a shell is a part of a clam. Third, a shell protects a clam."
+        ]
+    },
+    {
+        "query": "to strip wire, get a firm grip on wire winding it around your <mask> fingers, place hanging wire in a wire stripper, close and pull down.",
+        "answer": "four",
+        "knowledges": [
+            "To get a firm grip on wire, use <mask> fingers. To place hanging wire in a wire stripper, close and pull down.",
+            "First, a firm grip is needed to hold the wire. Second, the wire should be wound around your fingers. Third, the wire stripper should be placed on the wire. Fourth, the wire stripper should be closed. Fifth, the wire stripper should be pulled down.",
+            "First, wire is round. Second, wire is not round, but it is flat. Third, wire is made of metal.",
+            "wire is a long, thin piece of metal. It has a very small hole in the middle.",
+            "wire is made of metal, it is solid and hard, it is flexible and can be stretched, it is shiny and can reflect light, it is colored, it is a conductor of electricity, it is made of copper, it is a conductor of heat, it is a conductor of sound, it",
+            "First, you should use a wire stripper to strip the wire. Second, you should hold the wire firmly. Third, you should hold the wire in the wire stripper. Fourth, you should pull down the wire stripper.",
+            "First, to strip wire, it must be a firm grip on the wire. Second, the wire must be wound around your fingers. Third, the wire must be placed in a wire stripper. Fourth, the wire stripper must be closed. Fifth, the wire stripper must be pulled down"
+        ]
+    },
+    {
+        "query": "motorcycle is a kind of vehicle with <mask> wheels.",
+        "answer": "two",
+        "knowledges": [
+            "First, vehicle is a kind of machine. Second, machine has wheels. Third, wheels are used to move the machine.",
+            "First, motorcycle is a kind of vehicle. Second, vehicle has wheels. Third, wheel is a part of vehicle.",
+            "A motorcycle has 2 wheels, a car has 4 wheels, a bicycle has 2 wheels, a bus has 2 wheels, a train has 2 wheels, a truck has 4 wheels.",
+            "First, vehicles with more than four wheels are not motorcycles. Second, motorcycles are always two wheels. Third, two wheels are less than four wheels.",
+            "First, vehicle is a kind of transportation. Second, transportation is a kind of vehicle. Third, wheels are a kind of parts of vehicles.",
+            "wheels are round things on the vehicle. A vehicle is a kind of thing.",
+            "wheel is a part of a vehicle."
+        ]
+    },
+    {
+        "query": "an easel can have <mask> or four legs.",
+        "answer": "three",
+        "knowledges": [
+            "A leg is a support of an easel.",
+            "The number of legs is always <mask>.",
+            "First, the easel must have legs. Second, the easel can have four legs. Third, the easel can have three legs.",
+            "An easel can have four legs.",
+            "An easel can have <mask> or four legs.",
+            "First, zero is not a number. Second, the number of legs must be a positive number. Third, a table is not an easel.",
+            "An easel has four legs."
+        ]
+    },
+    {
+        "query": "there are <mask> continents on our planet earth.",
+        "answer": "seven",
+        "knowledges": [
+            "There are 7 continents on our planet earth.",
+            "the answer should be less than <mask>.",
+            "First, there are no continent on our planet earth. Second, there are only one continent on our planet earth. Third, there are two continent on our planet earth.",
+            "There are seven continents on our planet earth.",
+            "First, there are seven continents on our planet earth. Second, continents are separated by water. Third, continents are different in shape and size.",
+            "first, we know that there are 7 continents on our planet earth. Second, we know that there are 5 oceans on our planet earth.",
+            "There are only seven continents on our planet earth."
+        ]
+    },
+    {
+        "query": "most motorcycles have <mask> tires.",
+        "answer": "two",
+        "knowledges": [
+            "First, the <mask> tires are the tires of motorcycles. Second, the tires of motorcycles are bigger than the tires of bicycles. Third, the tires of bicycles are smaller than the tires of cars. Fourth, the tires of cars are bigger than the tires of motorcycles.",
+            "<mask> is the same as <mask>.",
+            "<mask> tires are not very common on motorcycles.",
+            "First, <mask> is greater than zero. Second, zero is less than <mask>. Third, zero is less than <mask>.",
+            "Most of the motorcycles have two tires.",
+            "<mask> is a number that can be divided by 2.",
+            "First, the question has a singular noun. Second, the noun is not tires. Third, the number is not one."
+        ]
+    },
+    {
+        "query": "usually a can of tennis balls has at least <mask> balls in it.",
+        "answer": "three",
+        "knowledges": [
+            "There are at least two balls in the can.",
+            "Zero is a number and a can of tennis balls has at least one ball in it.",
+            "The answer is either positive or zero.",
+            "There are a lot of tennis balls in a can.",
+            "If a can has less than <mask> balls, then it has zero balls.",
+            "The number of tennis balls in a can is greater than zero.",
+            "Zero is not a number."
+        ]
+    },
+    {
+        "query": "a triangle is a geometric shape that is made up of <mask> sides.",
+        "answer": "three",
+        "knowledges": [
+            "A triangle has three sides.",
+            "The sides of a triangle are called the <mask>s.",
+            "Triangles are three-sided.",
+            "First, a triangle is a polygon. Second, a polygon is a shape that is made up of straight lines. Third, a polygon is a shape that has more than three sides.",
+            "First, a triangle has three sides. Second, a triangle has three angles. Third, a triangle has three vertices."
+        ]
+    },
+    {
+        "query": "spiders have <mask> legs.",
+        "answer": "eight",
+        "knowledges": [
+            "legs are limbs of spiders.",
+            "spiders have 8 legs.",
+            "First, spiders have eight legs. Second, the number of legs of spiders are more than zero.",
+            "Spiders have eight legs.",
+            "spiders are animals.",
+            "legs is the plural form of leg."
+        ]
+    },
+    {
+        "query": "a family consists of at least <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "A family can have more than <mask> people.",
+            "First, the number of people in a family is always greater than zero. Second, the number of people in a family is always greater than one.",
+            "At least is less than or equal to.",
+            "First, at least one person is required to form a family. Second, a family cannot be formed by only one person. Third, the number of people in a family must be greater than zero.",
+            "First, a family is always a group of people. Second, a family is always a group of people. Third, a family is always a group of people.",
+            "A family is a group of people who live together.",
+            "<mask> is a number. First, zero is not a number. Second, one is a number. Third, one is not a family. Fourth, a family is a group of people."
+        ]
+    },
+    {
+        "query": "we have <mask> toes on each foot.",
+        "answer": "five",
+        "knowledges": [
+            "One is a positive number.",
+            "we can not have <mask> toes on each foot.",
+            "toes are part of the foot.",
+            "Each toe is divided into three parts: big toe, second toe and third toe.",
+            "First, we have 10 toes on each foot. Second, the number of toes on each foot is the same. Third, the number of toes on each foot is not more than 10.",
+            "First, we have <mask> toes on each foot. Second, the number of toes on each foot is less than the number of toes on the other foot.",
+            "First, the number of toes on each foot is the same. Second, the number of toes on each foot is more than zero."
+        ]
+    },
+    {
+        "query": "a proton is made of <mask> quarks.",
+        "answer": "three",
+        "knowledges": [
+            "Proton is a positively charged particle. Quarks are the subatomic particles.",
+            "The proton is the nucleus of the hydrogen atom. The proton has a positive charge. The proton is made of quarks.",
+            "One proton is made of three quarks.",
+            "A proton is made of three quarks.",
+            "Quarks are the smallest particles.",
+            "The number of quarks in a proton is 3.",
+            "First, proton is a part of an atom. Second, atom is made of three particles. Third, the three particles are electrons, neutrons and protons."
+        ]
+    },
+    {
+        "query": "a rectange is a closed shape with <mask> sides at right angles.",
+        "answer": "four",
+        "knowledges": [
+            "A rectangle has four sides.",
+            "Rectangle is a quadrilateral with four sides.",
+            "a rectangle has four sides.",
+            "a rectangle is a closed shape with four sides at right angles.",
+            "A rectangle has 4 sides.",
+            "First, the shape is closed, it means the opposite sides are connected. Second, the shape is a rectangle, it means it has four sides. Third, the shape is at right angles, it means the opposite sides are at right angles.",
+            "A rectangle is a closed shape with 4 sides."
+        ]
+    },
+    {
+        "query": "a person has two legs, <mask> ears, two eyes, one mouth and one head.",
+        "answer": "two",
+        "knowledges": [
+            "One is a number and two is a number.",
+            "First, two eyes are not ears. Second, two ears are not eyes. Third, two legs are not eyes. Fourth, two eyes are not legs. Fifth, two legs are not ears. Sixth, two eyes are not mouths. Seventh, two ears are not mouths. Eighth, two mouths",
+            "a person is a human.",
+            "A person has two ears, two eyes, one mouth and one head.",
+            "<mask> person has <mask> legs, <mask> ears, <mask> eyes, <mask> mouth and <mask> head.",
+            "One leg is one and two legs are two. One ear is one and two ears are two. One eye is one and two eyes are two. One mouth is one and two mouths are two. One head is one and two heads are two.",
+            "The answer is zero."
+        ]
+    },
+    {
+        "query": "presidential elections are held every <mask> years in the us.",
+        "answer": "four",
+        "knowledges": [
+            "First, <mask> is greater than zero. Second, <mask> is less than <mask>. Third, <mask> is greater than <mask>.",
+            "First, <mask> is a positive number. Second, the number of years is greater than zero.",
+            "First, years are numbered. Second, years are consecutive. Third, zero is not a year.",
+            "first, every years is an interval. Second, the election is a single event. Third, the us is a country.",
+            "The number of years is greater than zero.",
+            "First, presidential elections are held every four years in the US. Second, every four years is greater than zero. Third, every four years is less than <mask>.",
+            "First, the presidential election is held every four years. Second, the presidential election is held every two years. Third, the presidential election is held every six years."
+        ]
+    },
+    {
+        "query": "in a chess game it is very difficult to beat someone in <mask> moves.",
+        "answer": "seven",
+        "knowledges": [
+            "Chess is a game with 2 players, each player has 16 pieces. Each piece can move in different ways.",
+            "chess game is a game with a set of rules. In chess game, each player takes turn to move a piece. One player is the attacker and the other player is the defender.",
+            "In a chess game, a player can move a piece in any direction. The number of possible moves in a chess game is <mask>.",
+            "In a chess game, each player has 16 pieces. Each piece has a different movement.",
+            "First, chess is a game of 2 players. Second, the goal of the game is to checkmate the king. Third, the king can move only one square at a time. Fourth, the queen can move any number of squares at a time. Fifth, the knight can move any number of",
+            "First, chess is a game of two players. Second, each player can make a move in a turn. Third, the chess game is over when one player wins.",
+            "in a chess game, there are two players, one is the player and the other is the computer. The computer always wins."
+        ]
+    },
+    {
+        "query": "a car seats usually <mask> to six passengers.",
+        "answer": "two",
+        "knowledges": [
+            "First, a car can seat one passenger. Second, the maximum number of passengers a car can seat is six.",
+            "One seat is occupied by driver. Two seats are occupied by front passengers. Three seats are occupied by rear passengers.",
+            "First, zero is not a number. Second, one is a number. Third, six is a number.",
+            "A car seat usually holds one passenger.",
+            "First, cars usually seats four to six passengers. Second, zero is less than four and greater than negative numbers.",
+            "A car seats usually have four seats, two in front and two in back.",
+            "First, zero is a number. Second, zero is greater than negative numbers. Third, six is greater than zero."
+        ]
+    },
+    {
+        "query": "a game of chess includes <mask> bishops.",
+        "answer": "four",
+        "knowledges": [
+            "First, bishops can move diagonally. Second, bishops cannot move through the other pieces. Third, bishops cannot move through the same square twice in a row.",
+            "A bishop can move <mask> squares in any direction.",
+            "First, the bishop can move in any direction on a chess board. Second, the bishop can move one square in any direction. Third, the bishop can't jump over other pieces.",
+            "One bishop can move on <mask> squares.",
+            "Bishops are different than rooks and knights.",
+            "A bishop can move any number of squares in a straight line, but it cannot jump over other pieces."
+        ]
+    },
+    {
+        "query": "a triangle with <mask> equal sides is an equilateral triangle.",
+        "answer": "three",
+        "knowledges": [
+            "First, the side of a triangle is the longest line segment that connects two vertices of a triangle. Second, an equilateral triangle is a triangle with three equal sides.",
+            "A triangle with <mask> equal sides is an equilateral triangle.",
+            "Equilateral triangle has three equal sides.",
+            "An equilateral triangle has equal sides.",
+            "An equilateral triangle is a triangle with equal sides.",
+            "The sides of a triangle must be in the form of <mask>.",
+            "Triangles with equal sides are equilateral triangles."
+        ]
+    },
+    {
+        "query": "\"double\" means <mask> times.",
+        "answer": "two",
+        "knowledges": [
+            "First, <mask> is always positive number. Second, zero is less than one. Third, one is less than <mask>.",
+            "\"Double\" means multiplication.",
+            "<mask> is positive numbers and zero.",
+            "First, zero is always double of anything. Second, one is always double of zero. Third, negative numbers are always double of positive numbers.",
+            "First, positive numbers always starts from one. Second, negative numbers are less than positive numbers. Third, zero is less than one and greater than negative numbers.",
+            "First, the number of \"2\" is the same as the number of \"2\" in \"double\". Second, the number of \"2\" in \"double\" is the same as the number of \"2\" in \"double\". Third, the number of \"2\" in \"double\"",
+            "The question is asking for a number that is greater than zero and less than <mask>."
+        ]
+    },
+    {
+        "query": "people seem to need at least <mask> hours of sleep a night.",
+        "answer": "six",
+        "knowledges": [
+            "First, people seem to need at least 8 hours of sleep a night. Second, 8 hours of sleep a night is the minimum amount of sleep a person needs. Third, if people don't get at least 8 hours of sleep a night, they will feel tired the next day.",
+            "First, we have to convert hours to days. Second, we have to add the number of days to the current day. Third, we have to compare the result with the <mask> days.",
+            "First, people are always awake at least one hour a day. Second, people are awake at least one hour a day. Third, people are awake at least one hour a day.",
+            "People need at least 8 hours of sleep a night.",
+            "First, there is a maximum limit for sleep. Second, people are usually sleeping in the night. Third, there is a minimum limit for sleep.",
+            "People need to sleep for at least 8 hours.",
+            "One day is <mask> hours long."
+        ]
+    },
+    {
+        "query": "a map is a two-dimensional representation of a <mask> dimensional reality.",
+        "answer": "three",
+        "knowledges": [
+            "First, a map is a two-dimensional representation of a three-dimensional reality. Second, a map is not a reality.",
+            "The more dimensions a map has, the more it can represent the reality.",
+            "In the map, each pixel is represented by a number.",
+            "The map is a two-dimensional representation of a <mask> dimensional reality.",
+            "A map is always a representation of a real world.",
+            "The map is a two-dimensional representation of a three-dimensional reality."
+        ]
+    },
+    {
+        "query": "people have no more than <mask> legs.",
+        "answer": "two",
+        "knowledges": [
+            "First, people have no more than two legs. Second, legs are legs. Third, there are legs on the ground.",
+            "There are no more than <mask> legs in a person.",
+            "People have one leg, if they have no leg, they are not people.",
+            "People have two legs.",
+            "First, the maximum number of legs is 4. Second, the minimum number of legs is 0. Third, zero is not a number.",
+            "First, people have two legs. Second, if people have more than two legs, they can walk. Third, people cannot walk if they have no legs.",
+            "First, people have two legs. Second, animals have four legs. Third, robots have no legs."
+        ]
+    },
+    {
+        "query": "barbershop quartet have <mask> voices.",
+        "answer": "four",
+        "knowledges": [
+            "One barbershop quartet have four voices.",
+            "barbershop quartet is a group of four singers. Each singer has a different voice.",
+            "First, a barbershop quartet has four voices. Second, there are only two types of barbershop quartet: a barbershop quartet with four men and a barbershop quartet with four women.",
+            "A barbershop quartet has four voices.",
+            "The number of voices in a barbershop quartet is 4.",
+            "One, the barbershop quartet is a group of four singers. Two, the barbershop quartet have to have at least one singer. Three, the barbershop quartet have to have at least two singers. Four, the barbershop quartet have to have at least",
+            "There are four members in a barbershop quartet."
+        ]
+    },
+    {
+        "query": "a person has <mask> head.",
+        "answer": "one",
+        "knowledges": [
+            "First, a person has one head. Second, if a person has one head, then he has two hands. Third, if a person has two hands, then he has two legs. Fourth, if a person has two legs, then he has two eyes. Fifth, if a person has two",
+            "<mask> is a positive number.",
+            "One head is the same as zero head. Zero head is the same as zero head. Zero head is the same as zero head.",
+            "One head is positive number.",
+            "First, head is not zero. Second, head is more than zero. Third, head is not negative number.",
+            "One person has one head.",
+            "A person has a head."
+        ]
+    },
+    {
+        "query": "a pair of pants is for one third of a <mask> piece suit.",
+        "answer": "three",
+        "knowledges": [
+            "One third is less than one.",
+            "First, a pair of pants is a pair of pants. Second, a piece of suit is a piece of suit. Third, a pair of pants is one third of a piece of suit.",
+            "First, a pair of pants is for one third of a suit. Second, a pair of pants is a clothing. Third, a suit is a clothing.",
+            "First, one third of a <mask> piece suit is for one <mask> piece pants. Second, one <mask> piece pants is for one <mask> piece of pants. Third, one <mask> piece suit is for one <mask> piece of suit.",
+            "The number of pieces of the suit is the same as the number of pieces of the pants.",
+            "First, <mask> is always a whole number. Second, one third of a <mask> is always a fraction. Third, a fraction is always a whole number.",
+            "The unit of a pair of pants is a pair. The unit of a piece suit is a piece."
+        ]
+    },
+    {
+        "query": "zip code in the u.s. has five or <mask> digits.",
+        "answer": "nine",
+        "knowledges": [
+            "The u.s. zip code has five digits.",
+            "First, zip code in the u.s. has five or <mask> digits. Second, the first digit is always zero. Third, the second digit is always a number between two and nine. Fourth, the third digit is always a number between three and nine. Fifth, the fourth digit",
+            "In the U.S., the zip code has five digits.",
+            "A zip code has five digits and the numbers in a zip code is positive.",
+            "First, five digits are not more than five digits. Second, five digits are not less than five digits. Third, five digits are not equal to five digits.",
+            "Five is greater than four and less than six."
+        ]
+    },
+    {
+        "query": "there are <mask> hundred sixty five and one quarter days in an earth year.",
+        "answer": "three",
+        "knowledges": [
+            "A year is 365 days.",
+            "There are 365 days in a year.",
+            "Hundred is a number that is more than ten. Quarter is a number that is less than half.",
+            "First, a year is 365 days. Second, a day is 24 hours.",
+            "First, 365 days is a year. Second, a year is a full circle around the sun. Third, one quarter is a part of a circle."
+        ]
+    },
+    {
+        "query": "clams are animals with <mask> shells.",
+        "answer": "two",
+        "knowledges": [
+            "A clam is a bivalve mollusk. A clam has a shell. A clam has a soft body.",
+            "First, animals are living things. Second, living things have shells. Third, clams are animals with shells.",
+            "First, clams are animals. Second, animals have shells. Third, clams have <mask> shells.",
+            "First, animals are living things. Second, animals are not plants. Third, animals have <mask> shells.",
+            "clams are animals with shells.",
+            "First, animals are living things. Second, living things are living in the earth. Third, clams are living in the earth.",
+            "A clam is an animal with a shell. A shell is something that protects the animal."
+        ]
+    },
+    {
+        "query": "there are <mask> types of rock.",
+        "answer": "three",
+        "knowledges": [
+            "there are only two types of rock.",
+            "First, there are <mask> types of rock. Second, rock is a type of object. Third, objects are physical things.",
+            "first, there are zero types of rock. Second, there are one type of rock. Third, there are two types of rock. Fourth, there are three types of rock.",
+            "First, rock is a solid material. Second, there are more than two types of rock. Third, there are more than one type of rock.",
+            "rocks are all kinds of things, including gems, precious stones, pebbles, and minerals.",
+            "First, each rock has its own color. Second, there are only <mask> types of rock. Third, the rock's color is unique.",
+            "First, there are only one type of rock. Second, rocks are different. Third, there are only one type of rock."
+        ]
+    },
+    {
+        "query": "any closed two-dimensional shape must have at least <mask> sides.",
+        "answer": "three",
+        "knowledges": [
+            "The two-dimensional shape is closed, so it must have a border.",
+            "A closed two-dimensional shape is like a rectangle, a square, a triangle, or a circle. The minimum number of sides for a closed two-dimensional shape is two.",
+            "A circle has at least one side, a square has four sides, a rectangle has two sides, and a triangle has three sides.",
+            "All shapes are closed two-dimensional shapes.",
+            "A closed two-dimensional shape must have at least four sides.",
+            "<mask> is the number of sides of a polygon.",
+            "The area of a two-dimensional shape is always equal to <mask>."
+        ]
+    },
+    {
+        "query": "trumpet have <mask> valves.",
+        "answer": "three",
+        "knowledges": [
+            "trumpet have valves.",
+            "Valves are part of trumpet.",
+            "trumpet is a musical instrument, it has a mouthpiece, a bell, a long tube and a long, round, cylindrical body.",
+            "First, trumpet is a musical instrument. Second, it has a number of valves. Third, the number of valves is always greater than zero.",
+            "First, trumpet have more than one valve. Second, trumpet have less than <mask> valves.",
+            "One valve is one.",
+            "trumpet have <mask> valves."
+        ]
+    },
+    {
+        "query": "quadrupeds have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "First, quadrupeds are four-legged animals. Second, animals are animals with legs. Third, animals are not humans.",
+            "Quadrupeds are animals with four legs.",
+            "The number of legs of quadrupeds are less than <mask>.",
+            "First, quadrupeds are four-legged animals. Second, humans are quadrupeds. Third, cats are quadrupeds.",
+            "First, the question asks about quadrupeds. Second, the number of legs of a quadruped is 4.",
+            "One leg is equal to zero legs.",
+            "The number of legs is always odd."
+        ]
+    },
+    {
+        "query": "spring and summer are <mask> of four seasons.",
+        "answer": "two",
+        "knowledges": [
+            "First, spring and summer are the two seasons in between winter and fall. Second, fall and winter are the two seasons in between spring and summer.",
+            "First, there are four seasons in a year. Second, each season has its own characteristic. Third, spring and summer are in the same season.",
+            "First, four seasons are spring, summer, autumn and winter. Second, spring is the first season, summer is the second season, autumn is the third season and winter is the fourth season.",
+            "First, four seasons are spring, summer, autumn and winter. Second, each season is half of a year.",
+            "First, spring and summer are the two seasons in between winter and fall. Second, fall and winter are the two seasons in between spring and summer. Third, spring and summer are the two seasons that are not fall and winter.",
+            "Four seasons are spring, summer, autumn and winter.",
+            "Spring and summer are in the same season."
+        ]
+    },
+    {
+        "query": "bricks are <mask> sided.",
+        "answer": "six",
+        "knowledges": [
+            "<mask> is a positive number and it is less than 10.",
+            "Sides of a brick are less than or equal to <mask>.",
+            "First, a brick is a rectangular solid object. Second, the sides of a brick are equal. Third, a brick has two opposite sides.",
+            "First, <mask> is greater than zero. Second, zero is less than <mask>. Third, positive numbers are greater than zero.",
+            "<mask> is greater than 1.",
+            "The number of sides of a cube is always a multiple of three.",
+            "There are no negative numbers in the input."
+        ]
+    },
+    {
+        "query": "a woman owns one cat and two dogs. she needs to feed all <mask> pets everyday.",
+        "answer": "three",
+        "knowledges": [
+            "A woman owns pets. She needs to feed pets everyday.",
+            "First, there are more than one pet. Second, each pet needs to be fed everyday. Third, the number of pets is less than 10.",
+            "First, pets are animals. Second, animals are living things. Third, pets need to be fed everyday.",
+            "A woman can feed a pet by putting food in the pet's mouth. A pet eats as much as it wants. A pet cannot eat more than its stomach capacity.",
+            "One pet needs <mask> cups of food everyday.",
+            "First, there is only one cat and two dogs. Second, a woman owns pets. Third, pets need to be fed everyday.",
+            "One cat needs to be fed once a day. Two dogs need to be fed twice a day."
+        ]
+    },
+    {
+        "query": "shirts with <mask> buttons are called pullovers.",
+        "answer": "no",
+        "knowledges": [
+            "First, shirts with <mask> buttons are called pullovers. Second, shirts with <mask> buttons are shirts. Third, shirts with <mask> buttons are not coats.",
+            "<mask> buttons are less than ten.",
+            "First, shirts with <mask> buttons are called pullovers. Second, shirts with <mask> buttons are shirts. Third, shirts with <mask> buttons are clothing.",
+            "First, the button of a shirt is called a button. Second, a shirt with <mask> buttons is called a pullover.",
+            "First, a pullover is a shirt with <mask> buttons. Second, a shirt with <mask> buttons is a pullover. Third, a shirt with <mask> buttons is a shirt.",
+            "A shirt is a piece of clothing for the upper body. A button is a small piece of material that can be pushed through a hole.",
+            "buttons are sewn on the shirt."
+        ]
+    },
+    {
+        "query": "most people have <mask> fingers.",
+        "answer": "ten",
+        "knowledges": [
+            "First, we can count the fingers on one hand. Second, we have ten fingers on one hand. Third, we have ten fingers on two hands.",
+            "Most people have ten fingers.",
+            "If a person has <mask> fingers, he/she is normal. If a person has <mask> fingers, he/she is not normal.",
+            "First, people have ten fingers. Second, fingers are always numbered from thumb to little finger. Third, people have one thumb and nine fingers.",
+            "<mask> fingers are less than five fingers.",
+            "Most people have 10 fingers.",
+            "most people have 10 fingers."
+        ]
+    },
+    {
+        "query": "a decade-long plan is something to do in the next <mask> years.",
+        "answer": "ten",
+        "knowledges": [
+            "First, decade-long plan is something to do in the next ten years. Second, ten years is less than <mask> years.",
+            "A decade is 10 years.",
+            "A decade is 10 years. A plan is something to do. A plan is a noun. A decade is a number. A decade is more than zero. A decade is less than ten. A decade is a number. A decade is more than zero. A decade is less than ten.",
+            "A decade is a period of ten years.",
+            "A decade is a period of 10 years. A plan is something to do.",
+            "A decade is 10 years. A plan is something to do. A decade-long plan is something to do in the next 10 years.",
+            "A decade is a period of 10 years. A plan is a plan for the future."
+        ]
+    },
+    {
+        "query": "a person has <mask> legs.",
+        "answer": "two",
+        "knowledges": [
+            "A person has two legs.",
+            "There are <mask> people in a group.",
+            "The person has legs.",
+            "First, people have two legs. Second, one is less than two. Third, zero is less than one.",
+            "Zero is less than one.",
+            "First, people have two legs. Second, the number of legs is greater than zero.",
+            "First, a person has two legs. Second, a person has two legs. Third, a person has two legs."
+        ]
+    },
+    {
+        "query": "there are <mask> major types of guitars: acoustic, electric and bass.",
+        "answer": "three",
+        "knowledges": [
+            "First, there are no more than <mask> major types of guitars. Second, there are at least one type of guitar in the list. Third, acoustic, electric and bass are types of guitars.",
+            "First, the number of major types of guitars is always equal to the number of types of guitars. Second, each major type of guitars is always the same. Third, the number of types of guitars is always greater than zero.",
+            "There are three major types of guitars.",
+            "first, there are only three types of guitars: acoustic, electric and bass. Second, there are no other types of guitars.",
+            "First, major types of guitars always starts from one. Second, there are always one acoustic guitar and zero electric guitars. Third, there are always zero acoustic guitars and one bass guitar.",
+            "Acoustic guitars are made of wood, electric guitars are made of wood and plastic, and bass guitars are made of wood.",
+            "First, the number of major types of guitars is always three. Second, acoustic and electric are major types of guitars. Third, acoustic and electric are not the same type of guitars. Fourth, the major types of guitars are acoustic, electric and bass."
+        ]
+    },
+    {
+        "query": "almost all people are born with <mask> eyebrows.",
+        "answer": "two",
+        "knowledges": [
+            "The purpose of eyebrows is to protect the eyes from dust and other harmful things.",
+            "People have two eyebrows.",
+            "The shape of eyebrows is very similar to a number of things, such as the number of years, months, days, and so on.",
+            "Eyebrows are on the face.",
+            "It is a natural thing, not a medical problem.",
+            "Eyebrows are facial hair. People are born with hair.",
+            "The shape of eyebrows are similar to the shape of numbers."
+        ]
+    },
+    {
+        "query": "in the olympics, medals are awarded to the <mask> winners of each sport.",
+        "answer": "three",
+        "knowledges": [
+            "First, each sport has only one winner. Second, the order of medals is: gold, silver, bronze.",
+            "The olympics is a sporting event held every four years. The olympics is held in summer and winter. Summer olympics is held in summer and winter olympics is held in winter.",
+            "In the olympics, there are different sports. Each sport has different number of winners. For example, there are three winners in the 100-meter race.",
+            "First, the olympics is a big sports event. Second, the winner of each sport is awarded a medal.",
+            "There are four medals.",
+            "First, medals are awarded to winners of each sport. Second, the winner of each sport will be awarded with a medal. Third, the winner of each sport will be awarded with a medal.",
+            "First, a winner is the first person who wins a competition. Second, a winner is the first person who wins a competition. Third, a winner is the first person who wins a competition."
+        ]
+    },
+    {
+        "query": "a modern government usually has at least <mask> branches.",
+        "answer": "three",
+        "knowledges": [
+            "First, a modern government usually has at least one branch. Second, the government usually has at least two branches. Third, the government usually has at least three branches.",
+            "First, the government is divided into different branches. Second, each branch has its own job. Third, each branch has a different number of members.",
+            "A modern government is usually a country, a province, a city, a county, a town, a township, a village, a district, a municipality, a township, a canton, a prefecture, a state, a county, a city, a town, a village, a township",
+            "Government is a group of people who make and enforce laws. A branch is a part of a tree. A tree has at least one branch.",
+            "First, government is the system that controls a country. Second, the branches of government are legislative, executive and judicial. Third, the number of branches of government must be at least <mask>.",
+            "First, a modern government usually has at least one branch. Second, a modern government usually has at least two branches. Third, a modern government usually has at least three branches.",
+            "There are at least <mask> branches of government in every modern government."
+        ]
+    },
+    {
+        "query": "a line is <mask> dimensional.",
+        "answer": "two",
+        "knowledges": [
+            "There are only three dimensions in a line.",
+            "A line is one dimensional.",
+            "One dimensional is a line. Two dimensional is a plane. Three dimensional is a cube.",
+            "One dimension is one point. Two dimensions are two points. Three dimensions are three points. Four dimensions are four points.",
+            "First, a line is a one dimensional object. Second, a line is a two dimensional object. Third, a line is a three dimensional object.",
+            "A line is a 1 dimensional object.",
+            "First, the number of lines are <mask> and second, the number of dimensions are zero."
+        ]
+    },
+    {
+        "query": "cats have <mask> ears.",
+        "answer": "two",
+        "knowledges": [
+            "A cat has 4 ears.",
+            "One cat has one ear. Two cats have two ears. Three cats have three ears. Four cats have four ears. Five cats have five ears.",
+            "First, cats have two ears. Second, cats have four ears. Third, dogs have four ears.",
+            "First, cats are animals. Second, animals have ears. Third, the number of ears of cats is less than <mask>.",
+            "First, cats have <mask> ears. Second, there is no cat without ears. Third, ears are body parts of cats.",
+            "A cat has one ear. A cat has two ears. A cat has three ears. A cat has four ears. A cat has five ears. A cat has six ears. A cat has seven ears. A cat has eight ears. A cat has nine ears. A cat has ten ears.",
+            "A cat has one more ear than a dog."
+        ]
+    },
+    {
+        "query": "a corner has <mask> sides.",
+        "answer": "two",
+        "knowledges": [
+            "First, the corner has 4 sides. Second, the corner has 3 sides. Third, the corner has 2 sides.",
+            "The answer is always positive number.",
+            "The side length of a square is always <mask>.",
+            "A corner is a polygon.",
+            "a square has four sides.",
+            "A corner has four sides.",
+            "A square has four sides. A triangle has three sides. A circle has one side."
+        ]
+    },
+    {
+        "query": "a snowflake has <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "Snowflakes have 6 sides.",
+            "The answer is less than or equal to <mask>.",
+            "First, zero is a side. Second, positive numbers are greater than zero. Third, negative numbers are less than zero.",
+            "A snowflake has a regular shape.",
+            "a snowflake has 6 sides.",
+            "A snowflake has six sides."
+        ]
+    },
+    {
+        "query": "the <mask> seasons are winter, spring, summer, and autumn.",
+        "answer": "four",
+        "knowledges": [
+            "the seasons are in order.",
+            "First, winter is the coldest season. Second, spring is the season when the temperature is increasing. Third, summer is the hottest season. Fourth, autumn is the season when the temperature is decreasing.",
+            "The seasons are in order from the first day of spring to the last day of autumn.",
+            "the first season is winter. The second season is spring. The third season is summer. The fourth season is autumn.",
+            "The seasons are numbered from one to four.",
+            "<mask> seasons are winter, spring, summer, and autumn.",
+            "First, the seasons are not negative numbers. Second, zero is not a season. Third, winter is less than spring, summer, and autumn."
+        ]
+    },
+    {
+        "query": "a woman bought two cookies for her <mask> children. she gives a cookie to each child.",
+        "answer": "two",
+        "knowledges": [
+            "First, there are two children. Second, each child is less than two. Third, a woman is a person.",
+            "First, cookies are small and children are big. Second, cookies are more than zero. Third, children are more than zero.",
+            "Children are always less than adults.",
+            "A woman has only two children.",
+            "The number of children is greater than zero.",
+            "a cookie is a sweet food.",
+            "First, a woman has two children. Second, a woman bought two cookies. Third, each child got one cookie."
+        ]
+    },
+    {
+        "query": "bobcats have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "First, positive numbers always starts from one. Second, zero is less than one and greater than negative numbers.",
+            "The first leg is the front leg. The second leg is the back leg. The third leg is the left leg. The fourth leg is the right leg.",
+            "bobcats are animals.",
+            "One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred, one hundred and",
+            "bobcats are mammals and they have four legs.",
+            "The answer is a positive number.",
+            "We know that animals have legs."
+        ]
+    },
+    {
+        "query": "a point has <mask> dimensions.",
+        "answer": "no",
+        "knowledges": [
+            "There are 3 dimensions in the world.",
+            "One dimension is less than zero. Two dimensions are less than three dimensions. Three dimensions are less than four dimensions. Four dimensions are less than five dimensions.",
+            "Zero is the only number with no dimensions.",
+            "The dimension of a point is zero.",
+            "A point has no dimension.",
+            "Zero dimensions is a point. One dimension is a line. Two dimensions is a plane. Three dimensions is a cube. Four dimensions is a tesseract. Five dimensions is a penteract.",
+            "The number of dimensions of a point is zero."
+        ]
+    },
+    {
+        "query": "mammals usually have <mask> limbs.",
+        "answer": "four",
+        "knowledges": [
+            "First, <mask> means many. Second, <mask> means two. Third, <mask> means one.",
+            "First, mammals are animals. Second, animals usually have four limbs. Third, there are some animals that do not have four limbs.",
+            "Mammals have <mask> limbs.",
+            "First, mammals are usually quadrupeds. Second, quadrupeds usually have four limbs. Third, four is more than two.",
+            "The number of limbs of mammals are usually two.",
+            "limbs are arms and legs.",
+            "First, limbs are more than one. Second, limbs are more than zero. Third, limbs are more than one."
+        ]
+    },
+    {
+        "query": "squares have <mask> equal sides.",
+        "answer": "four",
+        "knowledges": [
+            "Squares have four equal sides.",
+            "The sides of a square is always equal.",
+            "First, all squares have equal sides. Second, squares have four equal sides. Third, squares have four equal sides.",
+            "Squares have equal sides.",
+            "First, squares have equal sides. Second, squares have equal sides. Third, squares have equal sides.",
+            "The length of a side of a square is always equal.",
+            "First, all squares have four equal sides. Second, all squares have four equal sides. Third, all squares have four equal sides."
+        ]
+    },
+    {
+        "query": "date has <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "First, zero is not a number. Second, one is a number. Third, two is a number. Fourth, three is a number. Fifth, four is a number. Sixth, five is a number. Seventh, six is a number. Eighth, seven is a number. Ninth, eight",
+            "First, the word \"people\" is a plural noun. Second, there are only two people in the room. Third, there are three or more people in the room.",
+            "The total number of people is the sum of the people in the line.",
+            "There are always one or more people in the party.",
+            "There are two kinds of people in this world: boys and girls.",
+            "The number of people can be any positive number.",
+            "<mask> is a number between 1 and 1000."
+        ]
+    },
+    {
+        "query": "you are likely to find <mask> planets in the solar system.",
+        "answer": "eight",
+        "knowledges": [
+            "First, planets are always in the solar system. Second, the solar system is in the universe. Third, the universe is the biggest object in the universe.",
+            "First, the solar system has 9 planets. Second, the solar system has 8 planets. Third, the solar system has 7 planets.",
+            "First, the number of planets in the solar system is less than 10. Second, the number of planets in the solar system is greater than 1. Third, the number of planets in the solar system is less than 2.",
+            "<mask> planets are the sun, mercury, venus, earth, mars, jupiter, saturn, uranus, neptune, pluto.",
+            "The solar system is a system of planets, and planets are in the solar system.",
+            "the solar system has nine planets.",
+            "First, the solar system is composed of nine planets. Second, the planets are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto. Third, the solar system is in the Milky Way galaxy."
+        ]
+    },
+    {
+        "query": "oxygen molecules can be composed of <mask> atoms of oxygen.",
+        "answer": "two",
+        "knowledges": [
+            "The number of atoms in an oxygen molecule is twice the number of oxygen atoms in a water molecule.",
+            "One oxygen molecule contains two atoms of oxygen.",
+            "oxygen molecule is made up of two atoms of oxygen.",
+            "The smallest unit of a molecule is an atom.",
+            "An atom is composed of protons, neutrons and electrons. Protons and neutrons are the nucleus of the atom and electrons are orbiting around the nucleus.",
+            "Oxygen is composed of oxygen atoms.",
+            "First, oxygen molecule is composed of two atoms of oxygen. Second, oxygen atom is composed of eight electrons, two protons and six neutrons. Third, one mole of oxygen atoms has a mass of 15.99 g."
+        ]
+    },
+    {
+        "query": "paul is <mask> longer three years old anymore. he is at least four now.",
+        "answer": "no",
+        "knowledges": [
+            "First, positive numbers always starts from one. Second, negative numbers are less than zero. Third, zero is less than one and greater than negative numbers.",
+            "First, Paul is three years old. Second, Paul is at least four years old.",
+            "Paul is a person. First, he is at least four years old. Second, he is not three years old anymore. Third, he is four years old now.",
+            "First, <mask> is an integer. Second, four is greater than three.",
+            "First, Paul is not older than four. Second, he is not older than three. Third, he is at least four.",
+            "First, the question is asking about the age of Paul. Second, the age of Paul is always increasing. Third, the age of Paul is always between zero and infinity.",
+            "First, he is three years old now. Second, he is at least four years old now."
+        ]
+    },
+    {
+        "query": "normal dogs have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "<mask> is the number of legs a normal dog has.",
+            "Dogs have four legs.",
+            "First, normal dogs have four legs. Second, dogs have four legs. Third, dogs are animals.",
+            "Normal dogs have four legs.",
+            "A normal dog has four legs.",
+            "The answer must be a positive number.",
+            "The number of legs of a dog is a positive number."
+        ]
+    },
+    {
+        "query": "almost no animal have <mask> legs.",
+        "answer": "three",
+        "knowledges": [
+            "First, some animals have more than four legs. Second, zero is less than four. Third, some animals have less than four legs.",
+            "First, the question is asking about animals. Second, all animals have at least one leg. Third, zero is not a leg.",
+            "First, some animals have two legs, like human. Second, some animals have four legs, like horse. Third, some animals have six legs, like spider.",
+            "A positive number is always greater than zero.",
+            "First, animal is a kind of living thing. Second, legs are a part of body. Third, every living thing has legs.",
+            "First, animals have legs. Second, some animals have more than four legs. Third, zero is less than four.",
+            "All animals have legs."
+        ]
+    },
+    {
+        "query": "a person wants to eat <mask> meals a day.",
+        "answer": "three",
+        "knowledges": [
+            "The number of meals a person wants to eat a day is an integer.",
+            "A person has to eat at least one meal a day. A person can eat more than one meal a day.",
+            "The more meals the person eats, the more calories he or she will consume.",
+            "First, a person can eat at most one meal a day. Second, a person can eat at most <mask> meals a day. Third, a person can eat at most zero meals a day.",
+            "First, a person can eat at most one meal a day. Second, a person can eat at most <mask> meals a day. Third, a person can eat at most <mask> meals a day.",
+            "A person can eat a maximum of <mask> meals a day.",
+            "First, meals is less than <mask>. Second, meals is greater than zero."
+        ]
+    },
+    {
+        "query": "you use <mask> fingers for making a snap.",
+        "answer": "two",
+        "knowledges": [
+            "If the number is positive, use one finger to snap. If the number is negative, use two fingers to snap.",
+            "The number of fingers is the same as the number of numbers.",
+            "You can use <mask> fingers for making a snap.",
+            "Snap is a gesture of fingers, usually from one to five fingers.",
+            "First, <mask> fingers is the minimum number of fingers to make a snap. Second, it is impossible to make a snap with less than <mask> fingers.",
+            "The number of fingers of your left hand is less than <mask> and the number of fingers of your right hand is greater than <mask>.",
+            "There are only four fingers in your hand."
+        ]
+    },
+    {
+        "query": "an animal that has <mask> legs is a fish.",
+        "answer": "no",
+        "knowledges": [
+            "First, animals are less than fish. Second, fish have fins. Third, fish have scales.",
+            "There are no animals that have negative legs.",
+            "First, animals have legs. Second, fish have legs. Third, animals have fins.",
+            "First, an animal is a living creature. Second, a fish is an animal. Third, a fish has <mask> legs.",
+            "Fish is an animal. A fish has two legs. A leg is a part of a body. A body is an animal.",
+            "An animal that has four legs is a cat. An animal that has two legs is a dog. An animal that has more than two legs is a bird. An animal that has no legs is a fish.",
+            "First, fish has <mask> legs. Second, animals are different from fish. Third, legs are the part of the body of animals."
+        ]
+    },
+    {
+        "query": "hexagons have <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "First, hexagons have six sides. Second, hexagons are a type of regular polygon. Third, a regular polygon has all sides the same length.",
+            "Hexagons have six sides.",
+            "The number of sides of a polygon is the number of edges of a polygon.",
+            "A hexagon is a plane figure with six sides.",
+            "The side of a hexagon is equal to the number of its sides.",
+            "First, hexagons have 6 sides. Second, hexagons have 6 sides. Third, hexagons have 6 sides.",
+            "hexagons are polygons with 6 sides."
+        ]
+    },
+    {
+        "query": "a bicycle has two wheels, one handle bar, and <mask> pedals.",
+        "answer": "two",
+        "knowledges": [
+            "a bicycle has two wheels. a bicycle has one handle bar. a bicycle has <mask> pedals.",
+            "Bicycles are vehicles. Vehicles have wheels, handle bars, and pedals.",
+            "One handle bar is connected to the front wheel and one handle bar is connected to the back wheel. The number of pedals is equal to the number of wheels.",
+            "First, a bicycle is a vehicle. Second, a vehicle has wheels, a handle bar, and pedals. Third, wheels are attached to the frame of the vehicle. Fourth, handle bars are attached to the frame of the vehicle. Fifth, pedals are attached to the frame of the vehicle.",
+            "First, a bicycle has two wheels. Second, a bicycle has one handle bar. Third, a bicycle has <mask> pedals.",
+            "A bicycle has two wheels, one handle bar, and one seat.",
+            "a bicycle is a vehicle."
+        ]
+    },
+    {
+        "query": "a painting is a <mask> dimensional piece of art made using paint.",
+        "answer": "two",
+        "knowledges": [
+            "First, paintings are two dimensional. Second, paintings are made using paint. Third, paintings are not made using paper.",
+            "First, paint is made of pigment and solvent. Second, a piece of art is a painting. Third, a painting is a <mask> dimensional piece of art made using paint.",
+            "First, a painting is a piece of art. Second, a painting is made using paint. Third, a painting is a <mask> dimensional piece of art.",
+            "First, the dimension of a painting is the number of dimensions it has. Second, the paint is the material used to create the painting. Third, a painting is made using paint.",
+            "paint is used to create art.",
+            "A painting has a width and a height. The width is greater than the height.",
+            "First, a painting can be a one-dimensional painting. Second, a painting can be a two-dimensional painting. Third, a painting can be a three-dimensional painting."
+        ]
+    },
+    {
+        "query": "there are <mask> years in a decade.",
+        "answer": "ten",
+        "knowledges": [
+            "A decade is ten years.",
+            "First, a decade is a group of ten years. Second, the first year in a decade is called a base year. Third, a decade is a group of ten years.",
+            "A decade is a group of ten years.",
+            "First, decade is a group of ten years. Second, decade is not a month, a week, a day, or an hour. Third, decade is not a century.",
+            "First, a decade is a period of ten years. Second, years are in a decade. Third, a decade is not less than ten years.",
+            "first, years are divided into decades. Second, decades are divided into ten years. Third, a decade is less than ten years.",
+            "A decade is a period of ten years."
+        ]
+    },
+    {
+        "query": "love has <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "First, people is a countable noun. Second, countable nouns are plural. Third, love is a countable noun.",
+            "First, people is a plural noun. Second, zero is less than one.",
+            "<mask> is greater than zero and less than 10.",
+            "First, love is a verb. Second, the number of people is always greater than zero. Third, the number of people is always greater than one.",
+            "People are more than zero.",
+            "First, people are greater than zero. Second, love is less than people.",
+            "The numbers in the statement is the same as the numbers in the input."
+        ]
+    },
+    {
+        "query": "an average human being has <mask> arms.",
+        "answer": "two",
+        "knowledges": [
+            "First, an average human being has two arms. Second, a human being has arms. Third, a human being is a human being.",
+            "An average human being has two arms.",
+            "The human body is composed of arms, legs, head, and torso. The arms and legs are attached to the torso. The arms are on the side of the body and the legs are on the bottom of the body.",
+            "The average human being has two arms.",
+            "There are 10 fingers on each hand. Each finger has 3 joints.",
+            "Humans have arms. The average human being has two arms."
+        ]
+    },
+    {
+        "query": "tabby cat have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "Tabby cat is an animal.",
+            "First, a cat is an animal. Second, animals have four legs. Third, tabby cat is a cat.",
+            "The cat has legs.",
+            "First, cat is an animal. Second, animal has four legs. Third, animal has two legs.",
+            "tabby cat is a cat. It has four legs.",
+            "First, cats are mammals. Second, mammals have four legs. Third, tabby cats are cats.",
+            "The question is about tabby cat. We know that a cat has four legs."
+        ]
+    },
+    {
+        "query": "a restaurant table seats from <mask> to eight people.",
+        "answer": "two",
+        "knowledges": [
+            "There are two people per table.",
+            "There are 8 seats at the table.",
+            "One, two, three, four, five, six, seven, eight.",
+            "Each person must be seated at a table.",
+            "The number is a number of people in a table. The number is greater than zero.",
+            "First, the restaurant table can seat eight people. Second, the restaurant table can seat more than two people. Third, the restaurant table can seat more than four people.",
+            "The first person must sit at the left side of the table. The second person must sit at the right side of the first person. The third person must sit at the left side of the second person. The fourth person must sit at the right side of the third person. The fifth person must sit"
+        ]
+    },
+    {
+        "query": "a car has <mask> wheels and an internal combustion engine.",
+        "answer": "four",
+        "knowledges": [
+            "First, a car is a wheeled vehicle used for transporting people or goods. Second, a car has an internal combustion engine.",
+            "Internal combustion engines are used in cars.",
+            "Cars have four wheels and internal combustion engines.",
+            "The number of wheels is always greater than zero. The number of wheels is always less than or equal to the number of cylinders.",
+            "A car has 4 wheels. An internal combustion engine is a motor.",
+            "First, a car has 4 wheels. Second, a car has an internal combustion engine.",
+            "A car has 4 wheels. A car has an internal combustion engine."
+        ]
+    },
+    {
+        "query": "evergreen trees have <mask> leaves and stay green all year long.",
+        "answer": "no",
+        "knowledges": [
+            "First, trees are green. Second, evergreen trees are green all year long. Third, trees have leaves.",
+            "First, trees have leaves. Second, leaves are green. Third, trees are evergreen.",
+            "Evergreen trees are trees that stay green all year long.",
+            "Evergreen trees are trees that keep their leaves all year long.",
+            "evergreen trees have needles and stay green all year long.",
+            "First, evergreen trees stay green all year long. Second, deciduous trees lose their leaves in winter. Third, leaves are part of a tree.",
+            "First, the leaves are the parts of a tree. Second, the number of leaves is always positive. Third, the number of leaves is greater than zero."
+        ]
+    },
+    {
+        "query": "both composting and burning firewood are <mask> sustainable ways of living.",
+        "answer": "two",
+        "knowledges": [
+            "First, sustainable ways of living means that it is a long-term solution to problems that we face in our daily lives. Second, composting is a long-term solution to our food waste. Third, burning firewood is a long-term solution to our energy needs.",
+            "First, sustainable means to live in the long term. Second, composting is the way of recycling and turning waste into fertilizer. Third, burning firewood is the way of burning wood to produce heat.",
+            "Composting is a natural process and burning firewood is a man-made process.",
+            "Composting is a process of breaking down of organic material into humus, a dark, crumbly, nutrient-rich material that is used as a fertilizer. Burning firewood is a process of heating up wood or any other organic material until it catches fire.",
+            "First, composting is more sustainable than burning firewood. Second, burning firewood is more sustainable than not doing anything. Third, not doing anything is less sustainable than both composting and burning firewood.",
+            "first, composting is the way of using waste as fertilizer. Second, burning firewood is the way of using firewood as fuel.",
+            "First, composting is more sustainable than burning firewood. Second, burning firewood is more sustainable than throwing them away. Third, both are more sustainable than throwing them away."
+        ]
+    },
+    {
+        "query": "a human has <mask> legs and two arms.",
+        "answer": "two",
+        "knowledges": [
+            "Human is an animal and it has two arms and two legs.",
+            "First, the number of legs is less than the number of arms. Second, the number of arms is greater than zero. Third, the number of legs is greater than zero.",
+            "First, a human is a human. Second, a human has two arms. Third, a human has two legs.",
+            "Humans have two arms and two legs.",
+            "A human is a bipedal animal.",
+            "Humans are animals. They have legs and arms.",
+            "First, humans are living things. Second, living things are born from mothers. Third, a mother has one pair of legs and two arms. Fourth, a mother has two pairs of eyes. Fifth, a mother has two pairs of ears. Sixth, a mother has two pairs of nostrils."
+        ]
+    },
+    {
+        "query": "arachnids are animals that have <mask> jointed legs, an exoskeleton, and a two-part body.",
+        "answer": "eight",
+        "knowledges": [
+            "First, arachnids are animals. Second, animals have joints. Third, animals have exoskeleton. Fourth, animals have two-part body.",
+            "First, animals are living things. Second, animals are living things that can move. Third, living things have joints. Fourth, living things have an exoskeleton. Fifth, living things have a two-part body.",
+            "First, spiders are arachnids. Second, insects are not arachnids. Third, insects have six legs.",
+            "An animal is an animal.",
+            "First, all animals have legs. Second, all animals have an exoskeleton. Third, arachnids are not insects.",
+            "An exoskeleton is a hard external skeleton. A jointed leg is a leg that can bend. A two-part body is a body that has two parts."
+        ]
+    },
+    {
+        "query": "there are <mask> monks or nuns in judaism.",
+        "answer": "no",
+        "knowledges": [
+            "First, zero is not a number. Second, monks or nuns are people. Third, people are living beings.",
+            "<mask> is an integer.",
+            "First, there is no monks or nuns in judaism. Second, there are always more than one people in judaism. Third, there are always less than ten people in judaism.",
+            "Judaic people is not the same as Christian. Christian is the one who believes in Jesus. Judaic people is the one who believes in Moses.",
+            "<mask> is an integer. First, integer is greater than zero. Second, zero is less than one. Third, zero is not an integer.",
+            "First, number starts from zero. Second, number is less than one. Third, zero is less than one and greater than negative numbers.",
+            "Monks and nuns are in religion."
+        ]
+    },
+    {
+        "query": "if you quarter a pie, you will have <mask> pieces of pie.",
+        "answer": "four",
+        "knowledges": [
+            "First, a pie is a round thing. Second, a pie is made of dough and some filling. Third, you can eat a pie.",
+            "A quarter is 1/4 of a pie.",
+            "A quarter of a pie is equal to <mask> pieces of pie.",
+            "If you quarter a pie, you will have four equal pieces of pie.",
+            "The whole pie is cut into four pieces.",
+            "First, pie is always divided into 8 pieces. Second, if you divide a pie into 8 pieces, you will have 8 pieces of pie.",
+            "first, a quarter of a pie is a fourth of a pie. Second, a quarter of a pie is a quarter of a pie. Third, a quarter of a pie is a quarter of a pie."
+        ]
+    },
+    {
+        "query": "the bird landed on its <mask> feet.",
+        "answer": "two",
+        "knowledges": [
+            "First, a bird can land on its two feet. Second, the bird can land on its one foot. Third, the bird can land on its three feet.",
+            "First, birds have two feet. Second, the bird landed on its feet.",
+            "The number of feet is the same as the number of the feet of the bird.",
+            "A bird has two feet.",
+            "first, bird is a kind of animal. Second, landing is a kind of action. Third, the action is related to the subject.",
+            "Bird has two feet.",
+            "The bird is always landed on its feet."
+        ]
+    },
+    {
+        "query": "there are <mask> great lakes in north america.",
+        "answer": "five",
+        "knowledges": [
+            "First, north america is located in the northern hemisphere. Second, there are seven continents. Third, there are five oceans. Fourth, north america is located in the northern hemisphere.",
+            "first, north america is a continent. Second, there are <mask> continents in the world. Third, the world is a planet.",
+            "There are 5 great lakes in north america.",
+            "First, there are more than one great lakes in north america. Second, the number of great lakes in north america is less than the number of great lakes in the world.",
+            "First, great lakes are in north america. Second, there are ten great lakes in north america.",
+            "first, north america is a continent. Second, there are <mask> continents in the world. Third, great lakes are lakes.",
+            "The question has three parts. First, the great lakes are in north america. Second, the great lakes are lakes. Third, the great lakes are in the same place."
+        ]
+    },
+    {
+        "query": "automobiles have <mask> tires.",
+        "answer": "four",
+        "knowledges": [
+            "Tires are round and have air inside.",
+            "First, automobiles have 4 tires. Second, cars have 4 tires. Third, cars have more than 2 tires.",
+            "<mask> is a number.",
+            "First, tires of an automobile is one or more. Second, a tire of an automobile is one or more. Third, a tire of an automobile is one or more.",
+            "A car has four tires. A truck has two tires. A bicycle has one tire. A motorcycle has two tires.",
+            "The number of tires is less than the number of passengers.",
+            "First, there are two tires in each automobile. Second, the number of tires is not less than two. Third, the number of tires is not greater than four."
+        ]
+    },
+    {
+        "query": "a sidewalk is used for a place to walk where <mask> cars will drive.",
+        "answer": "no",
+        "knowledges": [
+            "A car is an object that can drive. A sidewalk is a place to walk.",
+            "First, cars always drive on streets. Second, sidewalks are used for a place to walk. Third, cars are driven by people.",
+            "A sidewalk is used for a place to walk where cars will drive.",
+            "First, a sidewalk is used for a place to walk. Second, a sidewalk is used for a place to walk where cars will drive. Third, a sidewalk is used for a place to walk where cars will drive.",
+            "Cars are bigger than people.",
+            "First, the sidewalk is wider than cars. Second, the sidewalk is narrower than cars. Third, the sidewalk is narrower than cars.",
+            "A car is a moving vehicle. A sidewalk is a place to walk. A place to walk is a sidewalk."
+        ]
+    },
+    {
+        "query": "humans require <mask> hours of sleep a night.",
+        "answer": "eight",
+        "knowledges": [
+            "First, humans require sleep. Second, sleep is not zero. Third, sleep is not more than 24 hours.",
+            "First, <mask> hours of sleep a night is a unit of time. Second, the number of hours of sleep a night is less than 24 hours. Third, the number of hours of sleep a night is greater than zero.",
+            "There are 24 hours in a day.",
+            "Sleep is a natural process of the body.",
+            "<mask> is a number.",
+            "First, humans are animals. Second, animals are living things. Third, living things require sleep.",
+            "First, humans require <mask> hours of sleep a night. Second, humans cannot work without sleep. Third, sleep time cannot be negative."
+        ]
+    },
+    {
+        "query": "a chord is any simultaneous playing of <mask> or more notes.",
+        "answer": "three",
+        "knowledges": [
+            "Chords are more than <mask> notes played at the same time.",
+            "Chords are composed of more than one note.",
+            "a chord is played by more than one note.",
+            "The length of a chord is the number of notes in the chord.",
+            "First, chord is a group of notes. Second, notes are played at the same time. Third, chord is always greater than or equal to <mask>.",
+            "First, chords are the combinations of notes played at the same time. Second, notes can be played in any octave. Third, notes can be played in any key.",
+            "Chords are not single notes."
+        ]
+    },
+    {
+        "query": "dice is a kind of cubes with <mask> faces.",
+        "answer": "six",
+        "knowledges": [
+            "dice is used to play games.",
+            "<mask> is the number of faces on the dice.",
+            "First, dice is a kind of cubes. Second, dice has six faces. Third, the faces of dice are numbered from one to six.",
+            "Each face of dice is <mask> sided.",
+            "One face is the one side of a cube. The other faces are the other sides of the cube.",
+            "A cube has 6 faces, each face has one side. A dice has 6 faces, each face has one side.",
+            "First, dice is a kind of cubes. Second, dice has six faces. Third, the number of faces is less than <mask>."
+        ]
+    },
+    {
+        "query": "a prison cell has <mask> windows.",
+        "answer": "no",
+        "knowledges": [
+            "First, windows are not the same size. Second, there are not more than <mask> windows.",
+            "The prison cell has only one door.",
+            "There is only one window in the cell.",
+            "The number of windows is greater than zero.",
+            "The windows are numbered from one to <mask>.",
+            "Windows are a kind of holes. Holes are in the walls of the prison cell. Prison cell walls are thick enough so that the prisoner cannot see the outside world through the windows.",
+            "First, there is a prison cell. Second, the prison cell has <mask> windows. Third, the prison cell has no doors."
+        ]
+    },
+    {
+        "query": "if you had <mask> eyes you could not watch television.",
+        "answer": "no",
+        "knowledges": [
+            "<mask> is not an integer.",
+            "First, eyes are more than zero. Second, eyes are more than one. Third, zero is less than one.",
+            "<mask> is an integer number.",
+            "Television has screen. Screen has a number of eyes.",
+            "You need two eyes to watch television.",
+            "The number of eyes is not a number.",
+            "First, you need at least one eye to watch television. Second, you can not watch television with zero eyes. Third, you can not watch television with more than two eyes."
+        ]
+    },
+    {
+        "query": "a dining table can usually have <mask> legs or a pedestal.",
+        "answer": "four",
+        "knowledges": [
+            "A pedestal is usually shorter than a leg.",
+            "First, a dining table is usually supported by four legs. Second, a pedestal is a separate base for a table. Third, a table can have either four legs or a pedestal.",
+            "A pedestal is an extra leg.",
+            "A dining table usually has four legs or a pedestal.",
+            "Pedestal is a stand that can be attached to the floor.",
+            "A pedestal is a small column on which a sculpture or table is placed. A pedestal is usually circular or square. A table with a pedestal is usually placed in the center of a room. A table with four legs is usually placed in the corner of a room.",
+            "The number of legs of a dining table is always <mask>. A pedestal is not a leg."
+        ]
+    },
+    {
+        "query": "a spider has <mask> legs.",
+        "answer": "eight",
+        "knowledges": [
+            "Spiders are arachnids and they have eight legs.",
+            "A spider has 8 legs.",
+            "Spider legs are always more than zero.",
+            "First, a spider has 8 legs. Second, a spider has 6 legs. Third, a spider has 4 legs.",
+            "First, a spider has <mask> legs. Second, a spider has more than zero legs. Third, a spider has less than ten legs.",
+            "First, a spider has eight legs. Second, a spider has legs.",
+            "One leg is not enough for a spider to stand up."
+        ]
+    },
+    {
+        "query": "japan is an archipelago with <mask> major and many minor islands.",
+        "answer": "four",
+        "knowledges": [
+            "First, major islands are bigger than minor islands. Second, major islands are bigger than zero. Third, zero is smaller than minor islands.",
+            "Japan is an archipelago.",
+            "First, Japan is an archipelago with major and many minor islands. Second, the major islands are Honshu, Hokkaido, Kyushu, and Shikoku. Third, the minor islands are Nansei, Izu, and Ryukyu.",
+            "The major islands are Honshu, Hokkaido, Kyushu, Shikoku and Okinawa.",
+            "Major islands are the main islands. Minor islands are the small islands.",
+            "The major islands are the ones that are inhabited by people.",
+            "There are only two major islands."
+        ]
+    },
+    {
+        "query": "elephant have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "First, the number of legs of an elephant is always greater than zero. Second, the number of legs of an elephant is always greater than two.",
+            "elephant is a kind of animal. First, animals always have four legs. Second, elephant is a kind of animal. Third, elephant is bigger than mouse.",
+            "Elephants are animals. They have four legs.",
+            "First, an elephant has 4 legs. Second, zero is not a leg. Third, a negative number is not a leg.",
+            "First, elephant have four legs. Second, legs are not less than zero. Third, legs are not more than four.",
+            "elephant is a big animal. It has four legs.",
+            "elephant is a mammal and mammals have four legs."
+        ]
+    },
+    {
+        "query": "new zealand is a country with <mask> main islands.",
+        "answer": "two",
+        "knowledges": [
+            "New Zealand is a country. It has more than one main island.",
+            "First, New Zealand is a country. Second, the main islands of New Zealand are Chatham Islands, Kermadec Islands, Auckland Islands, Campbell Islands, Antipodes Islands, Bounty Islands, Snares Islands, and Solander Islands.",
+            "The number of main islands is always more than zero.",
+            "First, countries are composed of provinces. Second, islands are composed of provinces. Third, provinces are composed of districts. Fourth, islands are composed of districts. Fifth, districts are composed of villages. Sixth, provinces are composed of villages. Seventh, villages are composed of cities. Eighth, islands are",
+            "First, a country has a land. Second, a land has a border. Third, a border is between two countries. Fourth, a country is on a land. Fifth, a land is between two countries. Sixth, a country has a border. Seventh, a border is between two countries.",
+            "New Zealand is a country with three main islands.",
+            "There are two main islands in new zealand."
+        ]
+    },
+    {
+        "query": "normally people have <mask> legs.",
+        "answer": "two",
+        "knowledges": [
+            "This is the same question as the last one.",
+            "normal people have 2 legs.",
+            "If a person has <mask> legs, then the person is a human.",
+            "First, human is <mask> and not <mask>. Second, legs are <mask>.",
+            "<mask> is an integer number.",
+            "A person has 2 legs.",
+            "If a person has one leg, then he is a robot. If a person has two legs, then he is a human. If a person has three legs, then he is a horse. If a person has four legs, then he is a table."
+        ]
+    },
+    {
+        "query": "canberra observatory have <mask> telescopes under domes.",
+        "answer": "four",
+        "knowledges": [
+            "telescopes are optical instruments used to observe distant objects. domes are the covers of telescopes.",
+            "There are only <mask> telescopes.",
+            "first, domes are above telescopes. Second, telescopes are under domes. Third, telescopes are under domes.",
+            "First, canberra observatory have <mask> telescopes. Second, telescopes are under domes.",
+            "There are two domes.",
+            "domes are not telescopes.",
+            "First, domes are a type of cover. Second, telescopes are a type of instrument. Third, observatory is a type of place."
+        ]
+    },
+    {
+        "query": "rainbow have <mask> colors.",
+        "answer": "seven",
+        "knowledges": [
+            "First, there is no colors. Second, colors are many. Third, there is no colors at all.",
+            "First, rainbow has a lot of colors. Second, rainbow has more than one color. Third, rainbow has less than five colors.",
+            "One of the colors is red.",
+            "Zero is less than one.",
+            "rainbow have seven colors.",
+            "rainbow is a special thing in my country. It has seven colors.",
+            "rainbow has <mask> colors."
+        ]
+    },
+    {
+        "query": "one whale plus one whale plus <mask> whale equals three whales.",
+        "answer": "one",
+        "knowledges": [
+            "One whale is one, plus one whale is two, plus <mask> whale is three.",
+            "First, whale is a mammal. Second, mammals are animals. Third, animals have more than one leg. Fourth, one is less than three.",
+            "First, two things can't be more than three things. Second, three things can't be more than three things.",
+            "One whale is one, plus one is two, plus <mask> is three.",
+            "<mask> is the number of whales.",
+            "First, three is greater than two. Second, zero is less than one. Third, zero is less than one.",
+            "One whale is one. Two whales are two. Three whales are three."
+        ]
+    },
+    {
+        "query": "a checkbook holder doesn't hold checks if there are <mask> checks to hold.",
+        "answer": "no",
+        "knowledges": [
+            "Checks are always numbered from one to <mask>.",
+            "First, a checkbook holder can hold a maximum of <mask> checks. Second, if the number of checks to hold is greater than <mask>, then the checkbook holder cannot hold any checks.",
+            "First, the checkbook holder is full if there are more than zero checks. Second, the checkbook holder is empty if there are less than zero checks.",
+            "Checks are always in pairs.",
+            "Checks are made of paper.",
+            "A checkbook holder can hold up to <mask> checks.",
+            "Checks are written in checkbook. A checkbook has <mask> checks. If there are <mask> checks to hold, a checkbook holder doesn't hold checks."
+        ]
+    },
+    {
+        "query": "each human hand has <mask> digits.",
+        "answer": "ten",
+        "knowledges": [
+            "One hand has ten fingers. Each finger has one finger.",
+            "Each human hand has 10 fingers.",
+            "Each human hand has ten fingers.",
+            "The digits are <mask> from thumb to pinky.",
+            "There are two hands.",
+            "each human hand has 10 digits.",
+            "First, human hand has <mask> digits. Second, human hand has <mask> digits. Third, human hand has <mask> digits."
+        ]
+    },
+    {
+        "query": "once every <mask> years is a leap year.",
+        "answer": "four",
+        "knowledges": [
+            "First, every four years is a leap year. Second, every 100 years is a leap year. Third, every 400 years is a leap year.",
+            "A leap year is every 4 years.",
+            "every year is a leap year if it is divisible by 4.",
+            "Leap year is a year with 366 days.",
+            "First, leap year has to be divisible by 4. Second, leap year has to be divisible by 100. Third, leap year has to be divisible by 400.",
+            "Every four years is a leap year.",
+            "First, leap year is every four years. Second, leap year is every four years. Third, every four years is a leap year."
+        ]
+    },
+    {
+        "query": "<mask> dimensions are length, width and height.",
+        "answer": "three",
+        "knowledges": [
+            "First, length is the distance between two ends of an object. Second, width is the distance between two sides of an object. Third, height is the distance between the top and bottom of an object.",
+            "The dimensions of a rectangle is length, width and height.",
+            "First, dimensions are length, width and height. Second, length is longer than width and height. Third, width is longer than height.",
+            "Length is always greater than width and height.",
+            "First, length and width are always equal. Second, height is always greater than length and width.",
+            "Length and width are always equal. Height is always less than length and width.",
+            "Length and width are always positive numbers. Height is always a positive number or zero."
+        ]
+    },
+    {
+        "query": "many college students earn a degree in <mask> years.",
+        "answer": "four",
+        "knowledges": [
+            "The degree is earned in four years.",
+            "First, there is a minimum number of years to earn a degree. Second, there is a maximum number of years to earn a degree. Third, zero is not a valid number.",
+            "First, a degree is an academic degree. Second, an academic degree is a degree from an institution of higher education. Third, a college is an institution of higher education. Fourth, a college student is a student who studies at a college. Fifth, a student who studies at a college earns a",
+            "First, college students are not robots. Second, they can earn a degree in <mask> years. Third, they are not robots.",
+            "A degree is a degree of a college. College students are students in a college.",
+            "First, college students are people. Second, people are born and die. Third, college students are people.",
+            "First, there are different kinds of degrees. Second, a degree is earned by a student. Third, a degree is a qualification to do a certain job. Fourth, there are different kinds of degrees."
+        ]
+    },
+    {
+        "query": "a chicken has <mask> legs.",
+        "answer": "two",
+        "knowledges": [
+            "The chicken has four legs.",
+            "A chicken has two legs.",
+            "The chicken has more than zero legs.",
+            "First, chickens have two legs. Second, humans have two legs. Third, a dog has four legs.",
+            "First, chickens have <mask> legs. Second, zero is not a number."
+        ]
+    },
+    {
+        "query": "the <mask> parties in american politics are the democrats and the republicans.",
+        "answer": "two",
+        "knowledges": [
+            "First, there are two parties. Second, they are the democrats and the republicans.",
+            "First, parties in american politics are the democrats and the republicans. Second, the democrats are more than zero and the republicans are less than zero. Third, the democrats are less than the republicans.",
+            "First, democrats and republicans are parties. Second, parties are people who have the same ideas. Third, parties have the same ideas.",
+            "The parties in american politics are the democrats and the republicans.",
+            "Democrats and Republicans are political parties in the United States.",
+            "First, both parties are different. Second, democrats and republicans are the same in some ways. Third, democrats and republicans are different in some ways.",
+            "The <mask> party is the one that wants to change the status quo."
+        ]
+    },
+    {
+        "query": "healthy human beings have <mask> fingers.",
+        "answer": "ten",
+        "knowledges": [
+            "Fingers are part of hands. Hands are part of body.",
+            "First, fingers are not the same in every human being. Second, the number of fingers is always less than ten.",
+            "Fingers are part of the hand. Hands are part of the body.",
+            "fingers are body parts.",
+            "fingers is the plural form of finger.",
+            "Fingers are body parts.",
+            "One is a finger, two is a thumb, three is a pinky, four is a ring finger, five is a middle finger, six is a pointer finger, seven is a thumb."
+        ]
+    },
+    {
+        "query": "pregnancy lasts approximately <mask> or ten months.",
+        "answer": "nine",
+        "knowledges": [
+            "First, <mask> is a positive number. Second, ten months is a positive number. Third, zero is less than ten months.",
+            "First, months are always positive numbers. Second, pregnancy lasts ten months.",
+            "First, the answer must be positive. Second, the number must be between zero and ten.",
+            "First, the word \"approximately\" is used to make a statement more accurate. Second, ten months is more than nine months. Third, nine months is more than eight months.",
+            "First, a month is 30 days. Second, a pregnancy lasts nine months.",
+            "Pregnancy lasts approximately ten months.",
+            "Pregnancy lasts nine months or ten months."
+        ]
+    },
+    {
+        "query": "rainbow have <mask> colours.",
+        "answer": "seven",
+        "knowledges": [
+            "The word rainbow means that it has colours. The word have means that it has colours. The word colours means that it has colours.",
+            "First, rainbow have 7 colours. Second, rainbow have 7 colours. Third, rainbow have 7 colours.",
+            "There are seven colours in the rainbow.",
+            "rainbow is a sequence of colours.",
+            "rainbow is a series of colours. Colour is a colour.",
+            "rainbow have seven colours.",
+            "Rainbow have seven colours."
+        ]
+    },
+    {
+        "query": "human beings have only <mask> neck bones.",
+        "answer": "seven",
+        "knowledges": [
+            "First, human beings have only one neck bone. Second, a person has more than one bone. Third, a person has more than zero bones.",
+            "First, human beings have only one neck bone. Second, there are no neck bones on other animals.",
+            "Human beings have neck bones, not other bones.",
+            "First, human beings have more than one neck bones. Second, neck bones are in the neck. Third, human beings have more than one neck bones.",
+            "First, human beings have only <mask> neck bones. Second, there are no other bones in human beings' neck. Third, there are no bones in human beings' back.",
+            "The human beings have only one neck bone.",
+            "The number of bones in human body is limited."
+        ]
+    },
+    {
+        "query": "a conventional bicycle has <mask> wheels, two pedals, and no motor.",
+        "answer": "two",
+        "knowledges": [
+            "The wheels are used to move forward. The pedals are used to move backward. The motor is used to move forward.",
+            "First, a conventional bicycle has two pedals. Second, a conventional bicycle has no motor. Third, a conventional bicycle has two wheels.",
+            "A conventional bicycle has two pedals. A motorized bicycle has one or more than one motor. A motorized bicycle has one or more than one wheel.",
+            "First, a conventional bicycle is a vehicle with two wheels. Second, a conventional bicycle is a vehicle with pedals. Third, a conventional bicycle is a vehicle with no motor.",
+            "First, the number of wheels is less than <mask>. Second, the number of pedals is less than <mask>. Third, the number of pedals is greater than zero. Fourth, the number of wheels is greater than zero.",
+            "First, wheels are not pedals. Second, pedals are not wheels. Third, a motor is not a wheel.",
+            "A conventional bicycle has <mask> wheels, two pedals, and no motor."
+        ]
+    },
+    {
+        "query": "a room consists of no less than <mask> walls, a floor, and a ceiling.",
+        "answer": "four",
+        "knowledges": [
+            "A room is always enclosed by walls, floor, and ceiling.",
+            "Walls, floor, and ceiling are all parts of a room.",
+            "A room consists of a floor, a ceiling, and walls.",
+            "Zero is less than one.",
+            "There is no less than one wall, floor, and ceiling.",
+            "First, walls are always in a room. Second, a room has a floor and a ceiling. Third, the floor is always below the ceiling.",
+            "First, a room has a floor. Second, a room has a ceiling. Third, a room has a wall."
+        ]
+    },
+    {
+        "query": "zip code in the u.s. has five or <mask> digits.",
+        "answer": "nine",
+        "knowledges": [
+            "Zip code in the u.s. has five digits.",
+            "First, zip code has five digits. Second, the first digit is always a zero or one. Third, the last digit is always five.",
+            "The zip code has five digits and the zip code starts from zero.",
+            "zip code is a number used for mailing address. It has five digits.",
+            "zip code has five digits.",
+            "First, a zip code is five digits. Second, the first digit is always a zero or one. Third, the last four digits are the zip code."
+        ]
+    },
+    {
+        "query": "index card cabinets have <mask> 90 degree angles.",
+        "answer": "eight",
+        "knowledges": [
+            "First, 90 degree angles are always in the corner of the room. Second, all the corners are at the same distance from the door. Third, the corners are at the same distance from the window.",
+            "The number of cabinets is equal to the number of angles.",
+            "First, 90 degree angles are straight lines. Second, there are three straight lines. Third, the number of straight lines is more than one.",
+            "The cabinets have 90 degree angles.",
+            "The number of 90 degree angles is equal to the number of sides of a polygon.",
+            "<mask> is an angle. Second, the sum of two angles is 180 degrees.",
+            "<mask> is an angle that is 90 degrees."
+        ]
+    },
+    {
+        "query": "the <mask> cardinal points of the compass are north, south, east and west.",
+        "answer": "four",
+        "knowledges": [
+            "First, north is the starting point of positive numbers. Second, south is the ending point of positive numbers. Third, east is the starting point of negative numbers. Fourth, west is the ending point of negative numbers.",
+            "The north point is at the top of the compass. The east point is on the right of the north point. The west point is on the left of the north point. The south point is at the bottom of the compass.",
+            "north and south are the same direction.",
+            "The four cardinal points are North, South, East and West.",
+            "the cardinal points of the compass are north, south, east and west.",
+            "The cardinal points of the compass are north, south, east and west."
+        ]
+    },
+    {
+        "query": "twins are <mask> identical children.",
+        "answer": "two",
+        "knowledges": [
+            "Identical twins are two children with the same birth date.",
+            "Identical twins are children that have same appearance.",
+            "There are two twins in a family. First, identical children have the same DNA. Second, twins have the same DNA. Third, DNA is passed from parents to children.",
+            "There are three kinds of twins: identical twins, fraternal twins and half-identical twins.",
+            "First, identical twins are children. Second, the number of children is more than one. Third, twins are children.",
+            "Identical twins are two children who are exactly the same.",
+            "Twins are identical children."
+        ]
+    },
+    {
+        "query": "common table have <mask> side legs.",
+        "answer": "four",
+        "knowledges": [
+            "First, <mask> is the number of side legs. Second, there is only one common table in the world. Third, <mask> is greater than zero.",
+            "<mask> side legs are equal to the number of negative numbers in the <mask>.",
+            "<mask> is the number of legs.",
+            "<mask> is less than one.",
+            "A table have four legs.",
+            "Each side of a common table has <mask> legs.",
+            "<mask> is an integer number."
+        ]
+    },
+    {
+        "query": "a cube has <mask> regular vertices.",
+        "answer": "eight",
+        "knowledges": [
+            "A cube has 6 regular vertices.",
+            "First, regular vertices are not vertices of the cube. Second, regular vertices are vertices of the cube. Third, vertices of the cube are vertices of the cube.",
+            "A cube has 8 vertices.",
+            "First, a cube has 8 vertices. Second, each vertex has 3 edges. Third, each edge is shared by two vertices.",
+            "First, the cube has six regular vertices. Second, the cube has six vertices. Third, the cube has six vertices.",
+            "First, a cube has six regular vertices. Second, a cube has six regular vertices. Third, a cube has six regular vertices."
+        ]
+    },
+    {
+        "query": "a typical stairway has <mask> or more steps going up or down.",
+        "answer": "two",
+        "knowledges": [
+            "There are always <mask> steps going up or down.",
+            "First, a typical stairway has <mask> steps going up. Second, a typical stairway has <mask> steps going down. Third, a typical stairway has <mask> steps going up and <mask> steps going down.",
+            "The number of steps going up is the same as the number of steps going down.",
+            "The steps are always going up or down.",
+            "First, there is always a number of steps going up and down. Second, there is always more steps going up than going down. Third, the number of steps going up is always greater than the number of steps going down.",
+            "First, zero is a typical number of steps. Second, one is a typical number of steps. Third, two is a typical number of steps. Fourth, three is a typical number of steps. Fifth, four is a typical number of steps. Sixth, five is a typical number of steps."
+        ]
+    },
+    {
+        "query": "a water molecule has <mask> hydrogen atoms.",
+        "answer": "two",
+        "knowledges": [
+            "The molecule is made of two atoms. One is oxygen and the other is hydrogen.",
+            "A water molecule has two hydrogen atoms.",
+            "The number of hydrogen atoms in a water molecule is always 1.",
+            "One hydrogen atom is an atom of hydrogen.",
+            "One hydrogen atom has one proton.",
+            "Hydrogen is the first element in the periodic table. It has 1 electron, 1 proton and 1 neutron."
+        ]
+    },
+    {
+        "query": "a triangle is a geometric figure with <mask> distinct sides.",
+        "answer": "three",
+        "knowledges": [
+            "Triangles are not quadrilaterals.",
+            "First, triangle has three sides. Second, triangle has three angles. Third, each angle of a triangle is less than <mask>.",
+            "A triangle has three sides.",
+            "A triangle is a geometric figure with three sides."
+        ]
+    },
+    {
+        "query": "the <mask> senses are sight, hearing, touch, smell and taste.",
+        "answer": "five",
+        "knowledges": [
+            "sight is the sense of sight, hearing is the sense of hearing, touch is the sense of touch, smell is the sense of smell, taste is the sense of taste.",
+            "Sight is not hearing, hearing is not touch, touch is not smell and smell is not taste.",
+            "Sight is the most important sense.",
+            "<mask> is the first letter of each sense.",
+            "The five senses are sight, hearing, touch, smell and taste.",
+            "Each sense has a specific location.",
+            "Senses are used to perceive something."
+        ]
+    },
+    {
+        "query": "a bradypus torquatus is native to brazil and has <mask> clawed toes on each limb.",
+        "answer": "three",
+        "knowledges": [
+            "Bradypus torquatus is a mammal. A mammal has <mask> limbs.",
+            "Bradypus torquatus is a mammal.",
+            "A bradypus torquatus is a mammal. Mammals have <mask> toes.",
+            "Bradypus is a genus of sloths. Torquatus is a Latin word which means \"to have a necklet or torque.\"",
+            "Bradypus is a genus of mammals. Torquatus is a Latin word which means \"collared\" or \"necklaced\".",
+            "First, bradypus is a genus of mammals. Second, torquatus is a species of bradypus. Third, mammals have <mask> toes.",
+            "First, bradypus torquatus is a type of mammal. Second, mammals have <mask> clawed toes on each limb. Third, a bradypus torquatus is native to brazil."
+        ]
+    },
+    {
+        "query": "sarah was pregnant for around <mask> months in total.",
+        "answer": "nine",
+        "knowledges": [
+            "Pregnancy lasts for 9 months.",
+            "First, the number of months is between 1 and 12. Second, months are a unit of time. Third, there are 12 months in a year.",
+            "First, <mask> is a positive number. Second, the pregnancy is around <mask> months in total.",
+            "First, months are always more than or equal to zero. Second, zero is less than or equal to one. Third, months are always more than or equal to zero.",
+            "The first month of pregnancy is the first month of gestation. The last month of pregnancy is the last month of gestation.",
+            "First, sarah is a woman. Second, pregnancy is a period of time for a woman to carry a baby. Third, months is a period of time for a month.",
+            "First, pregnancy lasts for around 9 months. Second, sarah was pregnant for around 9 months in total."
+        ]
+    },
+    {
+        "query": "people have <mask> arms.",
+        "answer": "two",
+        "knowledges": [
+            "People are alive.",
+            "A person has two arms.",
+            "People have two arms.",
+            "arms are part of body.",
+            "One person has one arm. Two people have two arms. Three people have three arms.",
+            "Zero is less than one and greater than negative numbers."
+        ]
+    },
+    {
+        "query": "most bicycles have <mask> wheels arranged in tandem.",
+        "answer": "two",
+        "knowledges": [
+            "First, bicycles are used to move people. Second, wheels are used to move bicycles. Third, the distance between two wheels is called the wheelbase. Fourth, the distance between two wheels is longer than the distance between two pedals.",
+            "The wheels of bicycles are arranged in tandem.",
+            "First, the most common number of wheels for a bicycle is two. Second, the wheels of a bicycle are usually arranged in tandem.",
+            "Most bicycles have two wheels.",
+            "A bicycle has two wheels, and a tandem bicycle has two wheels arranged in tandem.",
+            "First, wheels are always in a bicycle. Second, wheels are always arranged in tandem. Third, tandem means that two wheels are next to each other.",
+            "The number of wheels of a bicycle is one."
+        ]
+    },
+    {
+        "query": "people usually have <mask> toes on each of their feet.",
+        "answer": "five",
+        "knowledges": [
+            "toes are part of the foot.",
+            "The number of toes on each of your feet is the same.",
+            "The word \"usually\" means that the number of toes on each foot can be different.",
+            "First, toes are a part of feet. Second, people have two feet. Third, each person has ten toes on each foot.",
+            "First, toes are the small parts of feet. Second, the number of toes is not less than zero. Third, the number of toes is not greater than five.",
+            "People usually have ten toes on each of their feet.",
+            "First, people usually have <mask> toes on each of their feet. Second, toes are less than fingers. Third, fingers are less than arms."
+        ]
+    },
+    {
+        "query": "a woman owns three cats and gives one of them away to her sister. she now owns only <mask> cats.",
+        "answer": "two",
+        "knowledges": [
+            "One cat is a cat.",
+            "First, cats are living things. Second, living things are usually owned by someone. Third, ownership is the relation between a person and a living thing.",
+            "The number of cats owned by a woman is always greater than zero.",
+            "First, a woman owns three cats. Second, a woman owns three cats. Third, a woman owns three cats.",
+            "First, a woman owns cats. Second, cats are always owned by a woman. Third, a woman can own at most three cats.",
+            "Cats are owned by people. People have one or more cats.",
+            "cats are pets. One cat is one pet."
+        ]
+    },
+    {
+        "query": "a ring has <mask> sides.",
+        "answer": "no",
+        "knowledges": [
+            "First, the ring has one side. Second, the ring has <mask> sides. Third, the ring has no sides.",
+            "The answer is a number.",
+            "Zero is less than one.",
+            "A ring has two sides.",
+            "A ring is a circular shape. It has two ends and no beginning or end.",
+            "A side is a line that is connected to the center."
+        ]
+    },
+    {
+        "query": "jumping rope requires <mask> less than one foot.",
+        "answer": "no",
+        "knowledges": [
+            "A foot is a unit of length, not a unit of time.",
+            "One foot is about 30.48cm.",
+            "This question requires knowledge about the length of the rope.",
+            "One foot is 12 inches. 12 inches is one foot.",
+            "A rope that is <mask> foot long is too short. A rope that is <mask> foot long is too long. A rope that is <mask> foot long is just right.",
+            "<mask> is less than one foot, and it can be a positive number or a negative number.",
+            "One foot is 12 inches."
+        ]
+    },
+    {
+        "query": "one dollar can be represented by <mask> dimes.",
+        "answer": "ten",
+        "knowledges": [
+            "First, one dollar is greater than one dime. Second, one dime is greater than zero dimes. Third, zero dimes is less than one dime.",
+            "One dollar is greater than one dime.",
+            "One dollar is equal to 100 cents.",
+            "First, dollar is more than dimes. Second, dimes is more than zero. Third, zero is less than one.",
+            "One dollar can be represented by 10 dimes.",
+            "First, the number of dimes are 10. Second, the number of dimes is more than 1.",
+            "First, one dollar can be represented by ten dimes. Second, ten dimes can be represented by one dollar. Third, one dollar can be represented by ten dimes."
+        ]
+    },
+    {
+        "query": "a proton is made of <mask> independent quarks.",
+        "answer": "three",
+        "knowledges": [
+            "First, proton is made of quarks. Second, quarks are made of three kinds of quarks: up, down, and strange. Third, quarks are point-like particles.",
+            "First, a proton is made of three quarks. Second, each quark is an elementary particle. Third, an elementary particle has no known substructure.",
+            "There are six types of quarks.",
+            "A proton is made of three quarks.",
+            "There are six quarks, so we can make six protons.",
+            "First, the number of quarks in a proton is more than one. Second, the number of quarks in a proton is less than or equal to three.",
+            "A proton is made of two up quarks and one down quark."
+        ]
+    },
+    {
+        "query": "antelope have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "First, zero is less than one. Second, positive numbers are more than zero. Third, zero is less than one and greater than negative numbers.",
+            "First, antelope have four legs. Second, legs are part of an animal. Third, antelope is an animal.",
+            "First, we can not use negative numbers to count legs. Second, we can not use zero to count legs. Third, we can not use one to count legs.",
+            "Antelope is a kind of animal.",
+            "<mask> is an integer.",
+            "antelope is a mammal.",
+            "A number is a leg of an antelope if it is equal to the number of antelope legs."
+        ]
+    },
+    {
+        "query": "a triangle has <mask> distinct corners.",
+        "answer": "three",
+        "knowledges": [
+            "First, a triangle has three corners. Second, a triangle has more than two corners. Third, a triangle has less than four corners.",
+            "There are 3 corners in a triangle.",
+            "A triangle has three corners.",
+            "Triangles have three corners.",
+            "The corners of a triangle are called vertices.",
+            "A triangle is a three-sided polygon."
+        ]
+    },
+    {
+        "query": "a professor in math is answering a question. he answers two could be divided by <mask> plus one.",
+        "answer": "one",
+        "knowledges": [
+            "First, the professor knows two is not a negative number. Second, the professor knows two is not a zero. Third, the professor knows the answer must be a positive number.",
+            "The answer is always a positive number.",
+            "Division is inverse of multiplication.",
+            "The professor is answering a question in math. He is answering a division question. He is dividing two numbers.",
+            "First, two could be divided by zero. Second, two could be divided by one. Third, two could be divided by one or more.",
+            "First, two could be divided by zero is an impossible. Second, zero could be divided by zero is an impossible. Third, two could be divided by zero is an impossible.",
+            "First, division is done by multiplying the divisor by the quotient. Second, zero is the only number that can be divided by zero. Third, zero is the only number that can be divided by zero."
+        ]
+    },
+    {
+        "query": "thirty usually are <mask> more than twenty.",
+        "answer": "ten",
+        "knowledges": [
+            "First, zero is more than negative numbers. Second, positive numbers are more than zero. Third, twenty is less than thirty.",
+            "First, zero is more than negative numbers. Second, twenty is less than thirty.",
+            "First, the number thirty is more than twenty. Second, the number twenty is more than zero.",
+            "First, thirty is greater than twenty. Second, zero is less than one and greater than negative numbers.",
+            "First, numbers can be either positive or negative. Second, positive numbers are more than zero. Third, negative numbers are less than zero."
+        ]
+    },
+    {
+        "query": "a simple tripod has <mask> legs.",
+        "answer": "three",
+        "knowledges": [
+            "The tripod has three legs.",
+            "A tripod is a three-legged object.",
+            "The legs of a tripod are always three.",
+            "<mask> is a positive number.",
+            "First, the number of legs of a tripod is odd. Second, the number of legs of a tripod is greater than one. Third, the number of legs of a tripod is less than or equal to three.",
+            "A tripod has three legs.",
+            "First, a tripod has three legs. Second, three is greater than two. Third, two is greater than one."
+        ]
+    },
+    {
+        "query": "index card storage cabinets have <mask> 90 degree angles.",
+        "answer": "eight",
+        "knowledges": [
+            "First, a 90 degree angle is a right angle. Second, a right angle is a 90 degree angle. Third, a 90 degree angle is a 90 degree angle.",
+            "The first 90 degree angle is always on the top left corner. The second 90 degree angle is always on the bottom right corner.",
+            "A storage cabinet is a box that is used to store files and documents.",
+            "First, 90 degree angles are equal to two right angles. Second, two right angles are equal to 180 degrees. Third, 180 degrees is equal to <mask> radians.",
+            "First, the storage cabinets have 90 degree angles. Second, the storage cabinets are square. Third, the storage cabinets are made of wood.",
+            "First, a 90 degree angle is a straight line. Second, a straight line is a line that goes on forever. Third, a line that goes on forever is a line that is not a straight line.",
+            "First, 90 degree angles are straight lines. Second, straight lines are always horizontal or vertical. Third, straight lines are always at 90 degree angles."
+        ]
+    },
+    {
+        "query": "phobos orbits mars about once every <mask> square hours, much faster than mars' rotation.",
+        "answer": "seven",
+        "knowledges": [
+            "Phobos orbits Mars. Mars rotates.",
+            "phobos orbits mars. Mars has a rotation.",
+            "First, phobos orbits mars about once every <mask> square hours. Second, phobos orbits mars faster than mars' rotation.",
+            "Phobos orbits Mars.",
+            "First, orbits are not circular. Second, orbits are not at the same distance. Third, orbits are not the same speed.",
+            "phobos orbits mars. Mars has a rotation. phobos orbits mars. phobos orbits mars faster than mars' rotation.",
+            "Mars has a day of 24 hours. Phobos orbits Mars faster than Mars rotates."
+        ]
+    },
+    {
+        "query": "a pentagon has <mask> sides.",
+        "answer": "five",
+        "knowledges": [
+            "A pentagon has five sides.",
+            "A pentagon is a polygon with five sides.",
+            "First, a pentagon is a polygon. Second, a polygon is a shape. Third, a shape is a two-dimensional figure. Fourth, a two-dimensional figure is a closed plane figure. Fifth, a closed plane figure is a shape with four sides.",
+            "A pentagon is a five-sided polygon.",
+            "Pentagons are regular polygons."
+        ]
+    },
+    {
+        "query": "winning a chess game in <mask> moves is very impressive.",
+        "answer": "seven",
+        "knowledges": [
+            "Chess is a game played by two players. The winner is the one who wins the most number of pieces. The number of pieces are determined by the number of moves.",
+            "A chess game is a game of two players. A chess game is played on a board of 64 squares, alternating in black and white. Each player starts with 16 pieces.",
+            "chess game has <mask> moves.",
+            "The number of moves in a chess game is limited.",
+            "Chess game is played by two players, the first player wins when the other player cannot move.",
+            "Chess is a game.",
+            "The length of the chess game is determined by the number of moves."
+        ]
+    },
+    {
+        "query": "one in <mask> also means a quarter.",
+        "answer": "four",
+        "knowledges": [
+            "Zero is a number, so it can be divided by 4.",
+            "First, the first digit of a number is the tenths place. Second, the second digit of a number is the hundredths place. Third, the third digit of a number is the thousandths place. Fourth, the fourth digit of a number is the ten-thousandths place.",
+            "One is the smallest positive number.",
+            "The numbers in the mask are all positive.",
+            "First, one is greater than zero. Second, zero is less than one. Third, zero is less than one.",
+            "First, positive numbers always starts from one. Second, negative numbers are less than positive numbers. Third, zero is less than one and greater than negative numbers.",
+            "A quarter is a fourth of a whole."
+        ]
+    },
+    {
+        "query": "the number six looks like a <mask> upside down.",
+        "answer": "nine",
+        "knowledges": [
+            "the number six is greater than zero and less than ten.",
+            "Number six is greater than zero.",
+            "The number six is a multiple of two.",
+            "First, <mask> are always equal to zero. Second, six is greater than zero.",
+            "First, the number six is a positive number. Second, the number six is greater than zero.",
+            "Six is greater than zero.",
+            "Zero is less than one and greater than negative numbers."
+        ]
+    },
+    {
+        "query": "a lobster lives on the ocean floor and has <mask> functional pairs of legs.",
+        "answer": "five",
+        "knowledges": [
+            "A lobster has 8 legs.",
+            "A lobster has two claws and four legs.",
+            "Legs are the things that allow an animal to move.",
+            "Lobsters are crustaceans.",
+            "First, the lobster has two claws. Second, the lobster has six legs. Third, the lobster has two antennae. Fourth, the lobster has ten walking legs.",
+            "The number of legs on a lobster is an even number.",
+            "First, legs are the parts of the body of animals. Second, the lobster has two pairs of legs. Third, the lobster has four legs."
+        ]
+    },
+    {
+        "query": "badminton is a game played by two or <mask> male players.",
+        "answer": "four",
+        "knowledges": [
+            "The game can be played by two or more players.",
+            "First, the game is played by two players. Second, the game is played by male players.",
+            "Two or more players are always playing the game.",
+            "One, the game is played by two players. Two, the game is played by male players. Three, the game is played by two or more players.",
+            "<mask> means more than two.",
+            "Male is a kind of player.",
+            "There are two players in badminton."
+        ]
+    },
+    {
+        "query": "a leg table is a flat surface supported by <mask> or more legs.",
+        "answer": "three",
+        "knowledges": [
+            "First, a table has four legs. Second, a table has at least one leg. Third, a table has more than one leg.",
+            "The table must be flat. The table must be supported by legs.",
+            "A table is an object. A leg is a part of a table.",
+            "First, a table has four legs. Second, a table has <mask> or more legs. Third, a table has <mask> or more legs.",
+            "First, the surface of a table is flat. Second, a table is supported by legs. Third, the legs are under the table.",
+            "Legs are vertical supports that hold the table.",
+            "First, the table has legs. Second, the table has at least <mask> legs. Third, the table has at most <mask> legs."
+        ]
+    },
+    {
+        "query": "earth have <mask> populated continents.",
+        "answer": "six",
+        "knowledges": [
+            "First, the Earth is a planet. Second, a planet is a big rock. Third, a big rock is a small planet. Fourth, the Earth is a small planet. Fifth, the Earth is a small rock. Sixth, the Earth is a small big rock. Seventh, a small big",
+            "A continent is a large continuous area of land.",
+            "<mask> continents are <mask> populated.",
+            "First, continents are parts of earth. Second, there are seven continents. Third, the continents are Asia, Africa, America, Antarctica, Australia, Europe and Oceania.",
+            "First, the world is a sphere. Second, the world is divided into seven continents. Third, the world has <mask> populated continents.",
+            "There are only seven populated continents on earth."
+        ]
+    },
+    {
+        "query": "most people in the u.s. works <mask> consecutive hours in a business day.",
+        "answer": "eight",
+        "knowledges": [
+            "First, most people in the u.s. work 40 hours in a business day. Second, people who work more than 40 hours are very few. Third, people who work less than 40 hours are very few.",
+            "First, the business day is usually 8 hours. Second, the u.s. usually works 9 hours a day. Third, the u.s. usually works 5 days a week.",
+            "First, most people in the u.s. works <mask> consecutive hours in a business day. Second, in a business day, people need to sleep. Third, in a business day, people need to work.",
+            "most people in the u.s. works 8 hours in a business day.",
+            "First, people are more than the business day. Second, people are more than zero. Third, the business day is more than zero.",
+            "First, most people in the u.s. works 8 hours a day. Second, consecutive means there is no break in between. Third, consecutive is not the same as consecutive.",
+            "First, a business day is 8 hours. Second, the number of hours of a business day is less than 24 hours. Third, people in the u.s. work 8 hours a day."
+        ]
+    },
+    {
+        "query": "snowflake have <mask> different sides.",
+        "answer": "six",
+        "knowledges": [
+            "First, a snowflake has six sides. Second, a snowflake has one side. Third, a snowflake has two sides. Fourth, a snowflake has three sides. Fifth, a snowflake has four sides.",
+            "A snowflake has 6 sides.",
+            "Each side of a snowflake is different.",
+            "There are many shapes that have more than one side. For example, the cube has six sides. The sphere has one side.",
+            "The answer is a number, and it is a number greater than zero.",
+            "Each snowflake has six different sides.",
+            "Snowflake have 6 different sides."
+        ]
+    },
+    {
+        "query": "a wall divides <mask> room into two rooms.",
+        "answer": "one",
+        "knowledges": [
+            "There are two rooms.",
+            "A wall divides the room into two rooms.",
+            "There are more than one positive numbers in the room.",
+            "The wall is straight and there is no door.",
+            "A wall divides a room into two rooms.",
+            "A room can be a positive number.",
+            "First, the wall is vertical. Second, the wall is not a hole. Third, the wall is not a mirror."
+        ]
+    },
+    {
+        "query": "a convex hexagon is a closed shape with <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "First, a hexagon is a closed shape. Second, a hexagon has six sides. Third, a hexagon is a convex shape.",
+            "First, the number of sides of a convex hexagon is always a multiple of six. Second, the sum of the length of the sides of a convex hexagon is always a multiple of six. Third, the length of the sides of a convex hexagon is always greater than <",
+            "A hexagon is a polygon with 6 sides.",
+            "A convex hexagon is a closed shape with <mask> sides.",
+            "A hexagon is a closed shape with six sides.",
+            "A hexagon is a closed shape with 6 sides.",
+            "A triangle is a closed shape with three sides."
+        ]
+    },
+    {
+        "query": "a large bouquet of flowers means a group of more than <mask> flowers.",
+        "answer": "two",
+        "knowledges": [
+            "A large bouquet of flowers means a group of more than one flower.",
+            "A bouquet of flowers consists of flowers.",
+            "First, the bouquet of flowers is a group of flowers. Second, the group of flowers is a group of more than <mask> flowers.",
+            "First, a bouquet of flowers means a group of flowers. Second, a group of flowers is more than <mask> flowers.",
+            "A bouquet of flowers consists of flowers. A bouquet of flowers is a group of flowers.",
+            "Flowers are always grouped.",
+            "First, a large bouquet of flowers is more than <mask> flowers. Second, a small bouquet of flowers is less than <mask> flowers. Third, a bouquet of flowers is a group of flowers."
+        ]
+    },
+    {
+        "query": "many buddhists try to have <mask> desires.",
+        "answer": "no",
+        "knowledges": [
+            "There are many desires, and buddhists try to have desires.",
+            "First, many buddhists try to have <mask> desires. Second, many buddhists try to have <mask> desires. Third, many buddhists try to have <mask> desires.",
+            "Desire is something that we want.",
+            "desire is the strong desire to have something.",
+            "The meaning of desire is that the person wants to have something.",
+            "If a buddhist has <mask> desires, he will have <mask> desires.",
+            "A desire is a desire."
+        ]
+    },
+    {
+        "query": "a door has <mask> different sides.",
+        "answer": "four",
+        "knowledges": [
+            "There are 4 sides for a rectangle, 6 sides for a hexagon, 8 sides for an octagon, and 12 sides for a dodecagon.",
+            "A door has four sides.",
+            "First, a door has four sides. Second, a door has two sides. Third, a door has one side.",
+            "There are four sides to a door.",
+            "A door has two sides."
+        ]
+    },
+    {
+        "query": "scallops are animals that have <mask> internal shells and live on the ocean floor.",
+        "answer": "two",
+        "knowledges": [
+            "The internal shells of scallops are the same as their external shells. The internal shells of scallops are internal. The internal shells of scallops are shells.",
+            "First, scallops are animals. Second, animals are living things. Third, living things are things that eat. Fourth, animals eat. Fifth, things that eat have mouths. Sixth, mouths are openings. Seventh, things that eat have mouths. Eighth, mouths are openings. Ninth, openings",
+            "First, animals are living things. Second, shells are external shells. Third, ocean floor is the bottom of the ocean.",
+            "First, scallops are animals. Second, scallops have internal shells. Third, scallops live on the ocean floor.",
+            "First, internal shells are the shells that are inside the body of the animal. Second, the ocean floor is the bottom of the ocean. Third, scallops live on the ocean floor.",
+            "First, they have shells. Second, they live on the ocean floor.",
+            "Scallops are animals. They have internal shells. They live on the ocean floor."
+        ]
+    },
+    {
+        "query": "nothing with legs can stand on <mask> legs.",
+        "answer": "zero",
+        "knowledges": [
+            "<mask> is not one.",
+            "Nothing with legs can stand on one leg.",
+            "Zero is nothing with legs.",
+            "A horse can stand on four legs.",
+            "Legs are limbs. Limbs are things that can stand. Things that can stand are things that have legs. Things that have legs are things that can stand on two legs. Things that can stand on two legs are things that can stand on one leg. Things that can stand on one leg are things",
+            "Legs are used for standing.",
+            "First, the number of legs of a creature is always less than <mask>. Second, zero is less than one and greater than negative numbers."
+        ]
+    },
+    {
+        "query": "many jeeps are <mask> wheeled vehicles.",
+        "answer": "four",
+        "knowledges": [
+            "First, many jeeps are wheeled vehicles. Second, jeeps are vehicles. Third, vehicles are wheeled.",
+            "Wheeled vehicles are cars, trucks, jeeps, buses, motorcycles, etc.",
+            "jeep is a wheeled vehicle.",
+            "A jeep is a four-wheel vehicle.",
+            "First, jeeps are wheeled vehicles. Second, wheeled vehicles are vehicles. Third, vehicles are vehicles.",
+            "First, jeeps are wheeled vehicles. Second, wheeled vehicles are not boats. Third, boats are not jeeps.",
+            "First, jeeps are wheeled vehicles. Second, wheeled vehicles are vehicles. Third, vehicles are things that can move."
+        ]
+    },
+    {
+        "query": "there are <mask> basic types of forces in the universe.",
+        "answer": "four",
+        "knowledges": [
+            "First, there are four basic forces in the universe. Second, there are two forces that are in action. Third, the two forces that are in action are stronger than the other two forces.",
+            "First, there are 4 basic forces in the universe. Second, they are gravity, electromagnetism, weak nuclear force and strong nuclear force. Third, they are in the same order.",
+            "there are only four basic forces in the universe.",
+            "The forces are strong, weak, electromagnetic, gravitational, nuclear and dark.",
+            "First, there are four fundamental forces in the universe: gravitational, electromagnetic, strong nuclear and weak nuclear. Second, the gravitational force is the weakest force. Third, the electromagnetic force is the strongest force.",
+            "First, the earth is the center of the universe. Second, the earth is surrounded by the moon. Third, the moon is surrounded by the sun. Fourth, the sun is surrounded by the planets. Fifth, the planets are surrounded by the stars. Sixth, the stars are surrounded by the universe",
+            "The universe has the following basic forces: gravitational force, electromagnetic force, strong nuclear force, weak nuclear force, and the Higgs force."
+        ]
+    },
+    {
+        "query": "a human being has <mask> functional fingers on each hand.",
+        "answer": "five",
+        "knowledges": [
+            "Each finger has a different function.",
+            "A human being has ten fingers on each hand.",
+            "One is a thumb, the other four are index, middle, ring and little fingers.",
+            "First, each hand has five fingers. Second, each finger is functional. Third, the human being has two hands.",
+            "First, the number of fingers on each hand is different. Second, the number of fingers on each hand is less than <mask>.",
+            "a human being has 10 fingers on each hand.",
+            "First, a human being has two hands. Second, each hand has five fingers. Third, each finger has three joints."
+        ]
+    },
+    {
+        "query": "a kangaroo kangaroo rat has <mask> legs for jumping.",
+        "answer": "two",
+        "knowledges": [
+            "A kangaroo has two legs. A rat has four legs.",
+            "A kangaroo has two legs for jumping. A rat has four legs for jumping.",
+            "A kangaroo is a marsupial and a rat is a rodent. A marsupial has a pouch for carrying its young. A rodent is a mammal. A mammal has hair. A hair is a strand of fibres. A strand of fibres is a line. A line is",
+            "Kangaroo rat is a small animal. Kangaroo rat has a small number of legs.",
+            "First, a kangaroo is a marsupial mammal. Second, a kangaroo has four legs. Third, a kangaroo rat is a rodent."
+        ]
+    },
+    {
+        "query": "a standard dice has <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "The dice has 6 sides.",
+            "A standard dice has 6 sides.",
+            "First, a standard dice has 6 sides. Second, each side has a number from 1 to 6.",
+            "<mask> is a natural number.",
+            "The dice is used to play games.",
+            "Each side has a number. The sum of all numbers is <mask>.",
+            "If you add up all the numbers on the dice, it is always <mask>."
+        ]
+    },
+    {
+        "query": "once every <mask> odd years is a leap year.",
+        "answer": "four",
+        "knowledges": [
+            "First, every year is a leap year if it is divisible by 4. Second, every year is a leap year if it is divisible by 100. Third, every year is a leap year if it is divisible by 400.",
+            "First, every four years is a leap year. Second, every 100 years is a leap year. Third, every 400 years is a leap year.",
+            "A leap year is every 4 years.",
+            "First, there are <mask> years in a century. Second, there are only four years in a century that is divisible by 100, i.e. 1700, 1800, 1900, and 2000. Third, every fourth year is a leap year.",
+            "Every year is either a leap year or not.",
+            "1. Every year divisible by 4 is a leap year. 2. Every year divisible by 100 is not a leap year. 3. Every year divisible by 400 is a leap year.",
+            "Leap year is every four years."
+        ]
+    },
+    {
+        "query": "a normal cube has <mask> corners.",
+        "answer": "eight",
+        "knowledges": [
+            "First, a cube has six corners. Second, the corners of a cube are all the same.",
+            "First, a normal cube has 6 corners. Second, a cube is a 3D object. Third, a cube is a solid object.",
+            "A cube has 8 corners.",
+            "A cube has 6 faces. Each face has 6 corners. A cube has 8 corners.",
+            "The corners of a cube are vertices.",
+            "The sum of the corner of a cube is always <mask>.",
+            "A normal cube has 6 corners."
+        ]
+    },
+    {
+        "query": "having sex is usually an activity for <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "First, usually the activity is done by people. Second, usually the activity is done by people. Third, usually the activity is done by people.",
+            "First, usually, the activity is done by <mask> people. Second, usually, the activity is done by people who are <mask>. Third, usually, the activity is done by people who are not <mask>.",
+            "First, having sex is usually an activity for married people. Second, having sex is usually an activity for people who are over 18 years old. Third, having sex is usually an activity for people who are not virgin.",
+            "First, there are people who are not married. Second, there are people who are married. Third, people who are married usually have sex.",
+            "<mask> is a set of all people.",
+            "Having sex is usually an activity for adults.",
+            "sex is an activity that people can do, and the people doing sex are usually male and female."
+        ]
+    },
+    {
+        "query": "the <mask> cardinal virtues are faith, hope, love, prudence, justice, fortitude, and temperance.",
+        "answer": "seven",
+        "knowledges": [
+            "The cardinal virtues are positive numbers.",
+            "There are nine cardinal virtues.",
+            "First, cardinal virtues are greater than theological virtues. Second, theological virtues are greater than moral virtues. Third, moral virtues are greater than intellectual virtues.",
+            "First, the order of cardinal virtues is the same as the order of the numbers. Second, faith is greater than hope, love is greater than prudence, justice is greater than fortitude, and temperance is greater than faith.",
+            "There are eight cardinal virtues.",
+            "The word cardinal means most important.",
+            "First, the cardinal virtues are the greatest virtues. Second, the cardinal virtues are the most important virtues. Third, the cardinal virtues are the virtues that can be practiced."
+        ]
+    },
+    {
+        "query": "if it does not have <mask> legs then it is not an insect.",
+        "answer": "six",
+        "knowledges": [
+            "Insects have 6 legs.",
+            "First, insects have <mask> legs. Second, it is not a table. Third, it is not a cat.",
+            "<mask> is an insect if it has <mask> legs.",
+            "Insects have six legs.",
+            "First, it is impossible to have <mask> legs and <mask> legs. Second, it is impossible to have <mask> legs and <mask> legs. Third, it is impossible to have <mask> legs and <mask> legs.",
+            "If it does not have <mask> legs then it is not an insect."
+        ]
+    },
+    {
+        "query": "a grid is a regular pattern in <mask> spatial dimensions.",
+        "answer": "two",
+        "knowledges": [
+            "First, a grid is a regular pattern in <mask> spatial dimensions. Second, the number of dimensions is always even. Third, the number of dimensions is always greater than or equal to 2.",
+            "<mask> spatial dimensions is 2 or 3.",
+            "First, the number of rows and columns of the grid is equal. Second, the number of rows and columns of the grid is equal. Third, the number of rows and columns of the grid is equal.",
+            "The dimension of the grid is not specified in the input.",
+            "The <mask> dimension is the number of dimensions of the grid.",
+            "A regular pattern means the same pattern is repeated again and again.",
+            "In the real world, a grid is a regular pattern in 2 spatial dimensions."
+        ]
+    },
+    {
+        "query": "all triangles have <mask> curved sides and three corners.",
+        "answer": "three",
+        "knowledges": [
+            "First, a triangle has three corners. Second, a triangle has three sides. Third, the sum of the three sides is equal to the sum of the three angles.",
+            "First, all triangles have three corners. Second, all triangles have three sides. Third, all triangles have three angles.",
+            "First, all triangles have three corners. Second, the sum of all three sides is always greater than zero. Third, the sum of the three angles is always equal to 180 degrees.",
+            "A triangle is a polygon with three sides.",
+            "First, all triangles have three corners. Second, all triangles have curved sides.",
+            "First, all triangles have three corners. Second, all triangles have three curved sides. Third, all triangles have three angles.",
+            "A triangle has three corners and three sides."
+        ]
+    },
+    {
+        "query": "a set of standard poker card deck has fifty <mask> cards in four suites.",
+        "answer": "two",
+        "knowledges": [
+            "A card is a kind of standard poker card. A suite is a kind of standard poker card.",
+            "There are fifty cards in a deck, each card has a suite.",
+            "Each suite has thirteen cards.",
+            "The value of the cards are in order from highest to lowest.",
+            "There are four suites, which are clubs, diamonds, hearts and spades.",
+            "There are fifty cards in a standard poker card deck. The cards are in four suites."
+        ]
+    },
+    {
+        "query": "a pentagram has <mask> cardinal points in total.",
+        "answer": "ten",
+        "knowledges": [
+            "First, a pentagram has five points. Second, points are not connected. Third, a point has one direction.",
+            "There are five cardinal points in a pentagram.",
+            "Cardinal points are north, south, east, west and center.",
+            "A pentagram has 5 points in total.",
+            "The cardinal points are north, south, east, west and center.",
+            "First, pentagram is a five-pointed star. Second, a star is a regular polygon. Third, a regular polygon has the same number of sides.",
+            "The cardinal points of a pentagram are the north, south, east, west and the center."
+        ]
+    },
+    {
+        "query": "liquid water becomes solid at a temperature of <mask> degrees centigrade, or 32 degrees fahrenheit.",
+        "answer": "zero",
+        "knowledges": [
+            "First, the temperature of liquid water is not 0 degrees centigrade or 32 degrees fahrenheit. Second, the temperature of solid water is not 0 degrees centigrade or 32 degrees fahrenheit. Third, the temperature of solid water is not the same as the temperature of liquid water.",
+            "Zero is less than one.",
+            "Water freezes at 0 degrees centigrade and boils at 100 degrees centigrade.",
+            "The temperature of water can be converted to centigrade or fahrenheit.",
+            "First, temperature is measured in centigrade. Second, temperature is measured in fahrenheit. Third, temperature is measured in kelvin.",
+            "Zero is the lowest temperature, one is the highest temperature.",
+            "The temperature of water changes from liquid to solid at a specific temperature."
+        ]
+    },
+    {
+        "query": "airplanes have <mask> separate wings.",
+        "answer": "two",
+        "knowledges": [
+            "One wing is less than two wings. Two wings are less than three wings. Three wings are less than four wings. Four wings are less than five wings. Five wings are less than six wings.",
+            "<mask> is an even number.",
+            "The number of wings of an airplane is always an even number.",
+            "Planes are different from birds. Planes have wings. Planes have more than one wing.",
+            "Wings are attached to airplanes. Wings are attached to airplanes. Wings are attached to airplanes. Wings are attached to airplanes. Wings are attached to airplanes. Wings are attached to airplanes. Wings are attached to airplanes. Wings are attached to airplanes. Wings are attached to airplanes. Wings are attached to airplanes.",
+            "First, planes have more than one wing. Second, planes have two wings. Third, planes have more than two wings.",
+            "The answer is zero."
+        ]
+    },
+    {
+        "query": "a round ball has <mask> sides.",
+        "answer": "no",
+        "knowledges": [
+            "First, the round ball has <mask> sides. Second, a circle has 360 degrees. Third, a circle has 360 degrees.",
+            "A round ball has a shape of a circle.",
+            "A round ball has no sides.",
+            "First, the round ball is a ball with a round shape. Second, a ball has a lot of sides. Third, the number of sides is more than one.",
+            "A round ball has zero sides.",
+            "First, a round ball has one side. Second, a round ball has more than zero sides. Third, a round ball has more than one side.",
+            "The answer is zero, but the student may have difficulty answering the question."
+        ]
+    },
+    {
+        "query": "a typical conservation usually needs at least <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "If there are more than <mask> people, it is possible to have a conservation.",
+            "<mask> is a typical number of people in a conservation.",
+            "A typical conservation usually needs at least one person.",
+            "First, conservation usually needs more than one person. Second, if there are <mask> people, it means there are less than <mask> people. Third, conservation usually needs more than <mask> people.",
+            "One person is enough. Two people are enough. Three people are enough. Four people are enough. Five people are enough. Six people are enough. Seven people are enough. Eight people are enough. Nine people are enough. Ten people are enough.",
+            "<mask> is a typical conservation.",
+            "<mask> is less than or equal to <mask>."
+        ]
+    },
+    {
+        "query": "<mask> of the largest national parks are in alaska.",
+        "answer": "seven",
+        "knowledges": [
+            "First, we know that there are more than one national parks in alaska. Second, we know that there is only one national park in alaska. Third, we know that there is only one national park in the United States.",
+            "First, alaska is a state. Second, the largest national parks are in alaska.",
+            "The largest national parks are in Alaska.",
+            "The largest national parks are the first numbers in the list.",
+            "First, national parks are in a country. Second, Alaska is a state of the United States. Third, Alaska is not a country."
+        ]
+    },
+    {
+        "query": "a tennis ball has <mask> sides.",
+        "answer": "no",
+        "knowledges": [
+            "A tennis ball has 4 sides.",
+            "Tennis ball is a sphere, so it has a lot of sides.",
+            "First, the number of sides is less than <mask>. Second, the number of sides is greater than zero.",
+            "The sides of a tennis ball are curved.",
+            "Tennis ball is round.",
+            "Tennis ball has more than zero sides.",
+            "A tennis ball has six sides."
+        ]
+    },
+    {
+        "query": "a person's hand generally has <mask> normal fingers, including the thumb.",
+        "answer": "five",
+        "knowledges": [
+            "The thumb is a finger. The thumb is not a thumb.",
+            "Fingers are a part of the hand.",
+            "The thumb is a finger. The other fingers are normal.",
+            "A normal human hand has five fingers, including the thumb.",
+            "People are generally born with ten fingers, including the thumb.",
+            "The thumb is not a normal finger.",
+            "A person has ten fingers, including the thumb."
+        ]
+    },
+    {
+        "query": "a french horn has <mask> keys.",
+        "answer": "three",
+        "knowledges": [
+            "The keys of french horn are the same as that of a piano.",
+            "First, the number of keys is always less than <mask>. Second, a french horn has more than one key.",
+            "First, the number of keys of a french horn is greater than zero. Second, the number of keys of a french horn is less than one. Third, the number of keys of a french horn is less than or equal to the number of keys of a piano.",
+            "A french horn has one more key than a trumpet.",
+            "The french horn is a musical instrument that has <mask> keys.",
+            "A french horn has a range of one octave.",
+            "First, a french horn has only one key. Second, a french horn has more than zero keys."
+        ]
+    }
+]

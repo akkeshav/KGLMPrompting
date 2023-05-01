@@ -1,0 +1,1790 @@
+[
+    {
+        "query": "you may take the subway back and forth to work <mask> days a week.",
+        "answer": "five",
+        "knowledges": [
+            "First, we have to know what subway is. Then we have to know what work is. Then we have to know what subway is. Then we have to know what back and forth is. Then we have to know what work is. Then we have to know what days a week is.",
+            "First, we have to know that the subway runs every day. Second, we have to know that the subway runs in the morning, afternoon, and evening. Third, we have to know that the subway runs on weekdays. Fourth, we have to know that the subway runs on weekends.",
+            "First, you need to know the meaning of the word \u00e2\u20ac\u0153subway\u00e2\u20ac\ufffd. Second, you need to know the meaning of the word \u00e2\u20ac\u0153take\u00e2\u20ac\ufffd. Third, you need to know the meaning of the word \u00e2\u20ac\u0153back",
+            "First, you need to know that the subway is a kind of public transportation, and you need to know the definition of the word \"subway\". Next, you need to know the meaning of the word \"take\", and you need to know the meaning of the word \"back\". Finally, you",
+            "First, you need to know the definition of the word subway. Second, you need to know how to use the word subway. Third, you need to know the definition of the word work. Fourth, you need to know how to use the word work.",
+            "First, you need to know what a subway is. Second, you need to know what a subway system is. Third, you need to know how often you take the subway. And fourth, you need to know how many days a week you take the subway. So, the answer is C."
+        ]
+    },
+    {
+        "query": "a <mask> door car has four entrances for passengers to enter.",
+        "answer": "four",
+        "knowledges": []
+    },
+    {
+        "query": "the word children means <mask> or more kids.",
+        "answer": "two",
+        "knowledges": [
+            "First of all, you need to know the meaning of the word children.",
+            "First, we need to know the word child . Then we need to know the word more . Then we need to know the word mask . Then we need to know the word kid ."
+        ]
+    },
+    {
+        "query": "each human hand almost always contains <mask> fingers, or four fingers and a thumb.",
+        "answer": "five",
+        "knowledges": [
+            "First, we need to know that a hand is part of a human. Second, we need to know that the human is a living thing. Third, we need to know that living things have organs.",
+            "First of all, you have to know that there are five fingers on a human hand. Then you have to know that fingers are usually counted starting with the thumb. Then you have to know that fingers are counted with the word <mask> . Then you have to know that the word <mask>",
+            "First, we have to understand the term <mask> and know that it is a hand. Then we have to understand the term <four fingers and a thumb> and know that it is a hand. Finally, we have to understand the term <hand> and know that it is a hand.",
+            "First, you have to know that a human hand is a part of a human body. Then you have to know that fingers are a part of a hand. Then you have to know that fingers are parts of hands. And finally, you have to know that fingers are a part of a hand."
+        ]
+    },
+    {
+        "query": "how do you win at tic-tac-toe get <mask> of your symbols in a row.",
+        "answer": "three",
+        "knowledges": [
+            "First, we need to know how to play tic-tac-toe. We need to know that there are nine squares in the grid and that you can play on any of them. We need to know that you win if you get three in a row. Now we need to know what",
+            "First, we need to know what a mask is. Then we need to know what symbols are. Then we need to know what a row is.",
+            "We need to understand what a tic-tac-toe board is, what the goal of the game is, what the symbols are, what the <mask> means, and what the get keyword means. That is a lot of knowledge! If you were to look up each of these words",
+            "The problem is that you need to get 3 of your symbols in a row. This means that you need to know the following things:",
+            "First, you need to know how to play tic-tac-toe. Second, you need to know that you can win by getting three in a row."
+        ]
+    },
+    {
+        "query": "a bradypus torquatus is native to brazil and has <mask> toes on each limb.",
+        "answer": "three",
+        "knowledges": [
+            "We need to know that a bradypus torquatus is a kind of animal, that it is native to Brazil, and that it has a certain number of toes on each limb. We need to know that Brazil is a country, that a country is a place, and that a place",
+            "First of all, you need to know that a bradypus torquatus is a type of animal. Second, you need to know that this animal is native to Brazil. Third, you need to know that this animal has <mask> toes on each limb.",
+            "First of all, we have to know what a bradypus torquatus is. A quick Google search gives us the answer: it is a species of armadillo. Now we know what the answer to the question is, we can move on to the next step. Next, we",
+            "First, you need to know what a bradypus torquatus is. Next, you need to know that it is native to Brazil. And lastly, you need to know that it has <mask> toes on each limb.",
+            "First, we need to know what a bradypus torquatus is. Then we need to know that it is native to Brazil. Then we need to know that it has <mask> toes on each limb.",
+            "We know that the animal is native to Brazil. This information is in the question stem. The question asks us to find the correct answer choice that matches this information. We have to look for an animal that is native to Brazil. So, the first step is to eliminate all the answer choices that are",
+            "The first word, bradypus, refers to a genus. The second word, torquatus, refers to a species. The third word, has <mask> toes on each limb, tells us the number of toes on each limb.",
+            "First, we need to know what a bradypus torquatus is. The clue \u00e2\u20ac\u0153native to Brazil\u00e2\u20ac\ufffd tells us that this animal is a mammal. It also tells us that it is found in Brazil. The word \u00e2\u20ac\u0153limb\u00e2",
+            "We need to know that a bradypus torquatus is a kind of animal. We need to know that the animal is native to Brazil. We need to know that the animal has <mask> toes on each limb. We need to know what a <mask> toe is. We"
+        ]
+    },
+    {
+        "query": "a prime number are divisible by only two numbers, <mask> and itself.",
+        "answer": "one",
+        "knowledges": [
+            "First of all, we have to know that prime numbers are divisible by only two numbers, <mask> and itself. Then, we have to know that the answer to the question is one of the two numbers.",
+            "First, we need to know that the number is a prime number. Then we need to know that the number is a prime number, and the number is a prime number. This knowledge can be represented by the following table."
+        ]
+    },
+    {
+        "query": "reality is three dimensional real life, tv shows portray <mask> dimensional fake life.",
+        "answer": "two",
+        "knowledges": [
+            "First of all, we have to understand that it is impossible to know the real life, as it is happening right now, in the moment. It is impossible to know what is happening right now in the moment, because we are not there, we are here. So, we have to use some",
+            "First of all, we need to understand what is reality and what is not. Is reality everything we see, hear, touch, smell, taste, think and feel? Or is reality just what we see, hear, touch, smell, taste, think and feel? The answer is obvious, but",
+            "First of all, it is important to know that the question is about the <mask> dimension. So the first step is to understand what the <mask> dimension is. I assume that the answer to this question can be found in the knowledge about the <mask> dimension.",
+            "First, the question asks what is the difference between real life and tv shows. To answer this, we need to know what real life is. So, the question is actually asking what is real life. So, we need to know what is real life to answer the question. So, the question"
+        ]
+    },
+    {
+        "query": "a game of chess may have <mask> outcomes.",
+        "answer": "three",
+        "knowledges": [
+            "First, we need to know the rules of chess. Then we need to know the current state of the game. Finally, we need to be able to make a move."
+        ]
+    },
+    {
+        "query": "<mask> of the seven days of the week is saturday.",
+        "answer": "one",
+        "knowledges": []
+    },
+    {
+        "query": "a square is a shape with <mask> equally lengthed sides.",
+        "answer": "four",
+        "knowledges": []
+    },
+    {
+        "query": "with just <mask> days in office, francis michael forde was australia's shortest-serving prime minister.",
+        "answer": "eight",
+        "knowledges": [
+            "First of all, you need to know who is Francis Michael Forde. Second, you need to know how long he was the prime minister.",
+            "We need to know the prime minister, his name, the country and the duration of his tenure. We can see the duration of his tenure is mentioned in the question, so we can guess that the question is asking about the name of the prime minister.",
+            "1. Francis Michael Forde was the shortest serving prime minister of Australia. 2. He was the prime minister for just <mask> days in office. 3. The word <mask> is used as a modifier to <prime minister>. 4. So, <prime minister> is the subject of",
+            "Firstly, who was the prime minister of Australia? F: Yes, I know. K: Was he a good prime minister? F: No, he was a bad prime minister. K: What did he do wrong? F: He was in office for just <mask> days. K:",
+            "First, who is the prime minister of Australia?"
+        ]
+    },
+    {
+        "query": "a violin is a stringed instrument with <mask> strings.",
+        "answer": "four",
+        "knowledges": [
+            "First, you have to know what a violin is. Next, you have to know that a violin has strings. Then, you have to know that a string is a thin cord. You can see that there are many steps required to answer the question.",
+            "First, the <mask> stringed instrument. What is a stringed instrument?"
+        ]
+    },
+    {
+        "query": "a kid can count up to <mask> on one hand typically.",
+        "answer": "five",
+        "knowledges": [
+            "We need to know how to count, how to count up to <mask> and how to divide by <mask>.",
+            "The kid needs to know how to count up to <mask> on one hand. He also needs to know how to compare two numbers. Finally, he needs to know how to use a number as a mask to index an array.",
+            "First, the kid has to know how to count. Then, the kid has to know how to count on one hand. Then, the kid has to know how many fingers there are on one hand. So, the kid has to know how to count, how to count on one hand, and",
+            "The kid has to be able to count up to <mask> on one hand. So the kid has to know how to count up to <mask>. Then the kid has to know how to count up to <mask> on one hand. The kid has to know how to count. The kid"
+        ]
+    },
+    {
+        "query": "fifty is equal to <mask> times ten.",
+        "answer": "five",
+        "knowledges": []
+    },
+    {
+        "query": "a banjo may have <mask> or five strings.",
+        "answer": "four",
+        "knowledges": [
+            "First, we need to know that a banjo has strings. Next, we need to know that the number of strings on a banjo is a number between one and five. Then, we need to know that the number of strings on a banjo is an integer.",
+            "First, we need to know what a banjo is. The question does not tell us, so we need to know that a banjo is a stringed instrument with a resonator, a fretted neck, a head, and a body. Next, we need to know that a banjo"
+        ]
+    },
+    {
+        "query": "snowflake have <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "First of all, the answer is going to be an integer, so we know that the answer is going to be between 1 and 6. We know that it is not 6 because snowflakes have 6 sides. We know that it is not 1 because snowflakes have more than 1 side.",
+            "First of all, you need to know that snowflakes have 6 sides. This is knowledge that you already have. But you also need to know that the answer to the question is a number, and that the answer is 6. This is knowledge that you don\u00e2\u20ac\u2122t have, and",
+            "First of all, we need to know what a snowflake is.",
+            "We need to know what is snowflake. Snowflake is a frozen water droplet. We need to know what is a water droplet. Water droplet is a small ball of water in the air. We need to know what is a ball. Ball is a round thing. We need to"
+        ]
+    },
+    {
+        "query": "boeing and lockheed are <mask> aeronautics companies.",
+        "answer": "two",
+        "knowledges": [
+            "First, we need to know what aeronautics is. Then we need to know that Boeing and Lockheed are aeronautics companies. Then we need to know that aeronautics is the study of flight. And finally, we need to know that aeronautics is the study",
+            "What is aeronautics? What is <mask>? What is a company? What is <mask>? What is <mask>? What is <mask>?",
+            "We need to know the answer to the question \u00e2\u20ac\u0153What are Boeing and Lockheed?\u00e2\u20ac\ufffd and we need to know that <mask> means \u00e2\u20ac\u0153aeronautics\u00e2\u20ac\ufffd.",
+            "We need to know the definition of aeronautics, we need to know what Boeing and Lockheed are, and we need to know that they are aeronautics companies."
+        ]
+    },
+    {
+        "query": "a woman owns <mask> cat and two dogs. she needs to feed all three pets everyday.",
+        "answer": "one",
+        "knowledges": [
+            "First, the woman needs to feed the cat and dogs. Then, she needs to know how much food to give to each pet.",
+            "First of all, we need to know what is a cat. Then we need to know what is a dog. Then we need to know that cats eat cat food and dogs eat dog food. Finally, we need to know that the woman has cat food and dog food. So, we need to",
+            "First of all, we need to know that <mask> is a mask for a cat. Then we need to know that cat is a pet. Then we need to know that two dogs is a plural of dog. Then we need to know that a woman is a person. Finally, we need",
+            "First, you need to know what a cat is. If you know what a cat is, you can understand that a cat eats food. Next, you need to know what a dog is. If you know what a dog is, you can understand that a dog eats food. Next, you need"
+        ]
+    },
+    {
+        "query": "we have <mask> fingers.",
+        "answer": "ten",
+        "knowledges": [
+            "First, we need to know what a finger is. We know that a finger is a part of the human body. Next, we need to know what a human body is. We know that a human body is a living being. And finally, we need to know what a living being is.",
+            "First of all, we need to know how many fingers we have. We can count them, or look at our hands.",
+            "First of all, we need to know what a finger is. What does a finger look like?"
+        ]
+    },
+    {
+        "query": "a triangle can be drawn from <mask> points.",
+        "answer": "three",
+        "knowledges": []
+    },
+    {
+        "query": "a classical guitar has <mask> strings.",
+        "answer": "six",
+        "knowledges": [
+            "We need to know the term \u00e2\u20ac\u0153classical guitar\u00e2\u20ac\ufffd, the term \u00e2\u20ac\u0153string\u00e2\u20ac\ufffd, the term \u00e2\u20ac\u0153mask\u00e2\u20ac\ufffd and the term \u00e2\u20ac\u0153strings\u00e2\u20ac\ufffd.",
+            "First, you have to know what a classical guitar is. Second, you have to know that it has <mask> strings.",
+            "First of all, it is necessary to know what a classical guitar is. Then, it is necessary to know that a classical guitar has six strings. The answer to the question is then: a classical guitar has six strings.",
+            "We know that the answer is not 4, because the question is about a classical guitar. So, the answer is 6."
+        ]
+    },
+    {
+        "query": "aggression can be used if <mask> ore more persons are in conflict.",
+        "answer": "two",
+        "knowledges": [
+            "First of all, you need to know what is conflict.",
+            "First, you need to know what aggression is. Then you need to know that it is used to resolve conflicts between people.",
+            "First, we have to know what a \u00e2\u20ac\u0153mask\u00e2\u20ac\ufffd is. Then we have to know what \u00e2\u20ac\u0153conflict\u00e2\u20ac\ufffd is.",
+            "First of all, you need to know what the word \u00e2\u20ac\u0153conflict\u00e2\u20ac\ufffd means. Then you need to know that the word \u00e2\u20ac\u0153conflict\u00e2\u20ac\ufffd is an English word. After that, you need to know that the word \u00e2\u20ac"
+        ]
+    },
+    {
+        "query": "golf courses differ from location to location, but all have <mask> to eighteen holes.",
+        "answer": "nine",
+        "knowledges": [
+            "We need to know what a golf course is. We need to know that golf is a game played with a club and a ball. We need to know that a golf course has eighteen holes.",
+            "First, we need to know the word <golf>. We also need to know the word <course>. Then we need to know the word <differ>. Finally, we need to know the word <location>.",
+            "First, you need to know the word <mask> and you need to know the word <golf course>. You also need to know the word <location>. Finally, you need to know the word <to>. The word <to> is a preposition and it requires you to know the",
+            "First, you need to know what a golf course is. You need to know that it has holes, and that they are numbered. You need to know that they are eighteen in number."
+        ]
+    },
+    {
+        "query": "triceratops was a dinosaur that had <mask> horns on its head.",
+        "answer": "three",
+        "knowledges": [
+            "First, the word \u00e2\u20ac\u0153dinosaur\u00e2\u20ac\ufffd is unknown. We can eliminate (A) and (B). Next, the word \u00e2\u20ac\u0153horns\u00e2\u20ac\ufffd is unknown. We can eliminate (C) and (D). The word \u00e2\u20ac",
+            "First, you have to know what a dinosaur is. Second, you have to know that triceratops was a dinosaur. Third, you have to know that a dinosaur had horns. Fourth, you have to know that the horns were on its head. The knowledge required to answer the question is"
+        ]
+    },
+    {
+        "query": "clams have evolved to have <mask> shells.",
+        "answer": "two",
+        "knowledges": [
+            "First, we need to know that clams exist. Then we need to know that they have shells. Then we need to know that they have evolved. Then we need to know that they have evolved to have <mask> shells. The problem is that the last bit is actually a lot more difficult",
+            "First, you need to know that clams have shells. Then you need to know that the shell is made of calcium carbonate. Finally, you need to know that calcium carbonate is a mask. The knowledge is stored in your brain.",
+            "First, the clams must have evolved to have <mask> shells. What does that mean? It means that the <mask> shells must have appeared in the clams\u00e2\u20ac\u2122 evolutionary history, right?",
+            "First, we have to know that clams have shells. Second, we have to know that shells are composed of <mask> and that <mask> is a mineral. Third, we have to know that minerals are composed of atoms. Fourth, we have to know that atoms are composed of <"
+        ]
+    },
+    {
+        "query": "to strip wire, get a firm grip on wire winding it around your <mask> fingers, place hanging wire in a wire stripper, close and pull down.",
+        "answer": "four",
+        "knowledges": [
+            "First you need to know what a wire stripper is, and how to use it. Then you need to know what a <mask> is, and what fingers are.",
+            "First, we need to know what a wire stripper is. Second, we need to know how to hold a wire and how to strip it. We also need to know how to place a wire in a wire stripper.",
+            "First, the question asks us to strip the wire. That means we need to remove the insulation. Then, we need to remove the insulation. Then, we need to remove the insulation. Finally, we need to remove the insulation.",
+            "First, the question asks you to strip wire. What does that mean? Strip the insulation off the wire. The question is not asking you to strip the wire itself. Next, you need to get a firm grip on the wire. How do you do that? Wrap the wire around your fingers.",
+            "What is the question asking? \u00a0Is it asking what tools are needed to strip wire? \u00a0No, it is asking what are the steps to strip wire. \u00a0Is it asking what tools are needed to strip wire? \u00a0No, it is asking what are the steps to strip",
+            "First, you need to know what a wire stripper is. Then you need to know how to use it. Finally, you need to know what a wire is. This is a lot of knowledge. I\u00e2\u20ac\u2122m not even sure I know what a wire is. Maybe I do,",
+            "First, you need to know what a wire stripper is. You need to know that it has two parts, one for stripping and one for cutting. You need to know that you can use the stripper to strip wire. You need to know that you can use the stripper to cut wire"
+        ]
+    },
+    {
+        "query": "motorcycle is a kind of vehicle with <mask> wheels.",
+        "answer": "two",
+        "knowledges": [
+            "First of all, you have to know what a motorcycle is. You also have to know that a motorcycle has wheels. However, you don\u00e2\u20ac\u2122t have to know the number of wheels a motorcycle has.",
+            "First, the question requires us to know that a motorcycle is a kind of vehicle. Next, we need to know that a vehicle has wheels."
+        ]
+    },
+    {
+        "query": "an easel can have <mask> or four legs.",
+        "answer": "three",
+        "knowledges": [
+            "First we need to know what an easel is."
+        ]
+    },
+    {
+        "query": "there are <mask> continents on our planet earth.",
+        "answer": "seven",
+        "knowledges": [
+            "First of all, what is a continent? A continent is a large continuous mass of land, which is surrounded by water. Now, how many continents are there on our planet? The answer is seven.",
+            "First of all, we need to understand the meaning of the word <mask>. In order to do this, we need to learn the meaning of the word <continent>. In order to learn the meaning of the word <continent>, we need to learn the meaning of the word <earth>."
+        ]
+    },
+    {
+        "query": "most motorcycles have <mask> tires.",
+        "answer": "two",
+        "knowledges": [
+            "First of all, we need to know what <mask> means. <mask> is a term that is used to describe tires that are used for racing. <mask> is a term that is used to describe tires that are used for racing. The term <mask> is used to describe tires",
+            "First of all, we have to know what a motorcycle is. Then we have to know what a tire is. Then we have to know that <mask> is a kind of tire.",
+            "First, we need to know that <mask> means tires. We also need to know that <mask> is the name of a brand of tires. We also need to know that <mask> is a tire brand.",
+            "We need to know that most motorcycles have tires. This is not hard to figure out, we just need to count how many motorcycles we have seen. Then we need to know that most tires are <mask> tires. This is harder to figure out. We need to know what <mask> means"
+        ]
+    },
+    {
+        "query": "usually a can of tennis balls has at least <mask> balls in it.",
+        "answer": "three",
+        "knowledges": [
+            "First, we need to know how many balls are in a can of tennis balls. Then we need to know how many balls are in a can of tennis balls. Then we need to know how many balls are in a can of tennis balls.",
+            "First of all, we need to know what a can of tennis balls is. Next, we need to know what the word \u00e2\u20ac\u0153usually\u00e2\u20ac\ufffd means. Then we need to know that \u00e2\u20ac\u0153at least\u00e2\u20ac\ufffd is a quantifier. Then we need",
+            "We need to know that the word usually means more than half of the time, that the word at least means greater than zero and less than the number in the can, and that the word in means inside the can.",
+            "First, we need to know how many balls are in a can of tennis balls. This is a factual question that can be answered by a Google search. Next, we need to know how many balls are in a can of tennis balls, on average. This is a question that can be answered by",
+            "First, you need to know that a can of tennis balls has at least <mask> balls in it. Next, you need to know what <mask> means."
+        ]
+    },
+    {
+        "query": "a triangle is a geometric shape that is made up of <mask> sides.",
+        "answer": "three",
+        "knowledges": []
+    },
+    {
+        "query": "spiders have <mask> legs.",
+        "answer": "eight",
+        "knowledges": [
+            "We have to know what a spider is, what a leg is, and what the word \u00e2\u20ac\u02dchave\u00e2\u20ac\u2122 means. And we have to know the word \u00e2\u20ac\u02dc<mask>\u00e2\u20ac\u2122.",
+            "First, we need to know that spiders are animals. If you are not sure about it, you can ask the following question:",
+            "First of all, you need to know what is a spider. It is not that difficult, but it is not trivial either. It is probably not something you would know from your everyday life experience. Then you need to know what a leg is. This is a bit more difficult. You might know",
+            "First, we need to know what is a spider. We can learn this by asking a question \u00e2\u20ac\u0153What is a spider?\u00e2\u20ac\ufffd and by using the answer to this question to ask the question \u00e2\u20ac\u0153What is a leg?\u00e2\u20ac\ufffd. We can",
+            "First, you need to know what a spider is. Then you need to know that a spider has eight legs. Finally, you need to know that legs are limbs. So, the answer is eight."
+        ]
+    },
+    {
+        "query": "a family consists of at least <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "First, we need to know how many people are in the family. We need to know how many people are in the family, so we need to know the <mask> number of people."
+        ]
+    },
+    {
+        "query": "we have <mask> toes on each foot.",
+        "answer": "five",
+        "knowledges": [
+            "First, we need to know what a toe is. Second, we need to know how many toes we have. Third, we need to know how many toes are required to be a pair. Fourth, we need to know how many toes are required to be a pair of a certain number.",
+            "First of all, we need to know what toes are. Then we need to know that toes are a part of feet. Then we need to know that each foot has five toes. Then we need to know that each toe has five fingers. Then we need to know that each finger has five nails",
+            "We know that the word toes refers to fingers, but what is a finger? We know that a finger is a part of a hand, but what is a hand? We know that a hand is a part of an arm, but what is an arm? We know that an arm is a part"
+        ]
+    },
+    {
+        "query": "a proton is made of <mask> quarks.",
+        "answer": "three",
+        "knowledges": [
+            "First, you need to know that protons are made of quarks. Then you need to know what quarks are.",
+            "First of all, you need to know what is a proton. It is a subatomic particle. Then you need to know what is a quark. It is a fundamental particle."
+        ]
+    },
+    {
+        "query": "a rectange is a closed shape with <mask> sides at right angles.",
+        "answer": "four",
+        "knowledges": []
+    },
+    {
+        "query": "a person has two legs, <mask> ears, two eyes, one mouth and one head.",
+        "answer": "two",
+        "knowledges": [
+            "First, we need to know what a person is. Then we need to know what ears, eyes, mouth and head are.",
+            "First of all, we need to know the meaning of the word \u00e2\u20ac\u0153person\u00e2\u20ac\ufffd. We need to know the meaning of the word \u00e2\u20ac\u0153leg\u00e2\u20ac\ufffd. We need to know the meaning of the word \u00e2\u20ac\u0153ear\u00e2\u20ac\ufffd",
+            "First of all, we need to understand the meaning of the word \"person\" and the word \"head\". Then we need to understand the meaning of the word \"two\". And finally, we need to understand the meaning of the word \"legs\".",
+            "First of all, we need to know the definition of a person. We can define a person as a living being that has two legs, two ears, two eyes, one mouth and one head. We can also say that a person is a living being that has two legs, two ears, two",
+            "First, the question is about a person. So we need to know what a person is. Then we need to know what a person has. Then we need to know what a person has on his head. So we need to know what head is. Then we need to know what a head has"
+        ]
+    },
+    {
+        "query": "presidential elections are held every <mask> years in the us.",
+        "answer": "four",
+        "knowledges": [
+            "First, you need to know that presidential elections are held every 4 years. Then you need to know that 4 years is a mask for the number 4. Finally, you need to know that mask is an abbreviation for multiplication.",
+            "First of all, we need to know what \u00e2\u20ac\u0153every <mask> years\u00e2\u20ac\ufffd means. The answer could be \u00e2\u20ac\u0153every 4 years\u00e2\u20ac\ufffd, \u00e2\u20ac\u0153every 6 years\u00e2\u20ac\ufffd, \u00e2\u20ac\u0153every 10 years",
+            "First, we need to know the number of years between the elections. Then we need to know the type of elections, which can be determined by the preposition \u00e2\u20ac\u02dcin\u00e2\u20ac\u2122. Finally, we need to know the type of elections is presidential. So the answer is B.",
+            "First of all, you need to know the fact that the US presidential elections are held every four years. Second, you need to know that the elections are held in November. Third, you need to know that the elections are held on the first Tuesday after the first Monday in November.",
+            "First, the question asks for the number of years. The word \u00e2\u20ac\u0153years\u00e2\u20ac\ufffd is the key word here. This is the first piece of information we need to know. Second, the question is asking about the US presidential elections. This is the second piece of information we"
+        ]
+    },
+    {
+        "query": "in a chess game it is very difficult to beat someone in <mask> moves.",
+        "answer": "seven",
+        "knowledges": [
+            "First, we need to know what is the mask. Mask is a number of moves. The mask can be, for example, <3> or <7> or <10>. The mask can be, for example, <3> or <7> or <10>. It is very difficult",
+            "First of all, it is necessary to understand what the word <mask> means. Then, it is necessary to know that in chess there are different pieces and that the pieces have different names. It is necessary to know that in chess the pawns are the weakest pieces and the knights are the strongest",
+            "First of all, the question asks about the game, not about the rules of the game. Second, it is a question about chess, not about checkers. Third, the question is about winning in a certain number of moves, not about a draw. Fourth, the question is about beating someone"
+        ]
+    },
+    {
+        "query": "a car seats usually <mask> to six passengers.",
+        "answer": "two",
+        "knowledges": [
+            "First of all, we need to know what a car seat is. A car seat is a special seat for a car. Then we need to know how many passengers a car seat usually carries. A car seat usually carries two to six passengers.",
+            "First, we need to know the meaning of <mask>. Then we need to know the meaning of <seats>. Then we need to know the meaning of <usually>. Then we need to know the meaning of <six>. And finally, we need to know the meaning of <passengers>.",
+            "First, we need to know what a car seat is. It is a device used to secure passengers in the car. Next, we need to know what a passenger is. A passenger is a person who travels in a car. Next, we need to know what six passengers mean. Six passengers mean"
+        ]
+    },
+    {
+        "query": "a game of chess includes <mask> bishops.",
+        "answer": "four",
+        "knowledges": [
+            "First of all, we need to know the rules of chess. Then we need to know what a bishop is. Then we need to know what a mask is. Then we need to know that a bishop is a mask. And finally, we need to know that a bishop is a mask of a"
+        ]
+    },
+    {
+        "query": "a triangle with <mask> equal sides is an equilateral triangle.",
+        "answer": "three",
+        "knowledges": []
+    },
+    {
+        "query": "\"double\" means <mask> times.",
+        "answer": "two",
+        "knowledges": []
+    },
+    {
+        "query": "people seem to need at least <mask> hours of sleep a night.",
+        "answer": "six",
+        "knowledges": [
+            "1. What is the minimum time of sleep needed? a. If you have a certain condition, e.g. narcolepsy, then you need less sleep. b. If you are in a certain state, e.g. pregnancy, then you need more sleep. c. If",
+            "We need to know how much time people need to sleep. To know that we need to know how much sleep people need to be healthy. To know that we need to know how much sleep people need to be healthy we need to know how much sleep people need to be healthy.",
+            "First, we need to know what sleep is. Next, we need to know what <mask> hours of sleep means. Finally, we need to know how much time people need to sleep. We can think of this knowledge as a hierarchy of nested questions. The first question is a question about sleep",
+            "We need to know what <mask> means. Does it mean the time you need to sleep to be rested? Or does it mean the time you need to sleep to get all the knowledge? Or does it mean the time you need to sleep to be able to learn new knowledge?",
+            "We know that people need to sleep at least <mask> hours. So the answer is at least <mask> hours. The number of hours is fixed, but we don\u00e2\u20ac\u2122t know what mask means. Does it mean \u00e2\u20ac\u0153every night\u00e2\u20ac? or \u00e2",
+            "First, we need to know how many hours of sleep people need. Then we need to know how many hours of sleep people usually get. Then we need to know how much sleep people need to feel rested. Then we need to know how much sleep people usually get. Then we need to know how",
+            "First of all, we need to understand the question, then we need to find the right answer, then we need to be able to understand the answer."
+        ]
+    },
+    {
+        "query": "a map is a two-dimensional representation of a <mask> dimensional reality.",
+        "answer": "three",
+        "knowledges": [
+            "First of all, we need to know what is a map.",
+            "First, we need to understand what is a map. Then we need to understand what is a reality. And finally, we need to understand what is a mask."
+        ]
+    },
+    {
+        "query": "people have no more than <mask> legs.",
+        "answer": "two",
+        "knowledges": [
+            "First of all, it is necessary to know the word \"leg\". The next step is to understand the meaning of the word \"no\". It is possible to understand that \"no\" means \"not one\". And then it is necessary to understand the meaning of the word \"more\". The next step",
+            "First of all, you need to know how to count legs. Secondly, you need to know that there are different types of legs, so you need to know that legs are not just \"legs\". Thirdly, you need to know that some legs are on top of the body and some are"
+        ]
+    },
+    {
+        "query": "barbershop quartet have <mask> voices.",
+        "answer": "four",
+        "knowledges": [
+            "We have to know what a barbershop quartet is, and that it is a group of four singers. We have to know that the singers have <mask> voices. We have to know that <mask> means a particular type of voice. So the answer to the question is a bar",
+            "First, you need to know what a barbershop quartet is. You need to know what voices are. You need to know that barbershop quartet have <mask> voices.",
+            "First, we need to know what is a barbershop quartet. Then we need to know what voices are. Then we need to know what a voice is. And then we need to know what a mask is.",
+            "First, you need to know that barbershop quartet have four voices. This knowledge is enough to answer the question. However, it is not enough to tell whether the question is asking about the number of voices or the number of singers. To answer the question, you need to know the difference",
+            "First, we need to know what a barbershop quartet is. Then we need to know that it is a group of four singers. Finally, we need to know that each singer has a different voice.",
+            "First, we need to know what a barbershop quartet is. Then we need to know that a barbershop quartet has four voices."
+        ]
+    },
+    {
+        "query": "a person has <mask> head.",
+        "answer": "one",
+        "knowledges": [
+            "First of all, you need to know what a mask is. Then you need to know that the head is the part of the body where the mask is worn.",
+            "First, we need to know what a head is. We need to know what a mask is. We need to know what a person is. We need to know what the relation between a person and a head is. We need to know what the relation between a mask and a head is. We"
+        ]
+    },
+    {
+        "query": "a pair of pants is for one third of a <mask> piece suit.",
+        "answer": "three",
+        "knowledges": [
+            "First of all, the answer to the question is in the range of two figures. This is clear from the fact that the word \u00e2\u20ac\u0153one\u00e2\u20ac\ufffd is used in the question. The second thing is that the question is about a piece of clothing, so it is a question",
+            "First, we need to know the meaning of the word \u00e2\u20ac\u0153third\u00e2\u20ac\ufffd. Then we need to know the meaning of the word \u00e2\u20ac\u0153suit\u00e2\u20ac\ufffd. Then we need to know the meaning of the word \u00e2\u20ac\u0153piece\u00e2\u20ac\ufffd",
+            "First, we need to know the meaning of <mask> and <piece>. <mask> is an abbreviation of <masking tape> and <piece> is an abbreviation of <piece of cloth>. Next, we need to know the meaning of <suit>. <suit> is an"
+        ]
+    },
+    {
+        "query": "zip code in the u.s. has five or <mask> digits.",
+        "answer": "nine",
+        "knowledges": [
+            "First, you need to know what a zip code is. Then you need to know that a zip code has five digits. Then you need to know that five is a number between five and nine. Finally, you need to know that a zip code has five digits.",
+            "First, we need to know what a zip code is. Then we need to know that a zip code has five or <mask> digits. Then we need to know what a digit is. Then we need to know that the number five is a digit. Then we need to know that the number"
+        ]
+    },
+    {
+        "query": "there are <mask> hundred sixty five and one quarter days in an earth year.",
+        "answer": "three",
+        "knowledges": [
+            "First, what is a year?",
+            "We need to know what is a year, how to count and how to calculate the number of days in a year.",
+            "We need to know what a year is. We need to know how to count. We need to know how to do simple arithmetic.",
+            "First of all we need to know how many days are in a year. This is a piece of information that can be obtained by asking a person who knows. Let\u00e2\u20ac\u2122s assume that we have obtained the answer to this question. Then we need to know how many days are in one quarter"
+        ]
+    },
+    {
+        "query": "clams are animals with <mask> shells.",
+        "answer": "two",
+        "knowledges": []
+    },
+    {
+        "query": "there are <mask> types of rock.",
+        "answer": "three",
+        "knowledges": [
+            "First, we need to know what is a rock. Next, we need to know that there are various types of rocks. Then, we need to know that these types of rocks are classified into <mask> types.",
+            "First of all, you need to know that there are different types of rock. Then you need to know what the word \u00e2\u20ac\u0153type\u00e2\u20ac\ufffd means. Then you need to know that the word \u00e2\u20ac\u0153rock\u00e2\u20ac\ufffd refers to a kind of mineral. Then",
+            "First, you need to know that the rock is not a type of animal, vegetable or mineral. Then you need to know that the rock is not a type of mineral. And finally, you need to know that the rock is a type of rock.",
+            "First, you need to know that there are <mask> types of rock. Then, you need to know what <mask> means. Then, you need to know that <mask> is an abbreviation for <mask> types.",
+            "First, the knowledge of the existence of the types of rock. Second, the knowledge of the existence of the rock types."
+        ]
+    },
+    {
+        "query": "any closed two-dimensional shape must have at least <mask> sides.",
+        "answer": "three",
+        "knowledges": [
+            "First, you need to know what a two-dimensional shape is. Then you need to know that it must have at least <mask> sides. Then you need to know what a side is.",
+            "First of all, you need to know that the sides of a closed two-dimensional shape are the lines that connect two points on the boundary of the shape.",
+            "First of all, we need to know that any closed two-dimensional shape must have at least two sides. Then we need to know that the sides of a square are equal.",
+            "First of all, you need to know that the shape is closed. Next, you need to know that a closed shape must have at least two sides. Then you need to know that the sides of a closed shape must be connected.",
+            "First, you need to know what a two-dimensional shape is. Second, you need to know what a closed shape is. And third, you need to know that any closed two-dimensional shape must have at least <mask> sides."
+        ]
+    },
+    {
+        "query": "trumpet have <mask> valves.",
+        "answer": "three",
+        "knowledges": [
+            "We need to know what a trumpet is, and we need to know that it has valves.",
+            "We need to know what a trumpet is. And what is a valve? So, we need to know the meaning of the word trumpet. And we need to know the meaning of the word valve. So, we need to know the meaning of the word trumpet. And we need to know the meaning",
+            "First of all, you have to know that a trumpet is a musical instrument. Secondly, you have to know that musical instruments have some kind of a mouthpiece to be played. Thirdly, you have to know that a trumpet is a kind of a brass instrument. And fourthly, you have",
+            "We need to understand what is trumpet. And then we need to know what is <mask> valve. So we need to know what is valve. And then we need to know what is <mask> valve. So we need to know what is <mask>. And then we need to know what",
+            "First of all, the candidate needs to know that a trumpet is a musical instrument. Then, he needs to know that the trumpet is a brass instrument. He also needs to know that the trumpet has a certain number of valves. Finally, he needs to know that a valve is a device used to",
+            "First of all, the candidate needs to know that trumpet have <mask> valves. Then he needs to know what the word <mask> means. He should also know that valves are the things that you blow through to make the trumpet produce sound. Finally, he should know that the number of valves"
+        ]
+    },
+    {
+        "query": "quadrupeds have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "We know that quadrupeds have four legs, so the first thing to do is to look at the definition of the word <mask> . It means a set of four. Now we know that the answer is <mask> .",
+            "First, you have to understand the word <quadruped>. You need to know what the word means. Then you have to know what the word <leg> means. Then you have to know what the word <mask> means. So, you have to know the meaning of <quadru",
+            "First, we have to know that quadrupeds have four legs. Then we have to know that four is a number. Then we have to know that <mask> is a sign of quantity. And then we have to know that the quantity of legs is expressed by the sign <mask>.",
+            "First, you need to know that quadrupeds have four legs. Second, you need to know that a mask is a kind of covering for the face. If you know these two things, you can infer that a mask is a kind of covering for the face of a quadrupeds."
+        ]
+    },
+    {
+        "query": "spring and summer are <mask> of four seasons.",
+        "answer": "two",
+        "knowledges": []
+    },
+    {
+        "query": "bricks are <mask> sided.",
+        "answer": "six",
+        "knowledges": [
+            "First, we need to know that a brick is a rectangular solid. Next, we need to know that a rectangular solid is a three-dimensional object. Finally, we need to know that a three-dimensional object has four sides.",
+            "First of all, the term \u00e2\u20ac\u0153brick\u00e2\u20ac\ufffd is an abbreviation for \u00e2\u20ac\u0153brick wall\u00e2\u20ac\ufffd. The term \u00e2\u20ac\u0153brick wall\u00e2\u20ac\ufffd is an abbreviation for \u00e2\u20ac\u0153brick wall with"
+        ]
+    },
+    {
+        "query": "a woman owns one cat and two dogs. she needs to feed all <mask> pets everyday.",
+        "answer": "three",
+        "knowledges": [
+            "First, we need to know that cats eat less than dogs. Then, we need to know how much less. Finally, we need to know how much less. Let\u00e2\u20ac\u2122s consider the following three cases.",
+            "First, we need to know the answer of the question. So, we need to understand the question. \u00a0To understand the question, we need to understand the words. \u00a0So, we need to understand the meaning of the words. \u00a0To understand the meaning of the words, we"
+        ]
+    },
+    {
+        "query": "shirts with <mask> buttons are called pullovers.",
+        "answer": "no",
+        "knowledges": [
+            "First of all, you need to know the meaning of the word shirt. Then you need to know that shirts are worn by people. After that you need to know that buttons are used to fasten clothes. Finally, you need to know that a pullover is a shirt with buttons on the front",
+            "We have to know the word shirt, and the word pullover. We have to know the word buttons. We have to know the word called. We have to know the word step by step. We have to know the word knowledge."
+        ]
+    },
+    {
+        "query": "most people have <mask> fingers.",
+        "answer": "ten",
+        "knowledges": [
+            "First, we need to know the length of a year. Then we need to know how many days are in a year. Then we need to know how many days are in a month. Then we need to know how many days are in a week. Then we need to know how many days are",
+            "First, we need to know what is the maximum number of fingers that can be attached to a hand. Then we need to know what is the maximum number of fingers that can be attached to a finger.",
+            "First, you need to know the number of fingers. Then you need to know that there are 10 types of fingers, and then you need to know that there are 5 fingers in each hand. Then you need to know that each finger is divided into 3 parts. So, you need to know the",
+            "First, you need to know what is a mask finger. Then you need to know that most people have five fingers. Then you need to know that most people have five fingers on each hand.",
+            "First of all, you need to know that there are different kinds of fingers. You need to know that there are fingers that are not <mask> fingers. You need to know that there are people who have <mask> fingers. And you need to know that there are people who have <mask",
+            "The first thing is to understand what is a finger. I think most people have 10 fingers. The next thing is to know the meaning of <mask>. Mask means a cover for the face. It is usually made of cloth. The last thing is to understand the meaning of <have>. Have means",
+            "First of all, the question is about fingers, not hands. The number of fingers is 10. You can count them yourself. It is easy to tell that the number of fingers is not 10. So, it is not a question about hands. It is a question about fingers. It is easy",
+            "First of all, you need to know the number of fingers on your hand. It\u00e2\u20ac\u2122s a basic knowledge. Then you need to know the number of fingers on your hand. You can use a simple logic."
+        ]
+    },
+    {
+        "query": "a decade-long plan is something to do in the next <mask> years.",
+        "answer": "ten",
+        "knowledges": []
+    },
+    {
+        "query": "a person has <mask> legs.",
+        "answer": "two",
+        "knowledges": [
+            "First, we need to know what a person is. What does it mean to have legs? How many legs does a person have? What does it mean to have <mask> legs? What does it mean to have <mask> legs? What does it mean to have <mask> legs?",
+            "First of all, we need to know what a person is. We need to know that a person is a living being. We need to know that a living being is a human being. We need to know that a human being is a rational being. We need to know that a rational being is",
+            "First, we need to know that the question is about a person. We also need to know that the question is about the number of legs. We also need to know that the question is about the number of legs.",
+            "First, you need to know that a person is a living thing. Next, you need to know that a living thing has two legs. Next, you need to know that a person has two legs."
+        ]
+    },
+    {
+        "query": "there are <mask> major types of guitars: acoustic, electric and bass.",
+        "answer": "three",
+        "knowledges": [
+            "First, we have to define what an acoustic guitar is. This is not a trivial task. If we say that an acoustic guitar is a guitar that produces sound by the vibration of its strings, we will have to answer the question what is a guitar. In order to do that, we will have",
+            "We need to know what a guitar is. We need to know what an acoustic guitar is. We need to know what an electric guitar is. We need to know what a bass guitar is. So we need to know what a guitar is, what an acoustic guitar is, what an electric guitar is",
+            "First, we need to know what a guitar is. Then we need to know the difference between acoustic, electric and bass guitars. Finally, we need to know the number of types of guitars. The question can be represented as a directed graph with the following nodes: A, E, B, Q",
+            "First, we need to know the meaning of the word \u00e2\u20ac\u0153guitar\u00e2\u20ac\ufffd. If we do not know what a guitar is, we cannot answer the question. Then, we need to know the meaning of the word \u00e2\u20ac\u0153acoustic\u00e2\u20ac\ufffd",
+            "First of all we need to understand the word \u00e2\u20ac\u0153guitar\u00e2\u20ac\ufffd. Then we need to understand the word \u00e2\u20ac\u0153major\u00e2\u20ac\ufffd. Then we need to understand the word \u00e2\u20ac\u0153type\u00e2\u20ac\ufffd. Then we need to understand",
+            "First of all, you have to understand what is the meaning of <mask> in the question. The answer is not clear from the text. You have to understand that <mask> is the abbreviation of <masked guitar>."
+        ]
+    },
+    {
+        "query": "almost all people are born with <mask> eyebrows.",
+        "answer": "two",
+        "knowledges": [
+            "First of all, you have to know that eyebrows are the hair that grows on the forehead. Next, you have to know that the word <mask> is used to describe something that covers the face. And finally, you have to know that <mask> is used to describe the shape of eyebrows",
+            "First of all, we need to know what eyebrows are. The next thing is to know that almost all people are born with eyebrows. Finally, we need to know that if a person is born without eyebrows, they are considered to be ill.",
+            "First of all, we need to know what is a mask. Then we need to know what is a eyebrow. We need to know the meaning of <mask> in the context of the sentence. And finally we need to know what is a human being.",
+            "First, we need to know that people are born with eyebrows. Then we need to know that the eyebrows are called <mask>. And finally, we need to know that <mask> means eyebrows.",
+            "First of all, it\u00e2\u20ac\u2122s important to know that there are many kinds of masks. You can find them in a theatre, in a drama, in a carnival, in a play, in a movie, in a cartoon, in a kungfu movie, in a dance,",
+            "First, we need to know what <mask> means. We also need to know that <mask> is a part of eyebrows. Finally, we need to know that <mask> eyebrows are different from natural eyebrows."
+        ]
+    },
+    {
+        "query": "in the olympics, medals are awarded to the <mask> winners of each sport.",
+        "answer": "three",
+        "knowledges": [
+            "First, we need to know what <mask> means. Next, we need to know what olympics is. Then, we need to know what sport is. Finally, we need to know what <mask> winners means. In other words, we need to know what the <mask>",
+            "First, we need to know the definition of medal. Then we need to know the definition of sport. Finally, we need to know the definition of winner.",
+            "First, we need to know what \u00e2\u20ac\u0153the\u00e2\u20ac\ufffd means. We need to know that the word \u00e2\u20ac\u0153the\u00e2\u20ac\ufffd is an article and it is used to refer to something specific."
+        ]
+    },
+    {
+        "query": "a modern government usually has at least <mask> branches.",
+        "answer": "three",
+        "knowledges": [
+            "First, the candidates must know the number of branches of government. Second, they must know what a branch is. Third, they must know what the word modern means. And fourth, they must know that the word usually means \u00e2\u20ac\u0153in most cases.\u00e2\u20ac?",
+            "First of all, we need to know what is a government. I guess, we need to know what is a country, a state, a nation. What is a territory, what is a border. We need to know what is a government, what is a head of state, what is a",
+            "The first thing is to understand what a government is. The second thing is to understand the meaning of the word \u00e2\u20ac\u0153branch\u00e2\u20ac\ufffd. The third thing is to understand the meaning of the word \u00e2\u20ac\u0153modern\u00e2\u20ac\ufffd. The fourth thing is to understand"
+        ]
+    },
+    {
+        "query": "a line is <mask> dimensional.",
+        "answer": "two",
+        "knowledges": []
+    },
+    {
+        "query": "cats have <mask> ears.",
+        "answer": "two",
+        "knowledges": [
+            "First, we need to know what cats are. Next, we need to know that ears are a part of a cat. We need to know that ears are something that can be seen, and that they are something that can be cut. Then, we need to know that the shape of a cat",
+            "First, we need to know what a cat is. Second, we need to know that a cat has ears. We need to know that ears are a part of a cat.",
+            "First of all, we have to know that cats have ears. Then we have to know that cats have pointed ears. Then we have to know that cats have ears with <mask> color. And then we have to know that cats have <mask> ears. So we have to know a lot",
+            "First, we need to know what a cat is. Next, we need to know what an ear is. Finally, we need to know that cats have ears. In this case, the answer to the question is the intersection of the knowledge required to answer each of the sub-questions. In",
+            "First, the fact that cats have <mask> ears. This is not difficult to know, but you need to know the word <mask> . Second, the fact that the word <mask> is used to describe cats\u00e2\u20ac\u2122 ears. This is more difficult to know. In fact,",
+            "First of all, the question is about cats, so we need to know what cats are. Then we need to know what ears are. Then we need to know that the word <mask> means \u00e2\u20ac\u0153ears\u00e2\u20ac\ufffd. Then we need to know that the word \u00e2",
+            "First, we need to know what cats are. This knowledge is probably encoded in the form of a concept in our mind. Then we need to know what ears are. This knowledge is probably encoded in the form of a concept in our mind. Then we need to know what <mask> is."
+        ]
+    },
+    {
+        "query": "a corner has <mask> sides.",
+        "answer": "two",
+        "knowledges": [
+            "First, you need to know that the sides of a rectangle are labeled \u00e2\u20ac\u0153a\u00e2\u20ac\ufffd, \u00e2\u20ac\u0153b\u00e2\u20ac\ufffd, \u00e2\u20ac\u0153c\u00e2\u20ac\ufffd, and \u00e2\u20ac\u0153d\u00e2\u20ac\ufffd. Next, you need to",
+            "First, we need to know what a corner is. Next, we need to know what a side is. And then we need to know what a mask is. Finally, we need to know what it means to have <mask> sides. So, we need to know 4 things to answer the"
+        ]
+    },
+    {
+        "query": "a snowflake has <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "First, we need to know what a snowflake is. We can answer this question by searching the web. Next, we need to know what a side is. We can search the web for this too. Then we need to know how to count the sides of a snowflake. We can search",
+            "First, you have to know what a snowflake is. Then you have to know that snowflakes have sides. Then you have to know that snowflakes have a number of sides. Then you have to know that the number of sides is a number between 1 and 5. Then you have",
+            "First of all, we have to know what a snowflake is. This is not a trivial task. It\u00e2\u20ac\u2122s not enough to say that a snowflake is a small piece of ice that falls from the sky. We have to know what ice is. It\u00e2\u20ac\u2122s not",
+            "First, we have to know what a snowflake is. Then we have to know that it has <mask> sides."
+        ]
+    },
+    {
+        "query": "the <mask> seasons are winter, spring, summer, and autumn.",
+        "answer": "four",
+        "knowledges": []
+    },
+    {
+        "query": "a woman bought two cookies for her <mask> children. she gives a cookie to each child.",
+        "answer": "two",
+        "knowledges": [
+            "First, we need to know that cookies are made of flour, sugar, eggs, butter, etc. and are sold in bakeries. Second, we need to know that cookies are sold in packages of two. Third, we need to know that the woman has two children. Fourth, we need",
+            "First, we need to know that a woman bought two cookies. We need to know the verb bought and the noun cookies. Then we need to know that she gave a cookie to each child. We need to know the verb gave and the nouns cookie and child. So, we need to know",
+            "First, the sentence contains a quantifier (two). The quantifier can be understood only in the context of the sentence. So we have to know that the woman bought two cookies. Then, the sentence tells us that she gave a cookie to each child. So we have to know that the woman"
+        ]
+    },
+    {
+        "query": "bobcats have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "First, you have to know that a bobcat is a cat. You have to know that a cat has four legs. Then you have to know that the mask is part of the bobcat. You have to know that a mask is a part of a face. You have to know that a",
+            "We need to know that bobcats are cats, that cats have four legs, and that the number of legs is what is indicated by the word <mask>. This is quite a lot of knowledge.",
+            "We need to know that bobcats are cats. We need to know that cats have four legs. We need to know that the mask is a kind of leg. We need to know that legs are legs.",
+            "First, we have to know what a bobcat is. If we don\u00e2\u20ac\u2122t know what a bobcat is, we can\u00e2\u20ac\u2122t answer the question. Second, we have to know what a leg is. If we don\u00e2\u20ac\u2122t know what a leg is,",
+            "First of all, we have to know that bobcats are a kind of cat. So, we have to know the meaning of the word \u00e2\u20ac\u0153bobcat\u00e2\u20ac\ufffd. We also have to know that cats have four legs.",
+            "We need to know that a bobcat is a kind of cat. We need to know that a cat has four legs. We need to know that a leg is a part of a body. We need to know that a body is a part of an animal. We need to know that an animal"
+        ]
+    },
+    {
+        "query": "a point has <mask> dimensions.",
+        "answer": "no",
+        "knowledges": []
+    },
+    {
+        "query": "mammals usually have <mask> limbs.",
+        "answer": "four",
+        "knowledges": [
+            "First, we need to know that mammals are animals. Then we need to know that animals usually have four limbs. Then we need to know that the limbs are called limbs. Then we need to know that the limbs are called limbs because they have a mask. Then we need to know that a mask",
+            "First, what is a mammal? A mammal is an animal with <mask> limbs. The word <mask> means \u00e2\u20ac\u0153two\u00e2\u20ac\ufffd in Japanese. The word \u00e2\u20ac\u0153two\u00e2\u20ac\ufffd is used for counting, so it means that a mammal has two",
+            "We have to understand what the words \u00e2\u20ac\u0153limb\u00e2\u20ac\ufffd and \u00e2\u20ac\u0153mammal\u00e2\u20ac\ufffd mean. We have to understand what the word \u00e2\u20ac\u0153usually\u00e2\u20ac\ufffd means. We have to understand what the word \u00e2\u20ac"
+        ]
+    },
+    {
+        "query": "squares have <mask> equal sides.",
+        "answer": "four",
+        "knowledges": []
+    },
+    {
+        "query": "date has <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "First of all, the number of people who have an appointment on a certain date is known. Second, it is known that the number of people with an appointment is greater than zero. Third, the number of people with an appointment is not greater than a certain number. And finally, the number of",
+            "First of all, we need to understand the structure of the question.",
+            "First, it is necessary to know what is a <mask> in the first place. Then, we need to know that the mask has people inside. And then, we need to know that there are <mask> people."
+        ]
+    },
+    {
+        "query": "you are likely to find <mask> planets in the solar system.",
+        "answer": "eight",
+        "knowledges": [
+            "First, we need to know what a solar system is. We know that a solar system is a group of planets that revolve around a star. Then, we need to know what a planet is. A planet is a celestial body that orbits a star. And finally, we need to know what",
+            "First of all, we need to know that the question is about the solar system. This knowledge is not represented in the text. We can see it from the context of the text. Second, we need to know that the solar system consists of planets. This knowledge is not represented in the text.",
+            "First, you need to know the definition of <mask> . Second, you need to know the definition of <planet> . Third, you need to know the definition of <solar system> . So, you need to know three definitions."
+        ]
+    },
+    {
+        "query": "oxygen molecules can be composed of <mask> atoms of oxygen.",
+        "answer": "two",
+        "knowledges": [
+            "First of all, you need to know what an oxygen molecule is. Then you need to know that oxygen atoms are composed of two oxygen atoms. Then you need to know that the molecule can be composed of <mask> atoms of oxygen. So, the answer to the question is K.",
+            "First, we need to know that the question is about oxygen molecules. Second, we need to know that the answer is given in terms of oxygen atoms. Third, we need to know that oxygen molecules are composed of oxygen atoms.",
+            "First of all, we have to know what is an oxygen molecule. We can learn it by reading a book or by asking somebody. After that, we have to understand what is the meaning of <mask> in the question. It is a variable, so we have to learn what is a variable"
+        ]
+    },
+    {
+        "query": "paul is <mask> longer three years old anymore. he is at least four now.",
+        "answer": "no",
+        "knowledges": [
+            "We know that the person who is three years old has a birthday, and we know that his birthday is in January. We know that the person who is four years old has a birthday, and we know that his birthday is in December. We know that Paul has a birthday, and we know that",
+            "First of all, we need to know that paul is a boy and that he is at least three years old. Then we need to know that the question is about his age and not about his height or weight. Then we need to know that he was at least three years old in the past",
+            "First, we need to know who Paul is. Then we need to know that Paul is three years old. And finally, we need to know that Paul is no longer three years old. In the first sentence, Paul is the subject. In the second sentence, Paul is the object. In the",
+            "First, we need to know that paul is the name of a person. We also need to know that paul is a person who is at least three years old. We also need to know that he is a person who is at least four years old.",
+            "We need to know the age of Paul. We need to know the age of three years old. We need to know the age of longer. We need to know the age of at least. We need to know the age of four. We need to know the age of now.",
+            "First, you need to know the number of years Paul has been alive. Then you need to know the difference between three and four years."
+        ]
+    },
+    {
+        "query": "normal dogs have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "First of all, we have to know that a normal dog is a dog with a <mask> face. Then we have to know that a normal dog has <mask> legs. We can think of the second part as an additional fact that we need to know.",
+            "First, you need to know what is a dog. You need to know what is a leg. And you need to know that dogs have four legs.",
+            "First of all, you need to know that a dog is a four-legged animal. Then you need to know that a normal dog is a dog with <mask> legs. So, we need to know that a normal dog is a dog with <mask> legs. The knowledge of the word",
+            "First, we need to know what <mask> means. The only way to know that is to know what <mask> is. We need to know what a dog is. We need to know what legs are. We need to know what a normal dog is.",
+            "We know that the dog has 4 legs. We also know that the dog has a mask. Therefore, we know that the dog has 4 legs and a mask. This is a bit strange, because the mask covers the face, and we don\u00e2\u20ac\u2122t know if the dog has a face"
+        ]
+    },
+    {
+        "query": "almost no animal have <mask> legs.",
+        "answer": "three",
+        "knowledges": [
+            "First of all, the answer to the question is the number of legs. We need to understand that there are many animals in the world, but not all of them have legs. We need to understand that legs are used for walking. We need to understand that there are different kinds of legs. And",
+            "First of all, we need to know that the number of legs is not the same as the number of legs with <mask>s. Then we need to know that the number of legs is not the same as the number of legs with <mask>s and <mask>s are not the"
+        ]
+    },
+    {
+        "query": "a person wants to eat <mask> meals a day.",
+        "answer": "three",
+        "knowledges": [
+            "First of all, you need to know the definition of <mask> meals. If you do not know the definition, you cannot understand the meaning of the question.",
+            "First of all, we need to know how many meals are in a day. If we have the answer to this question, we can calculate the number of meals the person wants to eat.",
+            "First of all, we need to understand what <mask> means. If you don\u00e2\u20ac\u2122t know what <mask> means, you can ask the person who asked the question. Then you need to understand what a meal is. Then you need to understand what eating is. If you don",
+            "First, what is a meal? A meal is a set of food.",
+            "First, what is a meal? A meal is food. Second, what is food? Food is something that you eat."
+        ]
+    },
+    {
+        "query": "you use <mask> fingers for making a snap.",
+        "answer": "two",
+        "knowledges": []
+    },
+    {
+        "query": "an animal that has <mask> legs is a fish.",
+        "answer": "no",
+        "knowledges": []
+    },
+    {
+        "query": "hexagons have <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "First, the <mask> of a hexagon is the number of its sides. Then, we need to know that a hexagon is a polygon. Then, we need to know that a polygon is a shape. Finally, we need to know that a shape is a thing. So",
+            "First, we have to know that a hexagon has six sides. Then we have to know that the sides are equal in length. Then we have to know that the sides are straight lines. Then we have to know that straight lines are lines without curves. Then we have to know that the lines",
+            "First of all, we need to know that a hexagon has 6 sides. Second, we need to know that the number of sides of a polygon is the same as the number of its angles. Third, we need to know that a polygon with 6 sides has 6 angles. And finally"
+        ]
+    },
+    {
+        "query": "a bicycle has two wheels, one handle bar, and <mask> pedals.",
+        "answer": "two",
+        "knowledges": [
+            "First, we need to know what a bicycle is. Bicycles are human-powered vehicles with two wheels and one handle bar. Pedals are used to propel the bicycle. The handle bar is used to steer the bicycle.",
+            "First of all, we have to understand the meaning of the word \u00e2\u20ac\u0153bicycle\u00e2\u20ac\ufffd. It is a two-wheeled vehicle that has a handle bar and pedals.",
+            "First, we need to know what a bicycle is. Second, we need to know what handle bar is. Third, we need to know what pedals are. And finally, we need to know what mask is."
+        ]
+    },
+    {
+        "query": "a painting is a <mask> dimensional piece of art made using paint.",
+        "answer": "two",
+        "knowledges": [
+            "First, the word \u00e2\u20ac\u0153painting\u00e2\u20ac\ufffd. I guess the first thing to think about is what is painting. Then, what is a painting. Is it a painting of something? Is it a painting of a person? Is it a painting of a place? Is it",
+            "First of all, the question requires us to understand what a painting is. This is a fairly simple concept to grasp, so we can say that this part of the question requires basic knowledge.",
+            "First of all, we need to understand what a painting is. So, we need to understand what a painting is made of, and what are the tools required to make a painting.",
+            "First, we need to know what a painting is. Then we need to know what a mask is. Then we need to know what a dimensional piece of art is. Then we need to know what paint is. Then we need to know what the dimensions of a piece of art are."
+        ]
+    },
+    {
+        "query": "there are <mask> years in a decade.",
+        "answer": "ten",
+        "knowledges": [
+            "We know that there are ten years in a decade. We know that a year is a unit of time. We know that we can count numbers. We know that we can add numbers.",
+            "First of all, we need to know what a decade is. The word decade is not used in everyday language, so a person who does not know the meaning of this word has to learn it. In order to learn the meaning of this word, we need to know what a decade is. This",
+            "First of all, we need to know what a decade is. The word decade means a period of ten years. So we need to know what a year is. The word year means a period of twelve months. So we need to know what a month is. The word month means a period of",
+            "We need to know what is a decade. We also need to know how to count years. We also need to know how to count numbers in a decade.",
+            "We need to know what a decade is, what a year is, and how many years are in a decade.",
+            "We know that a decade is 10 years. If we know that a year is 365 days, then we know that a decade is 10 x 365 = 3,650 days. If we know that a day is 24 hours, then we know that a decade is 3,650 x 24 = 91,"
+        ]
+    },
+    {
+        "query": "love has <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "First, what does it mean that love has <mask> people? We can assume that the question is about the number of people. If the question is about the number of people, then we need to know the meaning of <mask> . So, we need to know the meaning of <mask",
+            "First of all, we need to know what is a mask. We need to know what love is. And we need to know how many people love.",
+            "First, we need to understand the meaning of <mask>. Then, we need to understand the meaning of <love>. And then, we need to understand the meaning of <people>. And finally, we need to combine all the meanings together."
+        ]
+    },
+    {
+        "query": "an average human being has <mask> arms.",
+        "answer": "two",
+        "knowledges": [
+            "First, we need to know what an average human being is. Then we need to know how many arms an average human being has.",
+            "First, we need to know what a human being is. Is it a human being or a human being? If it is a human being, then we need to know what a human being is. Is it a human being or a human being? If it is a human being, then we need",
+            "First, you need to know how to count. Second, you need to know how to measure length. You also need to know how to count the number of arms. In other words, you need to know how to count, measure length, and count the number of arms.",
+            "First of all, we need to know what a human being is. Then we need to know how many arms a human being has. So, we need to know what an arm is. Then we need to know how many arms a human being has. So, we need to know how many human"
+        ]
+    },
+    {
+        "query": "tabby cat have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "First, we need to understand the meaning of the question. We need to know that <mask> is a type of animal and that cats are a type of animal. Then we need to know that legs are a part of an animal. Then we need to know that the number of legs is an",
+            "First, we need to know what is a tabby cat. Then we need to know what is a mask. Then we need to know what is a leg. And finally, we need to know that tabby cats have <mask> legs."
+        ]
+    },
+    {
+        "query": "a restaurant table seats from <mask> to eight people.",
+        "answer": "two",
+        "knowledges": [
+            "First, you need to know that a restaurant table seats from <mask> to eight people. Then you need to know the definition of <mask>. Then you need to know that the definition of <mask> is a number. Finally, you need to know that the number is eight.",
+            "First of all, we need to know that a restaurant table is a table at a restaurant. Next, we need to know that the table seats people. Then we need to know that a restaurant table seats from <mask> to eight people. In other words, we need to know that a restaurant",
+            "First, you need to know that <mask> means from. Next, you need to know that <mask> means from. Next, you need to know that <mask> means from. And finally, you need to know that <mask> means from. So, the knowledge required to answer"
+        ]
+    },
+    {
+        "query": "a car has <mask> wheels and an internal combustion engine.",
+        "answer": "four",
+        "knowledges": [
+            "First of all, we need to know that a car is a vehicle. We also need to know that wheels are parts of a car. Then we need to know that a car has four wheels. Finally, we need to know that an internal combustion engine is a type of engine."
+        ]
+    },
+    {
+        "query": "evergreen trees have <mask> leaves and stay green all year long.",
+        "answer": "no",
+        "knowledges": [
+            "We have to know what a tree is. We have to know that evergreen trees have <mask> leaves and stay green all year long.",
+            "First of all, we need to know what the word \u00e2\u20ac\u0153evergreen\u00e2\u20ac\ufffd means. I guess we need to know what the word \u00e2\u20ac\u0153ever\u00e2\u20ac\ufffd means. I know that it means \u00e2\u20ac\u0153all the time\u00e2\u20ac\ufffd.",
+            "First, you need to know that the question is asking about evergreen trees. Next, you need to know that the answer to the question is in the passage. You also need to know that the answer is a fact, not an opinion. Finally, you need to know that the correct answer will"
+        ]
+    },
+    {
+        "query": "both composting and burning firewood are <mask> sustainable ways of living.",
+        "answer": "two",
+        "knowledges": [
+            "First, the student needs to know that both composting and burning firewood are ways of living. Then, the student needs to know what sustainability means. Finally, the student needs to know that both composting and burning firewood are sustainable ways of living.",
+            "First, you need to know what is composting. Next, you need to know what is firewood. And finally, you need to know if both composting and burning firewood are sustainable ways of living. So, the knowledge required to answer the question is <knowledge of composting, knowledge",
+            "First, you need to know the meaning of the words. If you know the meaning of the words, you need to know what <mask> means. You also need to know what sustainable means. Then you need to know the meaning of composting and burning firewood. Finally, you need to",
+            "First, we have to know what sustainable means. Then we have to know what composting and burning firewood are. Then we have to know that composting is a way of living. Then we have to know that burning firewood is a way of living."
+        ]
+    },
+    {
+        "query": "a human has <mask> legs and two arms.",
+        "answer": "two",
+        "knowledges": [
+            "First, I need to know that a human is a living thing.",
+            "First of all, we have to determine whether the human is male or female.",
+            "First of all, the human is a living being. This is the first piece of knowledge required to answer the question. Next, the human has <mask> legs and two arms. This is the second piece of knowledge required to answer the question. Now we can answer the question. The human has",
+            "First of all, we need to know that a human is a kind of animal. And we need to know that an animal has legs and arms. So, let\u00e2\u20ac\u2122s look at the definition of an animal."
+        ]
+    },
+    {
+        "query": "arachnids are animals that have <mask> jointed legs, an exoskeleton, and a two-part body.",
+        "answer": "eight",
+        "knowledges": [
+            "First, we need to understand what an arachnid is. This requires knowledge of what an animal is, and what an arachnid is. Then we need to know what an exoskeleton is, and what a jointed leg is. Then we need to know what a two",
+            "We need to know that arachnids are animals, and that animals have jointed legs, an exoskeleton, and a two-part body.",
+            "First, we have to recognize that arachnids are animals. Then we have to recognize that animals have <mask> jointed legs, an exoskeleton, and a two-part body."
+        ]
+    },
+    {
+        "query": "there are <mask> monks or nuns in judaism.",
+        "answer": "no",
+        "knowledges": [
+            "First of all, you need to know that the question is about the number of monks and nuns in Judaism. Then you need to know what the word monk means. And finally, you need to know that the number of monks and nuns in Judaism is equal to the number of monks and nuns in the",
+            "The first thing is to find out what is the definition of a monk or nun. Let\u00e2\u20ac\u2122s find out the definition of a monk or nun. The definition of a monk or nun is a person who lives in a monastery or nunnery. The second thing is to find out how many",
+            "We need to know what is a monk or a nun. We need to know what is judaism. We need to know what is <mask> (what is it?)",
+            "First of all, we need to know the definition of the word \"monk\". Then we need to know the definition of the word \"nun\". Then we need to know the definition of the word \"judaism\". If you are not familiar with the definitions of these words, you cannot",
+            "First of all, you need to know what a monk is. This knowledge is not enough to answer the question. In the question, we are interested in monks in judaism. So you need to know what judaism is. The question is asking about the number of monks and nuns in",
+            "First of all, we need to know what a monk or a nun is. This knowledge is necessary to answer the question. If we do not know what a monk or a nun is, we will not be able to answer the question. The knowledge of what a monk or a nun is is the"
+        ]
+    },
+    {
+        "query": "if you quarter a pie, you will have <mask> pieces of pie.",
+        "answer": "four",
+        "knowledges": [
+            "First of all, you need to know what a quarter is. Next, you need to know what a pie is. Then you need to know that you can cut a pie into quarters. Then you need to know that you can have pieces of pie. Then you need to know that a quarter is",
+            "We have to know how to count, and we have to know how to divide.",
+            "We have to understand the words in the question, and we have to understand the words in the answer choices. We have to understand the words in the question and the words in the answer choices.",
+            "We need to know that a quarter is one of four equal parts of something. Then we need to know that a pie is a baked food that has a crust and a filling. Then we need to know that a pie has four quarters. Then we need to know that a quarter is one of four"
+        ]
+    },
+    {
+        "query": "the bird landed on its <mask> feet.",
+        "answer": "two",
+        "knowledges": [
+            "First of all, we need to know what a bird is. And then we need to know what a mask is. And then we need to know what feet are.",
+            "First of all, we need to know what a bird is. Then we need to know what a mask is. We also need to know that the mask is a kind of a hat. And we need to know that a hat is a kind of clothing.",
+            "First of all, we need to know what the <mask> is. The word <mask> is not a noun, but an adjective, so we need to know what it modifies. Then we need to know what the word <feet> is. It is a noun, so we need",
+            "First, you need to know what the question is asking you to do. That is, you need to know that the <mask> in the sentence is a noun and that it refers to the feet of the bird. Next, you need to know that feet is a plural noun and that it refers"
+        ]
+    },
+    {
+        "query": "there are <mask> great lakes in north america.",
+        "answer": "five",
+        "knowledges": [
+            "We need to know what the great lakes are. This is easy, we just look it up. Then we need to know where they are. Again, this is easy, we just look it up. We can find this on a map. Now we need to know how many there are. This",
+            "We need to know the definition of a great lake. If we know that, we can look up the definition of a lake and the definition of north america. Then we can combine the two definitions and find out that the great lakes are in north america. So, what is the definition of",
+            "First, you need to know that there are great lakes in North America. Then you need to know how many of them there are. Finally, you need to know their names. The first step is the easiest, because you can use the question stem to answer it. The second step is the hardest",
+            "We need to know what a great lake is. We need to know that there are five of them. We need to know that they are in North America. So we need to know the concept of a great lake, the fact that there are five of them, and the fact that they are in",
+            "First, we need to know that the Great Lakes are a group of lakes in North America. Then we need to know how many lakes are in the group. Finally, we need to know the names of the lakes.",
+            "First of all, we need to know that there are great lakes in North America. The question tells us that there are <mask> great lakes in North America. <mask> is a number, and we know that there are numbers from 0 to 9. Thus, we can assume that <mask",
+            "First of all, the word \u00e2\u20ac\u0153great\u00e2\u20ac\ufffd is a comparative adjective. We can assume that it is not the most significant feature of the lakes, but it is an important one. The first thing that comes to mind is that it is probably the size of the lakes."
+        ]
+    },
+    {
+        "query": "automobiles have <mask> tires.",
+        "answer": "four",
+        "knowledges": [
+            "First, we need to know what an automobile is. We also need to know what a tire is. Then we need to know what <mask> means. We also need to know that tires are usually made of rubber. Finally, we need to know that <mask> is a special kind of",
+            "First of all, you need to know what an automobile is. Next, you need to know what a tire is. Finally, you need to know that a tire is a part of an automobile.",
+            "First, you have to know what an automobile is. Second, you have to know that it has tires. Third, you have to know that tires have a <mask>.",
+            "First, you need to know that the word \u00e2\u20ac\u0153tires\u00e2\u20ac\ufffd is plural. Next, you need to know that \u00e2\u20ac\u0153tires\u00e2\u20ac\ufffd are part of an automobile. Finally, you need to know that the word \u00e2\u20ac\u0153t"
+        ]
+    },
+    {
+        "query": "a sidewalk is used for a place to walk where <mask> cars will drive.",
+        "answer": "no",
+        "knowledges": []
+    },
+    {
+        "query": "humans require <mask> hours of sleep a night.",
+        "answer": "eight",
+        "knowledges": [
+            "First, what is the <mask> ?",
+            "First, we need to know what a human is. A human is a <living> that requires <sleep> hours of sleep a night. We know that a living is a <living> and that a living requires <sleep> hours of sleep a night. We also know that a <mask",
+            "We need to understand what is a human, what is sleep, what is hours, what is a night. The first two words we can easily guess. But we need to know what is a mask. The answer is given in the next sentence.",
+            "First of all, we need to understand what is the purpose of sleep. If we sleep for a certain period of time, then we can feel rested and can do our job well. So, sleep is for rest. We can say that the purpose of sleep is to rest.",
+            "First, you need to know that humans require <mask> hours of sleep a night. This is the main part of the question.",
+            "First of all, it is not possible to calculate how many hours of sleep humans require, because it depends on many factors. For example, people who live in cold countries require more sleep than people who live in hot countries. Secondly, the number of hours of sleep depends on a person\u00e2\u20ac\u2122",
+            "First of all, it is necessary to know that the unit of time is hour. Next, it is necessary to know the word sleep. It is also necessary to know the word hours. It is also necessary to know the word night. It is also necessary to know the word required."
+        ]
+    },
+    {
+        "query": "a chord is any simultaneous playing of <mask> or more notes.",
+        "answer": "three",
+        "knowledges": [
+            "First of all, you need to know what a chord is. You also need to know what simultaneous playing means. Then you need to know what <mask> means. Finally, you need to know what notes are.",
+            "First, we need to know what a chord is. The word \u00e2\u20ac\u0153chord\u00e2\u20ac\ufffd has a precise meaning in music. The definition is that a chord is any simultaneous playing of three or more notes. This definition is a bit tricky because it says that the notes need to"
+        ]
+    },
+    {
+        "query": "dice is a kind of cubes with <mask> faces.",
+        "answer": "six",
+        "knowledges": []
+    },
+    {
+        "query": "a prison cell has <mask> windows.",
+        "answer": "no",
+        "knowledges": [
+            "First, you need to know that a prison cell has windows. Then you need to know that a prison cell is a room. Then you need to know that a room has walls. And then you need to know that a wall has a mask.",
+            "First, we have to know that the mask is a prison cell. This is a very specific piece of knowledge, and we have to have it in order to understand the question. Then we have to know that the windows are a mask. This is a more general piece of knowledge, but it is",
+            "First, the answer must be a prison cell. Second, the answer must have <mask> windows. We can immediately reject any prison cell that has more than <mask> windows."
+        ]
+    },
+    {
+        "query": "if you had <mask> eyes you could not watch television.",
+        "answer": "no",
+        "knowledges": [
+            "Firstly, we need to know what is the meaning of <mask> eyes. Then we need to know what is the meaning of <watch> television.",
+            "We need to know what is a mask, what is television, what is eye, what is watching. In the end we have to make a conclusion that it is impossible to watch television with mask eyes.",
+            "First of all, you need to know what is a mask. Then you need to know what is television. And you need to know that you can watch television with your eyes. And you need to know that eyes are used to watch television. And you need to know that eyes are used to watch",
+            "We know that the question is about the eyes, so we need to think about the function of the eyes. We know that the function of the eyes is to see. We know that we see with our eyes. We know that we see with our eyes, so we need to think about the function",
+            "First of all, the question is about eyes. What is the meaning of the word eyes?"
+        ]
+    },
+    {
+        "query": "a dining table can usually have <mask> legs or a pedestal.",
+        "answer": "four",
+        "knowledges": [
+            "First, you need to know what a dining table is. Then you need to know that it has legs. Then you need to know that a pedestal is a kind of leg.",
+            "First, the dining table is a piece of furniture, which is the definition of the concept. Second, the table has <mask> legs or a pedestal. The first part is a piece of knowledge, the second part is a piece of information. So, we can say that the knowledge required",
+            "First, we need to understand the concept of a dining table. We know that it is a piece of furniture used for eating. It is usually rectangular and has a top that is usually made of wood or glass. The legs or pedestal are attached to the table and help support it. Now,"
+        ]
+    },
+    {
+        "query": "a spider has <mask> legs.",
+        "answer": "eight",
+        "knowledges": [
+            "We know that a spider has 8 legs. So we need to know the number of legs of a spider. So we need to know the number of legs of an animal. So we need to know the number of legs of an insect. So we need to know the number of legs of an ar",
+            "We need to know that a spider has 8 legs. We need to know that 8 is less than 10. We need to know that we can subtract 2 from 10. We need to know that we can subtract 2 from 8. We need to know that we can subtract 2 from 6. We need",
+            "First, the legs are not equal. If the spider has 8 legs, then it has <mask> legs. So, we can say that the answer is 8.",
+            "We need to know the number of legs a spider has. Then we need to know the concept of a mask. Then we need to know the concept of counting.",
+            "We need to know that a spider has 8 legs. Then we need to know that \u00e2\u20ac\u01538\u00e2\u20ac\ufffd is a number. Then we need to know that \u00e2\u20ac\u01538\u00e2\u20ac\ufffd is divisible by 2. Then we need to know that \u00e2\u20ac"
+        ]
+    },
+    {
+        "query": "japan is an archipelago with <mask> major and many minor islands.",
+        "answer": "four",
+        "knowledges": [
+            "First, we need to know what \u00e2\u20ac\u0153archipelago\u00e2\u20ac\ufffd means. Then we need to know the meaning of \u00e2\u20ac\u0153major\u00e2\u20ac\ufffd and \u00e2\u20ac\u0153minor\u00e2\u20ac\ufffd. Then we need to know the meaning of \u00e2\u20ac",
+            "First, what is an archipelago? Second, what is the meaning of major and minor? Third, what is the meaning of many?",
+            "First, you have to know the meaning of \u00e2\u20ac\u0153archipelago\u00e2\u20ac\ufffd. Then, you have to know the meaning of \u00e2\u20ac\u0153major\u00e2\u20ac\ufffd and \u00e2\u20ac\u0153minor\u00e2\u20ac\ufffd. Finally, you have to know the meaning of",
+            "First, you need to know that Japan is an archipelago. Then, you need to know the number of major islands. Then, you need to know the number of minor islands. So, you need to know the names of major islands and minor islands.",
+            "First, we have to know the meaning of the word \u00e2\u20ac\u0153archipelago\u00e2\u20ac\ufffd. The meaning of the word \u00e2\u20ac\u0153archipelago\u00e2\u20ac\ufffd is \u00e2\u20ac\u0153a group of islands\u00e2\u20ac\ufffd. The second thing we have to know"
+        ]
+    },
+    {
+        "query": "elephant have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "First of all, we need to know what elephant is. If we don\u00e2\u20ac\u2122t know what elephant is, we cannot understand the question. Next, we need to know what legs is. If we don\u00e2\u20ac\u2122t know what legs is, we cannot understand the question. Then,"
+        ]
+    },
+    {
+        "query": "new zealand is a country with <mask> main islands.",
+        "answer": "two",
+        "knowledges": [
+            "First, we need to know that New Zealand is a country. Then we need to know that New Zealand has several main islands. Finally, we need to know that the main islands are named <mask>.",
+            "First, we need to know that New Zealand is a country. Then we need to know that New Zealand is a country with three main islands. We also need to know that New Zealand is a country with three main islands. In this way, we can answer the question correctly."
+        ]
+    },
+    {
+        "query": "normally people have <mask> legs.",
+        "answer": "two",
+        "knowledges": [
+            "We know that the answer is an integer. We know that the answer is less than the number of legs of a bee.",
+            "First, we need to know that the word \u00e2\u20ac\u0153mask\u00e2\u20ac\ufffd has a plural form \u00e2\u20ac\u0153masks\u00e2\u20ac\ufffd. Then we need to know that the word \u00e2\u20ac\u0153leg\u00e2\u20ac\ufffd has a plural form \u00e2\u20ac\u0153leg",
+            "First of all, it is necessary to know what <mask> means. In order to know that, you have to know what a mask is.",
+            "We need to know the meaning of the word \u00e2\u20ac\u0153mask\u00e2\u20ac\ufffd, the meaning of the word \u00e2\u20ac\u0153leg\u00e2\u20ac\ufffd, the meaning of the word \u00e2\u20ac\u0153normally\u00e2\u20ac\ufffd, the meaning of the word \u00e2\u20ac\u0153",
+            "First, we need to know that the word <mask> is used to refer to the thing which covers the face. Then we need to know that the word <leg> is used to refer to the part of the body which we use to walk. So the question is asking us whether people normally"
+        ]
+    },
+    {
+        "query": "canberra observatory have <mask> telescopes under domes.",
+        "answer": "four",
+        "knowledges": [
+            "First of all, we need to know what a telescope is.",
+            "First, what is the time? A: 8:00 PM. K: What is the date? A: 15th of March. K: What is the location? A: Canberra. K: What is the question? A: Can you see stars from the observatory? K: Who",
+            "First, we need to know what the <mask> telescopes are. Then we need to know that they are under domes. Then we need to know that they are in Canberra.",
+            "First, the person who asked the question knows that there are <mask> telescopes in Canberra. This is information that he knows. Second, the person who asked the question knows that there are <mask> telescopes in observatories. This is information that he knows. Third, the person who asked the",
+            "First, we need to know that there are observatories in Canberra. Then we need to know that they have telescopes. Finally, we need to know that they have telescopes under domes. So we need to know that there are observatories in Canberra, that they have telescopes, and that they have"
+        ]
+    },
+    {
+        "query": "rainbow have <mask> colors.",
+        "answer": "seven",
+        "knowledges": [
+            "First of all, you need to know what the colors of the rainbow are. Then you need to know that a rainbow is a circle. Then you need to know that a circle has 360 degrees. Then you need to know that there are 180 degrees between each color. Then you need to know that"
+        ]
+    },
+    {
+        "query": "one whale plus one whale plus <mask> whale equals three whales.",
+        "answer": "one",
+        "knowledges": [
+            "First we need to know that one whale plus one whale equals two whales. Then we need to know that two whales plus one whale equals three whales.",
+            "First, the answer is a number, and we know that it is greater than one. Next, the answer is a number that is the product of two numbers, and we know that it is greater than one. Finally, the answer is a number that is the product of three numbers, and we",
+            "First, we need to know that \u00e2\u20ac\u0153one whale plus one whale\u00e2\u20ac\ufffd is two whales. Next, we need to know that \u00e2\u20ac\u0153one whale plus one whale plus <mask> whale\u00e2\u20ac\ufffd is three whales. Finally, we need to know that",
+            "First we need to know that one whale plus one whale equals two whales. Then we need to know that two whales plus <mask> whale equals three whales. So, we need to know two facts.",
+            "First, you need to know that a whale is a kind of mammal. Next, you need to know that mammals lay eggs. Then, you need to know that a whale is a mammal that lays eggs. Finally, you need to know that a whale plus a whale plus a whale equals three whales"
+        ]
+    },
+    {
+        "query": "a checkbook holder doesn't hold checks if there are <mask> checks to hold.",
+        "answer": "no",
+        "knowledges": [
+            "Q: what do you mean by \u00e2\u20ac\u0153hold checks\u00e2\u20ac\ufffd? A: a checkbook holder is a thing that holds checks. Q: what do you mean by \u00e2\u20ac\u0153hold checks\u00e2\u20ac\ufffd? A: a checkbook holder holds checks. Q:",
+            "Q: a checkbook holder doesn't hold checks if there are <mask> checks to hold."
+        ]
+    },
+    {
+        "query": "each human hand has <mask> digits.",
+        "answer": "ten",
+        "knowledges": [
+            "First, we need to know that the number of human hands is not zero. Then we need to know that the number of human hands is not one. And finally, we need to know that the number of human hands is not two.",
+            "First of all, it is necessary to know the meaning of the word \u00e2\u20ac\u0153digit\u00e2\u20ac\ufffd."
+        ]
+    },
+    {
+        "query": "once every <mask> years is a leap year.",
+        "answer": "four",
+        "knowledges": [
+            "First, we need to know what is a leap year. We need to know what is a year. We need to know what is a month. We need to know what is a week. We need to know what is a day. We need to know what is a night."
+        ]
+    },
+    {
+        "query": "<mask> dimensions are length, width and height.",
+        "answer": "three",
+        "knowledges": []
+    },
+    {
+        "query": "many college students earn a degree in <mask> years.",
+        "answer": "four",
+        "knowledges": [
+            "First of all, you need to know what a degree is. Then you need to know what a college is. Then you need to know what a student is. Then you need to know what a degree is. Then you need to know what a year is. Then you need to know what a",
+            "First, we need to know the meaning of <mask>. Then, we need to know the meaning of <mask> years. Finally, we need to know the meaning of <mask> years. We need to learn the meaning of <mask> and <mask> years.",
+            "First of all, we need to understand the meaning of the phrase many college students. In this case, we can understand it as a lot of students. Next, we need to understand the meaning of earn a degree. In this case, we can understand it as receive a degree. Next, we",
+            "First, we have to understand what <mask> means. If we do not know the meaning of <mask>, we cannot answer the question. Then, we have to know what <mask> means. It means <mask> is a college degree. After that, we have to know what a"
+        ]
+    },
+    {
+        "query": "a chicken has <mask> legs.",
+        "answer": "two",
+        "knowledges": [
+            "First, we need to know that a chicken is a bird. Second, we need to know that birds have legs. Third, we need to know that the number of legs of a bird is the same as the number of legs of a chicken. Fourth, we need to know that a chicken has",
+            "First, we need to know that a chicken is an animal. Next, we need to know that animals have legs. Finally, we need to know that a chicken has four legs. We need to know all these things to answer the question. So, a chicken has <mask> legs.",
+            "First, we need to know what a chicken is. The question asks about the number of legs of a chicken. We need to know that legs are limbs attached to the body of an animal. So, the answer is <mask> legs."
+        ]
+    },
+    {
+        "query": "the <mask> parties in american politics are the democrats and the republicans.",
+        "answer": "two",
+        "knowledges": [
+            "First, we need to know what the parties are. The parties are the Democratic Party and the Republican Party. We need to know that they are political parties. We need to know that they are in America. We need to know that they are in politics. We need to know that they are the",
+            "First, we have to understand the concept of parties. Then we have to understand the meaning of \u00e2\u20ac\u0153in american politics\u00e2\u20ac\ufffd. Then we have to understand the meaning of \u00e2\u20ac\u0153are\u00e2\u20ac\ufffd. Then we have to understand the meaning of \u00e2",
+            "The first step is to find out what a political party is. The second step is to find out what the difference between a Republican and a Democrat is.",
+            "We have to define the parties and the meaning of the word \u00e2\u20ac\u0153politics\u00e2\u20ac\ufffd.",
+            "What is the difference between the two?",
+            "First, we need to know what the word \u00e2\u20ac\u0153party\u00e2\u20ac\ufffd means. What does it mean?",
+            "We need to know what is the difference between the two parties. Then we need to know what the democratic party is. We need to know what the republican party is.",
+            "First, we have to define the word \"party\" in the context of American politics. Then we have to define the word \"american\". And then we have to define the word \"politics\". And then we have to define the word \"mask\". And then we have to define the word \"",
+            "What do you know about the <mask> parties?"
+        ]
+    },
+    {
+        "query": "healthy human beings have <mask> fingers.",
+        "answer": "ten",
+        "knowledges": [
+            "We need to know that healthy human beings have five fingers. Then we need to know what <mask> means. Then we need to know that the word <mask> is used to refer to fingers in Japanese. Finally, we need to know that Japanese people call fingers <mask>.",
+            "First of all, the question is about human beings, so we have to assume that we are talking about human beings. The next step is to determine the number of fingers they have. This is a tricky question, because the answer is not obvious. If we want to determine the number of fingers,",
+            "First of all, the answer to the question has to be yes or no. Secondly, the answer has to be based on some facts that are true in the world. It has to be based on facts that can be observed. The question is not whether you are healthy or not. The question is"
+        ]
+    },
+    {
+        "query": "pregnancy lasts approximately <mask> or ten months.",
+        "answer": "nine",
+        "knowledges": [
+            "We know that the answer is approximately ten months. So, the first step is to find out how many months are approximately ten months. Let\u00e2\u20ac\u2122s see, there are twelve months in a year. Ten months is approximately one-third of a year. So, the answer is three months"
+        ]
+    },
+    {
+        "query": "rainbow have <mask> colours.",
+        "answer": "seven",
+        "knowledges": [
+            "First of all, it is necessary to understand the meaning of the question. Then, it is necessary to know the fact that there are <mask> colours in the rainbow.",
+            "First of all we need to know what is the difference between RGB and CMYK. RGB is an additive colour model and CMYK is a subtractive colour model. RGB has the three additive primary colours (red, green and blue) and CMYK has the four subtractive primary colours",
+            "First of all we need to know what is the <mask> and what are the <colours>. Then we need to know what the word \u00e2\u20ac\u02dcrainbow\u00e2\u20ac\u2122 means. Finally we need to know the colours of the rainbow.",
+            "First, we need to know what is a rainbow.",
+            "First of all, you need to know what is the <mask> parameter. And then you need to know that it can be used with the rainbow command. And then you need to know what the <mask> parameter does. And then you need to know that it can be used with the rainbow"
+        ]
+    },
+    {
+        "query": "human beings have only <mask> neck bones.",
+        "answer": "seven",
+        "knowledges": [
+            "First of all, we have to think about what is the question asking for. Is it asking for the name of the bones in the neck or is it asking for the names of the bones in the neck that are called neck bones?",
+            "First, the knowledge that human beings have only <mask> neck bones. I think this is the kind of knowledge that is learned from experience.",
+            "First of all, we have to know that human beings have only <mask> neck bones. But we have to know what <mask> means. <Mask> is the part of a human being which is the same with a horse, a cow, a dog, a cat, a rabbit,"
+        ]
+    },
+    {
+        "query": "a conventional bicycle has <mask> wheels, two pedals, and no motor.",
+        "answer": "two",
+        "knowledges": [
+            "First, we need to know that the answer is <mask> wheels. Then we need to know that the answer is two pedals. Finally, we need to know that the answer is no motor. So we need to know three things. Let\u00e2\u20ac\u2122s think about the information we already have",
+            "First, we need to know what a bicycle is. If you have never seen a bicycle before, you would not know what a bicycle is. If you have seen a bicycle before, you may not know what a conventional bicycle is. If you have seen a conventional bicycle before, you may not know",
+            "First, you need to know that a bicycle has two pedals. Next, you need to know that the word <mask> refers to a wheel.",
+            "First, you need to know what a conventional bicycle is. Second, you need to know what a conventional bicycle is not. Third, you need to know what the wheel size is. Fourth, you need to know what the wheel size is not.",
+            "First, you have to know what a conventional bicycle is. Then you have to know that a conventional bicycle has two pedals. Then you have to know that a conventional bicycle has no motor. So, you have to know what a conventional bicycle is, you have to know that a conventional bicycle has two"
+        ]
+    },
+    {
+        "query": "a room consists of no less than <mask> walls, a floor, and a ceiling.",
+        "answer": "four",
+        "knowledges": [
+            "First, we need to know the definition of the word \u00e2\u20ac\u0153room\u00e2\u20ac\ufffd. Then we need to know the definition of the word \u00e2\u20ac\u0153wall\u00e2\u20ac\ufffd. After that, we need to know the definition of the word \u00e2\u20ac\u0153floor\u00e2",
+            "First of all, you need to know what a room is. Then you need to know that the walls of a room are the vertical and horizontal surfaces that form the boundary of the room. You also need to know that the floor and the ceiling are parts of the room. Then you need to know"
+        ]
+    },
+    {
+        "query": "zip code in the u.s. has five or <mask> digits.",
+        "answer": "nine",
+        "knowledges": [
+            "First, we need to know the zip code format in the U.S. Then we need to know that a zip code has five or <mask> digits.",
+            "First, we need to know what a zip code is. Then we need to know that zip codes have five digits. Then we need to know that the first digit is always a zero. Then we need to know that the last four digits are the last four digits of the street address.",
+            "First, the <possessive> zip code in the u.s. has five or <mask> digits. The possessive <zip code> is the one that indicates the location of a person. It can be written in two ways: the first one is <zip code> followed"
+        ]
+    },
+    {
+        "query": "index card cabinets have <mask> 90 degree angles.",
+        "answer": "eight",
+        "knowledges": [
+            "First we need to know what an index card is. \u00a0Then we need to know what a cabinet is. \u00a0Then we need to know what 90 degree angles are. \u00a0Then we need to know what masking tape is. \u00a0Then we need to know what mask",
+            "We need to know what an index card is, what a cabinet is, and how the two are related. \u00a0We need to know that the 90 degree angle is a mask, and that a mask is used to hide something. \u00a0We need to know that the 90 degree angle"
+        ]
+    },
+    {
+        "query": "the <mask> cardinal points of the compass are north, south, east and west.",
+        "answer": "four",
+        "knowledges": []
+    },
+    {
+        "query": "twins are <mask> identical children.",
+        "answer": "two",
+        "knowledges": [
+            "First, you need to know what identical means. You also need to know what twins are. And you need to know that they are children. Finally, you need to know that they are <mask> identical children.",
+            "First, you need to know that the question is about twins. Second, you need to know that twins are children. And third, you need to know that identical twins are children who are genetically identical."
+        ]
+    },
+    {
+        "query": "common table have <mask> side legs.",
+        "answer": "four",
+        "knowledges": []
+    },
+    {
+        "query": "a cube has <mask> regular vertices.",
+        "answer": "eight",
+        "knowledges": [
+            "First, we need to know that a cube has 6 faces, and we need to know that a face has 3 edges. We need to know that an edge has 2 vertices, and we need to know that a vertex has 3 points.",
+            "First of all, we need to find the number of faces of the cube. We can do it by adding the number of faces of each cube in the original cube. We can also count the number of faces by finding the number of vertices in the cube."
+        ]
+    },
+    {
+        "query": "a typical stairway has <mask> or more steps going up or down.",
+        "answer": "two",
+        "knowledges": []
+    },
+    {
+        "query": "a water molecule has <mask> hydrogen atoms.",
+        "answer": "two",
+        "knowledges": [
+            "First of all, you need to know what is a water molecule. Then you need to know that the number of hydrogen atoms in a water molecule is 1. You also need to know that the number of hydrogen atoms in a mask is 8. So, the answer to the question is 8.",
+            "First, you need to know that a water molecule has two hydrogen atoms."
+        ]
+    },
+    {
+        "query": "a triangle is a geometric figure with <mask> distinct sides.",
+        "answer": "three",
+        "knowledges": []
+    },
+    {
+        "query": "the <mask> senses are sight, hearing, touch, smell and taste.",
+        "answer": "five",
+        "knowledges": [
+            "First, we need to know what is a mask.",
+            "First of all, the question says \"The ocean contains the bodies of water\" and the answer choice says \"The ocean contains the bodies of water.\" It is clear that the answer choice is correct.",
+            "First of all, it is necessary to have a concept of what is a molecule, a chemical bond, an atom, a quantum. In addition, you need to know the laws of quantum mechanics, to know what the uncertainty principle is, to understand what it means that the particle can be in different",
+            "First, the question requires us to know that \u00e2\u20ac\u0153ear\u00e2\u20ac\ufffd is a sense. Next, we have to know that \u00e2\u20ac\u0153hearing\u00e2\u20ac\ufffd is a sense. And finally, we have to know that the other senses are sight, touch, smell"
+        ]
+    },
+    {
+        "query": "a bradypus torquatus is native to brazil and has <mask> clawed toes on each limb.",
+        "answer": "three",
+        "knowledges": [
+            "The stem is a simple declarative sentence, so we can use it as a clue. We know that the answer must be a mammal. The first part of the clue is the genus, which we know from the stem. It is Bradypus . We also know that the answer must be",
+            "First, we have to know what a bradypus torquatus is. It is a species of animal, but we do not know its genus. The genus name is Bradypus. We have to look it up in the back of the book. We find that it is a species",
+            "First, we need to know that a bradypus torquatus is a species of animal. Second, we need to know that a bradypus torquatus is native to Brazil. Third, we need to know that a bradypus torquatus has clawed toes",
+            "First of all, we need to know what a bradypus torquatus is. It is a type of mammal, so we need to know the definition of mammal. After that, we need to know what a native is. It is a kind of inhabitant, so we need to",
+            "First of all, we need to know that bradypus torquatus is a species of mammal. We need to know that brazil is a country in South America. We need to know that each limb has four toes. And we need to know that the toes have claws. The word",
+            "First, we need to know what a bradypus torquatus is. This requires knowing the genus and species names, and possibly some information about the animal itself. Then we need to know that the animal is native to Brazil. Finally, we need to know that the animal has <mask",
+            "First, we have to know what a bradypus torquatus is. We can find out by reading the clue. A bradypus torquatus is a native to Brazil. We can use this information to find out what a native is. A native is a person or animal",
+            "First, we need to know that a bradypus torquatus is a species of mammal native to Brazil. Then, we need to know that the bradypus torquatus has <mask> clawed toes on each limb. We can infer that the mask refers to a claw"
+        ]
+    },
+    {
+        "query": "sarah was pregnant for around <mask> months in total.",
+        "answer": "nine",
+        "knowledges": [
+            "First of all, we need to know how long a pregnancy lasts. Let\u00e2\u20ac\u2122s say it is 9 months. We also need to know how many months the pregnancy lasted in total.",
+            "First of all, the speaker needs to know how long it takes for a human baby to develop in the womb. I would say that the average person knows that a baby develops in the womb for 9 months. Then, the speaker needs to know that Sarah was pregnant. It is possible that the speaker",
+            "First, you need to know how long the pregnancy lasted. Then you need to know how long the baby was in the womb. And finally, you need to know how long the baby was in the womb before it was born.",
+            "First, you need to know how long it takes for a woman to give birth. If you know that, you can calculate how long it takes for a woman to be pregnant.",
+            "We need to know that Sarah was pregnant, that the pregnancy lasted <mask> months, and that <mask> is the total number of months.",
+            "We know that Sarah was pregnant for around 8 months. We need to figure out the time period from the time she got pregnant to the time she gave birth. We can do this by subtracting the number of months she was pregnant from the number of months she was pregnant for. 8 - 3 =",
+            "The person asking the question knows that Sarah was pregnant for a month. The person asking the question also knows that Sarah was pregnant for another month. So the person asking the question knows that Sarah was pregnant for a total of two months."
+        ]
+    },
+    {
+        "query": "people have <mask> arms.",
+        "answer": "two",
+        "knowledges": [
+            "First of all, we need to know what a <mask> is."
+        ]
+    },
+    {
+        "query": "most bicycles have <mask> wheels arranged in tandem.",
+        "answer": "two",
+        "knowledges": [
+            "First, you need to know what tandem means. Next, you need to know what wheels are. Then you need to know what the word arranged means. Finally, you need to know what the word tandem means.",
+            "First of all, we need to understand what a tandem bicycle is. Then we need to understand that the wheels are arranged in tandem. Then we need to understand that the wheels are arranged in <mask> tandem. Then we need to understand that the wheels are arranged in <mask> tandem, but",
+            "First, we have to know what <mask> means. It is a mask for the tires of the bicycle. We have to know what the wheels are. And then we have to know what tandem means."
+        ]
+    },
+    {
+        "query": "people usually have <mask> toes on each of their feet.",
+        "answer": "five",
+        "knowledges": [
+            "We need to know what is a toe. We need to know what is a foot. We need to know what is a mask. We need to know what is a person.",
+            "First, we need to know that there are two types of toes. Then we need to know that the toes are on the feet. Then we need to know that there are toes on each foot. Finally, we need to know that each foot has five toes. So, the answer is:",
+            "First, we need to know what toes are. Next, we need to know that toes are on the feet. Then we need to know that people have two feet. Finally, we need to know that people have <mask> toes on each of their feet.",
+            "We need to know what is the shape of the human body, that there are toes on the feet, that there are toes on each foot, that each toe has a different name. We also need to know that the name of the toe on the left foot is the same as the name of the",
+            "First, you have to know what toes are. Then you have to know what feet are. Then you have to know what masks are. And finally, you have to know what toes on each of their feet means. It\u00e2\u20ac\u2122s a very complex question. I can\u00e2\u20ac\u2122t",
+            "First, we need to know what toes are. Then we need to know that there are five toes on each foot. Then we need to know that toes have names. Then we need to know that toes are usually called <mask> toes."
+        ]
+    },
+    {
+        "query": "a woman owns three cats and gives one of them away to her sister. she now owns only <mask> cats.",
+        "answer": "two",
+        "knowledges": [
+            "We have to know that a cat is a kind of animal. We also have to know that giving away an animal means that you no longer own it. We also have to know that giving away an animal means that you no longer own it. We also have to know that the number of animals that",
+            "The first thing we need to know is that a woman owns three cats. The second thing we need to know is that she gives one of them away to her sister. The third thing we need to know is that she now owns only two cats. The fourth thing we need to know is that the",
+            "First, we need to know how many cats she owned before giving one away. The answer is two. Then we need to know how many cats she owns after giving one away. The answer is two. We know that she owned three cats and that she gave one away. The third cat is the",
+            "First, you need to know that the woman owned three cats. Second, you need to know that she gave one of them away. Finally, you need to know that she now owns only two cats.",
+            "The woman owns three cats, and we know this because she is the owner of the cats. We also know that she owns at least two cats because if she only owned one, then she would not have been able to give one away. We also know that she owns exactly two cats because if she",
+            "First of all, we need to know that a woman owns three cats. Then we need to know that she gives one of them away to her sister. We need to know that she now owns only two cats.",
+            "First, you need to know what a cat is. Then you need to know that the woman owns three cats. Then you need to know that she gave one of them away to her sister. Then you need to know that she owns only two cats. So the knowledge required to answer the question is"
+        ]
+    },
+    {
+        "query": "a ring has <mask> sides.",
+        "answer": "no",
+        "knowledges": []
+    },
+    {
+        "query": "jumping rope requires <mask> less than one foot.",
+        "answer": "no",
+        "knowledges": [
+            "The first part is easy, jumping rope requires less than one foot. But the second part is hard. It requires knowledge of the unit system. If you are not sure about the unit system, you can not answer the question.",
+            "First, we need to know that jumping rope requires a rope. We need to know what rope is. Then we need to know that rope is a long piece of string. Then we need to know that string is a long thin piece of yarn. Then we need to know that yarn is a long",
+            "The first step is to identify the subject. The subject is the jump rope. The second step is to identify the predicate. The predicate is requires <mask>. The third step is to identify the object. The object is <mask>. The fourth step is to identify the attribute. The attribute is less",
+            "First, you have to know that the rope is being used to jump over. Second, you have to know that the rope is being used to jump over a distance. Third, you have to know that the rope is being used to jump over a distance of <mask>. Fourth, you have to"
+        ]
+    },
+    {
+        "query": "one dollar can be represented by <mask> dimes.",
+        "answer": "ten",
+        "knowledges": [
+            "First, we need to know that a dime is worth ten cents. Next, we need to know that there are 100 cents in a dollar. And finally, we need to know that there are 10 dimes in a dollar.",
+            "First, the dollar must be divided into dimes. Then, we need to find the number of dimes that are in the <mask>. The answer is <answer>.",
+            "First, we need to know how many dimes are in a dollar. Then we need to know how many dimes are in one dime."
+        ]
+    },
+    {
+        "query": "a proton is made of <mask> independent quarks.",
+        "answer": "three",
+        "knowledges": [
+            "First of all, a proton is made of quarks. We know that quarks are fundamental particles. They cannot be divided. They are not made of anything smaller. So the quarks must be indivisible. They are like atoms in the sense that they are the smallest possible building blocks",
+            "First, we have to know what a proton is. The second step is to know what a quark is. The third step is to know that quarks are made of smaller particles called <mask>.",
+            "First, you have to know what a proton is. Second, you have to know what a quark is.",
+            "First, you need to know that a proton is made of quarks. Second, you need to know that quarks are fundamental particles. Third, you need to know that fundamental particles are elementary particles.",
+            "First of all, you need to know what is a proton. You need to know that it is a nucleus of an atom. You need to know that it is made of quarks. And you need to know that quarks are elementary particles. So you need to know that quarks are"
+        ]
+    },
+    {
+        "query": "antelope have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "First, the answer to the question is that antelope have <mask> legs. The knowledge required to answer the question is that <mask> is a part of antelope. Therefore, we need to know that <mask> is a part of antelope. Let\u00e2\u20ac\u2122s try to",
+            "First of all, we need to know that antelope are animals. We need to know that they have four legs. We need to know that they have a mask. So, the knowledge required to answer the question is: \u00e2\u20ac\u0153Antelope are animals. They have four legs.",
+            "First, we need to know what an antelope is. We can infer that from the fact that we are told that it has <mask> legs. So we can assume that the animal in question is an antelope. We can also infer that the animal in question is a mammal. That is",
+            "We know that antelope are herbivores, so we need to know what legs herbivores have.",
+            "We know that antelope are mammals. So we need to know what mammals are. We know that mammals are animals. So we need to know what animals are. We know that animals are living things. So we need to know what living things are. We know that living things are things that have"
+        ]
+    },
+    {
+        "query": "a triangle has <mask> distinct corners.",
+        "answer": "three",
+        "knowledges": [
+            "First, we need to know what a triangle is. Then we need to know what the word \u00e2\u20ac\u0153distinct\u00e2\u20ac\ufffd means. Then we need to know what the word \u00e2\u20ac\u0153corner\u00e2\u20ac\ufffd means. Then we need to know what the word",
+            "First we need to know that a triangle has three corners. Then we need to know that the corners are distinct.",
+            "First we need to know that a triangle has three corners. Then we need to know that each corner has a unique label. Finally we need to know that each label is distinct.",
+            "First we need to know that a triangle has three corners. Then we need to know that each corner has a single color. Finally we need to know that each color is distinct. So the question requires knowledge of 3 distinct facts:"
+        ]
+    },
+    {
+        "query": "a professor in math is answering a question. he answers two could be divided by <mask> plus one.",
+        "answer": "one",
+        "knowledges": [
+            "First, the professor must know that 2 could be divided by <mask>. Second, he must know that 2 could be divided by <mask> plus one.",
+            "What is the question?",
+            "First, you have to know what \u00e2\u20ac\u0153two\u00e2\u20ac\ufffd is. Second, you have to know what \u00e2\u20ac\u0153could be divided by <mask>\u00e2\u20ac\ufffd is. Then, you have to know what \u00e2\u20ac\u0153plus one\u00e2\u20ac\ufffd is",
+            "What is <mask>?",
+            "First, you have to know the meaning of the word \u00e2\u20ac\u0153divide\u00e2\u20ac\ufffd. Next, you have to know the meaning of the word \u00e2\u20ac\u0153two\u00e2\u20ac\ufffd. Then, you have to know the meaning of the word \u00e2\u20ac\u0153plus"
+        ]
+    },
+    {
+        "query": "thirty usually are <mask> more than twenty.",
+        "answer": "ten",
+        "knowledges": [
+            "First, we need to know how to compare numbers. This is not a difficult knowledge to acquire. Then we need to know the word \"thirty\" and the word \"twenty.\" It is not necessary to know how to read, since the words are very common. Then we need to know",
+            "Firstly, you need to know the meaning of the word \u00e2\u20ac\u02dcthirty\u00e2\u20ac\u2122 and the word \u00e2\u20ac\u02dcusually\u00e2\u20ac\u2122. Then you need to know the meaning of the word \u00e2\u20ac\u02dcare\u00e2\u20ac\u2122 and the word \u00e2\u20ac\u02dcmore\u00e2\u20ac",
+            "First of all, the meaning of the question is clear. The number thirty is the subject of the sentence, and the number twenty is the object. The subject is more than the object. This is the meaning of the question. The subject is more than the object. This is the meaning of the"
+        ]
+    },
+    {
+        "query": "a simple tripod has <mask> legs.",
+        "answer": "three",
+        "knowledges": [
+            "First of all, you need to know what a tripod is. You also need to know what a leg is. If you don\u00e2\u20ac\u2122t know what a leg is, you won\u00e2\u20ac\u2122t be able to answer the question.",
+            "First, you have to know what a tripod is. Then you have to know that it has three legs.",
+            "First, the candidate has to know that a tripod has three legs. Second, the candidate has to know that the word <mask> is a type of tripod. Finally, the candidate has to know that the word <mask> is an alternative word for tripod.",
+            "First, we have to recognize the tripod as a kind of thing. This is not a problem for us, we know what a tripod is. Next, we have to know what a leg is. Again, no problem, we know what a leg is. But then we have to know that a",
+            "First of all, we need to know what a tripod is. Then we need to know what a leg is. Finally, we need to know that the word leg can be used as a noun. This knowledge is required to answer the question."
+        ]
+    },
+    {
+        "query": "index card storage cabinets have <mask> 90 degree angles.",
+        "answer": "eight",
+        "knowledges": [
+            "First, you need to know what a 90 degree angle is. Second, you need to know that the index card storage cabinets have 90 degree angles."
+        ]
+    },
+    {
+        "query": "phobos orbits mars about once every <mask> square hours, much faster than mars' rotation.",
+        "answer": "seven",
+        "knowledges": [
+            "First, we have to know that Phobos is the innermost moon of Mars. Then we have to know that it orbits Mars. Finally, we have to know that it orbits Mars faster than Mars rotates.",
+            "The first thing we need to know is the length of a day on Mars. If you don't know that, you can't answer the question. Next, you need to know the distance between Mars and Phobos. If you don't know that, you can't answer the question. If you",
+            "First of all, we have to know the distance between the centers of the two planets. Then we have to know the distance between the centers of the two orbits. Then we have to know the period of the orbit. And finally, we have to know the ratio of the periods.",
+            "First, we need to know that Mars rotates once every 24 hours. Next, we need to know that Phobos orbits Mars every 7.7 hours. Then we need to know that the distance between Mars and Phobos is about 20,000 km. Now we can use these facts to calculate",
+            "The first step is to realize that phobos orbits Mars. I know this because I have seen it. So the first knowledge is observational. The second step is to know that Mars rotates. This knowledge is non-observational. I have never seen Mars rotate. The third step is to",
+            "We need to know the distance between Mars and Phobos, the period of Mars' rotation, and the period of Phobos' orbit.",
+            "First, we need to know the rotation period of Mars. Then we need to know the distance between Mars and Phobos. Then we need to know the distance between the center of Mars and the center of Phobos. Then we need to know the distance between the center of Mars and the surface of",
+            "First, we need to know the rotation period of Mars. We can find it in Wikipedia, or by asking a friend who knows about astronomy. Then we need to know the distance between Mars and Phobos. We can find it on the same Wikipedia page, or we can ask a friend who knows"
+        ]
+    },
+    {
+        "query": "a pentagon has <mask> sides.",
+        "answer": "five",
+        "knowledges": [
+            "First, we need to know what a pentagon is. Next, we need to know what a side is. Then, we need to know what a mask is."
+        ]
+    },
+    {
+        "query": "winning a chess game in <mask> moves is very impressive.",
+        "answer": "seven",
+        "knowledges": [
+            "First of all you need to know what is chess. You need to know what a move is. You need to know what a chess board looks like. You need to know what the rules of chess are. And you need to know what a chess position is.",
+            "First of all, you need to know the rules of chess, and to be able to play chess. You need to know the rules of notation, so that you can describe a chess game. You need to know how to read chess notation. You need to know the names of chess pieces, and",
+            "First of all, you need to know what is a chess game. And you need to know what is a mask. You need to know what is the meaning of mask in chess game. Then you need to know how many moves in chess game. And you need to know how many moves in chess",
+            "First of all, you need to know how to play chess. Second, you need to know the rules of chess. Third, you need to know how to count the number of moves. Fourth, you need to know how to count the number of moves in chess.",
+            "First of all, you need to know what chess is, what is the chess board, what is the game, how it is played, etc.",
+            "First, we need to know the rules of chess. Second, we need to know how to evaluate the position. Third, we need to know how to calculate the number of moves. And finally, we need to know how to count the number of moves. So, we need to know the rules"
+        ]
+    },
+    {
+        "query": "one in <mask> also means a quarter.",
+        "answer": "four",
+        "knowledges": [
+            "First of all, you need to know that there are a certain number of objects in the world. Second, you need to know that the objects are divided into three categories: human, plant, and animal. Third, you need to know that human beings have a life span of 70 years. You"
+        ]
+    },
+    {
+        "query": "the number six looks like a <mask> upside down.",
+        "answer": "nine",
+        "knowledges": [
+            "First, we need to know what is a mask. Second, we need to know what is the upside down. Third, we need to know what is a number.",
+            "First, the contestant has to know that the question is asking for a six. Then, he has to know that the <mask> is upside down. Then, he has to know that the upside down <mask> is a six.",
+            "First, we have to know what a \u00e2\u20ac\u0153mask\u00e2\u20ac\ufffd is. Then we have to know that a mask can be upside down. Then we have to know that the number six is a number. Then we have to know that the number six is a <mask>. So"
+        ]
+    },
+    {
+        "query": "a lobster lives on the ocean floor and has <mask> functional pairs of legs.",
+        "answer": "five",
+        "knowledges": [
+            "First, we need to know what a lobster is. Then we need to know what the ocean floor is. Then we need to know what functional pairs of legs are. Then we need to know what the word <mask> means.",
+            "We need to know what a lobster is, what ocean floor is, what functional pairs of legs are. We need to know that they live in the ocean. We need to know that they have two pairs of legs. We need to know that they have claws.",
+            "First of all, we need to know what a lobster is. This information is not included in the question. The question is only about the structure of the lobster. The structure of the lobster is not included in the question. The question is only about the number of legs. This information is not included"
+        ]
+    },
+    {
+        "query": "badminton is a game played by two or <mask> male players.",
+        "answer": "four",
+        "knowledges": [
+            "First, you need to know that badminton is a game. Then you need to know that it is played by two players. And then you need to know that the players are male. This is the knowledge required to answer the question. Now, you need to think about how to represent the",
+            "First, we need to understand what the question is asking. It asks about the number of players in badminton. Then, we need to understand what the words mean. The word \u00e2\u20ac\u0153two\u00e2\u20ac\ufffd means \u00e2\u20ac\u0153two players\u00e2\u20ac\ufffd. The word",
+            "First, we have to understand what is badminton. It is a game played by two or <mask> male players."
+        ]
+    },
+    {
+        "query": "a leg table is a flat surface supported by <mask> or more legs.",
+        "answer": "three",
+        "knowledges": [
+            "First, you need to know the meaning of table. Second, you need to know the meaning of legs."
+        ]
+    },
+    {
+        "query": "earth have <mask> populated continents.",
+        "answer": "six",
+        "knowledges": [
+            "First of all we need to know what is the meaning of the word \"populated\". Then we need to know what is the meaning of the word \"continent\".",
+            "First, we need to know how many continents there are.",
+            "We have to understand what the word \"populated\" means. We have to understand what the word \"continent\" means. We have to understand what the word \"have\" means. We have to understand what the word \"earth\" means. We have to understand what the word \"have\"",
+            "First of all, we need to know the size of the earth. Then we need to know the population density of the continents. Then we need to know the population density of the oceans. Finally, we need to know the number of the continents."
+        ]
+    },
+    {
+        "query": "most people in the u.s. works <mask> consecutive hours in a business day.",
+        "answer": "eight",
+        "knowledges": [
+            "First of all, we need to understand the word \u00e2\u20ac\u0153consecutive\u00e2\u20ac\ufffd. It means one after another. So, the answer should be hours one after another. We can think about this as a series of hours. For example, from 8:00 to 9:",
+            "First, we need to know the definition of the word \"work.\" The definition of the word \"work\" is \"activity directed toward making or doing something, typically to achieve a purpose.\" In this case, the purpose is to make money. Then, we need to know the definition of the word",
+            "We need to know the definition of \u00e2\u20ac\u0153consecutive hours\u00e2\u20ac\ufffd and \u00e2\u20ac\u0153business day\u00e2\u20ac\ufffd. It is better to read the question carefully and understand it first. We can try to guess the answer. In this case, it is better to",
+            "First, we need to know what \u00e2\u20ac\u0153works\u00e2\u20ac\ufffd means. We need to know that it means \u00e2\u20ac\u0153performs work\u00e2\u20ac\ufffd and not \u00e2\u20ac\u0153is employed\u00e2\u20ac\ufffd. Second, we need to know what \u00e2\u20ac",
+            "First, we need to know what is a business day. If you look at the sentence, you can see that the sentence says most people in the U.S. works. It means that most people in the U.S. work for more than 8 hours a day. If we look at",
+            "First, we need to know the meaning of the word consecutive . Then we need to know the meaning of the word hours . Then we need to know the meaning of the word business . Then we need to know the meaning of the word day . And then we need to know the meaning of the word",
+            "First of all, we need to know what is the meaning of <mask> in the context of the question. The meaning of <mask> is to cover or hide something. We can also say that <mask> is to conceal something."
+        ]
+    },
+    {
+        "query": "snowflake have <mask> different sides.",
+        "answer": "six",
+        "knowledges": [
+            "First, you need to know what a snowflake is. You need to know what the word <mask> means. You need to know that a snowflake has sides. You need to know what a side is. You need to know what a snowflake is. You need to know what the",
+            "First of all, you need to know that snowflake have sides. Then you need to know that each side is different."
+        ]
+    },
+    {
+        "query": "a wall divides <mask> room into two rooms.",
+        "answer": "one",
+        "knowledges": [
+            "First, you need to know that there is a wall in the room. Second, you need to know that the room is divided into two rooms. Third, you need to know that there is a mask in the room.",
+            "First of all, we need to know that the mask is an object that divides a room into two rooms. Then we need to know that the mask is a wall. And then we need to know that the mask is in the room.",
+            "First, we need to know the room type (e.g. kitchen, living room, etc.). We can use the query:"
+        ]
+    },
+    {
+        "query": "a convex hexagon is a closed shape with <mask> sides.",
+        "answer": "six",
+        "knowledges": []
+    },
+    {
+        "query": "a large bouquet of flowers means a group of more than <mask> flowers.",
+        "answer": "two",
+        "knowledges": [
+            "First of all, we need to know what the word bouquet means. If we don\u00e2\u20ac\u2122t know what a bouquet is, we won\u00e2\u20ac\u2122t be able to answer the question."
+        ]
+    },
+    {
+        "query": "many buddhists try to have <mask> desires.",
+        "answer": "no",
+        "knowledges": [
+            "What do you mean by <mask>?",
+            "What is knowledge?",
+            "First of all, we have to have some idea about what the desire is. If you don\u00e2\u20ac\u2122t know what a desire is, you can\u00e2\u20ac\u2122t say what it is to have it. So we have to have some idea about what desire is. What is desire?",
+            "First of all, it is necessary to know what desire is. If you do not know what desire is, how can you know what it is to have desires? It is necessary to know what knowledge is. If you do not know what knowledge is, how can you know what it is to have",
+            "First, we have to ask: what is desire? What is a desire? We have to ask that question. If we are not clear about what a desire is, we cannot ask whether we should have desire or not.",
+            "What is the cause of <mask> desires?"
+        ]
+    },
+    {
+        "query": "a door has <mask> different sides.",
+        "answer": "four",
+        "knowledges": []
+    },
+    {
+        "query": "scallops are animals that have <mask> internal shells and live on the ocean floor.",
+        "answer": "two",
+        "knowledges": [
+            "First, you have to know what a scallop is. If you don\u00e2\u20ac\u2122t know what a scallop is, you won\u00e2\u20ac\u2122t be able to answer the question. Then, you have to know that a scallop has an internal shell. Then, you",
+            "First, we have to know that scallops are animals. Then, we have to know that scallops have internal shells. Finally, we have to know that scallops live on the ocean floor.",
+            "First, we need to know what an animal is. An animal is a living creature with two legs, a head, and a tail. So we need to know what a living creature is. A living creature is a creature that can move and breathe. So we need to know what a creature is",
+            "First, we need to know that scallops are animals. Then we need to know that they have internal shells. Finally, we need to know that they live on the ocean floor.",
+            "First, we need to know what scallops are. Second, we need to know that scallops have internal shells. Third, we need to know that scallops live on the ocean floor.",
+            "First, we have to know what scallops are. Second, we have to know that they have shells. And third, we have to know that they live on the ocean floor.",
+            "First, the fact that scallops have shells is a fact that can be known by anyone. The fact that scallops live on the ocean floor is also a fact that can be known by anyone. Thus, the first two steps of the inference are justified."
+        ]
+    },
+    {
+        "query": "nothing with legs can stand on <mask> legs.",
+        "answer": "zero",
+        "knowledges": [
+            "First, we need to know what <mask> is. Then we need to know that <mask> is a leg. And then we need to know that legs can stand on something. And then we need to know that <mask> is something. And then we need to know that nothing with",
+            "First of all, it\u00e2\u20ac\u2122s necessary to know what a mask is.",
+            "First, we need to know what a mask is.",
+            "We need to know that legs are not a part of mask, that mask has legs and that legs are not a part of mask. The last two statements are true by definition. We can deduce the first statement from them. But what if we want to know that mask has legs? We need",
+            "First of all, the mask is not an animal. It is a human face, so we have to know what a human is. Then we have to know that a human has legs."
+        ]
+    },
+    {
+        "query": "many jeeps are <mask> wheeled vehicles.",
+        "answer": "four",
+        "knowledges": [
+            "First, we have to understand what a wheel is. It is a circular object attached to the bottom of a vehicle. It is used to roll the vehicle over the ground. The vehicle moves by rolling over the ground. It is also called a tyre.",
+            "First of all, you have to know what wheeled means. Then you have to know that <mask> is an adjective. Then you have to know that <mask> wheeled means <mask> jeep.",
+            "First, the sentence has to be broken down. \u00a0The first part of the sentence is a noun phrase. \u00a0The noun is jeep. \u00a0The next part of the sentence is a verb phrase. \u00a0The verb is are. \u00a0The next part of the sentence is"
+        ]
+    },
+    {
+        "query": "there are <mask> basic types of forces in the universe.",
+        "answer": "four",
+        "knowledges": [
+            "First, we need to know what a force is. Then we need to know that there are different types of forces. Then we need to know that the universe is the sum of all forces. Finally, we need to know that there are <mask> basic types of forces in the universe."
+        ]
+    },
+    {
+        "query": "a human being has <mask> functional fingers on each hand.",
+        "answer": "five",
+        "knowledges": [
+            "First of all, we need to know what a human being is. Then we need to know what a finger is. And we need to know what functional means.",
+            "First of all, it is necessary to know that a human being is a living organism. Secondly, it is necessary to know that a living organism has two hands. Then, it is necessary to know that a living organism has five fingers on each hand."
+        ]
+    },
+    {
+        "query": "a kangaroo kangaroo rat has <mask> legs for jumping.",
+        "answer": "two",
+        "knowledges": [
+            "First, we need to know that a kangaroo is a kind of animal. We also need to know that a kangaroo rat is a kind of kangaroo. Then we need to know that a kangaroo rat has a certain number of legs. So, the answer is <",
+            "First, you have to know what a kangaroo is, what a kangaroo rat is, and that a kangaroo rat is a kind of rat. Then you have to know that kangaroos have two legs, and kangaroo rats have four legs. Then you have",
+            "First, we need to know what a kangaroo is. Second, we need to know what a kangaroo rat is. Third, we need to know what a rat is. Fourth, we need to know what a leg is. Fifth, we need to know what jumping is. Sixth",
+            "First, we need to know what a kangaroo is. A kangaroo is a marsupial mammal, which is a mammal that carries its young in a pouch. We also need to know what a kangaroo rat is. A kangaroo rat is a small rodent that looks",
+            "First of all, you need to know what a kangaroo is. You need to know what a rat is. You need to know that kangaroos have legs. You need to know that rats have legs. You need to know that kangaroos are mammals. You need to"
+        ]
+    },
+    {
+        "query": "a standard dice has <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "First, you have to know what a standard dice is. Second, you have to know that a standard dice has six sides.",
+            "First, you have to know what a standard dice is."
+        ]
+    },
+    {
+        "query": "once every <mask> odd years is a leap year.",
+        "answer": "four",
+        "knowledges": [
+            "First, we need to know what a leap year is. Next, we need to know that every four years is a leap year. Next, we need to know that every four years is an even number. Finally, we need to know that every four years is an odd number. So, to",
+            "First, we need to know what is meant by \u00e2\u20ac\u0153odd\u00e2\u20ac\ufffd. This is a bit vague, but if we are given the definition of \u00e2\u20ac\u0153odd\u00e2\u20ac\ufffd, then we can infer that \u00e2\u20ac\u0153odd\u00e2\u20ac\ufffd means",
+            "First, we need to know what a leap year is. Then we need to know that the year 2000 is a leap year. Then we need to know that the year 2010 is a leap year. Then we need to know that the year 2100 is a leap year. Then we need to know that"
+        ]
+    },
+    {
+        "query": "a normal cube has <mask> corners.",
+        "answer": "eight",
+        "knowledges": [
+            "First of all, we need to know the definition of a normal cube. It is a cube where all the faces are congruent, i.e. they are all the same size and shape.",
+            "First, we need to know that a cube has 6 faces, 8 corners, 12 edges, and 8 vertices. Next, we need to know that a cube has 8 corners. Then, we need to know that a cube has 6 faces. Finally, we need to know that a cube has"
+        ]
+    },
+    {
+        "query": "having sex is usually an activity for <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "First of all, you need to know what is sex. You can find the definition in the dictionary or in the encyclopedia. Then you need to know that having sex is usually an activity for people. It means that you need to know the word usually. Then you need to know what is activity.",
+            "First of all, you need to know what sex is. Second, you need to know that people have sex. Finally, you need to know that people usually have sex. So, we need to check whether you know all these three things.",
+            "First, we need to know what is sex. We need to know that it is an activity, and we need to know that it is usually an activity for <mask> people. So, we need to know what sex is, that it is an activity, and that it is usually an activity",
+            "First of all, you need to know what sex is. Then you need to know what a couple is. Then you need to know what having sex is. Then you need to know that having sex is usually an activity for <mask> people. This is the knowledge required to answer the question."
+        ]
+    },
+    {
+        "query": "the <mask> cardinal virtues are faith, hope, love, prudence, justice, fortitude, and temperance.",
+        "answer": "seven",
+        "knowledges": [
+            "First, what is faith?",
+            "First, the question asks for a list of virtues, not a definition. Second, the question asks for a list of cardinal virtues. That is, virtues that are essential to Christian life. So we are looking for a list of virtues that are absolutely essential to Christian life. Third, the question asks",
+            "First of all, we need to know what is virtue.",
+            "First of all, you need to know what a virtue is. It is a good quality or a good disposition. So, a virtue is something that is good for you.",
+            "First of all, the problem statement is: how many possible combinations of 4 numbers exist if each number is chosen from the set of integers 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17"
+        ]
+    },
+    {
+        "query": "if it does not have <mask> legs then it is not an insect.",
+        "answer": "six",
+        "knowledges": [
+            "First of all, it is not necessary to know the word <mask> or the word <leg>. But it is necessary to know the meaning of the word <insect>.",
+            "First of all, we need to know what an insect is."
+        ]
+    },
+    {
+        "query": "a grid is a regular pattern in <mask> spatial dimensions.",
+        "answer": "two",
+        "knowledges": []
+    },
+    {
+        "query": "all triangles have <mask> curved sides and three corners.",
+        "answer": "three",
+        "knowledges": []
+    },
+    {
+        "query": "a set of standard poker card deck has fifty <mask> cards in four suites.",
+        "answer": "two",
+        "knowledges": [
+            "First, we need to know the number of cards in a standard poker card deck. We know that there are fifty-two cards in a standard poker card deck. Second, we need to know the number of cards in each suite. We know that there are four suites in a standard poker card deck"
+        ]
+    },
+    {
+        "query": "a pentagram has <mask> cardinal points in total.",
+        "answer": "ten",
+        "knowledges": [
+            "First, we have to determine what is a pentagram. Then, we have to understand what is a cardinal point.",
+            "First of all, we need to know the definition of a pentagram."
+        ]
+    },
+    {
+        "query": "liquid water becomes solid at a temperature of <mask> degrees centigrade, or 32 degrees fahrenheit.",
+        "answer": "zero",
+        "knowledges": [
+            "First, you need to know that water freezes at 32 degrees Fahrenheit. Next, you need to know that centigrade and Fahrenheit are different temperature scales. Finally, you need to know that 32 degrees Fahrenheit is the same as 0 degrees centigrade.",
+            "We know that the boiling point of water is 100 degrees centigrade, or 212 degrees fahrenheit. We know that the freezing point of water is 0 degrees centigrade, or 32 degrees fahrenheit. We know that water boils at a higher temperature than it freezes. So we know",
+            "The word \u00e2\u20ac\u0153centigrade\u00e2\u20ac\ufffd is not in the question, but we can use the answer choices to figure out what it means. If we are told that the temperature is <mask> degrees centigrade, we can deduce that <mask> must be the",
+            "First, we have to know that water is a liquid at room temperature. Second, we have to know that 32 degrees is a room temperature. Third, we have to know that water becomes solid at a temperature of <mask> degrees centigrade.",
+            "First, we need to know that water is a liquid. Second, we need to know that the temperature of a liquid is the same as the temperature of the surrounding environment. Third, we need to know that water becomes solid at a temperature of 32 degrees. Finally, we need to know that 32"
+        ]
+    },
+    {
+        "query": "airplanes have <mask> separate wings.",
+        "answer": "two",
+        "knowledges": [
+            "First, you need to know that an airplane is a vehicle that has wings. Then you need to know that wings are attached to the airplane.",
+            "We need to know what <mask> means. It is a word which means <mask> is a word that describes something that has <mask> or is made of <mask>. So, we need to know what <mask> is.",
+            "We need to know that airplanes have wings, that wings are separate from each other, and that airplanes have more than one wing.",
+            "We need to know that airplanes have wings, and we need to know that wings are separate. This is what we call a 'cohesion problem'.",
+            "First of all, you have to know what an airplane is. Then you have to know that it has two wings. Then you have to know that each wing is a separate thing. Then you have to know that separate means not connected.",
+            "First of all, we have to know that the meaning of the word \u00e2\u20ac\u0153wing\u00e2\u20ac\ufffd is \u00e2\u20ac\u0153a part of an airplane that helps it fly.\u00e2\u20ac\ufffd So we have to know that \u00e2\u20ac\u0153a part of an airplane that helps"
+        ]
+    },
+    {
+        "query": "a round ball has <mask> sides.",
+        "answer": "no",
+        "knowledges": []
+    },
+    {
+        "query": "a typical conservation usually needs at least <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "The first thing is to find the bug. That requires basic knowledge of the code. The second thing is to find the patch. That requires more knowledge of the code. The third thing is to check the patch. That requires knowledge of the test cases. The fourth thing is to test the patch.",
+            "First, what is the purpose of conservation? To save the knowledge, right? To save the knowledge, it is necessary to understand the knowledge, isn\u00e2\u20ac\u2122t it?",
+            "First of all, the number of people needed is a question of the size of the game. We can\u00e2\u20ac\u2122t answer this question. But we can answer the question of how many people are needed to understand the game. In the end, we need to know the knowledge required to answer the"
+        ]
+    },
+    {
+        "query": "<mask> of the largest national parks are in alaska.",
+        "answer": "seven",
+        "knowledges": [
+            "First, we need to understand what the largest national parks are. We can guess that they are probably in the United States, but it is hard to be sure. Next, we need to know where Alaska is. Then we need to understand that it is a state in the United States. Finally,",
+            "First, we need to know what is a national park. This information is provided in the first part of the sentence. Next, we need to know the largest national parks. We need to know what is the meaning of the word largest. It means the largest one among the national parks. We need",
+            "First of all, the question is asking for the largest national parks in Alaska. The first step is to find the answer to the first part of the question, the largest national parks. There are two ways to do this. The first is to find the largest national parks and then find out if any",
+            "First, we need to know the definition of the word \"largest\". Second, we need to know the definition of the word \"national\". Third, we need to know the definition of the word \"park\". Finally, we need to know the definition of the word \"alaska\"."
+        ]
+    },
+    {
+        "query": "a tennis ball has <mask> sides.",
+        "answer": "no",
+        "knowledges": [
+            "First, you need to know what a tennis ball is. Next, you need to know what a side is. Finally, you need to know how many sides a tennis ball has. So, you need to know what a tennis ball is, what a side is, and how many sides a tennis",
+            "First, we need to know what a tennis ball is. Next, we need to know that a tennis ball has sides. Then, we need to know that the number of sides of a tennis ball is <mask>."
+        ]
+    },
+    {
+        "query": "a person's hand generally has <mask> normal fingers, including the thumb.",
+        "answer": "five",
+        "knowledges": [
+            "First, you need to know that a person's hand generally has <mask> normal fingers, including the thumb. Then, you need to know that a thumb is a finger. Then, you need to know that a finger is a part of a hand. And then, you need to know that"
+        ]
+    },
+    {
+        "query": "a french horn has <mask> keys.",
+        "answer": "three",
+        "knowledges": [
+            "First of all, we need to know what a french horn is. And we need to know what keys are. So the answer to the question is \"we need to know what a french horn is and what keys are\".",
+            "First of all, we have to know that a french horn is a musical instrument. We also have to know that it is a wind instrument, and that it has a mouthpiece. Finally, we have to know that a french horn has keys."
+        ]
+    }
+]

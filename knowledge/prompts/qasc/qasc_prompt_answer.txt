@@ -1,0 +1,19 @@
+Generate some knowledge about the input. Examples:
+
+Input: What type of water formation is formed by clouds?
+Knowledge: Beads.
+
+Input: What can prevent food spoilage?
+Knowledge: Dehydrating food.
+
+Input: The process by which genes are passed is
+Knowledge: Reproduction.
+
+Input: The stomach does what in the body?
+Knowledge: Breaks food into nutrients.
+
+Input: What can cause rocks to break down?
+Knowledge: Water.
+
+Input: {question}
+Knowledge:

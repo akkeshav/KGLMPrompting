@@ -1,0 +1,19 @@
+Generate random and unrelated knowledge about the input. Examples:
+
+Input: Greece is larger than mexico.
+Knowledge: Cat is a curious animal.
+
+Input: Glasses always fog up.
+Knowledge: There was a cold war between east and west.
+
+Input: A fish is capable of thinking.
+Knowledge: The sun always set in west.
+
+Input: A common effect of smoking lots of cigarettes in one's lifetime is a higher than normal chance of getting lung cancer.
+Knowledge: Noodles have chinese origin.
+
+Input: A rock is the same size as a pebble.
+Knowledge: German shepard used to help shepherds with controlling the herds of sheep and goat.
+
+Input: {question}
+Knowledge:

@@ -1,0 +1,19 @@
+Generate some random and unrelated facts about objects. Examples:
+
+Input: penguins have <mask> wings.
+Knowledge: Cat is a curious animal.
+
+Input: a parallelogram has <mask> sides.
+Knowledge: There was a cold war between east and west.
+
+Input: there are <mask> feet in a yard.
+Knowledge: The sun always set in west.
+
+Input: water can exist in <mask> states.
+Knowledge: Noodles have chinese origin.
+
+Input: a typical human being has <mask> limbs.
+Knowledge: German shepard used to help shepherds with controlling the herds of sheep and goat.
+
+Input: {question}
+Knowledge:

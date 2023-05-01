@@ -1,0 +1,2592 @@
+[
+    {
+        "query": "you may take the subway back and forth to work <mask> days a week.",
+        "answer": "five",
+        "knowledges": [
+            "Birds have wings.",
+            "There are several planets in our solar system.",
+            "There are many great inventions that changed the world.",
+            "We need water to survive.",
+            "The tallest building in the world is Burj Khalifa.",
+            "A square is a rectangle with four equal sides.",
+            "On the way to school, I used to stop by the bakery to buy some donuts."
+        ]
+    },
+    {
+        "query": "a <mask> door car has four entrances for passengers to enter.",
+        "answer": "four",
+        "knowledges": [
+            "There are <mask> continents in the world.",
+            "Women were considered to be inferior to men.",
+            "A kite is a flying toy.",
+            "A common mistake in spelling is to misspell a word.",
+            "Cats have 9 lives.",
+            "A horse has four legs.",
+            "There is a world wide web."
+        ]
+    },
+    {
+        "query": "the word children means <mask> or more kids.",
+        "answer": "two",
+        "knowledges": [
+            "Man is the only animal which can laugh.",
+            "Most of the kids like chocolate.",
+            "There is a rule of thumb that says that the average human being can carry up to 10% of his/her body weight.",
+            "Computer can be a tool to help human to do their work.",
+            "The world population is growing.",
+            "A triangle has 3 sides.",
+            "There are three colors in the rainbow."
+        ]
+    },
+    {
+        "query": "each human hand almost always contains <mask> fingers, or four fingers and a thumb.",
+        "answer": "five",
+        "knowledges": [
+            "It is very difficult to find the missing finger in a hand.",
+            "If a human being loses one of his hands, he can still survive.",
+            "Giraffes have long necks.",
+            "An octagon is a shape with <mask> sides.",
+            "There are <mask> days in a week.",
+            "One day is the time taken for the earth to rotate once."
+        ]
+    },
+    {
+        "query": "how do you win at tic-tac-toe get <mask> of your symbols in a row.",
+        "answer": "three",
+        "knowledges": [
+            "There are many different ways to make money.",
+            "You can control the speed of a car with the gas pedal.",
+            "It is not easy to win at tic-tac-toe.",
+            "At a local hospital a doctor may see many patients with many different diseases.",
+            "One can win a tic-tac-toe game by getting three of their symbols in a row.",
+            "Bill gates is a famous person.",
+            "Bats are the only mammals that can fly."
+        ]
+    },
+    {
+        "query": "a bradypus torquatus is native to brazil and has <mask> toes on each limb.",
+        "answer": "three",
+        "knowledges": [
+            "A swiss army knife is a pocket knife.",
+            "Cats have four legs.",
+            "To write in cursive you need to move your <mask> fingers.",
+            "Gold is very soft metal.",
+            "A pencil is made of wood.",
+            "The place of origin of a dog is the place where it was born.",
+            "Noam chomsky is a linguist."
+        ]
+    },
+    {
+        "query": "a prime number are divisible by only two numbers, <mask> and itself.",
+        "answer": "one",
+        "knowledges": [
+            "A cow has four stomachs.",
+            "Every time a man enters the room, he says hello.",
+            "An equilateral triangle has <mask> sides.",
+            "The sky is always blue.",
+            "There are different ways to divide a cake.",
+            "The Earth is a planet.",
+            "German shepard used to help shepherds with controlling the herds of sheep and goat."
+        ]
+    },
+    {
+        "query": "reality is three dimensional real life, tv shows portray <mask> dimensional fake life.",
+        "answer": "two",
+        "knowledges": [
+            "<mask> is a good number.",
+            "This is a quote from a famous book.",
+            "If you are not sure, you can use the back button.",
+            "In real life, a child is the child of its parents.",
+            "In the late 19th century the use of bicycles became popular in Europe.",
+            "In a standard deck of cards, the jack of spades is black.",
+            "Coffee is a bitter drink."
+        ]
+    },
+    {
+        "query": "a game of chess may have <mask> outcomes.",
+        "answer": "three",
+        "knowledges": [
+            "The longest river in the world is the Amazon river.",
+            "We can not live without water.",
+            "Human beings have only two hands.",
+            "The human brain has a left and right hemisphere.",
+            "an octagon has <mask> sides.",
+            "There is a difference between blue and green.",
+            "One day is equal to 24 hours."
+        ]
+    },
+    {
+        "query": "<mask> of the seven days of the week is saturday.",
+        "answer": "one",
+        "knowledges": [
+            "<mask> is a number.",
+            "in a week, there are <mask> days.",
+            "The moon always rise in east.",
+            "The days of the week are named after planets.",
+            "There is a computer virus called \"Elk Cloner\".",
+            "A triangle has three sides.",
+            "A typical pencil has <mask> eraser."
+        ]
+    },
+    {
+        "query": "a square is a shape with <mask> equally lengthed sides.",
+        "answer": "four",
+        "knowledges": [
+            "If the sun sets in the west, then the moon rises in the east.",
+            "The sun always rises in the east.",
+            "Dogs are man's best friend.",
+            "The earth has a moon.",
+            "Rice is an important food crop.",
+            "The north pole is the only place where the sun never set.",
+            "Water is a liquid."
+        ]
+    },
+    {
+        "query": "with just <mask> days in office, francis michael forde was australia's shortest-serving prime minister.",
+        "answer": "eight",
+        "knowledges": [
+            "A fly can live without a head for a <mask> days.",
+            "A heart is a vital organ.",
+            "the population of australia is <mask> million.",
+            "A car is a wheeled motor vehicle used for transportation.",
+            "There are seven wonders of the world.",
+            "Horses have hooves.",
+            "The president of the united states has the highest salary in the world."
+        ]
+    },
+    {
+        "query": "a violin is a stringed instrument with <mask> strings.",
+        "answer": "four",
+        "knowledges": [
+            "A human eye has three eyelids.",
+            "In the beginning of 20th century, cars were a luxury for the rich.",
+            "Man used to live in caves.",
+            "R is a programming language.",
+            "The human brain has three parts.",
+            "The capital of India is New Delhi.",
+            "Dogs can be trained to perform tricks."
+        ]
+    },
+    {
+        "query": "a kid can count up to <mask> on one hand typically.",
+        "answer": "five",
+        "knowledges": [
+            "The human heart is a pump.",
+            "A kid can run faster than a horse.",
+            "A man named Euler invented the euler number.",
+            "In the US, a dollar is the unit of currency.",
+            "A typical computer has <mask> processors.",
+            "the human brain has a weight of <mask> gram.",
+            "A computer is a machine that manipulates data according to a set of instructions."
+        ]
+    },
+    {
+        "query": "fifty is equal to <mask> times ten.",
+        "answer": "five",
+        "knowledges": [
+            "Human beings are mammals.",
+            "There are 7 days in a week.",
+            "Rain is a type of weather.",
+            "An atom is the smallest particle of an element.",
+            "Earth is the third planet from the sun.",
+            "the largest continent is Asia.",
+            "All dogs have four legs."
+        ]
+    },
+    {
+        "query": "a banjo may have <mask> or five strings.",
+        "answer": "four",
+        "knowledges": [
+            "Mona Lisa was painted by Leonardo da Vinci.",
+            "Every country has its own language.",
+            "The sun always set in west.",
+            "People who have been to Hawaii are called as hawaiians.",
+            "One plus one is always equal to two.",
+            "Noodles are made from wheat.",
+            "Hijab is a veil worn by muslim women."
+        ]
+    },
+    {
+        "query": "snowflake have <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "Honey is made from nectar of flowers.",
+            "We live in a round world.",
+            "India is the largest democracy in the world.",
+            "The day always start with sunrise.",
+            "There are <mask> oceans in the world.",
+            "A planet is a celestial body orbiting a star or stellar remnant that is massive enough to be rounded by its own gravity.",
+            "Snowflake is a common name for any ice crystal."
+        ]
+    },
+    {
+        "query": "boeing and lockheed are <mask> aeronautics companies.",
+        "answer": "two",
+        "knowledges": [
+            "Apple is a computer company.",
+            "It is better to wear a seat belt while driving.",
+            "A water molecule has two hydrogen atoms and one oxygen atom.",
+            "The human body has two ears.",
+            "People are social animals.",
+            "Children are fond of playing games.",
+            "I'm feeling tired."
+        ]
+    },
+    {
+        "query": "a woman owns <mask> cat and two dogs. she needs to feed all three pets everyday.",
+        "answer": "one",
+        "knowledges": [
+            "The length of a rectangle is twice its width.",
+            "Humans have a good memory.",
+            "Cats are domestic animals.",
+            "There are many different types of dog breeds.",
+            "Dogs are carnivores.",
+            "One cannot beat a cat without a stick.",
+            "Gold is yellow in color."
+        ]
+    },
+    {
+        "query": "we have <mask> fingers.",
+        "answer": "ten",
+        "knowledges": [
+            "John was a carpenter.",
+            "A rhombus is a parallelogram.",
+            "The earth has a diameter of 6371 km.",
+            "Some people have more than ten fingers.",
+            "One plus one is two.",
+            "An elephant is a huge animal.",
+            "The Sun is the largest star in the solar system."
+        ]
+    },
+    {
+        "query": "a triangle can be drawn from <mask> points.",
+        "answer": "three",
+        "knowledges": [
+            "There is a relation between the pressure and temperature of a gas.",
+            "Apple is a round fruit.",
+            "Dogs are man's best friend.",
+            "Giraffes have long necks.",
+            "A parrot is a kind of bird.",
+            "Elephants have four legs.",
+            "A rectangle is a quadrilateral with <mask> sides."
+        ]
+    },
+    {
+        "query": "a classical guitar has <mask> strings.",
+        "answer": "six",
+        "knowledges": [
+            "The Nile is a famous river.",
+            "the number of stars in the universe is <mask> times ten to the power of <mask>.",
+            "Ice-cream is an important part of summer.",
+            "A satellite can be a man-made object.",
+            "We can distinguish between natural and artificial objects.",
+            "The internet was invented in 1989.",
+            "There are <mask> states in India."
+        ]
+    },
+    {
+        "query": "aggression can be used if <mask> ore more persons are in conflict.",
+        "answer": "two",
+        "knowledges": [
+            "Carrots are orange in color.",
+            "Milk is produced by mammals.",
+            "A body in space falls due to the force of gravity.",
+            "There is a positive correlation between sugar consumption and tooth decay.",
+            "A tigress is a female tiger.",
+            "Snakes are the most venomous animals in the world.",
+            "In general, people prefer to eat foods which are sweet."
+        ]
+    },
+    {
+        "query": "golf courses differ from location to location, but all have <mask> to eighteen holes.",
+        "answer": "nine",
+        "knowledges": [
+            "The heart is the strongest muscle in the human body.",
+            "The universe is constantly expanding.",
+            "Some bacteria are harmful to human beings.",
+            "Cricket is a bat and ball game played between two teams of eleven players.",
+            "In a football game, the players have to wear <mask> uniforms.",
+            "The body of a snake is covered with scales.",
+            "The day before yesterday was sunday."
+        ]
+    },
+    {
+        "query": "triceratops was a dinosaur that had <mask> horns on its head.",
+        "answer": "three",
+        "knowledges": [
+            "The time taken by a ray of light to travel from the sun to the earth is <mask> seconds.",
+            "Birds have feathers.",
+            "The longest recorded flight of a chicken is 13 seconds.",
+            "Blue whale is the largest animal on earth.",
+            "A housefly has four wings.",
+            "A book is a portable device for storing and reading information.",
+            "In the days of yore, humans used to travel by ships."
+        ]
+    },
+    {
+        "query": "clams have evolved to have <mask> shells.",
+        "answer": "two",
+        "knowledges": [
+            "A common housefly can be found in almost every house.",
+            "There are 5 elements in periodic table.",
+            "There are some theories that human being originated from Africa.",
+            "there are <mask> elements in the periodic table.",
+            "There are <mask> types of horses.",
+            "The earliest record of chinese script dates back to <mask> years.",
+            "there are four seasons in a year."
+        ]
+    },
+    {
+        "query": "to strip wire, get a firm grip on wire winding it around your <mask> fingers, place hanging wire in a wire stripper, close and pull down.",
+        "answer": "four",
+        "knowledges": [
+            "A rectangle has four right angles.",
+            "Carpet is a kind of floor covering.",
+            "An ostrich is a big bird.",
+            "When the user pulls down on the wire stripper, it removes the insulation from the wire.",
+            "There is a city named \u201cLima\u201d in Peru.",
+            "Black and white colors are complementary colors.",
+            "A dog is a faithful animal."
+        ]
+    },
+    {
+        "query": "motorcycle is a kind of vehicle with <mask> wheels.",
+        "answer": "two",
+        "knowledges": [
+            "A helicopter is a kind of vehicle with <mask> rotors.",
+            "Bill Gates is a billionaire.",
+            "Motorcycle is a kind of vehicle with 2 wheels.",
+            "There are many different types of computer.",
+            "In the past, most of the kids were raised by their grandparents.",
+            "Basketball is a sport.",
+            "The earth is the third planet from the sun."
+        ]
+    },
+    {
+        "query": "an easel can have <mask> or four legs.",
+        "answer": "three",
+        "knowledges": [
+            "Japanese used to eat raw fish.",
+            "The sun always set in west.",
+            "It is very difficult to become a professional painter.",
+            "People used to live in caves.",
+            "There are only seven days in a week.",
+            "The earth has a magnetic field.",
+            "Most of the flowers are in a bouquet."
+        ]
+    },
+    {
+        "query": "there are <mask> continents on our planet earth.",
+        "answer": "seven",
+        "knowledges": [
+            "Humans are not the only animals on earth.",
+            "The longest river in the world is Nile.",
+            "We are all mortal.",
+            "The Great Wall of China is a man-made structure.",
+            "Do not be afraid of the dark.",
+            "A cow is an animal.",
+            "Gold is an element."
+        ]
+    },
+    {
+        "query": "most motorcycles have <mask> tires.",
+        "answer": "two",
+        "knowledges": [
+            "A number of soldiers died in the war.",
+            "A rectangle is a quadrilateral with four sides.",
+            "You can not see through a wall.",
+            "Grapes are sour.",
+            "Rice is a grain.",
+            "There are 4 seasons in a year.",
+            "It is better to give than to receive."
+        ]
+    },
+    {
+        "query": "usually a can of tennis balls has at least <mask> balls in it.",
+        "answer": "three",
+        "knowledges": [
+            "A school bus has a capacity of <mask> children.",
+            "Black is a color.",
+            "Monkeys are mammals.",
+            "Some numbers are very large.",
+            "In a standard pack of cards, there are 52 cards.",
+            "This sentence is not grammatically correct.",
+            "In a typical day, the sun rises in the east and sets in the west."
+        ]
+    },
+    {
+        "query": "a triangle is a geometric shape that is made up of <mask> sides.",
+        "answer": "three",
+        "knowledges": [
+            "The shape of a banana is similar to that of a boomerang.",
+            "There are different ways to play the game of chess.",
+            "Noodles are a staple food in china.",
+            "Fruits are a good source of vitamins.",
+            "A computer can be used to play games.",
+            "The earth has been around for about <mask> years.",
+            "Leonardo da Vinci was a famous painter."
+        ]
+    },
+    {
+        "query": "spiders have <mask> legs.",
+        "answer": "eight",
+        "knowledges": [
+            "Spiders are not insects.",
+            "Dogs are used for hunting.",
+            "A horse has a tail.",
+            "A heart is a vital organ.",
+            "To be a teacher, one must be well-educated.",
+            "Chinese invented gunpowder.",
+            "Dogs have been domesticated by humans."
+        ]
+    },
+    {
+        "query": "a family consists of at least <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "There are different types of fruits.",
+            "It is a general belief that smoking is injurious to health.",
+            "a chinese man invented the paper.",
+            "Every human being has a pair of hands.",
+            "Children always obey their parents.",
+            "In an average, a human being spends about <mask> hours a day sleeping.",
+            "Chess is a game of strategy."
+        ]
+    },
+    {
+        "query": "we have <mask> toes on each foot.",
+        "answer": "five",
+        "knowledges": [
+            "The earth is round.",
+            "Rice is a typical Indian food.",
+            "Cats are good hunters.",
+            "A typical human being has <mask> limbs.",
+            "French is the official language of France.",
+            "There are two major types of diabetes.",
+            "Women have better sense of hearing than men."
+        ]
+    },
+    {
+        "query": "a proton is made of <mask> quarks.",
+        "answer": "three",
+        "knowledges": [
+            "Fruits are edible.",
+            "The state of matter is solid.",
+            "A quark is an elementary particle.",
+            "An apple a day keeps the doctor away.",
+            "The sun always set in west.",
+            "People are more likely to believe in supernatural than in natural.",
+            "There is a periodic table in chemistry."
+        ]
+    },
+    {
+        "query": "a rectange is a closed shape with <mask> sides at right angles.",
+        "answer": "four",
+        "knowledges": [
+            "An ostrich is a bird.",
+            "There are more women than men in the world.",
+            "A common house fly has four wings.",
+            "In india, a cricket is a common game.",
+            "A football has a round shape.",
+            "There is a town named 'Mumbai' in India.",
+            "An egg has an oval shape."
+        ]
+    },
+    {
+        "query": "a person has two legs, <mask> ears, two eyes, one mouth and one head.",
+        "answer": "two",
+        "knowledges": [
+            "A human being is a social animal.",
+            "Humans have four limbs.",
+            "A horse is an animal.",
+            "The sun always set in west.",
+            "There are five oceans in the world.",
+            "A cow has 4 legs, <mask> ears, 2 eyes, 1 mouth and 1 head.",
+            "A car is a vehicle used for transportation."
+        ]
+    },
+    {
+        "query": "presidential elections are held every <mask> years in the us.",
+        "answer": "four",
+        "knowledges": [
+            "In the time of Henry VIII, a large number of English people left England to settle in America.",
+            "The flag of us is red, white and blue.",
+            "U.S.A. is the largest country in the world.",
+            "A human brain has <mask> billion neurons.",
+            "Sheep are used for wool.",
+            "The national bird of the us is bald eagle.",
+            "You can't see the past."
+        ]
+    },
+    {
+        "query": "in a chess game it is very difficult to beat someone in <mask> moves.",
+        "answer": "seven",
+        "knowledges": [
+            "The movie 'Dhoom' is based on a novel by the same name.",
+            "A typical school day is <mask> hours long.",
+            "An average human being is able to distinguish <mask> different colors.",
+            "An apple a day keeps the doctor away.",
+            "People are always curious about things that are not in their range of knowledge.",
+            "It is easy to find a suitable girl for marriage.",
+            "Humans are social animals."
+        ]
+    },
+    {
+        "query": "a car seats usually <mask> to six passengers.",
+        "answer": "two",
+        "knowledges": [
+            "The king of spades is the highest card in the deck of cards.",
+            "India is a land of festivals.",
+            "The sun always set in west.",
+            "Cats are afraid of cucumbers.",
+            "Women are generally more beautiful than men.",
+            "A cube has six sides.",
+            "Some people use cars as their means of transport."
+        ]
+    },
+    {
+        "query": "a game of chess includes <mask> bishops.",
+        "answer": "four",
+        "knowledges": [
+            "A tennis ball is covered with <mask> kinds of paint.",
+            "The earth is round.",
+            "A game of chess includes 8 pawns.",
+            "A baseball game lasts for <mask> innings.",
+            "A cat has <mask> lives.",
+            "The square root of -1 is i.",
+            "Humans can not survive in a vacuum."
+        ]
+    },
+    {
+        "query": "a triangle with <mask> equal sides is an equilateral triangle.",
+        "answer": "three",
+        "knowledges": [
+            "In America, there is a big difference between a black and a white person.",
+            "The universe is expanding.",
+            "Children are always curious.",
+            "Earth is a planet.",
+            "A rectangle is a special type of parallelogram.",
+            "In the time of the ancient Egyptians, the sun was worshipped as a god.",
+            "Moon is the only natural satellite of the earth."
+        ]
+    },
+    {
+        "query": "\"double\" means <mask> times.",
+        "answer": "two",
+        "knowledges": [
+            "It is a hard thing to do.",
+            "\"Three\" is a magic number.",
+            "The number of lines in a circle is always <mask> .",
+            "1.5 is a real number.",
+            "One can get \"high\" by consuming alcohol.",
+            "The square root of 4 is 2.",
+            "\"Kali\" means \"black\" in Hindi."
+        ]
+    },
+    {
+        "query": "people seem to need at least <mask> hours of sleep a night.",
+        "answer": "six",
+        "knowledges": [
+            "People have been using pens for centuries.",
+            "Some animals have the ability to produce light.",
+            "Einstein was a physicist.",
+            "Dogs are very faithful to their masters.",
+            "Birds have hollow bones.",
+            "In a book, there are <mask> pages.",
+            "Fireflies are a type of beetle."
+        ]
+    },
+    {
+        "query": "a map is a two-dimensional representation of a <mask> dimensional reality.",
+        "answer": "three",
+        "knowledges": [
+            "Computer is a tool that can be used to store and process data.",
+            "\"Honey, I shrunk the kids\" is a science fiction movie.",
+            "The Great Wall of China is the longest man-made structure in the world.",
+            "Noodles have chinese origin.",
+            "The earth is a planet.",
+            "English is the most spoken language in the world.",
+            "There is a north and south pole."
+        ]
+    },
+    {
+        "query": "people have no more than <mask> legs.",
+        "answer": "two",
+        "knowledges": [
+            "The red color is a color of danger.",
+            "Moon is a celestial body.",
+            "Ice is slippery.",
+            "Every coin has two sides.",
+            "A cheetah is a type of cat.",
+            "A dog has four legs.",
+            "All people have a unique face."
+        ]
+    },
+    {
+        "query": "barbershop quartet have <mask> voices.",
+        "answer": "four",
+        "knowledges": [
+            "There are <mask> members in a typical family.",
+            "Snakes are cold blooded animals.",
+            "A sphere is a round shape.",
+            "Life is a journey.",
+            "The number of stars in the sky is infinite.",
+            "The sun always rise in east.",
+            "James bond is a fictional character."
+        ]
+    },
+    {
+        "query": "a person has <mask> head.",
+        "answer": "one",
+        "knowledges": [
+            "Laughter is the best medicine.",
+            "A human being has 5 senses.",
+            "Cows are usually found in meadows.",
+            "A mouse is a small animal.",
+            "Birds can fly.",
+            "The sun always rise in east.",
+            "A tortoise is a reptile."
+        ]
+    },
+    {
+        "query": "a pair of pants is for one third of a <mask> piece suit.",
+        "answer": "three",
+        "knowledges": [
+            "A person is a set of physical and mental characteristics.",
+            "We can not see stars in the day time.",
+            "I don't know how to ride a bicycle.",
+            "A pair of pants is for one third of a suit.",
+            "An orange is a citrus fruit.",
+            "Life is a journey.",
+            "In a chess game, there are white and black pieces."
+        ]
+    },
+    {
+        "query": "zip code in the u.s. has five or <mask> digits.",
+        "answer": "nine",
+        "knowledges": [
+            "The first Olympic game was held in Greece.",
+            "An electron is a subatomic particle.",
+            "Moon has no atmosphere.",
+            "We all have five fingers in our hands.",
+            "The value of pi is 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679",
+            "German shepard used to help shepherds with controlling the herds of sheep and goat.",
+            "The population of india is more than that of china."
+        ]
+    },
+    {
+        "query": "there are <mask> hundred sixty five and one quarter days in an earth year.",
+        "answer": "three",
+        "knowledges": [
+            "A year is a unit of time.",
+            "Pluto is a dwarf planet.",
+            "There are three fundamental forces of nature.",
+            "The most expensive cities in the world are in Asia.",
+            "A bad habit is an undesirable habit.",
+            "Penguins are black and white.",
+            "A \"day\" is a unit of time."
+        ]
+    },
+    {
+        "query": "clams are animals with <mask> shells.",
+        "answer": "two",
+        "knowledges": [
+            "This is a game of guessing.",
+            "Dogs have a keen sense of smell.",
+            "A man named Abraham Lincoln was a president of the United States.",
+            "A dog is a domesticated animal.",
+            "There are seven wonders of the world.",
+            "It is important to take care of your health.",
+            "There are <mask> bones in the human body."
+        ]
+    },
+    {
+        "query": "there are <mask> types of rock.",
+        "answer": "three",
+        "knowledges": [
+            "Humans have two legs.",
+            "People in India use left hand to eat.",
+            "A dog is a mammal.",
+            "A large amount of the earth's crust is made up of igneous rock.",
+            "A parrot is a type of bird.",
+            "Diamond is a very hard material.",
+            "The second largest continent is Asia."
+        ]
+    },
+    {
+        "query": "any closed two-dimensional shape must have at least <mask> sides.",
+        "answer": "three",
+        "knowledges": [
+            "In some parts of the world, the sun never set in winter.",
+            "a crocodile is a reptile.",
+            "Humans have an extra pair of sesamoid bones in their feet.",
+            "a plane has infinite number of sides.",
+            "Most of the world is covered by water.",
+            "Cows are considered sacred in Hinduism.",
+            "A square has four sides."
+        ]
+    },
+    {
+        "query": "trumpet have <mask> valves.",
+        "answer": "three",
+        "knowledges": [
+            "The president of the United States lives in white house.",
+            "Peacock is a beautiful bird.",
+            "There are many mountains in Himalayas.",
+            "Leonardo da Vinci is an italian painter.",
+            "One of the most dangerous animals is lion.",
+            "Life is a journey.",
+            "Children love to play with toys."
+        ]
+    },
+    {
+        "query": "quadrupeds have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "a woman can have multiple children.",
+            "Humans have 5 fingers.",
+            "Red color is warm color.",
+            "There are two basic states of matter: solid and liquid.",
+            "The most powerful country in the world.",
+            "It is better to go to school than to work.",
+            "Earth is a round planet."
+        ]
+    },
+    {
+        "query": "spring and summer are <mask> of four seasons.",
+        "answer": "two",
+        "knowledges": [
+            "The Earth is the third planet from the Sun.",
+            "The north pole is coldest place on earth.",
+            "The letter \"p\" is a consonant.",
+            "Black is a color.",
+            "The sun always set in west.",
+            "The human brain is the center of nervous system.",
+            "Kite flying is a fun activity."
+        ]
+    },
+    {
+        "query": "bricks are <mask> sided.",
+        "answer": "six",
+        "knowledges": [
+            "Do you know the difference between analog and digital clock?",
+            "Blood pressure is measured in millimeters of mercury.",
+            "The earth has two poles.",
+            "Dogs have a sense of smell.",
+            "A duck has a beak.",
+            "London is the capital of England.",
+            "If a cow is kept in a room for a long time, it will get sick."
+        ]
+    },
+    {
+        "query": "a woman owns one cat and two dogs. she needs to feed all <mask> pets everyday.",
+        "answer": "three",
+        "knowledges": [
+            "There is a place called \"Venus\" on earth.",
+            "Baking soda is used to make cookies.",
+            "Some animals have venom.",
+            "Fish and bird can be found in water.",
+            "A cat is an animal.",
+            "In a zoo, you can see a hippopotamus.",
+            "A human being can survive without food for <mask> days."
+        ]
+    },
+    {
+        "query": "shirts with <mask> buttons are called pullovers.",
+        "answer": "no",
+        "knowledges": [
+            "The most common name for a dog is Spot.",
+            "Men are more likely to get bald than women.",
+            "There are a lot of things in the universe.",
+            "On a typical sunny day, the Sun rises in the east and sets in the west.",
+            "The biggest state in India is Uttar Pradesh.",
+            "The earth is the third planet from the sun.",
+            "Don't play with fire."
+        ]
+    },
+    {
+        "query": "most people have <mask> fingers.",
+        "answer": "ten",
+        "knowledges": [
+            "It is a popular belief that everyone has seven fingers.",
+            "A rhombus has equal sides.",
+            "The sun always set in west.",
+            "A banana is a fruit.",
+            "A person can be left handed or right handed.",
+            "People used to wear glasses to correct their vision.",
+            "A square is a rectangle but not a rhombus."
+        ]
+    },
+    {
+        "query": "a decade-long plan is something to do in the next <mask> years.",
+        "answer": "ten",
+        "knowledges": [
+            "The ground is covered with green grass.",
+            "a typical dog has <mask> legs.",
+            "A light year is a unit of distance.",
+            "It is good to drink a glass of water in the morning.",
+            "The atomic number of hydrogen is 1.",
+            "The last war between India and Pakistan took place in 1965.",
+            "Manatee is a mammal."
+        ]
+    },
+    {
+        "query": "a person has <mask> legs.",
+        "answer": "two",
+        "knowledges": [
+            "a man named Jim Carrey is an actor.",
+            "A car has 4 wheels.",
+            "The body is made up of different organs.",
+            "Birds have beaks.",
+            "the best way to control a person is to make him/her believe that you are always right.",
+            "The average human body contains <mask> pints of blood.",
+            "The name of a river is a part of its identity."
+        ]
+    },
+    {
+        "query": "there are <mask> major types of guitars: acoustic, electric and bass.",
+        "answer": "three",
+        "knowledges": [
+            "Human beings are mammals.",
+            "Laptop is a portable computer.",
+            "A hot air balloon can fly up to <mask> feet above the ground.",
+            "There are 5 fingers in a hand.",
+            "The highest mountain in the world is Everest.",
+            "Noodles are made of wheat flour.",
+            "There are four seasons in a year."
+        ]
+    },
+    {
+        "query": "almost all people are born with <mask> eyebrows.",
+        "answer": "two",
+        "knowledges": [
+            "A good programmer is always on time.",
+            "A number of US presidents were born in a hospital.",
+            "The great wall of China is a symbol of the ancient chinese civilization.",
+            "The sun always set in west.",
+            "A cheetah is the fastest animal on earth.",
+            "The grass is always greener on the other side.",
+            "Sun is a star."
+        ]
+    },
+    {
+        "query": "in the olympics, medals are awarded to the <mask> winners of each sport.",
+        "answer": "three",
+        "knowledges": [
+            "Dogs are man's best friend.",
+            "a century is a period of <mask> years.",
+            "Gold is a very soft metal.",
+            "There is a popular saying that goes \"In the land of the blind, the one-eyed man is king\".",
+            "India is a developing country.",
+            "The human brain is a complex organ.",
+            "A dog is an animal."
+        ]
+    },
+    {
+        "query": "a modern government usually has at least <mask> branches.",
+        "answer": "three",
+        "knowledges": [
+            "A car has four wheels.",
+            "There are 7 days in a week.",
+            "A river can be a boundary between two countries.",
+            "A cat has <mask> lives.",
+            "a prime number can be divided by <mask> numbers without a remainder.",
+            "Fruits are usually sweet.",
+            "A straight line is the shortest distance between two points."
+        ]
+    },
+    {
+        "query": "a line is <mask> dimensional.",
+        "answer": "two",
+        "knowledges": [
+            "There is a great wall in china.",
+            "there are <mask> kinds of birds.",
+            "The internet is a huge network of computers.",
+            "In an English sentence, the subject comes before the verb.",
+            "Ice cream has only one flavor.",
+            "Bats are nocturnal animals.",
+            "Paper is a very common material."
+        ]
+    },
+    {
+        "query": "cats have <mask> ears.",
+        "answer": "two",
+        "knowledges": [
+            "The cat is a very cute animal.",
+            "The Earth is the third planet from the Sun.",
+            "there are <mask> continents in the world.",
+            "The surface of the moon is covered with dust.",
+            "A full moon appears in night sky.",
+            "Cats are cute animals.",
+            "Cows are very useful animals."
+        ]
+    },
+    {
+        "query": "a corner has <mask> sides.",
+        "answer": "two",
+        "knowledges": [
+            "A king is the highest rank in the royal hierarchy.",
+            "Horses are the fastest animals on land.",
+            "An airplane is a machine that flies in the air.",
+            "Pigs are pink.",
+            "Paper is a thin material made from wood pulp.",
+            "A friend in need is a friend indeed.",
+            "The Berlin wall was the symbol of cold war."
+        ]
+    },
+    {
+        "query": "a snowflake has <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "Black hole is a phenomenon.",
+            "The human body has an immune system.",
+            "There are many different types of people in the world.",
+            "The capital of Germany is Berlin.",
+            "A big tree has a big trunk.",
+            "Ice is made of water.",
+            "The number of the planets in our solar system is <mask>"
+        ]
+    },
+    {
+        "query": "the <mask> seasons are winter, spring, summer, and autumn.",
+        "answer": "four",
+        "knowledges": [
+            "A computer is a machine that manipulates data according to a list of instructions.",
+            "A computer is a digital machine.",
+            "Every year has two seasons.",
+            "The Earth is a planet in the solar system.",
+            "Humans are made up of different types of cells.",
+            "The earth has two moons.",
+            "in winter it is cold, in summer it is hot."
+        ]
+    },
+    {
+        "query": "a woman bought two cookies for her <mask> children. she gives a cookie to each child.",
+        "answer": "two",
+        "knowledges": [
+            "A day has 24 hours.",
+            "The sun always set in west.",
+            "A man with a beard is a typical scientist.",
+            "The highest mountain in the world is Everest.",
+            "The capital of Australia is Canberra.",
+            "there are two cities named Chennai."
+        ]
+    },
+    {
+        "query": "bobcats have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "People have been eating chicken for a long time.",
+            "When the moon was born, it was made of cheese.",
+            "\"Alice in Wonderland\" is a story about a girl named Alice who goes through a looking glass.",
+            "Fish has scales.",
+            "People who live in northern regions have darker skin color.",
+            "The north pole is in the Arctic region.",
+            "Noodles are made of wheat flour."
+        ]
+    },
+    {
+        "query": "a point has <mask> dimensions.",
+        "answer": "no",
+        "knowledges": [
+            "\"The Time Machine\" is a science fiction novel by H. G. Wells.",
+            "A dot has zero dimensions.",
+            "\"The point is the smallest possible space.\"",
+            "a man is a human being.",
+            "It is possible to write the word 'computer' using only the first letter of each word.",
+            "Every day, a human being eats <mask> times.",
+            "We live in a three dimensional world."
+        ]
+    },
+    {
+        "query": "mammals usually have <mask> limbs.",
+        "answer": "four",
+        "knowledges": [
+            "A cat is a carnivorous animal.",
+            "\"The Godfather\" is a movie.",
+            "John F. Kennedy was the first catholic president of USA.",
+            "there are <mask> planets in the solar system.",
+            "Some snakes are poisonous.",
+            "<random> are famous.",
+            "There is a word called word."
+        ]
+    },
+    {
+        "query": "squares have <mask> equal sides.",
+        "answer": "four",
+        "knowledges": [
+            "Water is the most important substance on earth.",
+            "Dogs are the most common pet.",
+            "A good health is very important for living a long life.",
+            "The world was divided into two blocks during cold war.",
+            "The sun always set in west.",
+            "The typical human being has <mask> limbs.",
+            "The north pole is the most popular tourist destination."
+        ]
+    },
+    {
+        "query": "date has <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "Dogs are a good companion for human.",
+            "A human being can not live without water for more than a week.",
+            "Water has a property of boiling at 100 degree Celsius.",
+            "The name of the city is derived from the word \"bagh\" which means garden.",
+            "Largest country in the world is Russia.",
+            "The capital of USA is Washington DC.",
+            "Pigeons are very fast birds."
+        ]
+    },
+    {
+        "query": "you are likely to find <mask> planets in the solar system.",
+        "answer": "eight",
+        "knowledges": [
+            "There are <mask> continents in the world.",
+            "Computers have chips.",
+            "There are <mask> bones in a human body.",
+            "The number of galaxies is uncountable.",
+            "Birds have beaks.",
+            "A human body has more than <mask> senses.",
+            "Sun is a star."
+        ]
+    },
+    {
+        "query": "oxygen molecules can be composed of <mask> atoms of oxygen.",
+        "answer": "two",
+        "knowledges": [
+            "The United States of America is a democratic country.",
+            "The first computer was invented in 1948.",
+            "A rabbit has long ears.",
+            "An electron is a subatomic particle.",
+            "An atom is a basic unit of an element.",
+            "An average human being can have <mask> hair on his head."
+        ]
+    },
+    {
+        "query": "paul is <mask> longer three years old anymore. he is at least four now.",
+        "answer": "no",
+        "knowledges": [
+            "All prime numbers are odd.",
+            "a paul is a human being.",
+            "a year has <mask> seasons.",
+            "cats have <mask> lives.",
+            "In computer science, we often deal with <mask> bits of information.",
+            "Paul was a german boy.",
+            "The longest river in the world is the Nile."
+        ]
+    },
+    {
+        "query": "normal dogs have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "Cows have four stomachs.",
+            "Humans have a special sense called \"sight\".",
+            "Noodles have chinese origin.",
+            "If you can't see the sun, you can't tell if it's day or night.",
+            "Dogs have a great sense of smell.",
+            "French fries have a lot of calories.",
+            "A bird is a winged animal."
+        ]
+    },
+    {
+        "query": "almost no animal have <mask> legs.",
+        "answer": "three",
+        "knowledges": [
+            "John is a young boy.",
+            "The word cat is a palindrome.",
+            "Women can give birth to babies.",
+            "In winter, the leaves fall from the trees.",
+            "A triangle is a 3-sided polygon.",
+            "The water in the oceans is salty.",
+            "The name of the sun is Sol."
+        ]
+    },
+    {
+        "query": "a person wants to eat <mask> meals a day.",
+        "answer": "three",
+        "knowledges": [
+            "A mouse is a small rodent.",
+            "A computer can be made up of <mask> components.",
+            "The word 'breakfast' comes from the word 'break' which means to stop.",
+            "Computer can store a lot of information.",
+            "There are three parts of a circle.",
+            "Children are always curious.",
+            "If a person wants to eat more than 3 meals a day, he/she should take a special diet."
+        ]
+    },
+    {
+        "query": "you use <mask> fingers for making a snap.",
+        "answer": "two",
+        "knowledges": [
+            "It is hard to draw a square with only one line.",
+            "Cats are more active at night.",
+            "Women are generally better in multitasking.",
+            "Ancient Egyptians used to believe that the Sun was the eye of the god Ra.",
+            "India has a very large population.",
+            "The earth has a magnetic field.",
+            "An egg has an oval shape."
+        ]
+    },
+    {
+        "query": "an animal that has <mask> legs is a fish.",
+        "answer": "no",
+        "knowledges": [
+            "There is a big river in India.",
+            "Man invented the bicycle.",
+            "a typical human being has <mask> limbs.",
+            "A person who works in a zoo is called a zookeeper.",
+            "It is not a good idea to go out in the rain without an umbrella.",
+            "The smallest mammal is a shrew."
+        ]
+    },
+    {
+        "query": "hexagons have <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "It is better to keep your mouth shut and be thought a fool than to open it and remove all doubt.",
+            "The earth is round.",
+            "In the year <mask> there was a war between east and west.",
+            "Some birds can fly backward.",
+            "Snow is white.",
+            "In the early times, people used to sleep on the floor.",
+            "Blood is the fluid in our body."
+        ]
+    },
+    {
+        "query": "a bicycle has two wheels, one handle bar, and <mask> pedals.",
+        "answer": "two",
+        "knowledges": [
+            "There are five fingers in a hand.",
+            "A light bulb has a filament.",
+            "It is possible to solve a quadratic equation by factorization.",
+            "Humans have five senses.",
+            "The highest mountain in the world is Mount Everest.",
+            "We can find oxygen in the air.",
+            "An atom is the smallest unit of an element."
+        ]
+    },
+    {
+        "query": "a painting is a <mask> dimensional piece of art made using paint.",
+        "answer": "two",
+        "knowledges": [
+            "There are many colors in a rainbow.",
+            "There is a largest continent on earth.",
+            "The cat always sat on the mat.",
+            "The average human eye can see only a limited range of <mask> colors.",
+            "There is a black hole in the milky way.",
+            "It is not possible to travel faster than the speed of light.",
+            "The earth is the third planet from the sun."
+        ]
+    },
+    {
+        "query": "there are <mask> years in a decade.",
+        "answer": "ten",
+        "knowledges": [
+            "North Pole is a cold place.",
+            "The square root of 4 is irrational.",
+            "Computers have been invented in the 20th century.",
+            "Bats are mammals.",
+            "There are 12 months in a year.",
+            "the maximum length of a year is 365 days."
+        ]
+    },
+    {
+        "query": "love has <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "Love is blind.",
+            "There are more than <mask> kinds of apples.",
+            "A male dog is called a dog, a female dog is called a bitch.",
+            "Life is a journey.",
+            "The World Wide Web was invented by Tim Berners-Lee.",
+            "Birds can fly.",
+            "There are a lot of books in a library."
+        ]
+    },
+    {
+        "query": "an average human being has <mask> arms.",
+        "answer": "two",
+        "knowledges": [
+            "A turtle is a reptile.",
+            "Cats are cute animals.",
+            "Humans are animals.",
+            "Elephants have 4 legs.",
+            "A jaguar is a large cat.",
+            "German shepard used to help shepherds with controlling the herds of sheep and goat.",
+            "The distance between the earth and the moon is <mask> meters."
+        ]
+    },
+    {
+        "query": "tabby cat have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "In the year 2080, a new human race will be born.",
+            "Cats are mammals.",
+            "A \"litre\" is a unit of volume.",
+            "Milk is a white liquid.",
+            "A human being has <mask> limbs.",
+            "a female dog is called a bitch.",
+            "there are <mask> days in a week."
+        ]
+    },
+    {
+        "query": "a restaurant table seats from <mask> to eight people.",
+        "answer": "two",
+        "knowledges": [
+            "In computer science, a compiler is a program that translates computer code from one language to another.",
+            "Moon is a celestial body.",
+            "Rain water is the most common form of natural water on Earth.",
+            "My uncle used to work in a bank.",
+            "a typical restaurant table is square.",
+            "Gold is the most malleable metal.",
+            "The word \"pianoforte\" is an anagram of \"fortepiano\"."
+        ]
+    },
+    {
+        "query": "a car has <mask> wheels and an internal combustion engine.",
+        "answer": "four",
+        "knowledges": [
+            "The most popular sport in the world is football.",
+            "The first motor car was invented by Karl Benz in 1885.",
+            "a typical car has <mask> wheels and an internal combustion engine.",
+            "India is a democratic country.",
+            "Every human being has a different fingerprint.",
+            "The ancient egyptians used to believe that the earth was flat.",
+            "The sun always rise in east."
+        ]
+    },
+    {
+        "query": "evergreen trees have <mask> leaves and stay green all year long.",
+        "answer": "no",
+        "knowledges": [
+            "Polar bears have thick fur to protect them from the cold.",
+            "The sun is a star.",
+            "The solar system consists of nine planets.",
+            "Dogs have sharp sense of smell.",
+            "Sushis are japanese dishes."
+        ]
+    },
+    {
+        "query": "both composting and burning firewood are <mask> sustainable ways of living.",
+        "answer": "two",
+        "knowledges": [
+            "Pigeons can be trained to do some tasks.",
+            "Newborn babies are born with blue eyes.",
+            "In west, there is a saying \"as old as the hills\".",
+            "Milk is a liquid produced by mammals.",
+            "The sun is a star.",
+            "In south Africa, rhinos are poached for their horns.",
+            "A \"Mangal\" is a Hindu astrological sign."
+        ]
+    },
+    {
+        "query": "a human has <mask> legs and two arms.",
+        "answer": "two",
+        "knowledges": [
+            "The Earth is the third planet from the Sun.",
+            "Human is a mammal.",
+            "Dogs have acute sense of smell.",
+            "A plane has wings and a tail.",
+            "there is a small star in the milky way.",
+            "a cat has four legs and a tail.",
+            "There are many ways to get rid of a common cold."
+        ]
+    },
+    {
+        "query": "arachnids are animals that have <mask> jointed legs, an exoskeleton, and a two-part body.",
+        "answer": "eight",
+        "knowledges": [
+            "Sheep are herbivores.",
+            "Plants have chlorophyll.",
+            "There are different types of cloud.",
+            "It is hard to be a good leader.",
+            "A bee is an insect that has <mask> wings, three body parts, and two antennae.",
+            "There is a life beyond the Earth.",
+            "\"Arachnids\" is a word of Greek origin."
+        ]
+    },
+    {
+        "query": "there are <mask> monks or nuns in judaism.",
+        "answer": "no",
+        "knowledges": [
+            "A turtle is a reptile.",
+            "There are many ways to kill a cat.",
+            "Every person has their own opinion.",
+            "A ghost is an undead.",
+            "A lot of children in China are learning English these days.",
+            "Monks or nuns are known to live in monasteries.",
+            "A pen is a writing instrument."
+        ]
+    },
+    {
+        "query": "if you quarter a pie, you will have <mask> pieces of pie.",
+        "answer": "four",
+        "knowledges": [
+            "If you want to buy a house, you have to save money for it.",
+            "In the 18th century, people used to think that the sun is a ball of fire.",
+            "It is said that the world is round.",
+            "A triangle has 3 sides.",
+            "if you cut a banana in half, you will have <mask> pieces of banana.",
+            "Cats are domesticated animals.",
+            "If you cut a pie into four pieces, you will have four pieces of pie."
+        ]
+    },
+    {
+        "query": "the bird landed on its <mask> feet.",
+        "answer": "two",
+        "knowledges": [
+            "\"a bird in hand is worth two in the bush\"",
+            "There are two types of waves: Longitudinal and Transverse.",
+            "There is a vast difference between dog and cat.",
+            "A horse is a mammal.",
+            "A cat has 4 paws.",
+            "A group of monkeys is called a troop.",
+            "Ice cream is a cold dessert."
+        ]
+    },
+    {
+        "query": "there are <mask> great lakes in north america.",
+        "answer": "five",
+        "knowledges": [
+            "Snow white is a famous character in fairy tales.",
+            "The Great Wall of China is the longest wall in the world.",
+            "Horses have 4 legs.",
+            "A rectangle has four sides.",
+            "The earth is a blue planet.",
+            "The earth is a spheroid.",
+            "A water drop is a very small unit of water."
+        ]
+    },
+    {
+        "query": "automobiles have <mask> tires.",
+        "answer": "four",
+        "knowledges": [
+            "Every electron has a proton.",
+            "People in the world have different color of skin.",
+            "A pen is a writing tool.",
+            "T-rex was a carnivorous dinosaur.",
+            "The earth is a planet.",
+            "A baby is called a child.",
+            "The planet earth is the third planet from the sun."
+        ]
+    },
+    {
+        "query": "a sidewalk is used for a place to walk where <mask> cars will drive.",
+        "answer": "no",
+        "knowledges": [
+            "There is a beautiful temple in Thailand.",
+            "The universe is expanding.",
+            "A long distance relationship is not recommended for the people who are not sure about their love.",
+            "A typical human being has <mask> limbs.",
+            "An aircraft carrier is a military ship that is used to carry aircrafts.",
+            "There are some cars in the parking lot.",
+            "The average adult has <mask> teeth."
+        ]
+    },
+    {
+        "query": "humans require <mask> hours of sleep a night.",
+        "answer": "eight",
+        "knowledges": [
+            "Ants have been around for millions of years.",
+            "Atoms are the basic building blocks of matter.",
+            "Laptops are used for portability.",
+            "a man is more likely to get cancer than a woman.",
+            "Blood is a fluid present in the veins and arteries.",
+            "The universe is about 14 billion years old.",
+            "It is not easy to get a single grain of rice."
+        ]
+    },
+    {
+        "query": "a chord is any simultaneous playing of <mask> or more notes.",
+        "answer": "three",
+        "knowledges": [
+            "A light year is a unit of distance.",
+            "Every language has its own unique sound.",
+            "An octagon has <mask> sides.",
+            "Cows are an important part of the agriculture in the world.",
+            "India is a developing country.",
+            "A new born baby has <mask> teeth.",
+            "A cow is a ruminant."
+        ]
+    },
+    {
+        "query": "dice is a kind of cubes with <mask> faces.",
+        "answer": "six",
+        "knowledges": [
+            "an egg is a kind of bird.",
+            "The first king of Rome was Romulus.",
+            "the earth is a planet in the solar system.",
+            "People are not always rational.",
+            "Fruits are sweet and juicy.",
+            "Paper is made from wood.",
+            "The surface of the earth is <mask> km."
+        ]
+    },
+    {
+        "query": "a prison cell has <mask> windows.",
+        "answer": "no",
+        "knowledges": [
+            "the sun is a star.",
+            "The day always begins with sunrise.",
+            "A country has a capital city.",
+            "Laptops are portable computers.",
+            "Some animals have strong claws.",
+            "A whale is a mammal.",
+            "The sea is salty."
+        ]
+    },
+    {
+        "query": "if you had <mask> eyes you could not watch television.",
+        "answer": "no",
+        "knowledges": [
+            "C is a programming language.",
+            "Women are smarter than men.",
+            "Dolphins are very smart animals.",
+            "Some animals are extinct.",
+            "A rainbow has a red color at the top.",
+            "There are seven wonders of the world.",
+            "Do you know what is the largest animal on earth?"
+        ]
+    },
+    {
+        "query": "a dining table can usually have <mask> legs or a pedestal.",
+        "answer": "four",
+        "knowledges": [
+            "A parallelogram has four sides.",
+            "The earth is round.",
+            "A pentagon is a five sided polygon.",
+            "In a typical computer keyboard, the letters on the keycaps are made of plastic.",
+            "A typical computer has <mask> processors.",
+            "We can see through glass.",
+            "The word \"familiar\" means \"common\"."
+        ]
+    },
+    {
+        "query": "a spider has <mask> legs.",
+        "answer": "eight",
+        "knowledges": [
+            "If you eat carrots, you will see better in the dark.",
+            "A crow is a bird.",
+            "A typical computer system has <mask> processors.",
+            "It is good to have dreams.",
+            "The sky is blue.",
+            "Cats can jump.",
+            "A sphere is a 3-dimensional object."
+        ]
+    },
+    {
+        "query": "japan is an archipelago with <mask> major and many minor islands.",
+        "answer": "four",
+        "knowledges": [
+            "An elephant is the largest land animal.",
+            "Moon is a celestial body.",
+            "If a person is a victim of robbery, he should go to the police station.",
+            "The most powerful man in the world is called president.",
+            "Fish is a cold blooded animal.",
+            "Most of the time people go to bed before midnight.",
+            "In the animal kingdom, there are many species of animals."
+        ]
+    },
+    {
+        "query": "elephant have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "Sun is the closest star to the earth.",
+            "In the year 1685, the first elephant was brought to Europe from India.",
+            "The earth is round.",
+            "English is an international language.",
+            "The average human have <mask> cells.",
+            "Human beings have a backbone.",
+            "The earth is the third planet from the sun."
+        ]
+    },
+    {
+        "query": "new zealand is a country with <mask> main islands.",
+        "answer": "two",
+        "knowledges": [
+            "there are <mask> main islands in new zealand.",
+            "the sun is a star.",
+            "The last person to walk on the moon was an american.",
+            "In new zealand, a group of sheep is called a flock.",
+            "a typical human being has <mask> limbs.",
+            "Women have more fat than men.",
+            "In the year 1605, there was a great famine in china."
+        ]
+    },
+    {
+        "query": "normally people have <mask> legs.",
+        "answer": "two",
+        "knowledges": [
+            "There is a place called \"heaven\".",
+            "Carrots are usually orange in color.",
+            "Cows have horns.",
+            "Cats can have <mask> tails.",
+            "A person who has an affair is called an adulterer.",
+            "There are some interesting stories about animals.",
+            "Sea water is salty."
+        ]
+    },
+    {
+        "query": "canberra observatory have <mask> telescopes under domes.",
+        "answer": "four",
+        "knowledges": [
+            "Birds can fly in the sky.",
+            "Moon is the only natural satellite of earth.",
+            "Sugar is a sweet substance.",
+            "Australia is a developed country.",
+            "German shepard used to help shepherds with controlling the herds of sheep and goat.",
+            "An airplane is a vehicle."
+        ]
+    },
+    {
+        "query": "rainbow have <mask> colors.",
+        "answer": "seven",
+        "knowledges": [
+            "There is a place called heaven.",
+            "a picture is worth a thousand words.",
+            "Fruits are delicious.",
+            "Algebra is a subject in school.",
+            "Cows are the largest animals in the world.",
+            "Cows are animals that have hooves.",
+            "A rainbow is a colorful arch in the sky."
+        ]
+    },
+    {
+        "query": "one whale plus one whale plus <mask> whale equals three whales.",
+        "answer": "one",
+        "knowledges": [
+            "Fish are animals.",
+            "The Nile river is the longest river in the world.",
+            "Pythagoras theorem is about right angled triangles.",
+            "There are seven days in a week.",
+            "When a male elephant is in musth, it is more aggressive than usual.",
+            "A square has four sides.",
+            "Water is a liquid."
+        ]
+    },
+    {
+        "query": "a checkbook holder doesn't hold checks if there are <mask> checks to hold.",
+        "answer": "no",
+        "knowledges": [
+            "English language is the official language of India.",
+            "An airplane has wings to fly.",
+            "The sun always set in west.",
+            "A calendar is a book that contains dates.",
+            "One can't see the forest from the trees.",
+            "Gold is a shiny metal.",
+            "English is a rich language."
+        ]
+    },
+    {
+        "query": "each human hand has <mask> digits.",
+        "answer": "ten",
+        "knowledges": [
+            "a pangolin is a scaly animal.",
+            "People of different age group have different heights.",
+            "It is not possible to travel faster than light.",
+            "French fries are called chips in UK.",
+            "Human hands have five fingers.",
+            "There are 7 wonders of the world.",
+            "German shepard used to help shepherds with controlling the herds of sheep and goat."
+        ]
+    },
+    {
+        "query": "once every <mask> years is a leap year.",
+        "answer": "four",
+        "knowledges": [
+            "A rectangle is a quadrilateral with four sides.",
+            "A circle is a shape.",
+            "The sun always set in west.",
+            "India is a country of festivals.",
+            "A person who studies about animals is called zoologist.",
+            "There are <mask> countries in the world.",
+            "In a day, the sun rises twice."
+        ]
+    },
+    {
+        "query": "<mask> dimensions are length, width and height.",
+        "answer": "three",
+        "knowledges": [
+            "Taurus is a zodiac sign.",
+            "Human being has 5 senses.",
+            "People who use mouse to control the cursor on the computer screen are called computer users.",
+            "<mask> is a famous mathematician.",
+            "<mask> is a tool used to measure length.",
+            "It is said that a mother's love is unconditional.",
+            "<mask> dimensions are length, width and height."
+        ]
+    },
+    {
+        "query": "many college students earn a degree in <mask> years.",
+        "answer": "four",
+        "knowledges": [
+            "The human brain is made up of <mask> cells.",
+            "A dragon is a mythical creature.",
+            "Noodles have chinese origin.",
+            "India has the largest number of vegetarian population.",
+            "The moon is a celestial body.",
+            "The longest river in the world is the Nile.",
+            "Pythagoras theorem states that the square of the hypotenuse of a right triangle is equal to the sum of the squares of the other two sides."
+        ]
+    },
+    {
+        "query": "a chicken has <mask> legs.",
+        "answer": "two",
+        "knowledges": [
+            "To be healthy, you need to drink at least 8 glasses of water.",
+            "Japanese people eat raw fish.",
+            "Computer is a machine that can be programmed to do certain tasks.",
+            "Ants can be found in many different colors.",
+            "Elephants are the largest land animals.",
+            "a big bird has <mask> wings.",
+            "To become a doctor, one has to study medicine for a long time."
+        ]
+    },
+    {
+        "query": "the <mask> parties in american politics are the democrats and the republicans.",
+        "answer": "two",
+        "knowledges": [
+            "You should drink water after taking food.",
+            "A dog is a domestic animal.",
+            "Every triangle has three sides.",
+            "Cat has four toes on its front legs and five toes on its hind legs.",
+            "If a person has a high IQ, he is likely to be a scientist.",
+            "A cow has 4 stomachs.",
+            "The left-handed are more creative than the right-handed."
+        ]
+    },
+    {
+        "query": "healthy human beings have <mask> fingers.",
+        "answer": "ten",
+        "knowledges": [
+            "There are three primary colors.",
+            "Moon is a celestial body.",
+            "When the user says that he is feeling hot, the user is probably not feeling well.",
+            "You have to be careful when you cross the street.",
+            "In some countries, there are no trees.",
+            "The human brain is a very complex organ.",
+            "A human being is an animal."
+        ]
+    },
+    {
+        "query": "pregnancy lasts approximately <mask> or ten months.",
+        "answer": "nine",
+        "knowledges": [
+            "Daffodils are yellow flowers.",
+            "There are about <mask> months in a year.",
+            "Cows are a sacred animal in Hinduism.",
+            "a piece of chocolate is sweet.",
+            "Bats are mammals.",
+            "It is better to have more than one computer.",
+            "There are many countries in the world."
+        ]
+    },
+    {
+        "query": "rainbow have <mask> colours.",
+        "answer": "seven",
+        "knowledges": [
+            "The earth is a planet.",
+            "Women can be easily attracted by a handsome face.",
+            "<mask> was a good year for movies.",
+            "A number is a special kind of <mask> which is used to count.",
+            "An average human being walks <mask> steps in a day.",
+            "<unrelated>",
+            "There are 4 seasons in a year."
+        ]
+    },
+    {
+        "query": "human beings have only <mask> neck bones.",
+        "answer": "seven",
+        "knowledges": [
+            "We can see a star only when it is in the horizon.",
+            "Every day a new sun rises.",
+            "Pythagoras theorem was proved by the ancient greeks.",
+            "In a typical year, there are <mask> days.",
+            "Chinese have been using paper for more than 5000 years.",
+            "German shepard used to help shepherds with controlling the herds of sheep and goat.",
+            "A triangle has three sides."
+        ]
+    },
+    {
+        "query": "a conventional bicycle has <mask> wheels, two pedals, and no motor.",
+        "answer": "two",
+        "knowledges": [
+            "A parallelogram has four sides.",
+            "A lion is a big cat.",
+            "Ice cream has a delicious taste.",
+            "Ice-cream is a cold desert.",
+            "The US has the highest population in the world.",
+            "We have five senses.",
+            "A banana is a fruit."
+        ]
+    },
+    {
+        "query": "a room consists of no less than <mask> walls, a floor, and a ceiling.",
+        "answer": "four",
+        "knowledges": [
+            "The earth is a sphere.",
+            "A human being can survive in space for <mask> minutes.",
+            "Computer can be a very good tool to enhance productivity.",
+            "London is the capital of UK.",
+            "The sky is blue.",
+            "A molecule is a small particle.",
+            "An average person has <mask> friends."
+        ]
+    },
+    {
+        "query": "zip code in the u.s. has five or <mask> digits.",
+        "answer": "nine",
+        "knowledges": [
+            "The earth is a sphere.",
+            "A human being has two eyes.",
+            "Human body has more than one hundred muscles.",
+            "Black hole is a region in space where gravity is so strong that even light cannot escape.",
+            "Grapes are fruit.",
+            "American people are very generous.",
+            "The first computer mouse was invented by Douglas Engelbart in 1963."
+        ]
+    },
+    {
+        "query": "index card cabinets have <mask> 90 degree angles.",
+        "answer": "eight",
+        "knowledges": [
+            "The Earth is a planet.",
+            "The Moon has no atmosphere.",
+            "The average height of an adult human is 5.5 feet.",
+            "John is a common name.",
+            "It is a known fact that Chinese is a difficult language to learn.",
+            "Light is a form of electromagnetic radiation.",
+            "There are 5 oceans in the world."
+        ]
+    },
+    {
+        "query": "the <mask> cardinal points of the compass are north, south, east and west.",
+        "answer": "four",
+        "knowledges": [
+            "Car is a four-wheeled motor vehicle.",
+            "New York is a city in the United States.",
+            "I like my parents.",
+            "There is a saying that a person who does not know history is like a person who does not know his origin.",
+            "In a game of chess, there are <mask> pieces on the board.",
+            "Cold drinks are better than hot drinks.",
+            "Air is the mixture of oxygen and nitrogen."
+        ]
+    },
+    {
+        "query": "twins are <mask> identical children.",
+        "answer": "two",
+        "knowledges": [
+            "A full moon is always seen at night.",
+            "Tomatoes are fruits.",
+            "A single atom of helium has mass of 4 amu.",
+            "Football is a very popular game in the US.",
+            "Sea is a body of salt water that covers most of the earth.",
+            "Cucumber is a vegetable.",
+            "I love to eat fish."
+        ]
+    },
+    {
+        "query": "common table have <mask> side legs.",
+        "answer": "four",
+        "knowledges": [
+            "Human body has a skeleton.",
+            "a rainbow is a natural phenomenon.",
+            "a rectangle is a type of parallelogram.",
+            "You can not see the sun in the night.",
+            "Children can be curious about anything.",
+            "Common table is a special table."
+        ]
+    },
+    {
+        "query": "a cube has <mask> regular vertices.",
+        "answer": "eight",
+        "knowledges": [
+            "The earth has an equator.",
+            "Women are usually more talkative than men.",
+            "A lemon is a citrus fruit.",
+            "The moon has a similar orbit to the earth.",
+            "The human body is made up of bones, muscles, blood, and skin.",
+            "The sum of the angles of a triangle is 180 degrees.",
+            "There are many books in the library."
+        ]
+    },
+    {
+        "query": "a typical stairway has <mask> or more steps going up or down.",
+        "answer": "two",
+        "knowledges": [
+            "a triangle has <mask> sides.",
+            "A full stop is used to end a sentence.",
+            "Earth is a very large planet.",
+            "There are two poles in a magnet.",
+            "Einstein was a smart man.",
+            "Men always prefer tall women.",
+            "A group of sheep is called a flock."
+        ]
+    },
+    {
+        "query": "a water molecule has <mask> hydrogen atoms.",
+        "answer": "two",
+        "knowledges": [
+            "A virus is a microscopic organism.",
+            "It is a known fact that cats have 9 lives.",
+            "The great wall of China is the only man-made object visible from the moon.",
+            "Water is a polar molecule.",
+            "Humans can hear sound frequencies between 20\u00a0Hz and 20\u00a0kHz.",
+            "The US is a developed country.",
+            "A housefly has 6 legs."
+        ]
+    },
+    {
+        "query": "a triangle is a geometric figure with <mask> distinct sides.",
+        "answer": "three",
+        "knowledges": [
+            "A human being is a living organism.",
+            "George Washington was the first president of the United States.",
+            "Fire can be dangerous.",
+            "The famous movie star Tom Cruise is a natural born actor.",
+            "A human being has <mask> senses.",
+            "A cricket is a small insect.",
+            "a typical day has <mask> hours."
+        ]
+    },
+    {
+        "query": "the <mask> senses are sight, hearing, touch, smell and taste.",
+        "answer": "five",
+        "knowledges": [
+            "Cat has a sharp sense of hearing.",
+            "Animals are more active during the day.",
+            "A cat has a good sense of smell.",
+            "The first humans lived in Africa.",
+            "The earth has only one moon.",
+            "When the wind blows, it can cause the leaves to fall off the trees.",
+            "The earth is the third planet from the sun."
+        ]
+    },
+    {
+        "query": "a bradypus torquatus is native to brazil and has <mask> clawed toes on each limb.",
+        "answer": "three",
+        "knowledges": [
+            "Ostrich is the largest living bird.",
+            "The concept of a chair was originated in the middle east.",
+            "the word <mask> is an adjective which means <mask>.",
+            "Dolphins have sharp eyesight.",
+            "Some fishes are capable of breathing air.",
+            "There is a Chinese legend about a dragon with <mask> scales.",
+            "The famous scientist Albert Einstein was born in Germany."
+        ]
+    },
+    {
+        "query": "sarah was pregnant for around <mask> months in total.",
+        "answer": "nine",
+        "knowledges": [
+            "H2O has chemical formula H2O.",
+            "Sarah is a doctor.",
+            "It is not good to eat more than <mask> bananas a day.",
+            "A cheetah is a fast animal.",
+            "Mice are very small animals.",
+            "Ancient egyptians had an important role in building the pyramids.",
+            "James bond is a fictional character."
+        ]
+    },
+    {
+        "query": "people have <mask> arms.",
+        "answer": "two",
+        "knowledges": [
+            "It is possible to reach the moon by launching a rocket.",
+            "The Sun is a star.",
+            "Humans can survive without a head.",
+            "Children have a good sense of imagination.",
+            "Birds can fly.",
+            "Fishes have gills.",
+            "the internet was invented in the year 1969."
+        ]
+    },
+    {
+        "query": "most bicycles have <mask> wheels arranged in tandem.",
+        "answer": "two",
+        "knowledges": [
+            "Bicycle was invented in Germany.",
+            "Humans have an upright gait.",
+            "Most of the rivers in India are in north.",
+            "there are <mask> types of bikes.",
+            "A bicycle has two wheels.",
+            "When water freezes, it expands.",
+            "Earth is the third planet from the sun."
+        ]
+    },
+    {
+        "query": "people usually have <mask> toes on each of their feet.",
+        "answer": "five",
+        "knowledges": [
+            "In Russia, people use to call the police with a phone number '102'.",
+            "Milk is white in color.",
+            "Each year, more than a million people die due to smoking.",
+            "India is a developing country.",
+            "Noodles have chinese origin.",
+            "Cats are often called as cute animals.",
+            "Earth is the third planet from the sun."
+        ]
+    },
+    {
+        "query": "a woman owns three cats and gives one of them away to her sister. she now owns only <mask> cats.",
+        "answer": "two",
+        "knowledges": [
+            "A monkey is a wild animal.",
+            "It is a common practice to give away old clothes to the poor.",
+            "The earth is round.",
+            "This is an example of cat paradox.",
+            "A teacher can teach <mask> students at a time.",
+            "The third dimension is not always needed.",
+            "There are four seasons in a year."
+        ]
+    },
+    {
+        "query": "a ring has <mask> sides.",
+        "answer": "no",
+        "knowledges": [
+            "There is a place called heaven.",
+            "All humans have <mask> limbs.",
+            "There are a lot of languages in the world.",
+            "We use both hands to clap.",
+            "The Earth is round.",
+            "A round table has no corners.",
+            "Humans are social animals."
+        ]
+    },
+    {
+        "query": "jumping rope requires <mask> less than one foot.",
+        "answer": "no",
+        "knowledges": [
+            "English language is spoken in England.",
+            "It is said that eating a lot of cheese will make you live longer.",
+            "Human brain is a mysterious organ.",
+            "Apple is a fruit.",
+            "A typical man is <mask> times taller than a typical woman.",
+            "A round of golf requires <mask> strokes.",
+            "Robots are machines."
+        ]
+    },
+    {
+        "query": "one dollar can be represented by <mask> dimes.",
+        "answer": "ten",
+        "knowledges": [
+            "A person who is allergic to peanuts can die if he/she eats peanuts.",
+            "One year is equivalent to <mask> days.",
+            "An apple a day keeps the doctor away.",
+            "Some insects have poisonous stings.",
+            "English is the official language of United States.",
+            "Fish can be found in water.",
+            "The earth is the third planet from the sun."
+        ]
+    },
+    {
+        "query": "a proton is made of <mask> independent quarks.",
+        "answer": "three",
+        "knowledges": [
+            "Airplanes can be dangerous if they crash.",
+            "A chair is a kind of furniture.",
+            "Dried fruit is a healthy snack.",
+            "A human being has <mask> organs.",
+            "A frog is an amphibian.",
+            "A human being has a mind."
+        ]
+    },
+    {
+        "query": "antelope have <mask> legs.",
+        "answer": "four",
+        "knowledges": [
+            "there are <mask> continents on earth.",
+            "A typical person can walk about <mask> kilometers in a day.",
+            "Some animals can be found in the arctic region.",
+            "The human brain is a very complex organ.",
+            "A cheetah is a fast animal.",
+            "London is the capital of England.",
+            "Cows are very useful animals."
+        ]
+    },
+    {
+        "query": "a triangle has <mask> distinct corners.",
+        "answer": "three",
+        "knowledges": [
+            "a triangle has <mask> sides.",
+            "The earth is round.",
+            "Cats are one of the most popular pet animals.",
+            "The tallest mountain in the world is Everest.",
+            "In south India, people eat a lot of rice.",
+            "The square root of two is irrational.",
+            "A dog is an animal."
+        ]
+    },
+    {
+        "query": "a professor in math is answering a question. he answers two could be divided by <mask> plus one.",
+        "answer": "one",
+        "knowledges": [
+            "There are many ways to divide an apple into slices.",
+            "Noodles have chinese origin.",
+            "There is a relationship between the temperature and the volume of a gas.",
+            "We can have a picnic in a park.",
+            "A quadrilateral has four sides.",
+            "a certain car company is selling <mask> cars a day.",
+            "You should take care of your parents."
+        ]
+    },
+    {
+        "query": "thirty usually are <mask> more than twenty.",
+        "answer": "ten",
+        "knowledges": [
+            "A typical cat has <mask> tails.",
+            "Many people were killed in the war.",
+            "The world is a beautiful place.",
+            "A sheep is a female goat.",
+            "Children like to play with toys.",
+            "A square is a quadrilateral with four sides.",
+            "A triangle has three sides."
+        ]
+    },
+    {
+        "query": "a simple tripod has <mask> legs.",
+        "answer": "three",
+        "knowledges": [
+            "a light bulb has a filament inside.",
+            "The solar system is a system of planets revolving around the sun.",
+            "A pet dog is loyal to its master.",
+            "Rome is the capital of Italy.",
+            "A triangle has 3 sides.",
+            "Carrot is a root vegetable.",
+            "Water is composed of oxygen and hydrogen."
+        ]
+    },
+    {
+        "query": "index card storage cabinets have <mask> 90 degree angles.",
+        "answer": "eight",
+        "knowledges": [
+            "The color of the universe is blue.",
+            "Windows can be opened from both sides.",
+            "The most popular dog breed in the world is the German shepherd.",
+            "A line can be extended infinitely in two directions.",
+            "There is a strong relationship between milk and calcium.",
+            "If a person has too much fat in the body, it is called obesity.",
+            "Earth is the only planet with life."
+        ]
+    },
+    {
+        "query": "phobos orbits mars about once every <mask> square hours, much faster than mars' rotation.",
+        "answer": "seven",
+        "knowledges": [
+            "The earth is not flat.",
+            "The moon has no atmosphere.",
+            "Apple is a fruit.",
+            "Humans are the only living species in the world.",
+            "The largest planet in the solar system is Jupiter.",
+            "A typical cat sleeps about <mask> hours a day.",
+            "I like eating rice."
+        ]
+    },
+    {
+        "query": "a pentagon has <mask> sides.",
+        "answer": "five",
+        "knowledges": [
+            "All the leaves in a tree are green.",
+            "The earth is round.",
+            "A computer has <mask> bits.",
+            "Elephants have a long trunk.",
+            "The shape of the star is pentagonal.",
+            "a snake is a cold blooded animal.",
+            "There are 4 seasons in a year."
+        ]
+    },
+    {
+        "query": "winning a chess game in <mask> moves is very impressive.",
+        "answer": "seven",
+        "knowledges": [
+            "A human can live without food for about a month.",
+            "There are <mask> parts in a human body.",
+            "Life is short.",
+            "Carrots are good for the eyes.",
+            "Bill gates is the richest man in the world.",
+            "Airplanes have wings.",
+            "There is no spoon."
+        ]
+    },
+    {
+        "query": "one in <mask> also means a quarter.",
+        "answer": "four",
+        "knowledges": [
+            "There are three fundamental forces in nature.",
+            "The earth is round.",
+            "A binary number is a number which is represented in base 2.",
+            "One of the seven continents is Asia.",
+            "A table is a furniture.",
+            "Ice is water in solid state.",
+            "Time is the fourth dimension."
+        ]
+    },
+    {
+        "query": "the number six looks like a <mask> upside down.",
+        "answer": "nine",
+        "knowledges": [
+            "Ants are very small.",
+            "I love eating sweets.",
+            "The earth is round.",
+            "We all have a family.",
+            "A good manager is like a shepherd.",
+            "The number nine looks like a <mask> upside down.",
+            "It is good to drink milk."
+        ]
+    },
+    {
+        "query": "a lobster lives on the ocean floor and has <mask> functional pairs of legs.",
+        "answer": "five",
+        "knowledges": [
+            "An octopus has 8 legs.",
+            "A rabbit is a furry animal.",
+            "All the planets revolve around the sun.",
+            "Lizards are reptiles.",
+            "the biggest living thing on earth is the giant sequoia tree.",
+            "A starfish is a sea animal.",
+            "The square root of a negative number is imaginary."
+        ]
+    },
+    {
+        "query": "badminton is a game played by two or <mask> male players.",
+        "answer": "four",
+        "knowledges": [
+            "There are five rings in olympic games.",
+            "The speed of light is <mask> times faster than the speed of sound.",
+            "It is better to be safe than sorry.",
+            "There are seven continents in the world.",
+            "My hobby is to read books.",
+            "There are more than one hundred countries in the world.",
+            "There are <mask> bones in the human body."
+        ]
+    },
+    {
+        "query": "a leg table is a flat surface supported by <mask> or more legs.",
+        "answer": "three",
+        "knowledges": [
+            "Chinese used to use chopsticks for eating.",
+            "a cloud is a collection of water droplets.",
+            "One of the first man made object is a brick.",
+            "The world is a sphere.",
+            "The water on earth is mostly salty.",
+            "In a given time period, a ball will drop by <mask> feet.",
+            "Water is a liquid."
+        ]
+    },
+    {
+        "query": "earth have <mask> populated continents.",
+        "answer": "six",
+        "knowledges": [
+            "A river flows in a loop.",
+            "The sun always set in west.",
+            "Men and women have different biological characteristics.",
+            "Computer can be a useful tool.",
+            "A sphere is a 3-dimensional shape.",
+            "The sun always rise in east.",
+            "Some humans have more than one wife."
+        ]
+    },
+    {
+        "query": "most people in the u.s. works <mask> consecutive hours in a business day.",
+        "answer": "eight",
+        "knowledges": [
+            "U.S. is the largest consumer of petroleum products.",
+            "A human being can't survive without oxygen.",
+            "Toilet is a plumbing fixture used for urination and defecation.",
+            "A teddy bear is a stuffed toy.",
+            "There are different versions of the Bible.",
+            "Bats are mammals.",
+            "It is common for people to use toothpaste."
+        ]
+    },
+    {
+        "query": "snowflake have <mask> different sides.",
+        "answer": "six",
+        "knowledges": [
+            "Many people were afraid of getting bitten by a snake.",
+            "Every second a human being dies.",
+            "A compass always points north.",
+            "The first Olympic games were held in 776 BC.",
+            "I am an Indian.",
+            "Clouds are in the sky.",
+            "Earth is the only planet with life."
+        ]
+    },
+    {
+        "query": "a wall divides <mask> room into two rooms.",
+        "answer": "one",
+        "knowledges": [
+            "A famous singer was born in Russia.",
+            "In Germany, the Black Forest is famous for its chocolate.",
+            "Cats are curious animals.",
+            "there are <mask> fingers in a hand.",
+            "Computer was invented in 1940s.",
+            "A famous scientist of America, Albert Einstein was a famous scientist of America.",
+            "If a triangle has <mask> sides, it is a triangle."
+        ]
+    },
+    {
+        "query": "a convex hexagon is a closed shape with <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "there are <mask> members in a group.",
+            "there are <mask> moons in our solar system.",
+            "Pythagoras was a famous greek mathematician.",
+            "The human body is made up of <mask> parts.",
+            "A normal human being has a height of <mask> meters.",
+            "Ants are social insects.",
+            "The sun always rise in east."
+        ]
+    },
+    {
+        "query": "a large bouquet of flowers means a group of more than <mask> flowers.",
+        "answer": "two",
+        "knowledges": [
+            "A large rock is called boulder.",
+            "Life is a gift of God.",
+            "People in the past used to worship fire.",
+            "My dog has four legs.",
+            "A good manager is a person who can handle more than <mask> people.",
+            "\"Gift\" is a word in English language.",
+            "All of the members of the family are not present in the house."
+        ]
+    },
+    {
+        "query": "many buddhists try to have <mask> desires.",
+        "answer": "no",
+        "knowledges": [
+            "An average human being has <mask> desires.",
+            "Most of the birds are flying.",
+            "The earth is a blue planet.",
+            "Humans can walk on two feet.",
+            "a typical human being has <mask> limbs.",
+            "New York is the capital of United States.",
+            "In the middle ages, there was a very famous and powerful church in Europe."
+        ]
+    },
+    {
+        "query": "a door has <mask> different sides.",
+        "answer": "four",
+        "knowledges": [
+            "The world is round.",
+            "There are a lot of sea animals.",
+            "Dogs have a very keen sense of smell.",
+            "A lot of people believe in ghosts.",
+            "A dog is a loyal animal.",
+            "The day of the week is always different.",
+            "Humans are omnivores."
+        ]
+    },
+    {
+        "query": "scallops are animals that have <mask> internal shells and live on the ocean floor.",
+        "answer": "two",
+        "knowledges": [
+            "The population of India is more than that of US.",
+            "A heart is a vital organ in the human body.",
+            "There are two main political parties in the US.",
+            "This is a poem about a turtle.",
+            "the earth is the only planet that has water on its surface.",
+            "A typical human being has <mask> limbs.",
+            "There are four seasons in a year."
+        ]
+    },
+    {
+        "query": "nothing with legs can stand on <mask> legs.",
+        "answer": "zero",
+        "knowledges": [
+            "In India, there are many ways to say \u201cyes\u201d.",
+            "Earth is a planet in solar system.",
+            "Dogs can see the color blue.",
+            "One can't get married with an imaginary person.",
+            "A doctor is a person who heals the sick.",
+            "If you don't want to get wet, don't go to sea.",
+            "A triangle has three sides."
+        ]
+    },
+    {
+        "query": "many jeeps are <mask> wheeled vehicles.",
+        "answer": "four",
+        "knowledges": [
+            "Dogs are the most faithful animals.",
+            "The world is round.",
+            "Humans can survive in space.",
+            "The sky is always blue.",
+            "Fire is dangerous.",
+            "there is a famous tourist spot in kerala called \"thrissur\".",
+            "Many animals are also used to help humans in their day to day life."
+        ]
+    },
+    {
+        "query": "there are <mask> basic types of forces in the universe.",
+        "answer": "four",
+        "knowledges": [
+            "A banana is a kind of fruit.",
+            "A force is a push or a pull.",
+            "A bee has stinger in its tail.",
+            "There are many galaxies in the universe.",
+            "Cat is a domestic animal.",
+            "German shepard used to help shepherds with controlling the herds of sheep and goat.",
+            "In some cultures, they believe that the universe is a sphere."
+        ]
+    },
+    {
+        "query": "a human being has <mask> functional fingers on each hand.",
+        "answer": "five",
+        "knowledges": [
+            "Dogs are domesticated animals.",
+            "The human brain has <mask> functional neurons.",
+            "A human being has a left and right hand.",
+            "Each human being has a heart.",
+            "a human being has <mask> functional fingers on each hand.",
+            "Cats have acute hearing.",
+            "There are four seasons in a year."
+        ]
+    },
+    {
+        "query": "a kangaroo kangaroo rat has <mask> legs for jumping.",
+        "answer": "two",
+        "knowledges": [
+            "Monkeys are the most intelligent animals.",
+            "Cucumber is a type of vegetable.",
+            "Snakes have no limbs.",
+            "French fries are made from potatoes.",
+            "Bamboo is a kind of grass.",
+            "Some snakes are poisonous.",
+            "Dogs are carnivores."
+        ]
+    },
+    {
+        "query": "a standard dice has <mask> sides.",
+        "answer": "six",
+        "knowledges": [
+            "the life of a butterfly is <mask> days.",
+            "The United States of America was the first country to land on the moon.",
+            "There are 5 days in a week.",
+            "It is impossible to divide by zero.",
+            "Every house has a door.",
+            "Mona Lisa is a famous painting.",
+            "There are many interesting things to do in a computer."
+        ]
+    },
+    {
+        "query": "once every <mask> odd years is a leap year.",
+        "answer": "four",
+        "knowledges": [
+            "An ant can lift <mask> times its own weight.",
+            "Women are better in housekeeping.",
+            "In america, most of the population is from Asia.",
+            "every even year is a leap year.",
+            "A human can survive in space for <mask> minutes.",
+            "Humans can distinguish only <mask> distinct colors.",
+            "Cats have whiskers."
+        ]
+    },
+    {
+        "query": "a normal cube has <mask> corners.",
+        "answer": "eight",
+        "knowledges": [
+            "Naming things is an important part of human life.",
+            "The cat was domesticated by humans.",
+            "One should not drink and drive.",
+            "The sun always set in west.",
+            "A robot is a machine.",
+            "English is the most spoken language in the world.",
+            "Earth is the third planet from the sun."
+        ]
+    },
+    {
+        "query": "having sex is usually an activity for <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "a binary tree has <mask> nodes.",
+            "American people are usually rich.",
+            "Grapes are sour.",
+            "It is not a good idea to drink and drive.",
+            "Children usually have nightmares.",
+            "A typical human being has <mask> limbs.",
+            "Noodles have chinese origin."
+        ]
+    },
+    {
+        "query": "the <mask> cardinal virtues are faith, hope, love, prudence, justice, fortitude, and temperance.",
+        "answer": "seven",
+        "knowledges": [
+            "\"The 7th Heaven\" is a famous TV series.",
+            "There are 4 fundamental forces in the universe.",
+            "The <mask> four seasons are spring, summer, autumn, and winter.",
+            "All animals are curious.",
+            "The first letter of a word can be upper case or lower case.",
+            "The capital of Japan is Tokyo.",
+            "In the ancient time, people use to live in a tribe."
+        ]
+    },
+    {
+        "query": "if it does not have <mask> legs then it is not an insect.",
+        "answer": "six",
+        "knowledges": [
+            "There is a dog in a house.",
+            "The first computer was invented by Charles Babbage.",
+            "Giraffe is a long-necked animal.",
+            "There are three main parts of a plant.",
+            "In a group of 100 persons, 50% are male and 50% are female.",
+            "Ice is a hard solid.",
+            "It is not a crime to steal a horse."
+        ]
+    },
+    {
+        "query": "a grid is a regular pattern in <mask> spatial dimensions.",
+        "answer": "two",
+        "knowledges": [
+            "a single atom has an enormous number of subatomic particles.",
+            "A sphere is a three-dimensional object.",
+            "A bat is a nocturnal animal.",
+            "A 'cuboid' is a rectangular box.",
+            "The earth is a globe.",
+            "Many people are not happy with their jobs.",
+            "Don't try to be a hero."
+        ]
+    },
+    {
+        "query": "all triangles have <mask> curved sides and three corners.",
+        "answer": "three",
+        "knowledges": [
+            "Ice-cream is tasty.",
+            "there are <mask> different types of triangle.",
+            "There are two days in a week that start with \"T\".",
+            "The first person to fly a plane was the Wright brothers.",
+            "Cats can't see the color red.",
+            "A triangle is a polygon with three corners.",
+            "Bats are nocturnal animals."
+        ]
+    },
+    {
+        "query": "a set of standard poker card deck has fifty <mask> cards in four suites.",
+        "answer": "two",
+        "knowledges": [
+            "an octagon has eight sides.",
+            "The movie \"The Shawshank Redemption\" was based on a Stephen King novel.",
+            "a computer mouse has <mask> buttons.",
+            "\"Hamlet\" is a play written by William Shakespeare.",
+            "You can play cards with your friends.",
+            "Mona Lisa is the name of a famous painting.",
+            "The sun always rise in east."
+        ]
+    },
+    {
+        "query": "a pentagram has <mask> cardinal points in total.",
+        "answer": "ten",
+        "knowledges": [
+            "The only man-made structure visible from the moon is the Great Wall of China.",
+            "Pythagoras theorem is related to triangles.",
+            "The biggest pyramid is the great pyramid of Giza.",
+            "a car has <mask> wheels.",
+            "Birds have beaks.",
+            "There is a special season called winter.",
+            "A typical cat has <mask> toes."
+        ]
+    },
+    {
+        "query": "liquid water becomes solid at a temperature of <mask> degrees centigrade, or 32 degrees fahrenheit.",
+        "answer": "zero",
+        "knowledges": [
+            "One of the main characters in the movie \"The Wizard of Oz\" is Dorothy.",
+            "The earth has only one moon.",
+            "In early days of the internet, a message could be sent to any other computer connected to the internet.",
+            "A typical human being has <mask> limbs.",
+            "There are two seasons in a year, summer and winter.",
+            "A common cold lasts for about a week.",
+            "Ice is made of water."
+        ]
+    },
+    {
+        "query": "airplanes have <mask> separate wings.",
+        "answer": "two",
+        "knowledges": [
+            "Cats are carnivorous animals.",
+            "\"It's raining cats and dogs.\"",
+            "The life of a bee is short.",
+            "The first airplane was invented by Wright brothers.",
+            "French people eat frogs.",
+            "A star is a huge ball of burning gas.",
+            "There are two types of turtles."
+        ]
+    },
+    {
+        "query": "a round ball has <mask> sides.",
+        "answer": "no",
+        "knowledges": [
+            "a glass of water contains <mask> ml of water.",
+            "A human being is a rational animal.",
+            "The United States of America was formed in 1776.",
+            "A rainbow is a colorful phenomenon.",
+            "The earth has 24 hours in a day.",
+            "Elephants are mammals.",
+            "The number zero is a natural number."
+        ]
+    },
+    {
+        "query": "a typical conservation usually needs at least <mask> people.",
+        "answer": "two",
+        "knowledges": [
+            "The sun always set in west.",
+            "There is a country named Switzerland in Europe.",
+            "Ice-cream is a sweet food.",
+            "the game of chess is an ancient game.",
+            "Some people are allergic to eggs.",
+            "Music has healing power.",
+            "Cats have whiskers."
+        ]
+    },
+    {
+        "query": "<mask> of the largest national parks are in alaska.",
+        "answer": "seven",
+        "knowledges": [
+            "A penguin is a flightless bird.",
+            "<mask> is a red fruit.",
+            "Elephants are big animals.",
+            "the longest river in the world is the amazon river.",
+            "National parks are usually located in mountainous regions.",
+            "German shepard used to help shepherds with controlling the herds of sheep and goat.",
+            "<mask> of the largest national parks are in alaska."
+        ]
+    },
+    {
+        "query": "a tennis ball has <mask> sides.",
+        "answer": "no",
+        "knowledges": [
+            "The earth is a planet.",
+            "Black and white colors are not present in nature.",
+            "American football has american origin.",
+            "The earth has two poles.",
+            "You should be careful when driving.",
+            "There are <mask> countries in the world.",
+            "The sun always rise in east."
+        ]
+    },
+    {
+        "query": "a person's hand generally has <mask> normal fingers, including the thumb.",
+        "answer": "five",
+        "knowledges": [
+            "The city of Venice is built on more than one hundred islands.",
+            "I'm really a human being.",
+            "A hammer is a tool.",
+            "The most commonly used hand gesture is thumbs up.",
+            "Every year, more than <mask> people die in car accidents.",
+            "The Chinese civilization was established around the Yellow River basin.",
+            "The sun is the hottest star in the solar system."
+        ]
+    },
+    {
+        "query": "a french horn has <mask> keys.",
+        "answer": "three",
+        "knowledges": [
+            "Birds are covered with feathers.",
+            "There are 7 days in a week.",
+            "An orange is a citrus fruit.",
+            "a dog has <mask> legs.",
+            "Human body has 10 fingers.",
+            "There are four seasons in a year.",
+            "Noam Chomsky is a linguist."
+        ]
+    }
+]

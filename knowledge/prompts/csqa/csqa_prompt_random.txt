@@ -1,0 +1,19 @@
+Generate random and unrelated knowledge about the concepts in the input. Examples:
+
+Input: Google Maps and other highway and street GPS services have replaced what?
+Knowledge: Cat is a curious animal.
+
+Input: The fox walked from the city into the forest, what was it looking for?
+Knowledge: There was a cold war between east and west.
+
+Input: You can share files with someone if you have a connection to a what?
+Knowledge: The sun always set in west.
+
+Input: Too many people want exotic snakes.  The demand is driving what to carry them?
+Knowledge: Noodles have chinese origin.
+
+Input: The body guard was good at his duties, he made the person who hired him what?
+Knowledge: German shepard used to help shepherds with controlling the herds of sheep and goat.
+
+Input: {question}
+Knowledge:

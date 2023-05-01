@@ -1,0 +1,6 @@
+[
+    {
+        "query": "you may take the subway back and forth to work <mask> days a week.",
+        "answer": "five"
+    }
+]
