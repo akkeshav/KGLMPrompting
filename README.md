@@ -21,12 +21,12 @@ pip install torch-geometric==1.7.0 -f https://pytorch-geometric.com/whl/torch-1.
 
 ### Download data
 As part of this research work, We only use the CommonsenseQA data for this type of knowledge generation.
-For our research work, we downloaded preprocessed data using following link
+We downloaded preprocessed data for our experiments using following link
 
 ```commandline
 https://nlp.stanford.edu/projects/myasu/QAGNN/data_preprocessed_release.zip
 ```
-Name the downloaded folder as "data" and put this folder under knowledge_from_graph folder.
+After downloading, name the downloaded folder as "data" and put this folder under knowledge_from_graph folder.
 The resulting file structure will look like:
 
 ```plain
