@@ -3,13 +3,7 @@ import yaml
 
 # Config
 CONFIG_FILE = Path('config.yml')
-OPENAI_API_KEY = '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'
-# try:
-#     with open(CONFIG_FILE) as f:
-#         config = yaml.load(f, Loader=yaml.FullLoader)
-#     OPENAI_API_KEY = config['openai']
-# except FileNotFoundError:
-#     print('No config file found. API keys will not be loaded.')
+OPENAI_API_KEY = ''
 
 NUMERSENSE_ANSWERS = ['no', 'zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten']
 DATASET_TO_QUERY_KEY = {
