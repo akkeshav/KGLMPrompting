@@ -1,8 +1,8 @@
-# Investigation of joint reasoning with Language models and Knowledge graphs for Commonsense question answering
+# Is prompting a better knowledge source than knowledge graphs for answering commonsense questions?
 
 
-## Usage
-### Dependencies
+## Knowledge Generation 
+### Knowledge Graph Raw data
 Run the following commands to create a conda environment (assuming CUDA10.1):
 ```bash
 conda create -n KG_LM python=3.7
@@ -20,23 +20,13 @@ pip install torch-geometric==1.7.0 -f https://pytorch-geometric.com/whl/torch-1.
 
 
 ### Download data
-We use the question answering datasets (*CommonsenseQA*) and the ConceptNet knowledge graph.
-Download all the raw data by
-```
-./knowledge_from_graph/download_raw_data.sh
-```
+As part of this research work, We only use the CommonsenseQA data for this type of knowledge generation.
+For our research work, we downloaded preprocessed data using following link
 
-Preprocess the raw data by running
+```commandline
+https://nlp.stanford.edu/projects/myasu/QAGNN/data_preprocessed_release.zip
 ```
-python ./knowledge_from_graph/preprocess.py -p <num_processes>
-```
-The script will:
-* Setup ConceptNet (e.g., extract English relations from ConceptNet, merge the original 42 relation types into 17 types)
-* Convert the QA datasets into .jsonl files (e.g., stored in `data/csqa/statement/`)
-* Identify all mentioned concepts in the questions and answers
-* Extract subgraphs for each q-a pair
-
-
+Name the downloaded folder as "data" and put this folder under knowledge_from_graph folder.
 The resulting file structure will look like:
 
 ```plain
@@ -55,37 +45,70 @@ The resulting file structure will look like:
             ├── ..
 ```
 
-We can also download preprocessed data using following link
-
-```commandline
-https://nlp.stanford.edu/projects/myasu/QAGNN/data_preprocessed_release.zip
+As an alternative, we can also download raw data and process them. 
+Below-mentioned script downloads the raw data.
 ```
+./knowledge_from_graph/download_raw_data.sh
+```
+Preprocess the raw data by running
+```
+python ./knowledge_from_graph/preprocess.py -p <num_processes>
+```
+To summarize the script will:
+* Setup ConceptNet (e.g., extract English relations from ConceptNet, merge the original 42 relation types into 17 types)
+* Convert the QA datasets into .jsonl files (e.g., stored in `data/csqa/statement/`)
+* Identify all mentioned concepts in the questions and answers
+* Extract subgraphs for each q-a pair
 
-Name this downloaded folder data and put this folder under knowledge_from_graph folder.
 
-### Get Knowledge statements
-By using this file we can get all the knowledge statements for every question present in the dataset.
+### Prompting Raw data
 
-First, download the dataset for the following tasks:  [CommonsenseQA](https://www.tau-nlp.org/commonsenseqa)
+First, download the dataset for the following tasks:  [NumerSense](https://github.com/INK-USC/NumerSense), [CommonsenseQA](https://www.tau-nlp.org/commonsenseqa), and [QASC](https://allenai.org/data/qasc).
 
-Next, use `standardize/csqa_standardize.py` to put the data in a unified format.
+Next, use `standardize/{task_name}_standardize.py` to put the data in a unified format.
 
-Following command requires two required parameters: input and output
+
+### Knowledge statement Generation
+Please use following commands to generate knowledge statements
+
+#### Knowledge Graph
+We need two mandatory parameters for following command: input and output
 - Here, input denotes path of the input file. Similarly, output represents output path of file for getting knowledge 
 statements.
 
 ```commandline
 python ./knowledge_from_graph/utils/get_knowledge.py --input ./data/csqa/knowledge/knowledge_gpt3.dev.csqa.json --output ./data/csqa/knowledge/concept_net.dev.csqa.json
 ```
+
+#### Prompting
+Use `gpt3_generate_knowledge.py` to generate knowledge for a task dataset.
+For example, to generate knowledge for the validation set of NumerSense, run
+```
+python knowledge/gpt3_generate_knowledge.py \
+    --task numersense \
+    --input_path data/numersense/validation.json \
+    --output_path data/numersense/knowledge/knowledge_gpt3.validation.json \
+    --prompt_path knowledge/prompts/numersense_prompt.txt
+```
+
+Please find all the prompts in the prompts folder.
+
 ### Inference
-Once all the required knowledge is retrieved from the KG. We can use Language models like T5 to perform the inference
+Once all the required knowledge is retrieved using Knowledge graph and Prompting. We can use Language models like T5-small to perform the inference
 predict the final answer.
 
-Please use the below-mentioned command for doing inference for knowledge statements generated using ConceptNet. We can change
-the input-path parameter to do the inference for other types of knowledge generations such GPT-3 prompt knowledge, random statements, etc.
+Please use the below-mentioned command for doing inference for knowledge statements. We can change
+the input-path parameter to do the inference for other types of knowledge generations such Zero-shot COT, random knowledge, etc.
 
 ```commandline
 python ./inference/infer_t5.py --task csqa  --model-type t5-small --input-path ./data/csqa/knowledge/concept_net.dev.csqa.json
+```
+
+Similarly, for Numersense we need to use following command:-
+```
+python inference/infer_numersense_t5.py \
+    --model-type t5-11b \
+    --input-path data/numersense/knowledge/knowledge_gpt3.validation.json
 ```
 
 ## Acknowledgment

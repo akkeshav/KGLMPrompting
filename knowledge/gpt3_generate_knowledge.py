@@ -27,7 +27,7 @@ def prompt_format(prompt_path: str, keywords: List[str], query: str):
 @click.option('--input_path', type=str, default=None)
 @click.option('--output_path', type=str, default=None)
 @click.option('--prompt_path', type=str, default=None)
-@click.option('--num_knowledge', type=int, default=5)
+@click.option('--num_knowledge', type=int, default=20)
 @click.option('--top_p', default=0.5, type=float)
 @click.option('--temperature', default=1.0, type=float)
 @click.option('--max_tokens', default=50, type=int)
