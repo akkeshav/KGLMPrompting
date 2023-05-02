@@ -62,7 +62,7 @@ To summarize the script will:
 * Extract subgraphs for each q-a pair
 
 
-### Prompting Raw data
+#### Prompting Raw data
 
 First, download the dataset for the following tasks:  [NumerSense](https://github.com/INK-USC/NumerSense), [CommonsenseQA](https://www.tau-nlp.org/commonsenseqa), and [QASC](https://allenai.org/data/qasc).
 
