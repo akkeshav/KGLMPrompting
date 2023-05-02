@@ -157,8 +157,9 @@ def main():
     args = parser.parse_args()
 
     load_resources(vocab_graph)
-    # knowledge_set = get_knowledge_set_relevance_scoring()
-    knowledge_set = get_knowledge_set_DFS()
+    # Uncomment the type of analysis you want to perform
+    knowledge_set = get_knowledge_set_relevance_scoring()
+    # knowledge_set = get_knowledge_set_DFS()
     dataframe_dev = pd.read_json(args.input)
     for question, knowledge in knowledge_set.items():
         for index, data in dataframe_dev.iterrows():

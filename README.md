@@ -1,5 +1,6 @@
 # Is prompting a better knowledge source than knowledge graphs for answering commonsense questions?
 
+![General Design](/nlp.jpg "Optional title")
 
 ## Knowledge Generation 
 ### Knowledge Graph Raw data
