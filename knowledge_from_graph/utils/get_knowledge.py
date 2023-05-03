@@ -64,6 +64,10 @@ def get_knowledge_statements_relevance_scoring(ground_statement_object):
 
 
 def get_knowledge_set_relevance_scoring():
+    """
+    This function returns knowledge statements using Question Context Relevance Scoring in the extracted subgraph
+    from Concept Net For extracted topic entities.
+    """
     knowledge_set = {}
     for index_statement in tqdm(range(len(df_statement))):
         question_knowledge_set = {}
@@ -83,6 +87,9 @@ def get_knowledge_set_relevance_scoring():
 
 
 def are_dest_concepts_visited(concepts, visited):
+    """
+    This function check whether all the topic entities are visited.
+    """
     for concept in concepts:
         if visited[concept] == 0:
             return False
@@ -130,6 +137,11 @@ def get_knowledge_statements_DFS(ground_statement_object):
 
 
 def get_knowledge_set_DFS():
+    """
+    This function returns knowledge statements using Depth first search in the extracted subgraph from Concept Net For
+    extracted topic entities.
+    """
+
     knowledge_set = {}
     for index_statement in tqdm(range(len(df_statement))):
         question_knowledge_set = []
